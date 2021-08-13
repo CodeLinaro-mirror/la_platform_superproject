@@ -26,10 +26,6 @@
 	branch = studio-main
 	path = external/grpc-grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/jetbrains/kotlin"]
-	branch = mirror-aosp-studio-master-dev
-	path = external/jetbrains/kotlin
-	url = ../external/jetbrains/kotlin
 [submodule "platform/external/libpng"]
 	path = external/libpng
 	url = ../external/libpng
