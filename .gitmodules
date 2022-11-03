@@ -26,6 +26,9 @@
 	branch = studio-main
 	path = external/grpc-grpc
 	url = ../external/grpc-grpc
+[submodule "platform/external/jarjar"]
+	path = external/jarjar
+	url = ../external/jarjar
 [submodule "platform/external/jetbrains/intellij-kotlin"]
 	branch = studio-main
 	path = external/jetbrains/intellij-kotlin
