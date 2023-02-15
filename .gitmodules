@@ -29,10 +29,6 @@
 [submodule "platform/external/jarjar"]
 	path = external/jarjar
 	url = ../external/jarjar
-[submodule "platform/external/jetbrains/intellij-kotlin"]
-	branch = studio-main
-	path = external/jetbrains/intellij-kotlin
-	url = ../external/jetbrains/intellij-kotlin
 [submodule "platform/external/jetbrains/kotlin"]
 	branch = studio-main
 	path = external/jetbrains/kotlin
