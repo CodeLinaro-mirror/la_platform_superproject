@@ -29,6 +29,9 @@
 [submodule "platform/external/jarjar"]
 	path = external/jarjar
 	url = ../external/jarjar
+[submodule "platform/external/jetbrains/intellij-rust"]
+	path = external/jetbrains/rust
+	url = ../external/jetbrains/intellij-rust
 [submodule "platform/external/jetbrains/kotlin"]
 	branch = studio-main
 	path = external/jetbrains/kotlin
