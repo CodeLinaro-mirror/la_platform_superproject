@@ -25,6 +25,7 @@
 /prebuilts/python/linux-x86
 /prebuilts/python/windows-x86
 /prebuilts/r8
+/prebuilts/remoteexecution-client
 /prebuilts/studio/jdk
 /prebuilts/studio/layoutlib
 /prebuilts/tools
