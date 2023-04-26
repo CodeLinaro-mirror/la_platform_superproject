@@ -193,10 +193,6 @@
 	branch = studio-main
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "platform/tools/studio/google/appindexing"]
-	branch = studio-main
-	path = tools/studio/google/appindexing
-	url = ../tools/studio/google/appindexing
 [submodule "platform/tools/studio/google/cloud/testing"]
 	branch = studio-main
 	path = tools/studio/google/cloud/testing
