@@ -205,10 +205,6 @@
 	branch = studio-main
 	path = tools/studio/google/cloud/tools
 	url = ../tools/studio/google/cloud/tools
-[submodule "platform/tools/studio/google/samples"]
-	branch = studio-main
-	path = tools/studio/google/samples
-	url = ../tools/studio/google/samples
 [submodule "platform/tools/swing-testing"]
 	branch = studio-main
 	path = tools/swing-testing
