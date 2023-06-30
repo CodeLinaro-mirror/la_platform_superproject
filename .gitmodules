@@ -205,10 +205,6 @@
 	branch = studio-main
 	path = tools/swing-testing
 	url = ../tools/swing-testing
-[submodule "platform/tools/vendor/galvsoft"]
-	branch = studio-main
-	path = tools/vendor/galvsoft
-	url = ../tools/vendor/galvsoft
 [submodule "platform/tools/vendor/google"]
 	branch = studio-main
 	path = tools/vendor/google
