@@ -1,14 +1,14 @@
 [submodule "assets/android-studio-ux-assets"]
-	branch = master
+	branch = main
 	shallow = true
 	path = tools/assets
 	url = ../../assets/android-studio-ux-assets
 [submodule "platform/external/doclava"]
-	branch = master
+	branch = main
 	path = external/doclava
 	url = ../external/doclava
 [submodule "platform/external/dokka"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/dokka
 	url = ../external/dokka
@@ -109,7 +109,7 @@
 	path = prebuilts/r8
 	url = ../prebuilts/r8
 [submodule "platform/prebuilts/remoteexecution-client"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/remoteexecution-client
 	url = ../prebuilts/remoteexecution-client
@@ -239,7 +239,7 @@
 	path = prebuilts/studio/sdk/windows
 	url = ../tools/vendor/google_prebuilts/studio/sdk/windows
 [submodule "platform/tools/vendor/intel"]
-	branch = master
+	branch = main
 	path = tools/vendor/intel
 	url = ../tools/vendor/intel
 [submodule "platform/tools/vendor/intellij/cidr"]
