@@ -190,6 +190,10 @@
 	branch = main
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/crc32fast"]
+	branch = main
+	path = external/rust/crates/crc32fast
+	url = ../external/rust/crates/crc32fast
 [submodule "platform/external/rust/crates/crossbeam-channel"]
 	branch = main
 	path = external/rust/crates/crossbeam-channel
@@ -558,6 +562,10 @@
 	branch = main
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/zip"]
+	branch = main
+	path = external/rust/crates/zip
+	url = ../external/rust/crates/zip
 [submodule "platform/external/rust/cxx"]
 	branch = main
 	path = external/rust/crates/cxx
