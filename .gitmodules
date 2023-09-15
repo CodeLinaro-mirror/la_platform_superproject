@@ -95,6 +95,10 @@
 	branch = emu-master-dev
 	path = external/libusb
 	url = ../external/libusb
+[submodule "platform/external/libxml2"]
+	branch = emu-master-dev
+	path = external/libxml2
+	url = ../external/libxml2
 [submodule "platform/external/lz4"]
 	branch = main
 	path = external/lz4

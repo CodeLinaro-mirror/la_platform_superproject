@@ -22,6 +22,7 @@
 /external/grpc
 /external/libpng
 /external/libusb
+/external/libxml2
 /external/lz4
 /external/nasm
 /external/perfetto
