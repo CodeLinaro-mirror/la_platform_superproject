@@ -22,6 +22,7 @@
 /external/grpc
 /external/libpng
 /external/libusb
+/external/libxml2
 /external/lz4
 /external/nasm
 /external/perfetto
@@ -46,6 +47,7 @@
 /external/rust/crates/clap_derive
 /external/rust/crates/clap_lex
 /external/rust/crates/codespan-reporting
+/external/rust/crates/crc32fast
 /external/rust/crates/crossbeam-channel
 /external/rust/crates/crossbeam-deque
 /external/rust/crates/crossbeam-epoch
@@ -138,6 +140,7 @@
 /external/rust/crates/utf-8
 /external/rust/crates/walkdir
 /external/rust/crates/which
+/external/rust/crates/zip
 /external/rust/crates/cxx
 /external/rust/crates/pica
 /external/tink

@@ -70,6 +70,9 @@
 [submodule "platform/external/libusb"]
 	path = external/libusb
 	url = ../external/libusb
+[submodule "platform/external/libxml2"]
+	path = external/libxml2
+	url = ../external/libxml2
 [submodule "platform/external/lz4"]
 	path = external/lz4
 	url = ../external/lz4
@@ -142,6 +145,9 @@
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/crc32fast"]
+	path = external/rust/crates/crc32fast
+	url = ../external/rust/crates/crc32fast
 [submodule "platform/external/rust/crates/crossbeam-channel"]
 	path = external/rust/crates/crossbeam-channel
 	url = ../external/rust/crates/crossbeam-channel
@@ -418,6 +424,9 @@
 [submodule "platform/external/rust/crates/which"]
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/zip"]
+	path = external/rust/crates/zip
+	url = ../external/rust/crates/zip
 [submodule "platform/external/rust/cxx"]
 	path = external/rust/crates/cxx
 	url = ../external/rust/cxx
