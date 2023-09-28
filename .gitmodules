@@ -699,6 +699,10 @@
 	branch = main
 	path = tools/apifinder
 	url = ../tools/apifinder
+[submodule "platform/tools/apksig"]
+	branch = main
+	path = tools/apksig
+	url = ../tools/apksig
 [submodule "platform/tools/asuite"]
 	branch = main
 	path = tools/asuite
