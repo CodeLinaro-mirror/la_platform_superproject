@@ -101,6 +101,10 @@
 	shallow = true
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
+[submodule "platform/tools/repohooks"]
+	branch = main
+	path = tools/repohooks
+	url = ../tools/repohooks
 [submodule "toolchain/binutils"]
 	branch = main
 	path = toolchain/binutils

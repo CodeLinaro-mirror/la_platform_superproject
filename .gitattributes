@@ -20,6 +20,7 @@
 /prebuilts/python/darwin-x86
 /prebuilts/python/linux-x86
 /prebuilts/python/windows-x86
+/tools/repohooks
 /toolchain/binutils
 /toolchain/common
 /toolchain/llvm-project
