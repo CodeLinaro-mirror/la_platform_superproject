@@ -45,6 +45,7 @@
 /external/google-java-format pdk
 /external/google-styleguide pdk
 /external/googletest pdk
+/external/gson tradefed pdk
 /external/guava pdk
 /external/guice pdk
 /external/hamcrest pdk
