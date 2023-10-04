@@ -54,7 +54,6 @@
 	path = external/skia
 	url = ../external/skia
 [submodule "platform/external/zlib"]
-	branch = studio-main
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/frameworks/data-binding"]
