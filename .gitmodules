@@ -103,6 +103,10 @@
 	branch = main
 	path = external/lz4
 	url = ../external/lz4
+[submodule "platform/external/mobly-bundled-snippets"]
+	branch = main
+	path = external/mobly-bundled-snippets
+	url = ../external/mobly-bundled-snippets
 [submodule "platform/external/nasm"]
 	branch = emu-master-dev
 	path = external/nasm

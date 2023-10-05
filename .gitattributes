@@ -24,6 +24,7 @@
 /external/libusb
 /external/libxml2
 /external/lz4
+/external/mobly-bundled-snippets
 /external/nasm
 /external/perfetto
 /external/protobuf
