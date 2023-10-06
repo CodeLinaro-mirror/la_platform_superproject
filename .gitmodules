@@ -746,6 +746,11 @@
 	shallow = true
 	path = prebuilts/rust
 	url = ../prebuilts/rust
+[submodule "platform/prebuilts/studio/jdk"]
+	branch = studio-main
+	shallow = true
+	path = prebuilts/studio/jdk
+	url = ../prebuilts/studio/jdk
 [submodule "platform/tools/buildSrc"]
 	branch = emu-master-dev
 	path = tools/buildSrc
