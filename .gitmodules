@@ -127,6 +127,9 @@
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
+[submodule "platform/system/logging"]
+	path = external/android/system/logging
+	url = ../system/logging
 [submodule "platform/tools/adt/idea"]
 	branch = studio-main
 	path = tools/adt/idea

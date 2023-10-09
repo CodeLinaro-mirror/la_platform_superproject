@@ -29,6 +29,7 @@
 /prebuilts/studio/jdk
 /prebuilts/studio/layoutlib
 /prebuilts/tools
+/external/android/system/logging
 /tools/adt/idea
 /tools/vendor/adt_infra_internal adt-infra
 /tools/analytics-library
