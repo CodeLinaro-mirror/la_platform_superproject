@@ -115,9 +115,6 @@
 [submodule "device/google/felix-sepolicy"]
 	path = device/google/felix-sepolicy
 	url = ../../device/google/felix-sepolicy
-[submodule "device/google/fuchsia"]
-	path = device/google/fuchsia
-	url = ../../device/google/fuchsia
 [submodule "device/google/gs-common"]
 	path = device/google/gs-common
 	url = ../../device/google/gs-common
@@ -943,6 +940,9 @@
 [submodule "platform/external/ktfmt"]
 	path = external/ktfmt
 	url = ../external/ktfmt
+[submodule "platform/external/leveldb"]
+	path = external/leveldb
+	url = ../external/leveldb
 [submodule "platform/external/libaom"]
 	path = external/libaom
 	url = ../external/libaom
@@ -2878,51 +2878,9 @@
 [submodule "platform/hardware/qcom/media"]
 	path = hardware/qcom/media
 	url = ../hardware/qcom/media
-[submodule "platform/hardware/qcom/msm8960"]
-	path = hardware/qcom/msm8960
-	url = ../hardware/qcom/msm8960
-[submodule "platform/hardware/qcom/msm8994"]
-	path = hardware/qcom/msm8994
-	url = ../hardware/qcom/msm8994
-[submodule "platform/hardware/qcom/msm8996"]
-	path = hardware/qcom/msm8996
-	url = ../hardware/qcom/msm8996
-[submodule "platform/hardware/qcom/msm8x09"]
-	path = hardware/qcom/msm8x09
-	url = ../hardware/qcom/msm8x09
-[submodule "platform/hardware/qcom/msm8x26"]
-	path = hardware/qcom/msm8x26
-	url = ../hardware/qcom/msm8x26
-[submodule "platform/hardware/qcom/msm8x27"]
-	path = hardware/qcom/msm8x27
-	url = ../hardware/qcom/msm8x27
-[submodule "platform/hardware/qcom/msm8x84"]
-	path = hardware/qcom/msm8x84
-	url = ../hardware/qcom/msm8x84
 [submodule "platform/hardware/qcom/power"]
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
-[submodule "platform/hardware/qcom/sdm845/bt"]
-	path = hardware/qcom/sdm845/bt
-	url = ../hardware/qcom/sdm845/bt
-[submodule "platform/hardware/qcom/sdm845/data/ipacfg-mgr"]
-	path = hardware/qcom/sdm845/data/ipacfg-mgr
-	url = ../hardware/qcom/sdm845/data/ipacfg-mgr
-[submodule "platform/hardware/qcom/sdm845/display"]
-	path = hardware/qcom/sdm845/display
-	url = ../hardware/qcom/sdm845/display
-[submodule "platform/hardware/qcom/sdm845/gps"]
-	path = hardware/qcom/sdm845/gps
-	url = ../hardware/qcom/sdm845/gps
-[submodule "platform/hardware/qcom/sdm845/media"]
-	path = hardware/qcom/sdm845/media
-	url = ../hardware/qcom/sdm845/media
-[submodule "platform/hardware/qcom/sdm845/thermal"]
-	path = hardware/qcom/sdm845/thermal
-	url = ../hardware/qcom/sdm845/thermal
-[submodule "platform/hardware/qcom/sdm845/vr"]
-	path = hardware/qcom/sdm845/vr
-	url = ../hardware/qcom/sdm845/vr
 [submodule "platform/hardware/qcom/sm7150/gps"]
 	path = hardware/qcom/sm7150/gps
 	url = ../hardware/qcom/sm7150/gps
@@ -3010,9 +2968,6 @@
 [submodule "platform/packages/apps/Car/DialerPrebuilt"]
 	path = packages/apps/Car/DialerPrebuilt
 	url = ../packages/apps/Car/DialerPrebuilt
-[submodule "platform/packages/apps/Car/Hvac"]
-	path = packages/apps/Car/Hvac
-	url = ../packages/apps/Car/Hvac
 [submodule "platform/packages/apps/Car/LatinIME"]
 	path = packages/apps/Car/LatinIME
 	url = ../packages/apps/Car/LatinIME
@@ -3124,9 +3079,6 @@
 [submodule "platform/packages/apps/OnDeviceAppPrediction"]
 	path = packages/apps/OnDeviceAppPrediction
 	url = ../packages/apps/OnDeviceAppPrediction
-[submodule "platform/packages/apps/OneTimeInitializer"]
-	path = packages/apps/OneTimeInitializer
-	url = ../packages/apps/OneTimeInitializer
 [submodule "platform/packages/apps/PhoneCommon"]
 	path = packages/apps/PhoneCommon
 	url = ../packages/apps/PhoneCommon
@@ -3220,6 +3172,9 @@
 [submodule "platform/packages/modules/CellBroadcastService"]
 	path = packages/modules/CellBroadcastService
 	url = ../packages/modules/CellBroadcastService
+[submodule "platform/packages/modules/ConfigInfrastructure"]
+	path = packages/modules/ConfigInfrastructure
+	url = ../packages/modules/ConfigInfrastructure
 [submodule "platform/packages/modules/Connectivity"]
 	path = packages/modules/Connectivity
 	url = ../packages/modules/Connectivity
@@ -3229,6 +3184,9 @@
 [submodule "platform/packages/modules/Cronet"]
 	path = packages/modules/Cronet
 	url = ../packages/modules/Cronet
+[submodule "platform/packages/modules/DeviceLock"]
+	path = packages/modules/DeviceLock
+	url = ../packages/modules/DeviceLock
 [submodule "platform/packages/modules/DnsResolver"]
 	path = packages/modules/DnsResolver
 	url = ../packages/modules/DnsResolver
@@ -3241,9 +3199,15 @@
 [submodule "platform/packages/modules/Gki"]
 	path = packages/modules/Gki
 	url = ../packages/modules/Gki
+[submodule "platform/packages/modules/HealthFitness"]
+	path = packages/modules/HealthFitness
+	url = ../packages/modules/HealthFitness
 [submodule "platform/packages/modules/IPsec"]
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
+[submodule "platform/packages/modules/ImsMedia"]
+	path = packages/modules/ImsMedia
+	url = ../packages/modules/ImsMedia
 [submodule "platform/packages/modules/IntentResolver"]
 	path = packages/modules/IntentResolver
 	url = ../packages/modules/IntentResolver
@@ -3286,6 +3250,9 @@
 [submodule "platform/packages/modules/StatsD"]
 	path = packages/modules/StatsD
 	url = ../packages/modules/StatsD
+[submodule "platform/packages/modules/Telephony"]
+	path = packages/modules/Telephony
+	url = ../packages/modules/Telephony
 [submodule "platform/packages/modules/TestModule"]
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
@@ -3358,6 +3325,9 @@
 [submodule "platform/packages/services/Car"]
 	path = packages/services/Car
 	url = ../packages/services/Car
+[submodule "platform/packages/services/DeviceAsWebcam"]
+	path = packages/services/DeviceAsWebcam
+	url = ../packages/services/DeviceAsWebcam
 [submodule "platform/packages/services/Iwlan"]
 	path = packages/services/Iwlan
 	url = ../packages/services/Iwlan
@@ -3484,12 +3454,21 @@
 [submodule "platform/prebuilts/module_sdk/Bluetooth"]
 	path = prebuilts/module_sdk/Bluetooth
 	url = ../prebuilts/module_sdk/Bluetooth
+[submodule "platform/prebuilts/module_sdk/ConfigInfrastructure"]
+	path = prebuilts/module_sdk/ConfigInfrastructure
+	url = ../prebuilts/module_sdk/ConfigInfrastructure
 [submodule "platform/prebuilts/module_sdk/Connectivity"]
 	path = prebuilts/module_sdk/Connectivity
 	url = ../prebuilts/module_sdk/Connectivity
 [submodule "platform/prebuilts/module_sdk/CrashRecovery"]
 	path = prebuilts/module_sdk/CrashRecovery
 	url = ../prebuilts/module_sdk/CrashRecovery
+[submodule "platform/prebuilts/module_sdk/DeviceLock"]
+	path = prebuilts/module_sdk/DeviceLock
+	url = ../prebuilts/module_sdk/DeviceLock
+[submodule "platform/prebuilts/module_sdk/HealthFitness"]
+	path = prebuilts/module_sdk/HealthFitness
+	url = ../prebuilts/module_sdk/HealthFitness
 [submodule "platform/prebuilts/module_sdk/IPsec"]
 	path = prebuilts/module_sdk/IPsec
 	url = ../prebuilts/module_sdk/IPsec
