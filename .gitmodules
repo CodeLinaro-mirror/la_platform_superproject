@@ -4952,6 +4952,10 @@
 	branch = android14-tests-release
 	path = tools/netsim
 	url = ../tools/netsim
+[submodule "platform/tools/repohooks"]
+	branch = android14-tests-release
+	path = tools/repohooks
+	url = ../tools/repohooks
 [submodule "platform/tools/security"]
 	branch = android14-tests-release
 	path = tools/security
