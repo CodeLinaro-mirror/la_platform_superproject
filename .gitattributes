@@ -175,4 +175,5 @@
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
+/toolchain/pgo-profiles pdk
 /tools/platform-compat pdk-fs pdk-cw-fs pdk

@@ -735,6 +735,10 @@
 	branch = main
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
+[submodule "toolchain/pgo-profiles"]
+	branch = main
+	path = toolchain/pgo-profiles
+	url = ../../toolchain/pgo-profiles
 [submodule "tools/platform-compat"]
 	branch = main
 	path = tools/platform-compat
