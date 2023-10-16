@@ -76,6 +76,9 @@
 [submodule "platform/external/lz4"]
 	path = external/lz4
 	url = ../external/lz4
+[submodule "platform/external/mobly-bundled-snippets"]
+	path = external/mobly-bundled-snippets
+	url = ../external/mobly-bundled-snippets
 [submodule "platform/external/nasm"]
 	path = external/nasm
 	url = ../external/nasm
@@ -538,6 +541,9 @@
 [submodule "platform/prebuilts/rust"]
 	path = prebuilts/rust
 	url = ../prebuilts/rust
+[submodule "platform/prebuilts/studio/jdk"]
+	path = prebuilts/studio/jdk
+	url = ../prebuilts/studio/jdk
 [submodule "platform/tools/buildSrc"]
 	path = tools/buildSrc
 	url = ../tools/buildSrc
