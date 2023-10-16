@@ -115,9 +115,6 @@
 [submodule "device/google/felix-sepolicy"]
 	path = device/google/felix-sepolicy
 	url = ../../device/google/felix-sepolicy
-[submodule "device/google/fuchsia"]
-	path = device/google/fuchsia
-	url = ../../device/google/fuchsia
 [submodule "device/google/gs-common"]
 	path = device/google/gs-common
 	url = ../../device/google/gs-common
@@ -385,9 +382,6 @@
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/android-clat"]
-	path = external/android-clat
-	url = ../external/android-clat
 [submodule "platform/external/android-key-attestation"]
 	path = external/android-key-attestation
 	url = ../external/android-key-attestation
@@ -460,6 +454,9 @@
 [submodule "platform/external/bazelbuild-kotlin-rules"]
 	path = external/bazelbuild-kotlin-rules
 	url = ../external/bazelbuild-kotlin-rules
+[submodule "platform/external/bazelbuild-platforms"]
+	path = external/bazelbuild-platforms
+	url = ../external/bazelbuild-platforms
 [submodule "platform/external/bazelbuild-rules_android"]
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
@@ -943,9 +940,9 @@
 [submodule "platform/external/ktfmt"]
 	path = external/ktfmt
 	url = ../external/ktfmt
-[submodule "platform/external/libabigail"]
-	path = external/libabigail
-	url = ../external/libabigail
+[submodule "platform/external/leveldb"]
+	path = external/leveldb
+	url = ../external/leveldb
 [submodule "platform/external/libaom"]
 	path = external/libaom
 	url = ../external/libaom
@@ -1030,6 +1027,9 @@
 [submodule "platform/external/libkmsxx"]
 	path = external/libkmsxx
 	url = ../external/libkmsxx
+[submodule "platform/external/liblc3"]
+	path = external/liblc3
+	url = ../external/liblc3
 [submodule "platform/external/libldac"]
 	path = external/libldac
 	url = ../external/libldac
@@ -1456,6 +1456,9 @@
 [submodule "platform/external/rappor"]
 	path = external/rappor
 	url = ../external/rappor
+[submodule "platform/external/regex-re2"]
+	path = external/regex-re2
+	url = ../external/regex-re2
 [submodule "platform/external/renderscript-intrinsics-replacement-toolkit"]
 	path = external/renderscript-intrinsics-replacement-toolkit
 	url = ../external/renderscript-intrinsics-replacement-toolkit
@@ -1486,6 +1489,9 @@
 [submodule "platform/external/rust/autocxx"]
 	path = external/rust/autocxx
 	url = ../external/rust/autocxx
+[submodule "platform/external/rust/beto-rust"]
+	path = external/rust/beto-rust
+	url = ../external/rust/beto-rust
 [submodule "platform/external/rust/crates/aarch64-paging"]
 	path = external/rust/crates/aarch64-paging
 	url = ../external/rust/crates/aarch64-paging
@@ -1513,6 +1519,9 @@
 [submodule "platform/external/rust/crates/arbitrary"]
 	path = external/rust/crates/arbitrary
 	url = ../external/rust/crates/arbitrary
+[submodule "platform/external/rust/crates/arc-swap"]
+	path = external/rust/crates/arc-swap
+	url = ../external/rust/crates/arc-swap
 [submodule "platform/external/rust/crates/argh"]
 	path = external/rust/crates/argh
 	url = ../external/rust/crates/argh
@@ -1624,6 +1633,12 @@
 [submodule "platform/external/rust/crates/command-fds"]
 	path = external/rust/crates/command-fds
 	url = ../external/rust/crates/command-fds
+[submodule "platform/external/rust/crates/config"]
+	path = external/rust/crates/config
+	url = ../external/rust/crates/config
+[submodule "platform/external/rust/crates/configparser"]
+	path = external/rust/crates/configparser
+	url = ../external/rust/crates/configparser
 [submodule "platform/external/rust/crates/const-oid"]
 	path = external/rust/crates/const-oid
 	url = ../external/rust/crates/const-oid
@@ -1696,6 +1711,9 @@
 [submodule "platform/external/rust/crates/env_logger"]
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
+[submodule "platform/external/rust/crates/epoll"]
+	path = external/rust/crates/epoll
+	url = ../external/rust/crates/epoll
 [submodule "platform/external/rust/crates/fallible-iterator"]
 	path = external/rust/crates/fallible-iterator
 	url = ../external/rust/crates/fallible-iterator
@@ -1774,6 +1792,9 @@
 [submodule "platform/external/rust/crates/googletest"]
 	path = external/rust/crates/googletest
 	url = ../external/rust/crates/googletest
+[submodule "platform/external/rust/crates/googletest_macro"]
+	path = external/rust/crates/googletest_macro
+	url = ../external/rust/crates/googletest_macro
 [submodule "platform/external/rust/crates/grpcio"]
 	path = external/rust/crates/grpcio
 	url = ../external/rust/crates/grpcio
@@ -1810,6 +1831,9 @@
 [submodule "platform/external/rust/crates/indexmap"]
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/ini"]
+	path = external/rust/crates/ini
+	url = ../external/rust/crates/ini
 [submodule "platform/external/rust/crates/instant"]
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
@@ -1828,6 +1852,9 @@
 [submodule "platform/external/rust/crates/jni-sys"]
 	path = external/rust/crates/jni-sys
 	url = ../external/rust/crates/jni-sys
+[submodule "platform/external/rust/crates/json5"]
+	path = external/rust/crates/json5
+	url = ../external/rust/crates/json5
 [submodule "platform/external/rust/crates/kernlog"]
 	path = external/rust/crates/kernlog
 	url = ../external/rust/crates/kernlog
@@ -2098,6 +2125,9 @@
 [submodule "platform/external/rust/crates/ring"]
 	path = external/rust/crates/ring
 	url = ../external/rust/crates/ring
+[submodule "platform/external/rust/crates/ron"]
+	path = external/rust/crates/ron
+	url = ../external/rust/crates/ron
 [submodule "platform/external/rust/crates/rusqlite"]
 	path = external/rust/crates/rusqlite
 	url = ../external/rust/crates/rusqlite
@@ -2146,9 +2176,18 @@
 [submodule "platform/external/rust/crates/serde_json"]
 	path = external/rust/crates/serde_json
 	url = ../external/rust/crates/serde_json
+[submodule "platform/external/rust/crates/serde_spanned"]
+	path = external/rust/crates/serde_spanned
+	url = ../external/rust/crates/serde_spanned
 [submodule "platform/external/rust/crates/serde_test"]
 	path = external/rust/crates/serde_test
 	url = ../external/rust/crates/serde_test
+[submodule "platform/external/rust/crates/serde_yaml"]
+	path = external/rust/crates/serde_yaml
+	url = ../external/rust/crates/serde_yaml
+[submodule "platform/external/rust/crates/sharded-slab"]
+	path = external/rust/crates/sharded-slab
+	url = ../external/rust/crates/sharded-slab
 [submodule "platform/external/rust/crates/shared_child"]
 	path = external/rust/crates/shared_child
 	url = ../external/rust/crates/shared_child
@@ -2209,6 +2248,9 @@
 [submodule "platform/external/rust/crates/threadpool"]
 	path = external/rust/crates/threadpool
 	url = ../external/rust/crates/threadpool
+[submodule "platform/external/rust/crates/tinyjson"]
+	path = external/rust/crates/tinyjson
+	url = ../external/rust/crates/tinyjson
 [submodule "platform/external/rust/crates/tinytemplate"]
 	path = external/rust/crates/tinytemplate
 	url = ../external/rust/crates/tinytemplate
@@ -2233,6 +2275,15 @@
 [submodule "platform/external/rust/crates/tokio-util"]
 	path = external/rust/crates/tokio-util
 	url = ../external/rust/crates/tokio-util
+[submodule "platform/external/rust/crates/toml"]
+	path = external/rust/crates/toml
+	url = ../external/rust/crates/toml
+[submodule "platform/external/rust/crates/toml_datetime"]
+	path = external/rust/crates/toml_datetime
+	url = ../external/rust/crates/toml_datetime
+[submodule "platform/external/rust/crates/toml_edit"]
+	path = external/rust/crates/toml_edit
+	url = ../external/rust/crates/toml_edit
 [submodule "platform/external/rust/crates/tracing"]
 	path = external/rust/crates/tracing
 	url = ../external/rust/crates/tracing
@@ -2242,6 +2293,9 @@
 [submodule "platform/external/rust/crates/tracing-core"]
 	path = external/rust/crates/tracing-core
 	url = ../external/rust/crates/tracing-core
+[submodule "platform/external/rust/crates/tracing-subscriber"]
+	path = external/rust/crates/tracing-subscriber
+	url = ../external/rust/crates/tracing-subscriber
 [submodule "platform/external/rust/crates/tungstenite"]
 	path = external/rust/crates/tungstenite
 	url = ../external/rust/crates/tungstenite
@@ -2266,6 +2320,9 @@
 [submodule "platform/external/rust/crates/unicode-xid"]
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/unsafe-libyaml"]
+	path = external/rust/crates/unsafe-libyaml
+	url = ../external/rust/crates/unsafe-libyaml
 [submodule "platform/external/rust/crates/untrusted"]
 	path = external/rust/crates/untrusted
 	url = ../external/rust/crates/untrusted
@@ -2284,12 +2341,33 @@
 [submodule "platform/external/rust/crates/uuid"]
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
+[submodule "platform/external/rust/crates/vhost"]
+	path = external/rust/crates/vhost
+	url = ../external/rust/crates/vhost
 [submodule "platform/external/rust/crates/vhost-device-vsock"]
 	path = external/rust/crates/vhost-device-vsock
 	url = ../external/rust/crates/vhost-device-vsock
+[submodule "platform/external/rust/crates/vhost-user-backend"]
+	path = external/rust/crates/vhost-user-backend
+	url = ../external/rust/crates/vhost-user-backend
+[submodule "platform/external/rust/crates/virtio-bindings"]
+	path = external/rust/crates/virtio-bindings
+	url = ../external/rust/crates/virtio-bindings
 [submodule "platform/external/rust/crates/virtio-drivers"]
 	path = external/rust/crates/virtio-drivers
 	url = ../external/rust/crates/virtio-drivers
+[submodule "platform/external/rust/crates/virtio-queue"]
+	path = external/rust/crates/virtio-queue
+	url = ../external/rust/crates/virtio-queue
+[submodule "platform/external/rust/crates/virtio-vsock"]
+	path = external/rust/crates/virtio-vsock
+	url = ../external/rust/crates/virtio-vsock
+[submodule "platform/external/rust/crates/vm-memory"]
+	path = external/rust/crates/vm-memory
+	url = ../external/rust/crates/vm-memory
+[submodule "platform/external/rust/crates/vmm-sys-util"]
+	path = external/rust/crates/vmm-sys-util
+	url = ../external/rust/crates/vmm-sys-util
 [submodule "platform/external/rust/crates/vsock"]
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
@@ -2308,6 +2386,9 @@
 [submodule "platform/external/rust/crates/which"]
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/winnow"]
+	path = external/rust/crates/winnow
+	url = ../external/rust/crates/winnow
 [submodule "platform/external/rust/crates/x509-cert"]
 	path = external/rust/crates/x509-cert
 	url = ../external/rust/crates/x509-cert
@@ -2317,6 +2398,9 @@
 [submodule "platform/external/rust/crates/xml-rs"]
 	path = external/rust/crates/xml-rs
 	url = ../external/rust/crates/xml-rs
+[submodule "platform/external/rust/crates/yaml-rust"]
+	path = external/rust/crates/yaml-rust
+	url = ../external/rust/crates/yaml-rust
 [submodule "platform/external/rust/crates/zerocopy"]
 	path = external/rust/crates/zerocopy
 	url = ../external/rust/crates/zerocopy
@@ -2353,6 +2437,9 @@
 [submodule "platform/external/scudo"]
 	path = external/scudo
 	url = ../external/scudo
+[submodule "platform/external/sdv/vsomeip"]
+	path = external/sdv/vsomeip
+	url = ../external/sdv/vsomeip
 [submodule "platform/external/seccomp-tests"]
 	path = external/seccomp-tests
 	url = ../external/seccomp-tests
@@ -2611,9 +2698,6 @@
 [submodule "platform/frameworks/libs/native_bridge_support"]
 	path = frameworks/libs/native_bridge_support
 	url = ../frameworks/libs/native_bridge_support
-[submodule "platform/frameworks/libs/net"]
-	path = frameworks/libs/net
-	url = ../frameworks/libs/net
 [submodule "platform/frameworks/libs/service_entitlement"]
 	path = frameworks/libs/service_entitlement
 	url = ../frameworks/libs/service_entitlement
@@ -2794,51 +2878,9 @@
 [submodule "platform/hardware/qcom/media"]
 	path = hardware/qcom/media
 	url = ../hardware/qcom/media
-[submodule "platform/hardware/qcom/msm8960"]
-	path = hardware/qcom/msm8960
-	url = ../hardware/qcom/msm8960
-[submodule "platform/hardware/qcom/msm8994"]
-	path = hardware/qcom/msm8994
-	url = ../hardware/qcom/msm8994
-[submodule "platform/hardware/qcom/msm8996"]
-	path = hardware/qcom/msm8996
-	url = ../hardware/qcom/msm8996
-[submodule "platform/hardware/qcom/msm8x09"]
-	path = hardware/qcom/msm8x09
-	url = ../hardware/qcom/msm8x09
-[submodule "platform/hardware/qcom/msm8x26"]
-	path = hardware/qcom/msm8x26
-	url = ../hardware/qcom/msm8x26
-[submodule "platform/hardware/qcom/msm8x27"]
-	path = hardware/qcom/msm8x27
-	url = ../hardware/qcom/msm8x27
-[submodule "platform/hardware/qcom/msm8x84"]
-	path = hardware/qcom/msm8x84
-	url = ../hardware/qcom/msm8x84
 [submodule "platform/hardware/qcom/power"]
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
-[submodule "platform/hardware/qcom/sdm845/bt"]
-	path = hardware/qcom/sdm845/bt
-	url = ../hardware/qcom/sdm845/bt
-[submodule "platform/hardware/qcom/sdm845/data/ipacfg-mgr"]
-	path = hardware/qcom/sdm845/data/ipacfg-mgr
-	url = ../hardware/qcom/sdm845/data/ipacfg-mgr
-[submodule "platform/hardware/qcom/sdm845/display"]
-	path = hardware/qcom/sdm845/display
-	url = ../hardware/qcom/sdm845/display
-[submodule "platform/hardware/qcom/sdm845/gps"]
-	path = hardware/qcom/sdm845/gps
-	url = ../hardware/qcom/sdm845/gps
-[submodule "platform/hardware/qcom/sdm845/media"]
-	path = hardware/qcom/sdm845/media
-	url = ../hardware/qcom/sdm845/media
-[submodule "platform/hardware/qcom/sdm845/thermal"]
-	path = hardware/qcom/sdm845/thermal
-	url = ../hardware/qcom/sdm845/thermal
-[submodule "platform/hardware/qcom/sdm845/vr"]
-	path = hardware/qcom/sdm845/vr
-	url = ../hardware/qcom/sdm845/vr
 [submodule "platform/hardware/qcom/sm7150/gps"]
 	path = hardware/qcom/sm7150/gps
 	url = ../hardware/qcom/sm7150/gps
@@ -2926,9 +2968,6 @@
 [submodule "platform/packages/apps/Car/DialerPrebuilt"]
 	path = packages/apps/Car/DialerPrebuilt
 	url = ../packages/apps/Car/DialerPrebuilt
-[submodule "platform/packages/apps/Car/Hvac"]
-	path = packages/apps/Car/Hvac
-	url = ../packages/apps/Car/Hvac
 [submodule "platform/packages/apps/Car/LatinIME"]
 	path = packages/apps/Car/LatinIME
 	url = ../packages/apps/Car/LatinIME
@@ -3040,9 +3079,6 @@
 [submodule "platform/packages/apps/OnDeviceAppPrediction"]
 	path = packages/apps/OnDeviceAppPrediction
 	url = ../packages/apps/OnDeviceAppPrediction
-[submodule "platform/packages/apps/OneTimeInitializer"]
-	path = packages/apps/OneTimeInitializer
-	url = ../packages/apps/OneTimeInitializer
 [submodule "platform/packages/apps/PhoneCommon"]
 	path = packages/apps/PhoneCommon
 	url = ../packages/apps/PhoneCommon
@@ -3136,12 +3172,21 @@
 [submodule "platform/packages/modules/CellBroadcastService"]
 	path = packages/modules/CellBroadcastService
 	url = ../packages/modules/CellBroadcastService
+[submodule "platform/packages/modules/ConfigInfrastructure"]
+	path = packages/modules/ConfigInfrastructure
+	url = ../packages/modules/ConfigInfrastructure
 [submodule "platform/packages/modules/Connectivity"]
 	path = packages/modules/Connectivity
 	url = ../packages/modules/Connectivity
+[submodule "platform/packages/modules/CrashRecovery"]
+	path = packages/modules/CrashRecovery
+	url = ../packages/modules/CrashRecovery
 [submodule "platform/packages/modules/Cronet"]
 	path = packages/modules/Cronet
 	url = ../packages/modules/Cronet
+[submodule "platform/packages/modules/DeviceLock"]
+	path = packages/modules/DeviceLock
+	url = ../packages/modules/DeviceLock
 [submodule "platform/packages/modules/DnsResolver"]
 	path = packages/modules/DnsResolver
 	url = ../packages/modules/DnsResolver
@@ -3154,9 +3199,15 @@
 [submodule "platform/packages/modules/Gki"]
 	path = packages/modules/Gki
 	url = ../packages/modules/Gki
+[submodule "platform/packages/modules/HealthFitness"]
+	path = packages/modules/HealthFitness
+	url = ../packages/modules/HealthFitness
 [submodule "platform/packages/modules/IPsec"]
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
+[submodule "platform/packages/modules/ImsMedia"]
+	path = packages/modules/ImsMedia
+	url = ../packages/modules/ImsMedia
 [submodule "platform/packages/modules/IntentResolver"]
 	path = packages/modules/IntentResolver
 	url = ../packages/modules/IntentResolver
@@ -3199,6 +3250,9 @@
 [submodule "platform/packages/modules/StatsD"]
 	path = packages/modules/StatsD
 	url = ../packages/modules/StatsD
+[submodule "platform/packages/modules/Telephony"]
+	path = packages/modules/Telephony
+	url = ../packages/modules/Telephony
 [submodule "platform/packages/modules/TestModule"]
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
@@ -3271,6 +3325,9 @@
 [submodule "platform/packages/services/Car"]
 	path = packages/services/Car
 	url = ../packages/services/Car
+[submodule "platform/packages/services/DeviceAsWebcam"]
+	path = packages/services/DeviceAsWebcam
+	url = ../packages/services/DeviceAsWebcam
 [submodule "platform/packages/services/Iwlan"]
 	path = packages/services/Iwlan
 	url = ../packages/services/Iwlan
@@ -3397,9 +3454,21 @@
 [submodule "platform/prebuilts/module_sdk/Bluetooth"]
 	path = prebuilts/module_sdk/Bluetooth
 	url = ../prebuilts/module_sdk/Bluetooth
+[submodule "platform/prebuilts/module_sdk/ConfigInfrastructure"]
+	path = prebuilts/module_sdk/ConfigInfrastructure
+	url = ../prebuilts/module_sdk/ConfigInfrastructure
 [submodule "platform/prebuilts/module_sdk/Connectivity"]
 	path = prebuilts/module_sdk/Connectivity
 	url = ../prebuilts/module_sdk/Connectivity
+[submodule "platform/prebuilts/module_sdk/CrashRecovery"]
+	path = prebuilts/module_sdk/CrashRecovery
+	url = ../prebuilts/module_sdk/CrashRecovery
+[submodule "platform/prebuilts/module_sdk/DeviceLock"]
+	path = prebuilts/module_sdk/DeviceLock
+	url = ../prebuilts/module_sdk/DeviceLock
+[submodule "platform/prebuilts/module_sdk/HealthFitness"]
+	path = prebuilts/module_sdk/HealthFitness
+	url = ../prebuilts/module_sdk/HealthFitness
 [submodule "platform/prebuilts/module_sdk/IPsec"]
 	path = prebuilts/module_sdk/IPsec
 	url = ../prebuilts/module_sdk/IPsec
@@ -3727,6 +3796,9 @@
 [submodule "platform/tools/carrier_settings"]
 	path = tools/carrier_settings
 	url = ../tools/carrier_settings
+[submodule "platform/tools/content_addressed_storage/prebuilts"]
+	path = tools/content_addressed_storage/prebuilts
+	url = ../tools/content_addressed_storage/prebuilts
 [submodule "platform/tools/currysrc"]
 	path = tools/currysrc
 	url = ../tools/currysrc
@@ -3760,6 +3832,9 @@
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
+[submodule "platform/tools/rr_prebuilt"]
+	path = tools/rr_prebuilt
+	url = ../tools/rr_prebuilt
 [submodule "platform/tools/security"]
 	path = tools/security
 	url = ../tools/security
