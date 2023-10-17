@@ -3802,6 +3802,9 @@
 [submodule "platform/tools/currysrc"]
 	path = tools/currysrc
 	url = ../tools/currysrc
+[submodule "platform/tools/deviceinfra/prebuilts"]
+	path = tools/deviceinfra/prebuilts
+	url = ../tools/deviceinfra/prebuilts
 [submodule "platform/tools/dexter"]
 	path = tools/dexter
 	url = ../tools/dexter
