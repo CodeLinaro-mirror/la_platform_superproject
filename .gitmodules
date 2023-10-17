@@ -411,6 +411,7 @@
 	path = external/rust/crates/proc-macro-error-attr
 	url = ../external/rust/crates/proc-macro-error-attr
 [submodule "platform/external/rust/crates/proc-macro2"]
+	branch = main
 	path = external/rust/crates/proc-macro2
 	url = ../external/rust/crates/proc-macro2
 [submodule "platform/external/rust/crates/protobuf"]
@@ -434,6 +435,7 @@
 	path = external/rust/crates/protobuf-support
 	url = ../external/rust/crates/protobuf-support
 [submodule "platform/external/rust/crates/quote"]
+	branch = main
 	path = external/rust/crates/quote
 	url = ../external/rust/crates/quote
 [submodule "platform/external/rust/crates/rand"]
@@ -501,6 +503,7 @@
 	path = external/rust/crates/socket2
 	url = ../external/rust/crates/socket2
 [submodule "platform/external/rust/crates/syn"]
+	branch = main
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
 [submodule "platform/external/rust/crates/tempfile"]
@@ -516,9 +519,11 @@
 	path = external/rust/crates/textwrap
 	url = ../external/rust/crates/textwrap
 [submodule "platform/external/rust/crates/thiserror"]
+	branch = main
 	path = external/rust/crates/thiserror
 	url = ../external/rust/crates/thiserror
 [submodule "platform/external/rust/crates/thiserror-impl"]
+	branch = main
 	path = external/rust/crates/thiserror-impl
 	url = ../external/rust/crates/thiserror-impl
 [submodule "platform/external/rust/crates/tokio"]
