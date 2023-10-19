@@ -1138,9 +1138,6 @@
 [submodule "platform/external/marisa-trie"]
 	path = external/marisa-trie
 	url = ../external/marisa-trie
-[submodule "platform/external/markdown"]
-	path = external/markdown
-	url = ../external/markdown
 [submodule "platform/external/mbedtls"]
 	path = external/mbedtls
 	url = ../external/mbedtls
