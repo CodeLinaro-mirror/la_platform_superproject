@@ -970,9 +970,6 @@
 [submodule "platform/external/libchrome-gestures"]
 	path = external/libchrome-gestures
 	url = ../external/libchrome-gestures
-[submodule "platform/external/libchromeos-rs"]
-	path = external/libchromeos-rs
-	url = ../external/libchromeos-rs
 [submodule "platform/external/libconfig"]
 	path = external/libconfig
 	url = ../external/libconfig
@@ -985,6 +982,9 @@
 [submodule "platform/external/libcxxabi"]
 	path = external/libcxxabi
 	url = ../external/libcxxabi
+[submodule "platform/external/libdav1d"]
+	path = external/libdav1d
+	url = ../external/libdav1d
 [submodule "platform/external/libdivsufsort"]
 	path = external/libdivsufsort
 	url = ../external/libdivsufsort
@@ -1999,6 +1999,9 @@
 [submodule "platform/external/rust/crates/pdl-compiler"]
 	path = external/rust/crates/pdl-compiler
 	url = ../external/rust/crates/pdl-compiler
+[submodule "platform/external/rust/crates/pdl-runtime"]
+	path = external/rust/crates/pdl-runtime
+	url = ../external/rust/crates/pdl-runtime
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while

@@ -322,11 +322,11 @@
 /external/libcap-ng pdk
 /external/libchrome pdk
 /external/libchrome-gestures pdk
-/external/libchromeos-rs pdk
 /external/libconfig pdk
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
 /external/libcxxabi pdk
+/external/libdav1d pdk
 /external/libdivsufsort pdk
 /external/libdrm pdk
 /external/libepoxy pdk
@@ -665,6 +665,7 @@
 /external/rust/crates/paste pdk
 /external/rust/crates/pathdiff pdk
 /external/rust/crates/pdl-compiler pdk
+/external/rust/crates/pdl-runtime pdk
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/percent-encoding pdk
 /external/rust/crates/pest pdk
