@@ -4588,7 +4588,7 @@
 	path = tools/treble
 	url = ../tools/treble
 [submodule "platform/tools/trebuchet"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = tools/trebuchet
 	url = ../tools/trebuchet
 [submodule "toolchain/benchmark"]
