@@ -12,6 +12,7 @@
 /external/cares
 /external/curl
 /external/deqp
+/external/dtc
 /external/flatbuffers
 /external/flex platform-linux notdefault platform-darwin
 /external/fmtlib
