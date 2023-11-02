@@ -40,6 +40,9 @@
 [submodule "platform/external/deqp"]
 	path = external/deqp
 	url = ../external/deqp
+[submodule "platform/external/dtc"]
+	path = external/dtc
+	url = ../external/dtc
 [submodule "platform/external/flatbuffers"]
 	path = external/flatbuffers
 	url = ../external/flatbuffers
