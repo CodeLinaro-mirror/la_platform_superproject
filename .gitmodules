@@ -2428,6 +2428,9 @@
 [submodule "platform/external/s2-geometry-library-java"]
 	path = external/s2-geometry-library-java
 	url = ../external/s2-geometry-library-java
+[submodule "platform/external/sandboxed-api"]
+	path = external/sandboxed-api
+	url = ../external/sandboxed-api
 [submodule "platform/external/scapy"]
 	path = external/scapy
 	url = ../external/scapy
