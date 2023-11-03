@@ -142,10 +142,6 @@
 	branch = main
 	path = hardware/google/gfxstream
 	url = ../hardware/google/gfxstream
-[submodule "platform/prebuilts/android-emulator-build/system-images"]
-	branch = main
-	path = prebuilts/android-emulator-build/system-images
-	url = ../prebuilts/android-emulator-build/system-images
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
 	branch = emu-dev
 	shallow = true
@@ -206,11 +202,6 @@
 	shallow = true
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
-[submodule "platform/prebuilts/studio/jdk"]
-	branch = studio-main
-	shallow = true
-	path = prebuilts/studio/jdk
-	url = ../prebuilts/studio/jdk
 [submodule "platform/tools/buildSrc"]
 	branch = emu-dev
 	path = tools/buildSrc
