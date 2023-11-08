@@ -130,6 +130,10 @@
 	branch = main
 	path = external/rapidjson
 	url = ../external/rapidjson
+[submodule "platform/external/regex-re2"]
+	branch = main
+	path = external/regex-re2
+	url = ../external/regex-re2
 [submodule "platform/external/rust/crates/aho-corasick"]
 	branch = main
 	path = external/rust/crates/aho-corasick
