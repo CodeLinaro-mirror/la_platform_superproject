@@ -2,6 +2,7 @@
 /device/generic/vulkan-cereal
 /build/make
 /build/bazel
+/external/abseil-cpp
 /external/angle
 /external/astc-codec
 /external/glib
