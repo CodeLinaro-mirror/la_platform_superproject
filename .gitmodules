@@ -3210,7 +3210,7 @@
 	path = tools/treble
 	url = ../tools/treble
 [submodule "platform/tools/trebuchet"]
-	branch = android11-release
+	branch = android11-tests-dev
 	path = tools/trebuchet
 	url = ../tools/trebuchet
 [submodule "toolchain/benchmark"]
