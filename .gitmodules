@@ -97,6 +97,9 @@
 [submodule "platform/external/rapidjson"]
 	path = external/rapidjson
 	url = ../external/rapidjson
+[submodule "platform/external/regex-re2"]
+	path = external/regex-re2
+	url = ../external/regex-re2
 [submodule "platform/external/rust/crates/aho-corasick"]
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
