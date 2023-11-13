@@ -23,7 +23,9 @@
 /external/libxml2
 /external/lz4
 /external/nasm
+/external/pcre2
 /external/perfetto
+/external/pixman
 /external/protobuf
 /external/qemu
 /external/rapidjson
@@ -49,3 +51,4 @@
 /prebuilts/python/windows-x86 notdefault platform-windows
 /tools/buildSrc
 /external/libslirp
+/external/meson

@@ -99,9 +99,17 @@
 	branch = emu-dev
 	path = external/nasm
 	url = ../external/nasm
+[submodule "platform/external/pcre"]
+	branch = emu-dev
+	path = external/pcre2
+	url = ../external/pcre
 [submodule "platform/external/perfetto"]
 	path = external/perfetto
 	url = ../external/perfetto
+[submodule "platform/external/pixman"]
+	branch = emu-dev
+	path = external/pixman
+	url = ../external/pixman
 [submodule "platform/external/protobuf"]
 	branch = emu-dev
 	path = external/protobuf
@@ -214,3 +222,7 @@
 	branch = emu-dev
 	path = external/libslirp
 	url = ../../trusty/external/qemu-libslirp
+[submodule "trusty/external/qemu-meson"]
+	branch = emu-dev
+	path = external/meson
+	url = ../../trusty/external/qemu-meson
