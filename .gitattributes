@@ -35,6 +35,7 @@
 /external/webrtc
 /external/wpa_supplicant_8
 /external/zlib
+/hardware/generic/goldfish
 /hardware/google/aemu pdk
 /hardware/google/gfxstream pdk
 /prebuilts/bazel/darwin-x86_64 notdefault platform-darwin
