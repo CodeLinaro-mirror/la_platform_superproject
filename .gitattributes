@@ -26,6 +26,7 @@
 /external/pcre2
 /external/perfetto
 /external/pixman
+/external/pkg-config
 /external/protobuf
 /external/qemu
 /external/rapidjson

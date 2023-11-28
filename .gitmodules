@@ -48,7 +48,7 @@
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/dtc"]
-	branch = main
+	branch = emu-dev
 	path = external/dtc
 	url = ../external/dtc
 [submodule "platform/external/flatbuffers"]
@@ -110,6 +110,10 @@
 	branch = emu-dev
 	path = external/pixman
 	url = ../external/pixman
+[submodule "platform/external/pkg-config"]
+	branch = emu-dev
+	path = external/pkg-config
+	url = ../external/pkg-config
 [submodule "platform/external/protobuf"]
 	branch = emu-dev
 	path = external/protobuf
