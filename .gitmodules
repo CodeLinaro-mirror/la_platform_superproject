@@ -1078,6 +1078,9 @@
 [submodule "platform/external/libtracefs"]
 	path = external/libtracefs
 	url = ../external/libtracefs
+[submodule "platform/external/libultrahdr"]
+	path = external/libultrahdr
+	url = ../external/libultrahdr
 [submodule "platform/external/liburing"]
 	path = external/liburing
 	url = ../external/liburing
@@ -1975,6 +1978,12 @@
 [submodule "platform/external/rust/crates/oorandom"]
 	path = external/rust/crates/oorandom
 	url = ../external/rust/crates/oorandom
+[submodule "platform/external/rust/crates/openmls"]
+	path = external/rust/crates/openmls
+	url = ../external/rust/crates/openmls
+[submodule "platform/external/rust/crates/openmls_traits"]
+	path = external/rust/crates/openmls_traits
+	url = ../external/rust/crates/openmls_traits
 [submodule "platform/external/rust/crates/openssl"]
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
@@ -2260,6 +2269,12 @@
 [submodule "platform/external/rust/crates/tinyvec_macros"]
 	path = external/rust/crates/tinyvec_macros
 	url = ../external/rust/crates/tinyvec_macros
+[submodule "platform/external/rust/crates/tls_codec"]
+	path = external/rust/crates/tls_codec
+	url = ../external/rust/crates/tls_codec
+[submodule "platform/external/rust/crates/tls_codec_derive"]
+	path = external/rust/crates/tls_codec_derive
+	url = ../external/rust/crates/tls_codec_derive
 [submodule "platform/external/rust/crates/tokio"]
 	path = external/rust/crates/tokio
 	url = ../external/rust/crates/tokio
@@ -2575,9 +2590,6 @@
 [submodule "platform/external/turbine"]
 	path = external/turbine
 	url = ../external/turbine
-[submodule "platform/external/ukey2"]
-	path = external/ukey2
-	url = ../external/ukey2
 [submodule "platform/external/unicode"]
 	path = external/unicode
 	url = ../external/unicode
