@@ -3442,6 +3442,9 @@
 [submodule "platform/prebuilts/jdk/jdk17"]
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
+[submodule "platform/prebuilts/jdk/jdk21"]
+	path = prebuilts/jdk/jdk21
+	url = ../prebuilts/jdk/jdk21
 [submodule "platform/prebuilts/jdk/jdk8"]
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
@@ -3694,6 +3697,9 @@
 [submodule "platform/system/nvram"]
 	path = system/nvram
 	url = ../system/nvram
+[submodule "platform/system/secretkeeper"]
+	path = system/secretkeeper
+	url = ../system/secretkeeper
 [submodule "platform/system/security"]
 	path = system/security
 	url = ../system/security
