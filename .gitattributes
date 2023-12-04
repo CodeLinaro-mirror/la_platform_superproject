@@ -12,6 +12,7 @@
 /external/nanopb-c
 /external/perfetto
 /external/protobuf
+/external/python/absl-py
 /external/skia
 /external/zlib
 /tools/data-binding

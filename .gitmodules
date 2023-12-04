@@ -50,6 +50,9 @@
 	branch = studio-main
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "platform/external/python/absl-py"]
+	path = external/python/absl-py
+	url = ../external/python/absl-py
 [submodule "platform/external/skia"]
 	path = external/skia
 	url = ../external/skia
