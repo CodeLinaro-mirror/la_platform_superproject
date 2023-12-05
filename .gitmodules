@@ -178,6 +178,10 @@
 	branch = main
 	path = external/google-java-format
 	url = ../external/google-java-format
+[submodule "platform/external/google-smali"]
+	branch = main
+	path = external/google-smali
+	url = ../external/google-smali
 [submodule "platform/external/google-styleguide"]
 	branch = main
 	path = external/google-styleguide
