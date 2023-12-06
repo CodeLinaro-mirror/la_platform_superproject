@@ -1,44 +1,13 @@
-/device/generic/goldfish-opengl
-/device/generic/vulkan-cereal
 /build/make
 /build/bazel
-/external/abseil-cpp
-/external/angle
-/external/astc-codec
 /external/glib
-/external/boringssl
-/external/cares
-/external/curl
-/external/deqp
 /external/dtc
-/external/flatbuffers
-/external/fmtlib
-/external/gfxstream-protocols
-/external/google-benchmark
-/external/google-breakpad
-/external/googletest
-/external/grpc
 /external/libpng
-/external/libusb
-/external/libxml2
-/external/lz4
-/external/nasm
 /external/pcre2
-/external/perfetto
 /external/pixman
 /external/pkg-config
-/external/protobuf
 /external/qemu
-/external/rapidjson
-/external/tink
-/external/tinyobjloader
-/external/virglrenderer
-/external/webrtc
-/external/wpa_supplicant_8
 /external/zlib
-/hardware/generic/goldfish
-/hardware/google/aemu pdk
-/hardware/google/gfxstream pdk
 /prebuilts/bazel/darwin-x86_64 notdefault platform-darwin
 /prebuilts/bazel/linux-x86_64 platform-linux notdefault
 /prebuilts/bazel/windows-x86_64 notdefault platform-windows
@@ -51,5 +20,4 @@
 /prebuilts/python/linux-x86 platform-linux notdefault
 /prebuilts/python/windows-x86 notdefault platform-windows
 /tools/buildSrc
-/external/libslirp
 /external/meson
