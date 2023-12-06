@@ -434,6 +434,10 @@
 	branch = main
 	path = external/zopfli
 	url = ../external/zopfli
+[submodule "platform/external/zstd"]
+	branch = main
+	path = external/zstd
+	url = ../external/zstd
 [submodule "platform/frameworks/libs/modules-utils"]
 	branch = main
 	path = frameworks/libs/modules-utils
