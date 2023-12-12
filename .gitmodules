@@ -27,6 +27,15 @@
 	shallow = true
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
+[submodule "device/linaro/dragonboard"]
+	branch = android14-gsi
+	path = device/linaro/dragonboard
+	url = ../../device/linaro/dragonboard
+[submodule "device/linaro/dragonboard-kernel"]
+	branch = android14-gsi
+	shallow = true
+	path = device/linaro/dragonboard-kernel
+	url = ../../device/linaro/dragonboard-kernel
 [submodule "device/sample"]
 	branch = android14-gsi
 	path = device/sample
