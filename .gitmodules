@@ -169,6 +169,15 @@
 [submodule "device/google/redfin-sepolicy"]
 	path = device/google/redfin-sepolicy
 	url = ../../device/google/redfin-sepolicy
+[submodule "device/google/shusky"]
+	path = device/google/shusky
+	url = ../../device/google/shusky
+[submodule "device/google/shusky-kernel"]
+	path = device/google/shusky-kernel
+	url = ../../device/google/shusky-kernel
+[submodule "device/google/shusky-sepolicy"]
+	path = device/google/shusky-sepolicy
+	url = ../../device/google/shusky-sepolicy
 [submodule "device/google/sunfish"]
 	path = device/google/sunfish
 	url = ../../device/google/sunfish
@@ -193,6 +202,12 @@
 [submodule "device/google/vrservices"]
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
+[submodule "device/google/zuma"]
+	path = device/google/zuma
+	url = ../../device/google/zuma
+[submodule "device/google/zuma-sepolicy"]
+	path = device/google/zuma-sepolicy
+	url = ../../device/google/zuma-sepolicy
 [submodule "device/google_car"]
 	path = device/google_car
 	url = ../../device/google_car
@@ -1033,6 +1048,9 @@
 [submodule "platform/external/libldac"]
 	path = external/libldac
 	url = ../external/libldac
+[submodule "platform/external/libmonet"]
+	path = external/libmonet
+	url = ../external/libmonet
 [submodule "platform/external/libmpeg2"]
 	path = external/libmpeg2
 	url = ../external/libmpeg2
@@ -1618,6 +1636,9 @@
 [submodule "platform/external/rust/crates/clap"]
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_complete"]
+	path = external/rust/crates/clap_complete
+	url = ../external/rust/crates/clap_complete
 [submodule "platform/external/rust/crates/clap_derive"]
 	path = external/rust/crates/clap_derive
 	url = ../external/rust/crates/clap_derive
@@ -1696,6 +1717,9 @@
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
+[submodule "platform/external/rust/crates/displaydoc"]
+	path = external/rust/crates/displaydoc
+	url = ../external/rust/crates/displaydoc
 [submodule "platform/external/rust/crates/document-features"]
 	path = external/rust/crates/document-features
 	url = ../external/rust/crates/document-features
@@ -2824,6 +2848,9 @@
 [submodule "platform/hardware/google/graphics/gs201"]
 	path = hardware/google/graphics/gs201
 	url = ../hardware/google/graphics/gs201
+[submodule "platform/hardware/google/graphics/zuma"]
+	path = hardware/google/graphics/zuma
+	url = ../hardware/google/graphics/zuma
 [submodule "platform/hardware/google/interfaces"]
 	path = hardware/google/interfaces
 	url = ../hardware/google/interfaces
@@ -3154,6 +3181,9 @@
 [submodule "platform/packages/apps/TvSettings"]
 	path = packages/apps/TvSettings
 	url = ../packages/apps/TvSettings
+[submodule "platform/packages/apps/TvSystemUI"]
+	path = packages/apps/TvSystemUI
+	url = ../packages/apps/TvSystemUI
 [submodule "platform/packages/apps/UniversalMediaPlayer"]
 	path = packages/apps/UniversalMediaPlayer
 	url = ../packages/apps/UniversalMediaPlayer
