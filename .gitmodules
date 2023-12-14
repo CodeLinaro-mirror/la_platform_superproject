@@ -1552,6 +1552,15 @@
 [submodule "platform/external/rust/crates/ash"]
 	path = external/rust/crates/ash
 	url = ../external/rust/crates/ash
+[submodule "platform/external/rust/crates/asn1-rs"]
+	path = external/rust/crates/asn1-rs
+	url = ../external/rust/crates/asn1-rs
+[submodule "platform/external/rust/crates/asn1-rs-derive"]
+	path = external/rust/crates/asn1-rs-derive
+	url = ../external/rust/crates/asn1-rs-derive
+[submodule "platform/external/rust/crates/asn1-rs-impl"]
+	path = external/rust/crates/asn1-rs-impl
+	url = ../external/rust/crates/asn1-rs-impl
 [submodule "platform/external/rust/crates/async-stream"]
 	path = external/rust/crates/async-stream
 	url = ../external/rust/crates/async-stream
@@ -1723,6 +1732,9 @@
 [submodule "platform/external/rust/crates/document-features"]
 	path = external/rust/crates/document-features
 	url = ../external/rust/crates/document-features
+[submodule "platform/external/rust/crates/downcast"]
+	path = external/rust/crates/downcast
+	url = ../external/rust/crates/downcast
 [submodule "platform/external/rust/crates/downcast-rs"]
 	path = external/rust/crates/downcast-rs
 	url = ../external/rust/crates/downcast-rs
@@ -1765,6 +1777,9 @@
 [submodule "platform/external/rust/crates/form_urlencoded"]
 	path = external/rust/crates/form_urlencoded
 	url = ../external/rust/crates/form_urlencoded
+[submodule "platform/external/rust/crates/fragile"]
+	path = external/rust/crates/fragile
+	url = ../external/rust/crates/fragile
 [submodule "platform/external/rust/crates/futures"]
 	path = external/rust/crates/futures
 	url = ../external/rust/crates/futures
@@ -1819,6 +1834,9 @@
 [submodule "platform/external/rust/crates/googletest_macro"]
 	path = external/rust/crates/googletest_macro
 	url = ../external/rust/crates/googletest_macro
+[submodule "platform/external/rust/crates/gpio-cdev"]
+	path = external/rust/crates/gpio-cdev
+	url = ../external/rust/crates/gpio-cdev
 [submodule "platform/external/rust/crates/grpcio"]
 	path = external/rust/crates/grpcio
 	url = ../external/rust/crates/grpcio
@@ -1960,6 +1978,12 @@
 [submodule "platform/external/rust/crates/mio"]
 	path = external/rust/crates/mio
 	url = ../external/rust/crates/mio
+[submodule "platform/external/rust/crates/mockall"]
+	path = external/rust/crates/mockall
+	url = ../external/rust/crates/mockall
+[submodule "platform/external/rust/crates/mockall_derive"]
+	path = external/rust/crates/mockall_derive
+	url = ../external/rust/crates/mockall_derive
 [submodule "platform/external/rust/crates/moveit"]
 	path = external/rust/crates/moveit
 	url = ../external/rust/crates/moveit
@@ -2083,6 +2107,15 @@
 [submodule "platform/external/rust/crates/ppv-lite86"]
 	path = external/rust/crates/ppv-lite86
 	url = ../external/rust/crates/ppv-lite86
+[submodule "platform/external/rust/crates/predicates"]
+	path = external/rust/crates/predicates
+	url = ../external/rust/crates/predicates
+[submodule "platform/external/rust/crates/predicates-core"]
+	path = external/rust/crates/predicates-core
+	url = ../external/rust/crates/predicates-core
+[submodule "platform/external/rust/crates/predicates-tree"]
+	path = external/rust/crates/predicates-tree
+	url = ../external/rust/crates/predicates-tree
 [submodule "platform/external/rust/crates/prettyplease"]
 	path = external/rust/crates/prettyplease
 	url = ../external/rust/crates/prettyplease
@@ -2266,6 +2299,9 @@
 [submodule "platform/external/rust/crates/termcolor"]
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
+[submodule "platform/external/rust/crates/termtree"]
+	path = external/rust/crates/termtree
+	url = ../external/rust/crates/termtree
 [submodule "platform/external/rust/crates/textwrap"]
 	path = external/rust/crates/textwrap
 	url = ../external/rust/crates/textwrap
