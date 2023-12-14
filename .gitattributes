@@ -93,7 +93,6 @@
 /external/rust/crates/rustc-demangle-capi pdk
 /external/selinux pdk
 /external/slf4j pdk
-/external/smali pdk
 /external/snakeyaml pdk
 /external/spdx-tools pdk
 /external/sqlite pdk
