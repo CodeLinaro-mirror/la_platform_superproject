@@ -38,6 +38,11 @@
 	branch = emu-dev
 	path = external/zlib
 	url = ../external/zlib
+[submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
+	branch = emu-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/qemu-android-deps
+	url = ../prebuilts/android-emulator-build/qemu-android-deps
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
 	branch = emu-dev
 	shallow = true
