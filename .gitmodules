@@ -362,6 +362,138 @@
 	branch = main
 	path = external/python/six
 	url = ../external/python/six
+[submodule "platform/external/rust/crates/ahash"]
+	branch = main
+	path = external/rust/crates/ahash
+	url = ../external/rust/crates/ahash
+[submodule "platform/external/rust/crates/aho-corasick"]
+	branch = main
+	path = external/rust/crates/aho-corasick
+	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/anyhow"]
+	branch = main
+	path = external/rust/crates/anyhow
+	url = ../external/rust/crates/anyhow
+[submodule "platform/external/rust/crates/bitflags"]
+	branch = main
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/byteorder"]
+	branch = main
+	path = external/rust/crates/byteorder
+	url = ../external/rust/crates/byteorder
+[submodule "platform/external/rust/crates/bytes"]
+	branch = main
+	path = external/rust/crates/bytes
+	url = ../external/rust/crates/bytes
+[submodule "platform/external/rust/crates/cfg-if"]
+	branch = main
+	path = external/rust/crates/cfg-if
+	url = ../external/rust/crates/cfg-if
+[submodule "platform/external/rust/crates/clap"]
+	branch = main
+	path = external/rust/crates/clap
+	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_derive"]
+	branch = main
+	path = external/rust/crates/clap_derive
+	url = ../external/rust/crates/clap_derive
+[submodule "platform/external/rust/crates/clap_lex"]
+	branch = main
+	path = external/rust/crates/clap_lex
+	url = ../external/rust/crates/clap_lex
+[submodule "platform/external/rust/crates/either"]
+	branch = main
+	path = external/rust/crates/either
+	url = ../external/rust/crates/either
+[submodule "platform/external/rust/crates/fastrand"]
+	branch = main
+	path = external/rust/crates/fastrand
+	url = ../external/rust/crates/fastrand
+[submodule "platform/external/rust/crates/getrandom"]
+	branch = main
+	path = external/rust/crates/getrandom
+	url = ../external/rust/crates/getrandom
+[submodule "platform/external/rust/crates/hashbrown"]
+	branch = main
+	path = external/rust/crates/hashbrown
+	url = ../external/rust/crates/hashbrown
+[submodule "platform/external/rust/crates/heck"]
+	branch = main
+	path = external/rust/crates/heck
+	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/indexmap"]
+	branch = main
+	path = external/rust/crates/indexmap
+	url = ../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/itertools"]
+	branch = main
+	path = external/rust/crates/itertools
+	url = ../external/rust/crates/itertools
+[submodule "platform/external/rust/crates/itoa"]
+	branch = main
+	path = external/rust/crates/itoa
+	url = ../external/rust/crates/itoa
+[submodule "platform/external/rust/crates/libc"]
+	branch = main
+	path = external/rust/crates/libc
+	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/log"]
+	branch = main
+	path = external/rust/crates/log
+	url = ../external/rust/crates/log
+[submodule "platform/external/rust/crates/memchr"]
+	branch = main
+	path = external/rust/crates/memchr
+	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/once_cell"]
+	branch = main
+	path = external/rust/crates/once_cell
+	url = ../external/rust/crates/once_cell
+[submodule "platform/external/rust/crates/os_str_bytes"]
+	branch = main
+	path = external/rust/crates/os_str_bytes
+	url = ../external/rust/crates/os_str_bytes
+[submodule "platform/external/rust/crates/paste"]
+	branch = main
+	path = external/rust/crates/paste
+	url = ../external/rust/crates/paste
+[submodule "platform/external/rust/crates/proc-macro2"]
+	branch = main
+	path = external/rust/crates/proc-macro2
+	url = ../external/rust/crates/proc-macro2
+[submodule "platform/external/rust/crates/protobuf"]
+	branch = main
+	path = external/rust/crates/protobuf
+	url = ../external/rust/crates/protobuf
+[submodule "platform/external/rust/crates/protobuf-codegen"]
+	branch = main
+	path = external/rust/crates/protobuf-codegen
+	url = ../external/rust/crates/protobuf-codegen
+[submodule "platform/external/rust/crates/protobuf-parse"]
+	branch = main
+	path = external/rust/crates/protobuf-parse
+	url = ../external/rust/crates/protobuf-parse
+[submodule "platform/external/rust/crates/protobuf-support"]
+	branch = main
+	path = external/rust/crates/protobuf-support
+	url = ../external/rust/crates/protobuf-support
+[submodule "platform/external/rust/crates/quote"]
+	branch = main
+	path = external/rust/crates/quote
+	url = ../external/rust/crates/quote
+[submodule "platform/external/rust/crates/regex"]
+	branch = main
+	path = external/rust/crates/regex
+	url = ../external/rust/crates/regex
+[submodule "platform/external/rust/crates/regex-syntax"]
+	branch = main
+	path = external/rust/crates/regex-syntax
+	url = ../external/rust/crates/regex-syntax
+[submodule "platform/external/rust/crates/remove_dir_all"]
+	branch = main
+	path = external/rust/crates/remove_dir_all
+	url = ../external/rust/crates/remove_dir_all
 [submodule "platform/external/rust/crates/rustc-demangle"]
 	branch = main
 	path = external/rust/crates/rustc-demangle
@@ -370,6 +502,62 @@
 	branch = main
 	path = external/rust/crates/rustc-demangle-capi
 	url = ../external/rust/crates/rustc-demangle-capi
+[submodule "platform/external/rust/crates/ryu"]
+	branch = main
+	path = external/rust/crates/ryu
+	url = ../external/rust/crates/ryu
+[submodule "platform/external/rust/crates/serde"]
+	branch = main
+	path = external/rust/crates/serde
+	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde_derive"]
+	branch = main
+	path = external/rust/crates/serde_derive
+	url = ../external/rust/crates/serde_derive
+[submodule "platform/external/rust/crates/serde_json"]
+	branch = main
+	path = external/rust/crates/serde_json
+	url = ../external/rust/crates/serde_json
+[submodule "platform/external/rust/crates/syn"]
+	branch = main
+	path = external/rust/crates/syn
+	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/tempfile"]
+	branch = main
+	path = external/rust/crates/tempfile
+	url = ../external/rust/crates/tempfile
+[submodule "platform/external/rust/crates/thiserror"]
+	branch = main
+	path = external/rust/crates/thiserror
+	url = ../external/rust/crates/thiserror
+[submodule "platform/external/rust/crates/thiserror-impl"]
+	branch = main
+	path = external/rust/crates/thiserror-impl
+	url = ../external/rust/crates/thiserror-impl
+[submodule "platform/external/rust/crates/tinytemplate"]
+	branch = main
+	path = external/rust/crates/tinytemplate
+	url = ../external/rust/crates/tinytemplate
+[submodule "platform/external/rust/crates/unicode-ident"]
+	branch = main
+	path = external/rust/crates/unicode-ident
+	url = ../external/rust/crates/unicode-ident
+[submodule "platform/external/rust/crates/unicode-segmentation"]
+	branch = main
+	path = external/rust/crates/unicode-segmentation
+	url = ../external/rust/crates/unicode-segmentation
+[submodule "platform/external/rust/crates/which"]
+	branch = main
+	path = external/rust/crates/which
+	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/zerocopy"]
+	branch = main
+	path = external/rust/crates/zerocopy
+	url = ../external/rust/crates/zerocopy
+[submodule "platform/external/rust/crates/zerocopy-derive"]
+	branch = main
+	path = external/rust/crates/zerocopy-derive
+	url = ../external/rust/crates/zerocopy-derive
 [submodule "platform/external/selinux"]
 	branch = main
 	path = external/selinux
