@@ -469,6 +469,7 @@
 /external/python/httplib2 vts pdk
 /external/python/ipaddress pdk
 /external/python/jinja pdk
+/external/python/mako pdk
 /external/python/markupsafe pdk
 /external/python/mobly pdk
 /external/python/oauth2client vts pdk
@@ -1103,6 +1104,7 @@
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/OnDevicePersonalization pdk-fs
 /packages/modules/Permission pdk-fs pdk-cw-fs
+/packages/modules/Profiling pdk
 /packages/modules/RemoteKeyProvisioning pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
 /packages/modules/SEPolicy pdk-fs pdk-cw-fs
@@ -1188,6 +1190,7 @@
 /prebuilts/module_sdk/MediaProvider pdk
 /prebuilts/module_sdk/OnDevicePersonalization pdk
 /prebuilts/module_sdk/Permission pdk
+/prebuilts/module_sdk/Profiling pdk
 /prebuilts/module_sdk/RemoteKeyProvisioning pdk
 /prebuilts/module_sdk/Scheduling pdk
 /prebuilts/module_sdk/SdkExtensions pdk

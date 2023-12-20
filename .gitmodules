@@ -1411,6 +1411,9 @@
 [submodule "platform/external/python/jinja"]
 	path = external/python/jinja
 	url = ../external/python/jinja
+[submodule "platform/external/python/mako"]
+	path = external/python/mako
+	url = ../external/python/mako
 [submodule "platform/external/python/markupsafe"]
 	path = external/python/markupsafe
 	url = ../external/python/markupsafe
@@ -3313,6 +3316,9 @@
 [submodule "platform/packages/modules/Permission"]
 	path = packages/modules/Permission
 	url = ../packages/modules/Permission
+[submodule "platform/packages/modules/Profiling"]
+	path = packages/modules/Profiling
+	url = ../packages/modules/Profiling
 [submodule "platform/packages/modules/RemoteKeyProvisioning"]
 	path = packages/modules/RemoteKeyProvisioning
 	url = ../packages/modules/RemoteKeyProvisioning
@@ -3568,6 +3574,9 @@
 [submodule "platform/prebuilts/module_sdk/Permission"]
 	path = prebuilts/module_sdk/Permission
 	url = ../prebuilts/module_sdk/Permission
+[submodule "platform/prebuilts/module_sdk/Profiling"]
+	path = prebuilts/module_sdk/Profiling
+	url = ../prebuilts/module_sdk/Profiling
 [submodule "platform/prebuilts/module_sdk/RemoteKeyProvisioning"]
 	path = prebuilts/module_sdk/RemoteKeyProvisioning
 	url = ../prebuilts/module_sdk/RemoteKeyProvisioning
