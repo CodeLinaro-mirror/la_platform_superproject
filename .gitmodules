@@ -18,6 +18,10 @@
 	branch = emu-master-dev
 	path = build/bazel
 	url = ../build/bazel
+[submodule "platform/external/abseil-cpp"]
+	branch = emu-master-dev
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
 [submodule "platform/external/adt-infra"]
 	branch = emu-master-dev
 	path = external/adt-infra
