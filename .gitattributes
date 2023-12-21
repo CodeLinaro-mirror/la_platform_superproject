@@ -3,6 +3,7 @@
 /device/google/cuttlefish
 /build/make
 /build/bazel
+/external/abseil-cpp
 /external/adt-infra
 /external/angle
 /external/astc-codec
