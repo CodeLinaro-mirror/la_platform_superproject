@@ -573,7 +573,6 @@
 /external/rust/crates/der-oid-macro pdk
 /external/rust/crates/der-parser pdk
 /external/rust/crates/der_derive pdk
-/external/rust/crates/derive-getters pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/displaydoc pdk
 /external/rust/crates/document-features pdk
@@ -708,7 +707,6 @@
 /external/rust/crates/prettyplease pdk
 /external/rust/crates/proc-macro-error pdk
 /external/rust/crates/proc-macro-error-attr pdk
-/external/rust/crates/proc-macro-nested pdk
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
@@ -851,7 +849,6 @@
 /external/skia pdk qcom_msm8x26
 /external/sl4a pdk
 /external/slf4j pdk
-/external/smali pdk
 /external/snakeyaml pdk
 /external/sonic pdk
 /external/sonivox pdk
