@@ -1,4 +1,3 @@
-/prebuilts/fullsdk-linux/kernel-build-tools platform-linux notdefault
 /build/make
 /external/abseil-cpp
 /external/dokka
@@ -9,6 +8,7 @@
 /external/libyuv
 /external/noto-fonts
 /external/protobuf
+/external/sqlite
 /external/webview_support_interfaces
 /frameworks/support
 /golden
@@ -30,7 +30,6 @@
 /prebuilts/fullsdk-darwin/platforms
 /prebuilts/fullsdk-darwin/sources
 /prebuilts/jdk/jdk17
-/prebuilts/jdk/jdk8
 /prebuilts/fullsdk-darwin/ninja notdefault platform-darwin
 /prebuilts/fullsdk-linux/ninja platform-linux notdefault
 /prebuilts/protobuf
