@@ -12,6 +12,7 @@
 /external/bazelbuild-kotlin-rules pdk
 /external/bazelbuild-rules_android pdk
 /external/bazelbuild-rules_go pdk
+/external/bazelbuild-rules_java pdk
 /external/bazelbuild-rules_license pdk
 /external/boringssl pdk
 /external/clang
@@ -44,6 +45,7 @@
 /external/regex-re2
 /external/rust/crates/ahash
 /external/rust/crates/aho-corasick
+/external/rust/crates/annotate-snippets
 /external/rust/crates/bindgen
 /external/rust/crates/bindgen-cli
 /external/rust/crates/bitflags
@@ -51,6 +53,7 @@
 /external/rust/crates/cfg-if
 /external/rust/crates/clang-sys
 /external/rust/crates/clap
+/external/rust/crates/clap_complete
 /external/rust/crates/clap_derive
 /external/rust/crates/clap_lex
 /external/rust/crates/either
@@ -83,6 +86,7 @@
 /external/rust/crates/textwrap
 /external/rust/crates/unicode-ident
 /external/rust/crates/unicode-segmentation
+/external/rust/crates/unicode-width
 /external/rust/crates/unicode-xid
 /external/rust/crates/which
 /external/spdx-tools

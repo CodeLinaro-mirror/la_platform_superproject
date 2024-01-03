@@ -54,6 +54,10 @@
 	branch = main
 	path = external/bazelbuild-rules_go
 	url = ../external/bazelbuild-rules_go
+[submodule "platform/external/bazelbuild-rules_java"]
+	branch = main
+	path = external/bazelbuild-rules_java
+	url = ../external/bazelbuild-rules_java
 [submodule "platform/external/bazelbuild-rules_license"]
 	branch = main
 	path = external/bazelbuild-rules_license
@@ -182,6 +186,10 @@
 	branch = main
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/annotate-snippets"]
+	branch = main
+	path = external/rust/crates/annotate-snippets
+	url = ../external/rust/crates/annotate-snippets
 [submodule "platform/external/rust/crates/bindgen"]
 	branch = main
 	path = external/rust/crates/bindgen
@@ -210,6 +218,10 @@
 	branch = main
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_complete"]
+	branch = main
+	path = external/rust/crates/clap_complete
+	url = ../external/rust/crates/clap_complete
 [submodule "platform/external/rust/crates/clap_derive"]
 	branch = main
 	path = external/rust/crates/clap_derive
@@ -338,6 +350,10 @@
 	branch = main
 	path = external/rust/crates/unicode-segmentation
 	url = ../external/rust/crates/unicode-segmentation
+[submodule "platform/external/rust/crates/unicode-width"]
+	branch = main
+	path = external/rust/crates/unicode-width
+	url = ../external/rust/crates/unicode-width
 [submodule "platform/external/rust/crates/unicode-xid"]
 	branch = main
 	path = external/rust/crates/unicode-xid
