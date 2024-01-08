@@ -1,36 +1,17 @@
-/device/generic/goldfish-opengl
-/device/generic/vulkan-cereal
-/device/google/cuttlefish
-/build/make
-/build/bazel
-/external/adt-infra
-/external/angle
-/external/astc-codec
+/external/abseil-cpp
 /external/bison platform-linux notdefault
 /external/glib
 /external/boringssl
 /external/cares
-/external/curl
-/external/deqp
-/external/dtc
-/external/flatbuffers
 /external/flex platform-linux notdefault platform-darwin
 /external/fmtlib
-/external/gfxstream-protocols
 /external/google-benchmark
-/external/google-breakpad
 /external/googletest
 /external/grpc
-/external/libpng
-/external/libusb
-/external/libxml2
 /external/lz4
-/external/mobly-bundled-snippets
 /external/nasm
-/external/perfetto
 /external/protobuf
 /external/qemu
-/external/rapidjson
 /external/regex-re2
 /external/rust/crates/aho-corasick
 /external/rust/crates/anyhow
@@ -147,24 +128,14 @@
 /external/rust/crates/zip
 /external/rust/crates/cxx
 /external/rust/crates/pica
-/external/tink
-/external/tinyobjloader
-/external/virglrenderer
 /external/webrtc
 /external/wpa_supplicant_8
 /external/zlib
-/frameworks/native
 /hardware/google/aemu pdk
-/hardware/google/gfxstream pdk
 /packages/modules/Bluetooth pdk
 /prebuilts/android-emulator
-/prebuilts/android-emulator-build/archive
 /prebuilts/android-emulator-build/common
-/prebuilts/android-emulator-build/mesa
-/prebuilts/android-emulator-build/mesa-deps
 /prebuilts/android-emulator-build/qemu-android-deps
-/prebuilts/android-emulator-build/qt
-/prebuilts/android-emulator-build/system-images
 /prebuilts/bazel/darwin-x86_64 notdefault platform-darwin
 /prebuilts/bazel/linux-x86_64 platform-linux notdefault
 /prebuilts/bazel/windows-x86_64 notdefault platform-windows
@@ -182,8 +153,6 @@
 /prebuilts/python/linux-x86 platform-linux notdefault
 /prebuilts/python/windows-x86 notdefault platform-windows
 /prebuilts/rust
-/prebuilts/studio/jdk
-/tools/buildSrc
 /tools/netsim
 /external/m4 platform-linux notdefault platform-darwin
 /external/libslirp

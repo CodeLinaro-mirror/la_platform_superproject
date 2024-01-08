@@ -1,41 +1,13 @@
-[submodule "device/generic/goldfish-opengl"]
-	branch = main
-	path = device/generic/goldfish-opengl
-	url = ../../device/generic/goldfish-opengl
-[submodule "device/generic/vulkan-cereal"]
-	branch = main
-	path = device/generic/vulkan-cereal
-	url = ../../device/generic/vulkan-cereal
-[submodule "device/google/cuttlefish"]
-	branch = main
-	path = device/google/cuttlefish
-	url = ../../device/google/cuttlefish
-[submodule "platform/build"]
-	branch = netsim-dev
-	path = build/make
-	url = ../build
-[submodule "platform/build/bazel"]
-	branch = netsim-dev
-	path = build/bazel
-	url = ../build/bazel
-[submodule "platform/external/adt-infra"]
-	branch = netsim-dev
-	path = external/adt-infra
-	url = ../external/adt-infra
-[submodule "platform/external/angle"]
-	branch = netsim-dev
-	path = external/angle
-	url = ../external/angle
-[submodule "platform/external/astc-codec"]
-	branch = main
-	path = external/astc-codec
-	url = ../external/astc-codec
+[submodule "platform/external/abseil-cpp"]
+	branch = emu-master-dev
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
 [submodule "platform/external/bison"]
 	branch = main
 	path = external/bison
 	url = ../external/bison
 [submodule "platform/external/bluetooth/glib"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/glib
 	url = ../external/bluetooth/glib
 [submodule "platform/external/boringssl"]
@@ -44,25 +16,9 @@
 	path = external/boringssl
 	url = ../external/boringssl
 [submodule "platform/external/c-ares"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/cares
 	url = ../external/c-ares
-[submodule "platform/external/curl"]
-	branch = netsim-dev
-	path = external/curl
-	url = ../external/curl
-[submodule "platform/external/deqp"]
-	branch = main
-	path = external/deqp
-	url = ../external/deqp
-[submodule "platform/external/dtc"]
-	branch = main
-	path = external/dtc
-	url = ../external/dtc
-[submodule "platform/external/flatbuffers"]
-	branch = main
-	path = external/flatbuffers
-	url = ../external/flatbuffers
 [submodule "platform/external/flex"]
 	branch = main
 	path = external/flex
@@ -71,65 +27,34 @@
 	branch = main
 	path = external/fmtlib
 	url = ../external/fmtlib
-[submodule "platform/external/gfxstream-protocols"]
-	branch = main
-	path = external/gfxstream-protocols
-	url = ../external/gfxstream-protocols
 [submodule "platform/external/google-benchmark"]
 	branch = main
 	path = external/google-benchmark
 	url = ../external/google-benchmark
-[submodule "platform/external/google-breakpad"]
-	branch = netsim-dev
-	path = external/google-breakpad
-	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
 	branch = main
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/grpc-grpc"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/libpng"]
-	branch = netsim-dev
-	path = external/libpng
-	url = ../external/libpng
-[submodule "platform/external/libusb"]
-	branch = netsim-dev
-	path = external/libusb
-	url = ../external/libusb
-[submodule "platform/external/libxml2"]
-	branch = netsim-dev
-	path = external/libxml2
-	url = ../external/libxml2
 [submodule "platform/external/lz4"]
 	branch = main
 	path = external/lz4
 	url = ../external/lz4
-[submodule "platform/external/mobly-bundled-snippets"]
-	branch = main
-	path = external/mobly-bundled-snippets
-	url = ../external/mobly-bundled-snippets
 [submodule "platform/external/nasm"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/nasm
 	url = ../external/nasm
-[submodule "platform/external/perfetto"]
-	path = external/perfetto
-	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/qemu"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/qemu
 	url = ../external/qemu
-[submodule "platform/external/rapidjson"]
-	branch = main
-	path = external/rapidjson
-	url = ../external/rapidjson
 [submodule "platform/external/regex-re2"]
 	branch = main
 	path = external/regex-re2
@@ -594,85 +519,41 @@
 	branch = main
 	path = external/rust/crates/pica
 	url = ../external/rust/pica
-[submodule "platform/external/tink"]
-	branch = netsim-dev
-	path = external/tink
-	url = ../external/tink
-[submodule "platform/external/tinyobjloader"]
-	branch = main
-	path = external/tinyobjloader
-	url = ../external/tinyobjloader
-[submodule "platform/external/virglrenderer"]
-	branch = crosvm-master
-	path = external/virglrenderer
-	url = ../external/virglrenderer
 [submodule "platform/external/webrtc"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/webrtc
 	url = ../external/webrtc
 [submodule "platform/external/wpa_supplicant_8"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
 [submodule "platform/external/zlib"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/zlib
 	url = ../external/zlib
-[submodule "platform/frameworks/native"]
-	branch = lollipop-release
-	path = frameworks/native
-	url = ../frameworks/native
 [submodule "platform/hardware/google/aemu"]
 	branch = main
 	path = hardware/google/aemu
 	url = ../hardware/google/aemu
-[submodule "platform/hardware/google/gfxstream"]
-	branch = main
-	path = hardware/google/gfxstream
-	url = ../hardware/google/gfxstream
 [submodule "platform/packages/modules/Bluetooth"]
 	branch = main
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
 [submodule "platform/prebuilts/android-emulator"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
-[submodule "platform/prebuilts/android-emulator-build/archive"]
-	branch = netsim-dev
-	shallow = true
-	path = prebuilts/android-emulator-build/archive
-	url = ../prebuilts/android-emulator-build/archive
 [submodule "platform/prebuilts/android-emulator-build/common"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	shallow = true
 	path = prebuilts/android-emulator-build/common
 	url = ../prebuilts/android-emulator-build/common
-[submodule "platform/prebuilts/android-emulator-build/mesa"]
-	branch = netsim-dev
-	shallow = true
-	path = prebuilts/android-emulator-build/mesa
-	url = ../prebuilts/android-emulator-build/mesa
-[submodule "platform/prebuilts/android-emulator-build/mesa-deps"]
-	branch = netsim-dev
-	shallow = true
-	path = prebuilts/android-emulator-build/mesa-deps
-	url = ../prebuilts/android-emulator-build/mesa-deps
 [submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	shallow = true
 	path = prebuilts/android-emulator-build/qemu-android-deps
 	url = ../prebuilts/android-emulator-build/qemu-android-deps
-[submodule "platform/prebuilts/android-emulator-build/qt"]
-	branch = netsim-dev
-	shallow = true
-	path = prebuilts/android-emulator-build/qt
-	url = ../prebuilts/android-emulator-build/qt
-[submodule "platform/prebuilts/android-emulator-build/system-images"]
-	branch = main
-	path = prebuilts/android-emulator-build/system-images
-	url = ../prebuilts/android-emulator-build/system-images
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
 	branch = netsim-dev
 	shallow = true
@@ -756,15 +637,6 @@
 [submodule "platform/prebuilts/rust"]
 	path = prebuilts/rust
 	url = ../prebuilts/rust
-[submodule "platform/prebuilts/studio/jdk"]
-	branch = studio-main
-	shallow = true
-	path = prebuilts/studio/jdk
-	url = ../prebuilts/studio/jdk
-[submodule "platform/tools/buildSrc"]
-	branch = netsim-dev
-	path = tools/buildSrc
-	url = ../tools/buildSrc
 [submodule "platform/tools/netsim"]
 	branch = main
 	path = tools/netsim
@@ -774,6 +646,6 @@
 	path = external/m4
 	url = ../../toolchain/m4
 [submodule "trusty/external/qemu-libslirp"]
-	branch = netsim-dev
+	branch = emu-master-dev
 	path = external/libslirp
 	url = ../../trusty/external/qemu-libslirp
