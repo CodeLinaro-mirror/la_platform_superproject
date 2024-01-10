@@ -1567,15 +1567,6 @@
 [submodule "platform/external/rust/crates/ash"]
 	path = external/rust/crates/ash
 	url = ../external/rust/crates/ash
-[submodule "platform/external/rust/crates/asn1-rs"]
-	path = external/rust/crates/asn1-rs
-	url = ../external/rust/crates/asn1-rs
-[submodule "platform/external/rust/crates/asn1-rs-derive"]
-	path = external/rust/crates/asn1-rs-derive
-	url = ../external/rust/crates/asn1-rs-derive
-[submodule "platform/external/rust/crates/asn1-rs-impl"]
-	path = external/rust/crates/asn1-rs-impl
-	url = ../external/rust/crates/asn1-rs-impl
 [submodule "platform/external/rust/crates/async-stream"]
 	path = external/rust/crates/async-stream
 	url = ../external/rust/crates/async-stream
@@ -2131,12 +2122,6 @@
 [submodule "platform/external/rust/crates/prettyplease"]
 	path = external/rust/crates/prettyplease
 	url = ../external/rust/crates/prettyplease
-[submodule "platform/external/rust/crates/proc-macro-error"]
-	path = external/rust/crates/proc-macro-error
-	url = ../external/rust/crates/proc-macro-error
-[submodule "platform/external/rust/crates/proc-macro-error-attr"]
-	path = external/rust/crates/proc-macro-error-attr
-	url = ../external/rust/crates/proc-macro-error-attr
 [submodule "platform/external/rust/crates/proc-macro2"]
 	path = external/rust/crates/proc-macro2
 	url = ../external/rust/crates/proc-macro2
