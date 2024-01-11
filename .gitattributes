@@ -8,6 +8,7 @@
 /external/pkg-config
 /external/qemu
 /external/zlib
+/hardware/generic/goldfish
 /hardware/google/aemu
 /prebuilts/android-emulator-build/qemu-android-deps
 /prebuilts/bazel/darwin-x86_64 notdefault platform-darwin

@@ -38,6 +38,10 @@
 	branch = emu-dev
 	path = external/zlib
 	url = ../external/zlib
+[submodule "platform/hardware/generic/goldfish"]
+	branch = emu-dev
+	path = hardware/generic/goldfish
+	url = ../hardware/generic/goldfish
 [submodule "platform/hardware/google/aemu"]
 	branch = main
 	path = hardware/google/aemu
