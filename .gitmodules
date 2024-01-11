@@ -1281,7 +1281,7 @@
 	path = external/pcre
 	url = ../external/pcre
 [submodule "platform/external/pdfium"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	path = external/pdfium
 	url = ../external/pdfium
 [submodule "platform/external/perfetto"]
