@@ -1717,12 +1717,6 @@
 [submodule "platform/external/rust/crates/der"]
 	path = external/rust/crates/der
 	url = ../external/rust/crates/der
-[submodule "platform/external/rust/crates/der-oid-macro"]
-	path = external/rust/crates/der-oid-macro
-	url = ../external/rust/crates/der-oid-macro
-[submodule "platform/external/rust/crates/der-parser"]
-	path = external/rust/crates/der-parser
-	url = ../external/rust/crates/der-parser
 [submodule "platform/external/rust/crates/der_derive"]
 	path = external/rust/crates/der_derive
 	url = ../external/rust/crates/der_derive
@@ -2020,9 +2014,6 @@
 [submodule "platform/external/rust/crates/octets"]
 	path = external/rust/crates/octets
 	url = ../external/rust/crates/octets
-[submodule "platform/external/rust/crates/oid-registry"]
-	path = external/rust/crates/oid-registry
-	url = ../external/rust/crates/oid-registry
 [submodule "platform/external/rust/crates/once_cell"]
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
@@ -2200,9 +2191,6 @@
 [submodule "platform/external/rust/crates/rustc-hash"]
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
-[submodule "platform/external/rust/crates/rusticata-macros"]
-	path = external/rust/crates/rusticata-macros
-	url = ../external/rust/crates/rusticata-macros
 [submodule "platform/external/rust/crates/rustversion"]
 	path = external/rust/crates/rustversion
 	url = ../external/rust/crates/rustversion
@@ -2461,9 +2449,6 @@
 [submodule "platform/external/rust/crates/x509-cert"]
 	path = external/rust/crates/x509-cert
 	url = ../external/rust/crates/x509-cert
-[submodule "platform/external/rust/crates/x509-parser"]
-	path = external/rust/crates/x509-parser
-	url = ../external/rust/crates/x509-parser
 [submodule "platform/external/rust/crates/xml-rs"]
 	path = external/rust/crates/xml-rs
 	url = ../external/rust/crates/xml-rs
