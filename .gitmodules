@@ -38,6 +38,10 @@
 	branch = emu-dev
 	path = external/zlib
 	url = ../external/zlib
+[submodule "platform/hardware/google/aemu"]
+	branch = main
+	path = hardware/google/aemu
+	url = ../hardware/google/aemu
 [submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
 	branch = emu-dev
 	shallow = true
