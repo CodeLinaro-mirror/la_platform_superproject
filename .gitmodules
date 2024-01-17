@@ -18,7 +18,7 @@
 	path = tools/dokka-devsite-plugin
 	url = ../tools/dokka-devsite-plugin
 [submodule "platform/tools/external/gradle"]
-	branch = androidx-main
+	branch = dackka-main-dev
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
