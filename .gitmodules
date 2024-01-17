@@ -473,7 +473,7 @@
 	path = build/pesto
 	url = ../build/pesto
 [submodule "platform/build/soong"]
-	branch = android14-release
+	branch = android14-tests-dev
 	path = build/soong
 	url = ../build/soong
 [submodule "platform/cts"]
