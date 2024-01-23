@@ -94,6 +94,9 @@
 [submodule "platform/prebuilts/jdk/jdk17"]
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
+[submodule "platform/prebuilts/jdk/jdk8"]
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	path = prebuilts/fullsdk-darwin/ninja
 	url = ../prebuilts/ninja/darwin-x86
