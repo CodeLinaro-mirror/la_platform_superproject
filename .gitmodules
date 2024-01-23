@@ -4,6 +4,12 @@
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
+[submodule "platform/external/dokka"]
+	path = external/dokka
+	url = ../external/dokka
+[submodule "platform/external/google-benchmark"]
+	path = external/google-benchmark
+	url = ../external/google-benchmark
 [submodule "platform/external/icing"]
 	path = external/icing
 	url = ../external/icing
