@@ -115,12 +115,12 @@
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r25"]
+[submodule "toolchain/prebuilts/ndk-darwin/r23"]
 	path = prebuilts/fullsdk-darwin/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk-darwin/r25
-[submodule "toolchain/prebuilts/ndk/r25"]
+	url = ../../toolchain/prebuilts/ndk-darwin/r23
+[submodule "toolchain/prebuilts/ndk/r23"]
 	path = prebuilts/fullsdk-linux/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk/r25
+	url = ../../toolchain/prebuilts/ndk/r23
 [submodule "tools/fetch_artifact"]
 	path = tools/fetch_artifact
 	url = ../../tools/fetch_artifact
