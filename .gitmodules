@@ -1,3 +1,6 @@
+[submodule "kernel/prebuilts/build-tools"]
+	path = prebuilts/fullsdk-linux/kernel-build-tools
+	url = ../../kernel/prebuilts/build-tools
 [submodule "platform/build"]
 	path = build/make
 	url = ../build
@@ -28,9 +31,6 @@
 [submodule "platform/external/protobuf"]
 	path = external/protobuf
 	url = ../external/protobuf
-[submodule "platform/external/sqlite"]
-	path = external/sqlite
-	url = ../external/sqlite
 [submodule "platform/external/webview_support_interfaces"]
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
@@ -85,12 +85,18 @@
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
-[submodule "platform/prebuilts/fullsdk/platforms"]
-	path = prebuilts/fullsdk-darwin/platforms
-	url = ../prebuilts/fullsdk/platforms
-[submodule "platform/prebuilts/fullsdk/sources"]
-	path = prebuilts/fullsdk-darwin/sources
-	url = ../prebuilts/fullsdk/sources
+[submodule "platform/prebuilts/fullsdk/platforms/android-33"]
+	path = prebuilts/fullsdk-darwin/platforms/android-33
+	url = ../prebuilts/fullsdk/platforms/android-33
+[submodule "platform/prebuilts/fullsdk/platforms/android-TPS"]
+	path = prebuilts/fullsdk-darwin/platforms/android-33-ext4
+	url = ../prebuilts/fullsdk/platforms/android-TPS
+[submodule "platform/prebuilts/fullsdk/sources/android-33"]
+	path = prebuilts/fullsdk-darwin/sources/android-33
+	url = ../prebuilts/fullsdk/sources/android-33
+[submodule "platform/prebuilts/fullsdk/sources/android-TPS"]
+	path = prebuilts/fullsdk-darwin/sources/android-33-ext4
+	url = ../prebuilts/fullsdk/sources/android-TPS
 [submodule "platform/prebuilts/jdk/jdk17"]
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17

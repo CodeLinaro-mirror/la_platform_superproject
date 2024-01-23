@@ -1,3 +1,4 @@
+/prebuilts/fullsdk-linux/kernel-build-tools platform-linux notdefault
 /build/make
 /external/abseil-cpp
 /external/dokka
@@ -8,7 +9,6 @@
 /external/libyuv
 /external/noto-fonts
 /external/protobuf
-/external/sqlite
 /external/webview_support_interfaces
 /frameworks/support
 /golden
@@ -27,8 +27,10 @@
 /prebuilts/fullsdk-linux/build-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/tools platform-linux notdefault
-/prebuilts/fullsdk-darwin/platforms
-/prebuilts/fullsdk-darwin/sources
+/prebuilts/fullsdk-darwin/platforms/android-33
+/prebuilts/fullsdk-darwin/platforms/android-33-ext4
+/prebuilts/fullsdk-darwin/sources/android-33
+/prebuilts/fullsdk-darwin/sources/android-33-ext4
 /prebuilts/jdk/jdk17
 /prebuilts/jdk/jdk8
 /prebuilts/fullsdk-darwin/ninja notdefault platform-darwin
