@@ -1945,6 +1945,9 @@
 [submodule "platform/external/rust/crates/lru-cache"]
 	path = external/rust/crates/lru-cache
 	url = ../external/rust/crates/lru-cache
+[submodule "platform/external/rust/crates/lz4_flex"]
+	path = external/rust/crates/lz4_flex
+	url = ../external/rust/crates/lz4_flex
 [submodule "platform/external/rust/crates/macaddr"]
 	path = external/rust/crates/macaddr
 	url = ../external/rust/crates/macaddr
@@ -2356,6 +2359,9 @@
 [submodule "platform/external/rust/crates/tungstenite"]
 	path = external/rust/crates/tungstenite
 	url = ../external/rust/crates/tungstenite
+[submodule "platform/external/rust/crates/twox-hash"]
+	path = external/rust/crates/twox-hash
+	url = ../external/rust/crates/twox-hash
 [submodule "platform/external/rust/crates/ucd-trie"]
 	path = external/rust/crates/ucd-trie
 	url = ../external/rust/crates/ucd-trie
