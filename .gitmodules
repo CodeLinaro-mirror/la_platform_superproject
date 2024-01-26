@@ -10,6 +10,10 @@
 	branch = emu-dev
 	path = external/glib
 	url = ../external/bluetooth/glib
+[submodule "platform/external/crosvm"]
+	branch = main
+	path = external/crosvm
+	url = ../external/crosvm
 [submodule "platform/external/dtc"]
 	branch = emu-dev
 	path = external/dtc
@@ -46,6 +50,10 @@
 	branch = main
 	path = hardware/google/aemu
 	url = ../hardware/google/aemu
+[submodule "platform/hardware/google/gfxstream"]
+	branch = main
+	path = hardware/google/gfxstream
+	url = ../hardware/google/gfxstream
 [submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
 	branch = emu-dev
 	shallow = true
