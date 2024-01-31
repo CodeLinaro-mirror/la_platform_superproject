@@ -64,6 +64,9 @@
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools"]
 	path = prebuilts/fullsdk-darwin/build-tools
 	url = ../prebuilts/fullsdk-darwin/build-tools
+[submodule "platform/prebuilts/fullsdk-darwin/cmdline-tools"]
+	path = prebuilts/fullsdk-darwin/cmdline-tools
+	url = ../prebuilts/fullsdk-darwin/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = ../prebuilts/fullsdk-darwin/platform-tools
@@ -73,6 +76,9 @@
 [submodule "platform/prebuilts/fullsdk-linux/build-tools"]
 	path = prebuilts/fullsdk-linux/build-tools
 	url = ../prebuilts/fullsdk-linux/build-tools
+[submodule "platform/prebuilts/fullsdk-linux/cmdline-tools"]
+	path = prebuilts/fullsdk-linux/cmdline-tools
+	url = ../prebuilts/fullsdk-linux/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = ../prebuilts/fullsdk-linux/platform-tools
