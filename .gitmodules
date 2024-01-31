@@ -488,9 +488,11 @@
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/hardware/google/aemu"]
+	branch = emu-34-dev
 	path = hardware/google/aemu
 	url = ../hardware/google/aemu
 [submodule "platform/hardware/google/gfxstream"]
+	branch = emu-34-dev
 	path = hardware/google/gfxstream
 	url = ../hardware/google/gfxstream
 [submodule "platform/packages/modules/Bluetooth"]
