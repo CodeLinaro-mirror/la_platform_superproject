@@ -2038,6 +2038,12 @@
 [submodule "platform/external/rust/crates/os_str_bytes"]
 	path = external/rust/crates/os_str_bytes
 	url = ../external/rust/crates/os_str_bytes
+[submodule "platform/external/rust/crates/p9"]
+	path = external/rust/crates/p9
+	url = ../external/rust/crates/p9
+[submodule "platform/external/rust/crates/p9_wire_format_derive"]
+	path = external/rust/crates/p9_wire_format_derive
+	url = ../external/rust/crates/p9_wire_format_derive
 [submodule "platform/external/rust/crates/parking_lot"]
 	path = external/rust/crates/parking_lot
 	url = ../external/rust/crates/parking_lot
