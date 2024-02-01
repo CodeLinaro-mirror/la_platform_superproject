@@ -3,11 +3,17 @@
 /external/glib
 /external/crosvm
 /external/dtc
+/external/libdrm platform-linux notdefault
+/external/libpciaccess platform-linux notdefault
 /external/libpng
+/external/lz4
+/external/minigbm
+/external/minijail
 /external/pcre2
 /external/pixman
 /external/pkg-config
 /external/qemu
+/external/virglrenderer
 /external/zlib
 /hardware/generic/goldfish
 /hardware/google/aemu

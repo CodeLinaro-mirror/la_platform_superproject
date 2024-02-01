@@ -11,17 +11,37 @@
 	path = external/glib
 	url = ../external/bluetooth/glib
 [submodule "platform/external/crosvm"]
-	branch = main
+	branch = emu-dev
 	path = external/crosvm
 	url = ../external/crosvm
 [submodule "platform/external/dtc"]
 	branch = emu-dev
 	path = external/dtc
 	url = ../external/dtc
+[submodule "platform/external/libdrm"]
+	branch = emu-dev
+	path = external/libdrm
+	url = ../external/libdrm
+[submodule "platform/external/libpciaccess"]
+	branch = emu-dev
+	path = external/libpciaccess
+	url = ../external/libpciaccess
 [submodule "platform/external/libpng"]
 	branch = emu-dev
 	path = external/libpng
 	url = ../external/libpng
+[submodule "platform/external/lz4"]
+	branch = emu-dev
+	path = external/lz4
+	url = ../external/lz4
+[submodule "platform/external/minigbm"]
+	branch = main
+	path = external/minigbm
+	url = ../external/minigbm
+[submodule "platform/external/minijail"]
+	branch = main
+	path = external/minijail
+	url = ../external/minijail
 [submodule "platform/external/pcre"]
 	branch = emu-dev
 	path = external/pcre2
@@ -38,6 +58,10 @@
 	branch = emu-dev
 	path = external/qemu
 	url = ../external/qemu
+[submodule "platform/external/virglrenderer"]
+	branch = main
+	path = external/virglrenderer
+	url = ../external/virglrenderer
 [submodule "platform/external/zlib"]
 	branch = emu-dev
 	path = external/zlib
