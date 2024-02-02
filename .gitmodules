@@ -1957,6 +1957,9 @@
 [submodule "platform/external/rust/crates/memchr"]
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/memmap2"]
+	path = external/rust/crates/memmap2
+	url = ../external/rust/crates/memmap2
 [submodule "platform/external/rust/crates/memoffset"]
 	path = external/rust/crates/memoffset
 	url = ../external/rust/crates/memoffset
