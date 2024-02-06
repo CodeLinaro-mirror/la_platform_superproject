@@ -3,8 +3,9 @@
 /external/glib
 /external/crosvm
 /external/dtc
-/external/libdrm platform-linux notdefault
-/external/libpciaccess platform-linux notdefault
+/external/flatbuffers
+/external/libdrm
+/external/libpciaccess
 /external/libpng
 /external/lz4
 /external/minigbm
@@ -26,6 +27,9 @@
 /prebuilts/clang/host/darwin-x86 notdefault platform-darwin
 /prebuilts/clang/host/linux-x86 platform-linux notdefault
 /prebuilts/clang/host/windows-x86 notdefault platform-windows
+/prebuilts/cmake/darwin-x86 notdefault platform-darwin
+/prebuilts/cmake/linux-x86 platform-linux notdefault
+/prebuilts/cmake/windows-x86 notdefault platform-windows
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 platform-linux notdefault
 /prebuilts/python/darwin-x86 notdefault platform-darwin
 /prebuilts/python/linux-x86 platform-linux notdefault
