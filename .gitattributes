@@ -139,6 +139,7 @@
 /external/rust/crates/which pdk
 /external/rust/crates/zerocopy pdk
 /external/rust/crates/zerocopy-derive pdk
+/external/rust/cxx pdk
 /external/selinux pdk
 /external/slf4j pdk
 /external/snakeyaml pdk
