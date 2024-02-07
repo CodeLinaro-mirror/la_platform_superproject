@@ -23,5 +23,4 @@
 /toolchain/cargo-deny
 /toolchain/cargo-vet
 /toolchain/common
-/toolchain/prebuilts/ndk/r25
 /toolchain/rustc

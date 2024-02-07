@@ -118,11 +118,6 @@
 	branch = main
 	path = toolchain/common
 	url = ../../toolchain/common
-[submodule "toolchain/prebuilts/ndk/r25"]
-	branch = main
-	shallow = true
-	path = toolchain/prebuilts/ndk/r25
-	url = ../../toolchain/prebuilts/ndk/r25
 [submodule "toolchain/rustc"]
 	branch = main
 	path = toolchain/rustc
