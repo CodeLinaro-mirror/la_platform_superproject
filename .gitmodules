@@ -6,6 +6,10 @@
 	branch = emu-dev
 	path = build/bazel
 	url = ../build/bazel
+[submodule "platform/external/angle"]
+	branch = emu-dev
+	path = external/angle
+	url = ../external/angle
 [submodule "platform/external/bluetooth/glib"]
 	branch = emu-dev
 	path = external/glib
