@@ -35,5 +35,6 @@
 /prebuilts/python/darwin-x86 notdefault platform-darwin
 /prebuilts/python/linux-x86 platform-linux notdefault
 /prebuilts/python/windows-x86 notdefault platform-windows
+/prebuilts/rust
 /tools/buildSrc
 /external/meson
