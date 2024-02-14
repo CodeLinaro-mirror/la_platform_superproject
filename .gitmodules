@@ -1150,6 +1150,9 @@
 [submodule "platform/external/llvm"]
 	path = external/llvm
 	url = ../external/llvm
+[submodule "platform/external/llvm-libc"]
+	path = external/llvm-libc
+	url = ../external/llvm-libc
 [submodule "platform/external/lmfit"]
 	path = external/lmfit
 	url = ../external/lmfit
