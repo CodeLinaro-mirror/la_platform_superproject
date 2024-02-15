@@ -1329,7 +1329,6 @@
 /tools/tradefederation/prebuilts tradefed pdk
 /tools/treble pdk tools
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
-/toolchain/benchmark
 /toolchain/binutils
 /toolchain/common
 /toolchain/llvm-project
