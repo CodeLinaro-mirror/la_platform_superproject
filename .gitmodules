@@ -1567,6 +1567,9 @@
 [submodule "platform/external/rust/crates/argh_shared"]
 	path = external/rust/crates/argh_shared
 	url = ../external/rust/crates/argh_shared
+[submodule "platform/external/rust/crates/arrayvec"]
+	path = external/rust/crates/arrayvec
+	url = ../external/rust/crates/arrayvec
 [submodule "platform/external/rust/crates/ash"]
 	path = external/rust/crates/ash
 	url = ../external/rust/crates/ash
@@ -1957,6 +1960,9 @@
 [submodule "platform/external/rust/crates/managed"]
 	path = external/rust/crates/managed
 	url = ../external/rust/crates/managed
+[submodule "platform/external/rust/crates/matches"]
+	path = external/rust/crates/matches
+	url = ../external/rust/crates/matches
 [submodule "platform/external/rust/crates/memchr"]
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
@@ -3964,12 +3970,81 @@
 [submodule "platform/tools/trebuchet"]
 	path = tools/trebuchet
 	url = ../tools/trebuchet
-[submodule "toolchain/benchmark"]
-	path = toolchain/benchmark
-	url = ../../toolchain/benchmark
 [submodule "toolchain/pgo-profiles"]
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
 [submodule "tools/platform-compat"]
 	path = tools/platform-compat
 	url = ../../tools/platform-compat
+[submodule "trusty/app/avb"]
+	path = trusty/user/app/avb
+	url = ../../trusty/app/avb
+[submodule "trusty/app/cast-auth"]
+	path = trusty/user/app/cast-auth
+	url = ../../trusty/app/cast-auth
+[submodule "trusty/app/confirmationui"]
+	path = trusty/user/app/confirmationui
+	url = ../../trusty/app/confirmationui
+[submodule "trusty/app/gatekeeper"]
+	path = trusty/user/app/gatekeeper
+	url = ../../trusty/app/gatekeeper
+[submodule "trusty/app/keymaster"]
+	path = trusty/user/app/keymaster
+	url = ../../trusty/app/keymaster
+[submodule "trusty/app/keymint"]
+	path = trusty/user/app/keymint
+	url = ../../trusty/app/keymint
+[submodule "trusty/app/sample"]
+	path = trusty/user/app/sample
+	url = ../../trusty/app/sample
+[submodule "trusty/app/secretkeeper"]
+	path = trusty/user/app/secretkeeper
+	url = ../../trusty/app/secretkeeper
+[submodule "trusty/app/storage"]
+	path = trusty/user/app/storage
+	url = ../../trusty/app/storage
+[submodule "trusty/device/arm/generic-arm64"]
+	path = trusty/device/arm/generic-arm64
+	url = ../../trusty/device/arm/generic-arm64
+[submodule "trusty/device/arm/vexpress-a15"]
+	path = trusty/device/arm/vexpress-a15
+	url = ../../trusty/device/arm/vexpress-a15
+[submodule "trusty/device/nxp/imx7d"]
+	path = trusty/device/nxp/imx7d
+	url = ../../trusty/device/nxp/imx7d
+[submodule "trusty/device/x86/generic-x86_64"]
+	path = trusty/device/x86/generic-x86_64
+	url = ../../trusty/device/x86/generic-x86_64
+[submodule "trusty/external/headers"]
+	path = external/trusty/headers
+	url = ../../trusty/external/headers
+[submodule "trusty/external/musl"]
+	path = external/trusty/musl
+	url = ../../trusty/external/musl
+[submodule "trusty/external/trusted-firmware-a"]
+	path = external/trusty/arm-trusted-firmware
+	url = ../../trusty/external/trusted-firmware-a
+[submodule "trusty/external/trusty"]
+	path = external/trusty/bootloader
+	url = ../../trusty/external/trusty
+[submodule "trusty/host/common"]
+	path = trusty/host/common
+	url = ../../trusty/host/common
+[submodule "trusty/interfaces"]
+	path = trusty/interfaces
+	url = ../../trusty/interfaces
+[submodule "trusty/lib"]
+	path = trusty/user/base
+	url = ../../trusty/lib
+[submodule "trusty/lk/common"]
+	path = external/trusty/lk
+	url = ../../trusty/lk/common
+[submodule "trusty/lk/nxp"]
+	path = trusty/hardware/nxp
+	url = ../../trusty/lk/nxp
+[submodule "trusty/lk/trusty"]
+	path = trusty/kernel
+	url = ../../trusty/lk/trusty
+[submodule "trusty/vendor/google/aosp"]
+	path = trusty/vendor/google/aosp
+	url = ../../trusty/vendor/google/aosp
