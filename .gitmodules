@@ -1,18 +1,9 @@
-[submodule "kernel/prebuilts/build-tools"]
-	path = prebuilts/fullsdk-linux/kernel-build-tools
-	url = ../../kernel/prebuilts/build-tools
 [submodule "platform/build"]
 	path = build/make
 	url = ../build
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/dokka"]
-	path = external/dokka
-	url = ../external/dokka
-[submodule "platform/external/google-benchmark"]
-	path = external/google-benchmark
-	url = ../external/google-benchmark
 [submodule "platform/external/icing"]
 	path = external/icing
 	url = ../external/icing
@@ -31,6 +22,9 @@
 [submodule "platform/external/protobuf"]
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "platform/external/sqlite"]
+	path = external/sqlite
+	url = ../external/sqlite
 [submodule "platform/external/webview_support_interfaces"]
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
@@ -70,6 +64,9 @@
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools"]
 	path = prebuilts/fullsdk-darwin/build-tools
 	url = ../prebuilts/fullsdk-darwin/build-tools
+[submodule "platform/prebuilts/fullsdk-darwin/cmdline-tools"]
+	path = prebuilts/fullsdk-darwin/cmdline-tools
+	url = ../prebuilts/fullsdk-darwin/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = ../prebuilts/fullsdk-darwin/platform-tools
@@ -79,6 +76,9 @@
 [submodule "platform/prebuilts/fullsdk-linux/build-tools"]
 	path = prebuilts/fullsdk-linux/build-tools
 	url = ../prebuilts/fullsdk-linux/build-tools
+[submodule "platform/prebuilts/fullsdk-linux/cmdline-tools"]
+	path = prebuilts/fullsdk-linux/cmdline-tools
+	url = ../prebuilts/fullsdk-linux/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = ../prebuilts/fullsdk-linux/platform-tools
@@ -94,9 +94,9 @@
 [submodule "platform/prebuilts/jdk/jdk17"]
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
-[submodule "platform/prebuilts/jdk/jdk8"]
-	path = prebuilts/jdk/jdk8
-	url = ../prebuilts/jdk/jdk8
+[submodule "platform/prebuilts/jdk/jdk21"]
+	path = prebuilts/jdk/jdk21
+	url = ../prebuilts/jdk/jdk21
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	path = prebuilts/fullsdk-darwin/ninja
 	url = ../prebuilts/ninja/darwin-x86
@@ -118,12 +118,12 @@
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r23"]
+[submodule "toolchain/prebuilts/ndk-darwin/r25"]
 	path = prebuilts/fullsdk-darwin/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk-darwin/r23
-[submodule "toolchain/prebuilts/ndk/r23"]
+	url = ../../toolchain/prebuilts/ndk-darwin/r25
+[submodule "toolchain/prebuilts/ndk/r25"]
 	path = prebuilts/fullsdk-linux/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk/r23
+	url = ../../toolchain/prebuilts/ndk/r25
 [submodule "tools/fetch_artifact"]
 	path = tools/fetch_artifact
 	url = ../../tools/fetch_artifact
