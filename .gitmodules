@@ -109,7 +109,7 @@
 	path = toolchain/common
 	url = ../../toolchain/common
 [submodule "toolchain/llvm-project"]
-	branch = master-legacy
+	branch = main
 	path = toolchain/llvm-project
 	url = ../../toolchain/llvm-project
 [submodule "toolchain/llvm_android"]
