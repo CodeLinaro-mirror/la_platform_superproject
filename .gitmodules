@@ -541,9 +541,6 @@
 [submodule "platform/external/capstone"]
 	path = external/capstone
 	url = ../external/capstone
-[submodule "platform/external/catch2"]
-	path = external/catch2
-	url = ../external/catch2
 [submodule "platform/external/cblas"]
 	path = external/cblas
 	url = ../external/cblas
