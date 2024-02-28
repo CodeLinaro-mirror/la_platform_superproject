@@ -1,4 +1,5 @@
 /prebuilts/jdk/jdk17
 /prebuilts/sdk
+/prebuilts/tools
 /tools/metalava
 /tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
