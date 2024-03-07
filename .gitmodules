@@ -496,6 +496,7 @@
 	path = hardware/google/gfxstream
 	url = ../hardware/google/gfxstream
 [submodule "platform/packages/modules/Bluetooth"]
+	branch = emu-34-dev
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
 [submodule "platform/prebuilts/android-emulator"]
