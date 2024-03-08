@@ -2,6 +2,10 @@
 	branch = emu-master-dev
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
+[submodule "platform/external/adt-infra"]
+	branch = emu-master-dev
+	path = external/adt-infra
+	url = ../external/adt-infra
 [submodule "platform/external/bison"]
 	branch = main
 	path = external/bison

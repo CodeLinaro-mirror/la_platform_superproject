@@ -1,4 +1,5 @@
 /external/abseil-cpp
+/external/adt-infra
 /external/bison platform-linux notdefault
 /external/glib
 /external/boringssl
