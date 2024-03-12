@@ -43,9 +43,6 @@
 [submodule "device/generic/opengl-transport"]
 	path = device/generic/opengl-transport
 	url = ../../device/generic/opengl-transport
-[submodule "device/generic/qemu"]
-	path = device/generic/qemu
-	url = ../../device/generic/qemu
 [submodule "device/generic/trusty"]
 	path = device/generic/trusty
 	url = ../../device/generic/trusty
@@ -415,12 +412,18 @@
 [submodule "platform/external/android-nn-driver"]
 	path = external/android-nn-driver
 	url = ../external/android-nn-driver
+[submodule "platform/external/android_onboarding"]
+	path = external/android_onboarding
+	url = ../external/android_onboarding
 [submodule "platform/external/androidplot"]
 	path = external/androidplot
 	url = ../external/androidplot
 [submodule "platform/external/angle"]
 	path = external/angle
 	url = ../external/angle
+[submodule "platform/external/anonymous-counting-tokens"]
+	path = external/anonymous-counting-tokens
+	url = ../external/anonymous-counting-tokens
 [submodule "platform/external/ant-glob"]
 	path = external/ant-glob
 	url = ../external/ant-glob
@@ -691,6 +694,9 @@
 [submodule "platform/external/fec"]
 	path = external/fec
 	url = ../external/fec
+[submodule "platform/external/federated-compute"]
+	path = external/federated-compute
+	url = ../external/federated-compute
 [submodule "platform/external/fft2d"]
 	path = external/fft2d
 	url = ../external/fft2d
@@ -835,6 +841,9 @@
 [submodule "platform/external/harfbuzz_ng"]
 	path = external/harfbuzz_ng
 	url = ../external/harfbuzz_ng
+[submodule "platform/external/horologist"]
+	path = external/horologist
+	url = ../external/horologist
 [submodule "platform/external/hyphenation-patterns"]
 	path = external/hyphenation-patterns
 	url = ../external/hyphenation-patterns
@@ -1360,6 +1369,9 @@
 [submodule "platform/external/ppp"]
 	path = external/ppp
 	url = ../external/ppp
+[submodule "platform/external/private-join-and-compute"]
+	path = external/private-join-and-compute
+	url = ../external/private-join-and-compute
 [submodule "platform/external/proguard"]
 	path = external/proguard
 	url = ../external/proguard
@@ -2620,6 +2632,9 @@
 [submodule "platform/external/timezone-boundary-builder"]
 	path = external/timezone-boundary-builder
 	url = ../external/timezone-boundary-builder
+[submodule "platform/external/tink"]
+	path = external/tink
+	url = ../external/tink
 [submodule "platform/external/tinyalsa"]
 	path = external/tinyalsa
 	url = ../external/tinyalsa
@@ -3037,9 +3052,6 @@
 [submodule "platform/packages/apps/Camera2"]
 	path = packages/apps/Camera2
 	url = ../packages/apps/Camera2
-[submodule "platform/packages/apps/Car/Calendar"]
-	path = packages/apps/Car/Calendar
-	url = ../packages/apps/Car/Calendar
 [submodule "platform/packages/apps/Car/Cluster"]
 	path = packages/apps/Car/Cluster
 	url = ../packages/apps/Car/Cluster
@@ -3217,6 +3229,9 @@
 [submodule "platform/packages/apps/Traceur"]
 	path = packages/apps/Traceur
 	url = ../packages/apps/Traceur
+[submodule "platform/packages/apps/TvFeedbackConsent"]
+	path = packages/apps/TvFeedbackConsent
+	url = ../packages/apps/TvFeedbackConsent
 [submodule "platform/packages/apps/TvSettings"]
 	path = packages/apps/TvSettings
 	url = ../packages/apps/TvSettings
@@ -3226,9 +3241,6 @@
 [submodule "platform/packages/apps/UniversalMediaPlayer"]
 	path = packages/apps/UniversalMediaPlayer
 	url = ../packages/apps/UniversalMediaPlayer
-[submodule "platform/packages/apps/WallpaperPicker"]
-	path = packages/apps/WallpaperPicker
-	url = ../packages/apps/WallpaperPicker
 [submodule "platform/packages/apps/WallpaperPicker2"]
 	path = packages/apps/WallpaperPicker2
 	url = ../packages/apps/WallpaperPicker2
