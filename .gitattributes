@@ -10,6 +10,7 @@
 /external/googletest
 /external/grpc
 /external/lz4
+/external/mobly-bundled-snippets
 /external/nasm
 /external/protobuf
 /external/qemu
@@ -137,6 +138,7 @@
 /prebuilts/android-emulator
 /prebuilts/android-emulator-build/common
 /prebuilts/android-emulator-build/qemu-android-deps
+/prebuilts/android-emulator-build/system-images
 /prebuilts/bazel/darwin-x86_64 notdefault platform-darwin
 /prebuilts/bazel/linux-x86_64 platform-linux notdefault
 /prebuilts/bazel/windows-x86_64 notdefault platform-windows
@@ -154,6 +156,7 @@
 /prebuilts/python/linux-x86 platform-linux notdefault
 /prebuilts/python/windows-x86 notdefault platform-windows
 /prebuilts/rust
+/prebuilts/studio/jdk
 /tools/netsim
 /external/m4 platform-linux notdefault platform-darwin
 /external/libslirp

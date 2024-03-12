@@ -47,6 +47,10 @@
 	branch = main
 	path = external/lz4
 	url = ../external/lz4
+[submodule "platform/external/mobly-bundled-snippets"]
+	branch = main
+	path = external/mobly-bundled-snippets
+	url = ../external/mobly-bundled-snippets
 [submodule "platform/external/nasm"]
 	branch = emu-master-dev
 	path = external/nasm
@@ -558,6 +562,11 @@
 	shallow = true
 	path = prebuilts/android-emulator-build/qemu-android-deps
 	url = ../prebuilts/android-emulator-build/qemu-android-deps
+[submodule "platform/prebuilts/android-emulator-build/system-images"]
+	branch = main
+	shallow = true
+	path = prebuilts/android-emulator-build/system-images
+	url = ../prebuilts/android-emulator-build/system-images
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
 	branch = netsim-dev
 	shallow = true
@@ -641,6 +650,11 @@
 [submodule "platform/prebuilts/rust"]
 	path = prebuilts/rust
 	url = ../prebuilts/rust
+[submodule "platform/prebuilts/studio/jdk"]
+	branch = studio-main
+	shallow = true
+	path = prebuilts/studio/jdk
+	url = ../prebuilts/studio/jdk
 [submodule "platform/tools/netsim"]
 	branch = main
 	path = tools/netsim
