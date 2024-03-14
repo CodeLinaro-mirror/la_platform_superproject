@@ -30,6 +30,10 @@
 	branch = main
 	path = external/flatbuffers
 	url = ../external/flatbuffers
+[submodule "platform/external/googletest"]
+	branch = main
+	path = external/googletest
+	url = ../external/googletest
 [submodule "platform/external/libdrm"]
 	branch = emu-dev
 	path = external/libdrm

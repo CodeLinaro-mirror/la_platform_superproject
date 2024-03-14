@@ -6,6 +6,7 @@
 /external/crosvm
 /external/dtc
 /external/flatbuffers
+/external/googletest
 /external/libdrm
 /external/libpciaccess
 /external/libpng
