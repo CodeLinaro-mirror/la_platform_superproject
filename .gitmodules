@@ -1717,6 +1717,9 @@
 [submodule "platform/external/rust/crates/csv-core"]
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/dashmap"]
+	path = external/rust/crates/dashmap
+	url = ../external/rust/crates/dashmap
 [submodule "platform/external/rust/crates/data-encoding"]
 	path = external/rust/crates/data-encoding
 	url = ../external/rust/crates/data-encoding
