@@ -3896,7 +3896,7 @@
 	path = system/connectivity/wificond
 	url = ../system/connectivity/wificond
 [submodule "platform/system/core"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = system/core
 	url = ../system/core
 [submodule "platform/system/extras"]
