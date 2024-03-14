@@ -1372,9 +1372,6 @@
 [submodule "platform/external/private-join-and-compute"]
 	path = external/private-join-and-compute
 	url = ../external/private-join-and-compute
-[submodule "platform/external/proguard"]
-	path = external/proguard
-	url = ../external/proguard
 [submodule "platform/external/protobuf"]
 	path = external/protobuf
 	url = ../external/protobuf
@@ -1402,18 +1399,12 @@
 [submodule "platform/external/python/cachetools"]
 	path = external/python/cachetools
 	url = ../external/python/cachetools
-[submodule "platform/external/python/cffi"]
-	path = external/python/cffi
-	url = ../external/python/cffi
 [submodule "platform/external/python/cpython2"]
 	path = external/python/cpython2
 	url = ../external/python/cpython2
 [submodule "platform/external/python/cpython3"]
 	path = external/python/cpython3
 	url = ../external/python/cpython3
-[submodule "platform/external/python/cryptography"]
-	path = external/python/cryptography
-	url = ../external/python/cryptography
 [submodule "platform/external/python/dateutil"]
 	path = external/python/dateutil
 	url = ../external/python/dateutil
