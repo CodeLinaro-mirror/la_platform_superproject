@@ -622,6 +622,9 @@
 [submodule "platform/external/rust/crates/memchr"]
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/memmap2"]
+	path = external/rust/crates/memmap2
+	url = ../external/rust/crates/memmap2
 [submodule "platform/external/rust/crates/memoffset"]
 	path = external/rust/crates/memoffset
 	url = ../external/rust/crates/memoffset
@@ -1144,6 +1147,9 @@
 [submodule "platform/prebuilts/jdk/jdk17"]
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
+[submodule "platform/prebuilts/jdk/jdk21"]
+	path = prebuilts/jdk/jdk21
+	url = ../prebuilts/jdk/jdk21
 [submodule "platform/prebuilts/jdk/jdk8"]
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8

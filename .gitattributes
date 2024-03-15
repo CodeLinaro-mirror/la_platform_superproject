@@ -206,6 +206,7 @@
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
 /external/rust/crates/memchr pdk
+/external/rust/crates/memmap2 pdk
 /external/rust/crates/memoffset pdk
 /external/rust/crates/merge pdk
 /external/rust/crates/merge_derive pdk
@@ -380,6 +381,7 @@
 /prebuilts/go/linux-x86 linux
 /prebuilts/jdk/jdk11
 /prebuilts/jdk/jdk17
+/prebuilts/jdk/jdk21
 /prebuilts/jdk/jdk8
 /prebuilts/jdk/jdk9
 /prebuilts/misc
