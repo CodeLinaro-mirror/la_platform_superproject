@@ -916,6 +916,9 @@
 [submodule "platform/external/jemalloc_new"]
 	path = external/jemalloc_new
 	url = ../external/jemalloc_new
+[submodule "platform/external/jetpack-camera-app"]
+	path = external/jetpack-camera-app
+	url = ../external/jetpack-camera-app
 [submodule "platform/external/jimfs"]
 	path = external/jimfs
 	url = ../external/jimfs
