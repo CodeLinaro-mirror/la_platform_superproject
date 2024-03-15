@@ -96,7 +96,7 @@
 	path = external/grpc
 	url = ../external/grpc-grpc
 [submodule "platform/external/libpng"]
-	branch = emu-master-dev
+	branch = main
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/libusb"]
