@@ -12,9 +12,6 @@
 	shallow = true
 	path = external/dokka
 	url = ../external/dokka
-[submodule "platform/external/freetype"]
-	path = external/freetype
-	url = ../external/freetype
 [submodule "platform/external/gflags"]
 	branch = mirror-goog-studio-main
 	path = external/gflags
@@ -37,9 +34,6 @@
 	branch = studio-main
 	path = external/jetbrains/kotlin
 	url = ../external/jetbrains/kotlin
-[submodule "platform/external/libpng"]
-	path = external/libpng
-	url = ../external/libpng
 [submodule "platform/external/nanopb-c"]
 	branch = mirror-goog-studio-main
 	path = external/nanopb-c
@@ -54,9 +48,6 @@
 [submodule "platform/external/python/absl-py"]
 	path = external/python/absl-py
 	url = ../external/python/absl-py
-[submodule "platform/external/skia"]
-	path = external/skia
-	url = ../external/skia
 [submodule "platform/external/zlib"]
 	path = external/zlib
 	url = ../external/zlib
