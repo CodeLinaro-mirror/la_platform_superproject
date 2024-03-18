@@ -79,6 +79,11 @@
 	shallow = true
 	path = external/rust/crates/anyhow
 	url = ../external/rust/crates/anyhow
+[submodule "platform/external/rust/crates/bitflags"]
+	branch = main
+	shallow = true
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/byteorder"]
 	branch = main
 	shallow = true
@@ -99,6 +104,16 @@
 	shallow = true
 	path = external/rust/crates/log
 	url = ../external/rust/crates/log
+[submodule "platform/external/rust/crates/memoffset"]
+	branch = main
+	shallow = true
+	path = external/rust/crates/memoffset
+	url = ../external/rust/crates/memoffset
+[submodule "platform/external/rust/crates/nix"]
+	branch = main
+	shallow = true
+	path = external/rust/crates/nix
+	url = ../external/rust/crates/nix
 [submodule "platform/external/rust/crates/once_cell"]
 	branch = main
 	shallow = true
