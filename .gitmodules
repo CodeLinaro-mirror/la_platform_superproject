@@ -520,7 +520,6 @@
 	path = external/rust/crates/zip
 	url = ../external/rust/crates/zip
 [submodule "platform/external/rust/cxx"]
-	branch = main
 	path = external/rust/crates/cxx
 	url = ../external/rust/cxx
 [submodule "platform/external/rust/pica"]
