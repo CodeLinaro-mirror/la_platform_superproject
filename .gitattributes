@@ -17,6 +17,7 @@
 /external/pixman
 /external/pkg-config
 /external/qemu
+/external/regex-re2
 /external/rust/crates/anyhow
 /external/rust/crates/bitflags
 /external/rust/crates/byteorder
