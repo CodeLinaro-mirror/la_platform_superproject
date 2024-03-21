@@ -5,6 +5,7 @@
 	path = device/generic/vulkan-cereal
 	url = ../../device/generic/vulkan-cereal
 [submodule "device/google/cuttlefish"]
+	branch = main
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
 [submodule "platform/build"]
