@@ -967,6 +967,9 @@
 [submodule "platform/external/kotlinx.metadata"]
 	path = external/kotlinx.metadata
 	url = ../external/kotlinx.metadata
+[submodule "platform/external/kotlinx.serialization"]
+	path = external/kotlinx.serialization
+	url = ../external/kotlinx.serialization
 [submodule "platform/external/ksoap2"]
 	path = external/ksoap2
 	url = ../external/ksoap2
@@ -1453,9 +1456,6 @@
 [submodule "platform/external/python/pyasn1-modules"]
 	path = external/python/pyasn1-modules
 	url = ../external/python/pyasn1-modules
-[submodule "platform/external/python/pybind11"]
-	path = external/python/pybind11
-	url = ../external/python/pybind11
 [submodule "platform/external/python/pycparser"]
 	path = external/python/pycparser
 	url = ../external/python/pycparser

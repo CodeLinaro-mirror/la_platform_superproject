@@ -321,6 +321,7 @@
 /external/kotlinx.atomicfu pdk
 /external/kotlinx.coroutines pdk
 /external/kotlinx.metadata pdk
+/external/kotlinx.serialization pdk
 /external/ksoap2 pdk
 /external/ksp pdk
 /external/ktfmt pdk
@@ -483,7 +484,6 @@
 /external/python/portpicker pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
-/external/python/pybind11 pdk
 /external/python/pycparser pdk
 /external/python/pyee pdk
 /external/python/pyfakefs pdk
