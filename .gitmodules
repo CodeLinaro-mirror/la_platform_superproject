@@ -3912,7 +3912,7 @@
 	path = system/gatekeeper
 	url = ../system/gatekeeper
 [submodule "platform/system/gsid"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = system/gsid
 	url = ../system/gsid
 [submodule "platform/system/hardware/interfaces"]
