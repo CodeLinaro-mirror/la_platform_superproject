@@ -62,6 +62,7 @@
 /external/llvm
 /external/lzma
 /external/musl
+/external/n2
 /external/ninja
 /external/nsjail
 /external/one-true-awk
@@ -130,6 +131,7 @@
 /external/rust/crates/crossbeam-utils pdk
 /external/rust/crates/csv pdk
 /external/rust/crates/csv-core pdk
+/external/rust/crates/dashmap pdk
 /external/rust/crates/data-encoding pdk
 /external/rust/crates/der pdk
 /external/rust/crates/der-oid-macro pdk
