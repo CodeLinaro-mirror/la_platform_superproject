@@ -18,6 +18,11 @@
 	branch = emu-dev
 	path = external/glib
 	url = ../external/bluetooth/glib
+[submodule "platform/external/boringssl"]
+	branch = main
+	shallow = true
+	path = external/boringssl
+	url = ../external/boringssl
 [submodule "platform/external/crosvm"]
 	branch = emu-dev
 	path = external/crosvm

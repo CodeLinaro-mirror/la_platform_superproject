@@ -3,6 +3,7 @@
 /external/abseil-cpp
 /external/angle
 /external/glib
+/external/boringssl
 /external/crosvm
 /external/dtc
 /external/flatbuffers
