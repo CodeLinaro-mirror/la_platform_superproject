@@ -340,9 +340,6 @@
 [submodule "platform/build/blueprint"]
 	path = build/blueprint
 	url = ../build/blueprint
-[submodule "platform/build/orchestrator"]
-	path = build/orchestrator
-	url = ../build/orchestrator
 [submodule "platform/build/pesto"]
 	path = build/pesto
 	url = ../build/pesto
@@ -1534,6 +1531,9 @@
 [submodule "platform/external/rust/crates/aarch64-paging"]
 	path = external/rust/crates/aarch64-paging
 	url = ../external/rust/crates/aarch64-paging
+[submodule "platform/external/rust/crates/acpi"]
+	path = external/rust/crates/acpi
+	url = ../external/rust/crates/acpi
 [submodule "platform/external/rust/crates/ahash"]
 	path = external/rust/crates/ahash
 	url = ../external/rust/crates/ahash
@@ -1606,6 +1606,9 @@
 [submodule "platform/external/rust/crates/bindgen-cli"]
 	path = external/rust/crates/bindgen-cli
 	url = ../external/rust/crates/bindgen-cli
+[submodule "platform/external/rust/crates/bit_field"]
+	path = external/rust/crates/bit_field
+	url = ../external/rust/crates/bit_field
 [submodule "platform/external/rust/crates/bitflags"]
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags

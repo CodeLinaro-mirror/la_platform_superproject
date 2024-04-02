@@ -112,7 +112,6 @@
 /build/bazel pdk
 /build/bazel_common_rules pdk
 /build/blueprint tradefed pdk
-/build/orchestrator pdk
 /build/pesto pdk
 /build/release tradefed pdk
 /build/soong tradefed pdk
@@ -510,6 +509,7 @@
 /external/rust/autocxx pdk
 /external/rust/beto-rust pdk
 /external/rust/crates/aarch64-paging pdk
+/external/rust/crates/acpi pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
 /external/rust/crates/android_log-sys pdk
@@ -534,6 +534,7 @@
 /external/rust/crates/bencher pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bindgen-cli pdk
+/external/rust/crates/bit_field pdk
 /external/rust/crates/bitflags pdk
 /external/rust/crates/bitreader pdk
 /external/rust/crates/bstr pdk
