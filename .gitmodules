@@ -75,6 +75,11 @@
 	branch = emu-dev
 	path = external/pkg-config
 	url = ../external/pkg-config
+[submodule "platform/external/protobuf"]
+	branch = emu-dev
+	shallow = true
+	path = external/protobuf
+	url = ../external/protobuf
 [submodule "platform/external/qemu"]
 	branch = emu-dev
 	path = external/qemu

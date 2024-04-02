@@ -17,6 +17,7 @@
 /external/pcre2
 /external/pixman
 /external/pkg-config
+/external/protobuf
 /external/qemu
 /external/regex-re2
 /external/rust/crates/anyhow
