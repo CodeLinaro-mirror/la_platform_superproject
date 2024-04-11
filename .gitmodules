@@ -284,6 +284,14 @@
 	branch = emu-dev
 	path = tools/buildSrc
 	url = ../tools/buildSrc
+[submodule "trusty/external/qemu-keycodemapdb"]
+	branch = main
+	path = external/keycodemapdb
+	url = ../../trusty/external/qemu-keycodemapdb
+[submodule "trusty/external/qemu-libslirp"]
+	branch = main
+	path = external/libslirp
+	url = ../../trusty/external/qemu-libslirp
 [submodule "trusty/external/qemu-meson"]
 	branch = emu-dev
 	path = external/meson

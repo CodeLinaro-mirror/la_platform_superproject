@@ -62,4 +62,6 @@
 /prebuilts/python/windows-x86 notdefault platform-windows
 /prebuilts/rust
 /tools/buildSrc
+/external/keycodemapdb
+/external/libslirp
 /external/meson
