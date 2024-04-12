@@ -289,7 +289,7 @@
 	path = external/keycodemapdb
 	url = ../../trusty/external/qemu-keycodemapdb
 [submodule "trusty/external/qemu-libslirp"]
-	branch = main
+	branch = emu-dev
 	path = external/libslirp
 	url = ../../trusty/external/qemu-libslirp
 [submodule "trusty/external/qemu-meson"]
