@@ -1600,6 +1600,9 @@
 [submodule "platform/external/rust/crates/bencher"]
 	path = external/rust/crates/bencher
 	url = ../external/rust/crates/bencher
+[submodule "platform/external/rust/crates/bincode"]
+	path = external/rust/crates/bincode
+	url = ../external/rust/crates/bincode
 [submodule "platform/external/rust/crates/bindgen"]
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
