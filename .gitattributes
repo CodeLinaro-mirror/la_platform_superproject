@@ -120,6 +120,9 @@
 /external/rust/crates/tokio-macros
 /external/rust/crates/tokio-stream
 /external/rust/crates/tokio-util
+/external/rust/crates/tracing
+/external/rust/crates/tracing-attributes
+/external/rust/crates/tracing-core
 /external/rust/crates/tungstenite
 /external/rust/crates/ucd-trie
 /external/rust/crates/unicode-ident

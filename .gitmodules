@@ -487,6 +487,18 @@
 	branch = main
 	path = external/rust/crates/tokio-util
 	url = ../external/rust/crates/tokio-util
+[submodule "platform/external/rust/crates/tracing"]
+	branch = main
+	path = external/rust/crates/tracing
+	url = ../external/rust/crates/tracing
+[submodule "platform/external/rust/crates/tracing-attributes"]
+	branch = main
+	path = external/rust/crates/tracing-attributes
+	url = ../external/rust/crates/tracing-attributes
+[submodule "platform/external/rust/crates/tracing-core"]
+	branch = main
+	path = external/rust/crates/tracing-core
+	url = ../external/rust/crates/tracing-core
 [submodule "platform/external/rust/crates/tungstenite"]
 	branch = main
 	path = external/rust/crates/tungstenite
