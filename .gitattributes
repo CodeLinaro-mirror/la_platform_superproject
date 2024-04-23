@@ -43,11 +43,18 @@
 /external/rust/crates/env_logger
 /external/rust/crates/fastrand
 /external/rust/crates/fnv
+/external/rust/crates/futures-channel
 /external/rust/crates/futures-core
+/external/rust/crates/futures-executor
+/external/rust/crates/futures-io
 /external/rust/crates/futures-sink
+/external/rust/crates/futures-task
+/external/rust/crates/futures-util
 /external/rust/crates/getrandom
 /external/rust/crates/glam
 /external/rust/crates/glob
+/external/rust/crates/grpcio
+/external/rust/crates/grpcio-sys
 /external/rust/crates/hashbrown
 /external/rust/crates/heck
 /external/rust/crates/hex
@@ -60,6 +67,8 @@
 /external/rust/crates/lazycell
 /external/rust/crates/libc
 /external/rust/crates/libloading
+/external/rust/crates/libz-sys
+/external/rust/crates/lock_api
 /external/rust/crates/log
 /external/rust/crates/memchr
 /external/rust/crates/memoffset
@@ -73,6 +82,8 @@
 /external/rust/crates/num_cpus
 /external/rust/crates/once_cell
 /external/rust/crates/os_str_bytes
+/external/rust/crates/parking_lot
+/external/rust/crates/parking_lot_core
 /external/rust/crates/paste
 /external/rust/crates/pdl-compiler
 /external/rust/crates/pdl-runtime
@@ -110,6 +121,8 @@
 /external/rust/crates/serde_json
 /external/rust/crates/sharded-slab
 /external/rust/crates/shlex
+/external/rust/crates/slab
+/external/rust/crates/smallvec
 /external/rust/crates/socket2
 /external/rust/crates/syn
 /external/rust/crates/tempfile
