@@ -108,6 +108,7 @@
 /external/rust/crates/serde
 /external/rust/crates/serde_derive
 /external/rust/crates/serde_json
+/external/rust/crates/sharded-slab
 /external/rust/crates/shlex
 /external/rust/crates/socket2
 /external/rust/crates/syn
@@ -116,6 +117,7 @@
 /external/rust/crates/textwrap
 /external/rust/crates/thiserror
 /external/rust/crates/thiserror-impl
+/external/rust/crates/thread_local
 /external/rust/crates/tokio
 /external/rust/crates/tokio-macros
 /external/rust/crates/tokio-stream
@@ -123,6 +125,7 @@
 /external/rust/crates/tracing
 /external/rust/crates/tracing-attributes
 /external/rust/crates/tracing-core
+/external/rust/crates/tracing-subscriber
 /external/rust/crates/tungstenite
 /external/rust/crates/ucd-trie
 /external/rust/crates/unicode-ident

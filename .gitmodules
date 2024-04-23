@@ -439,6 +439,10 @@
 	branch = main
 	path = external/rust/crates/serde_json
 	url = ../external/rust/crates/serde_json
+[submodule "platform/external/rust/crates/sharded-slab"]
+	branch = main
+	path = external/rust/crates/sharded-slab
+	url = ../external/rust/crates/sharded-slab
 [submodule "platform/external/rust/crates/shlex"]
 	branch = main
 	path = external/rust/crates/shlex
@@ -471,6 +475,10 @@
 	branch = main
 	path = external/rust/crates/thiserror-impl
 	url = ../external/rust/crates/thiserror-impl
+[submodule "platform/external/rust/crates/thread_local"]
+	branch = main
+	path = external/rust/crates/thread_local
+	url = ../external/rust/crates/thread_local
 [submodule "platform/external/rust/crates/tokio"]
 	branch = main
 	path = external/rust/crates/tokio
@@ -499,6 +507,10 @@
 	branch = main
 	path = external/rust/crates/tracing-core
 	url = ../external/rust/crates/tracing-core
+[submodule "platform/external/rust/crates/tracing-subscriber"]
+	branch = main
+	path = external/rust/crates/tracing-subscriber
+	url = ../external/rust/crates/tracing-subscriber
 [submodule "platform/external/rust/crates/tungstenite"]
 	branch = main
 	path = external/rust/crates/tungstenite
