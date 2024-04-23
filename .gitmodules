@@ -1,213 +1,129 @@
 [submodule "kernel/prebuilts/build-tools"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/kernel-build-tools
 	url = https://android.googlesource.com/kernel/prebuilts/build-tools
 [submodule "platform/build"]
-	branch = androidx-wear-platform-release
 	path = build/make
 	url = https://android.googlesource.com/platform/build
 [submodule "platform/external/abseil-cpp"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/abseil-cpp
 	url = https://android.googlesource.com/platform/external/abseil-cpp
 [submodule "platform/external/dokka"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/dokka
 	url = https://android.googlesource.com/platform/external/dokka
 [submodule "platform/external/google-benchmark"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/google-benchmark
 	url = https://android.googlesource.com/platform/external/google-benchmark
 [submodule "platform/external/icing"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/icing
 	url = https://android.googlesource.com/platform/external/icing
 [submodule "platform/external/icu"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/icu
 	url = https://android.googlesource.com/platform/external/icu
 [submodule "platform/external/ink-stroke-modeler"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/ink-stroke-modeler
 	url = https://android.googlesource.com/platform/external/ink-stroke-modeler
 [submodule "platform/external/libyuv"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/libyuv
 	url = https://android.googlesource.com/platform/external/libyuv
 [submodule "platform/external/noto-fonts"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/noto-fonts
 	url = https://android.googlesource.com/platform/external/noto-fonts
 [submodule "platform/external/protobuf"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/protobuf
 	url = https://android.googlesource.com/platform/external/protobuf
 [submodule "platform/external/webview_support_interfaces"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/webview_support_interfaces
 	url = https://android.googlesource.com/platform/external/webview_support_interfaces
 [submodule "platform/frameworks/support"]
-	branch = androidx-wear-platform-release
 	path = frameworks/support
 	url = https://android.googlesource.com/platform/frameworks/support
 [submodule "platform/frameworks/support-golden"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = golden
 	url = https://android.googlesource.com/platform/frameworks/support-golden
 [submodule "platform/prebuilts/androidx/exoplayer"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/androidx/exoplayer
 	url = https://android.googlesource.com/platform/prebuilts/androidx/exoplayer
 [submodule "platform/prebuilts/androidx/external"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/androidx/external
 	url = https://android.googlesource.com/platform/prebuilts/androidx/external
 [submodule "platform/prebuilts/androidx/internal"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/androidx/internal
 	url = https://android.googlesource.com/platform/prebuilts/androidx/internal
 [submodule "platform/prebuilts/androidx/konan"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/androidx/konan
 	url = https://android.googlesource.com/platform/prebuilts/androidx/konan
 [submodule "platform/prebuilts/androidx/traceprocessor"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/androidx/traceprocessor
 	url = https://android.googlesource.com/platform/prebuilts/androidx/traceprocessor
 [submodule "platform/prebuilts/build-tools"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/build-tools
 	url = https://android.googlesource.com/platform/prebuilts/build-tools
 [submodule "platform/prebuilts/checkstyle"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/checkstyle
 	url = https://android.googlesource.com/platform/prebuilts/checkstyle
 [submodule "platform/prebuilts/cmake/darwin-x86"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/cmake
 	url = https://android.googlesource.com/platform/prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/cmake
 	url = https://android.googlesource.com/platform/prebuilts/cmake/linux-x86
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/build-tools
 	url = https://android.googlesource.com/platform/prebuilts/fullsdk-darwin/build-tools
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = https://android.googlesource.com/platform/prebuilts/fullsdk-darwin/platform-tools
 [submodule "platform/prebuilts/fullsdk-darwin/tools"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/tools
 	url = https://android.googlesource.com/platform/prebuilts/fullsdk-darwin/tools
 [submodule "platform/prebuilts/fullsdk-linux/build-tools"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/build-tools
 	url = https://android.googlesource.com/platform/prebuilts/fullsdk-linux/build-tools
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = https://android.googlesource.com/platform/prebuilts/fullsdk-linux/platform-tools
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/tools
 	url = https://android.googlesource.com/platform/prebuilts/fullsdk-linux/tools
 [submodule "platform/prebuilts/fullsdk/platforms"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/platforms
 	url = https://android.googlesource.com/platform/prebuilts/fullsdk/platforms
 [submodule "platform/prebuilts/fullsdk/sources"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/sources
 	url = https://android.googlesource.com/platform/prebuilts/fullsdk/sources
 [submodule "platform/prebuilts/jdk/jdk17"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/jdk/jdk17
 	url = https://android.googlesource.com/platform/prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk8"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = https://android.googlesource.com/platform/prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/ninja
 	url = https://android.googlesource.com/platform/prebuilts/ninja/darwin-x86
 [submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/ninja
 	url = https://android.googlesource.com/platform/prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/protobuf"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/protobuf
 	url = https://android.googlesource.com/platform/prebuilts/protobuf
 [submodule "platform/tools/dexter"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = external/dexter
 	url = https://android.googlesource.com/platform/tools/dexter
 [submodule "platform/tools/external/gradle"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = tools/external/gradle
 	url = https://android.googlesource.com/platform/tools/external/gradle
 [submodule "platform/tools/metalava"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = tools/metalava
 	url = https://android.googlesource.com/platform/tools/metalava
 [submodule "platform/tools/repohooks"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = tools/repohooks
 	url = https://android.googlesource.com/platform/tools/repohooks
 [submodule "toolchain/prebuilts/ndk-darwin/r23"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/ndk-bundle
 	url = https://android.googlesource.com/toolchain/prebuilts/ndk-darwin/r23
 [submodule "toolchain/prebuilts/ndk/r23"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/ndk-bundle
 	url = https://android.googlesource.com/toolchain/prebuilts/ndk/r23
 [submodule "tools/fetch_artifact"]
-	branch = androidx-wear-platform-release
-	shallow = true
 	path = tools/fetch_artifact
 	url = https://android.googlesource.com/tools/fetch_artifact
