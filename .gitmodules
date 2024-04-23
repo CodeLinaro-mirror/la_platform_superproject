@@ -1636,6 +1636,9 @@
 [submodule "platform/external/rust/crates/bytes"]
 	path = external/rust/crates/bytes
 	url = ../external/rust/crates/bytes
+[submodule "platform/external/rust/crates/camino"]
+	path = external/rust/crates/camino
+	url = ../external/rust/crates/camino
 [submodule "platform/external/rust/crates/cast"]
 	path = external/rust/crates/cast
 	url = ../external/rust/crates/cast
@@ -1726,12 +1729,24 @@
 [submodule "platform/external/rust/crates/csv-core"]
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/darling"]
+	path = external/rust/crates/darling
+	url = ../external/rust/crates/darling
+[submodule "platform/external/rust/crates/darling_core"]
+	path = external/rust/crates/darling_core
+	url = ../external/rust/crates/darling_core
+[submodule "platform/external/rust/crates/darling_macro"]
+	path = external/rust/crates/darling_macro
+	url = ../external/rust/crates/darling_macro
 [submodule "platform/external/rust/crates/dashmap"]
 	path = external/rust/crates/dashmap
 	url = ../external/rust/crates/dashmap
 [submodule "platform/external/rust/crates/data-encoding"]
 	path = external/rust/crates/data-encoding
 	url = ../external/rust/crates/data-encoding
+[submodule "platform/external/rust/crates/debug_tree"]
+	path = external/rust/crates/debug_tree
+	url = ../external/rust/crates/debug_tree
 [submodule "platform/external/rust/crates/der"]
 	path = external/rust/crates/der
 	url = ../external/rust/crates/der
@@ -1897,6 +1912,9 @@
 [submodule "platform/external/rust/crates/httparse"]
 	path = external/rust/crates/httparse
 	url = ../external/rust/crates/httparse
+[submodule "platform/external/rust/crates/ident_case"]
+	path = external/rust/crates/ident_case
+	url = ../external/rust/crates/ident_case
 [submodule "platform/external/rust/crates/idna"]
 	path = external/rust/crates/idna
 	url = ../external/rust/crates/idna
@@ -1990,6 +2008,9 @@
 [submodule "platform/external/rust/crates/matches"]
 	path = external/rust/crates/matches
 	url = ../external/rust/crates/matches
+[submodule "platform/external/rust/crates/maybe-async"]
+	path = external/rust/crates/maybe-async
+	url = ../external/rust/crates/maybe-async
 [submodule "platform/external/rust/crates/memchr"]
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
@@ -2017,6 +2038,18 @@
 [submodule "platform/external/rust/crates/mio"]
 	path = external/rust/crates/mio
 	url = ../external/rust/crates/mio
+[submodule "platform/external/rust/crates/mls-rs"]
+	path = external/rust/crates/mls-rs
+	url = ../external/rust/crates/mls-rs
+[submodule "platform/external/rust/crates/mls-rs-codec"]
+	path = external/rust/crates/mls-rs-codec
+	url = ../external/rust/crates/mls-rs-codec
+[submodule "platform/external/rust/crates/mls-rs-codec-derive"]
+	path = external/rust/crates/mls-rs-codec-derive
+	url = ../external/rust/crates/mls-rs-codec-derive
+[submodule "platform/external/rust/crates/mls-rs-core"]
+	path = external/rust/crates/mls-rs-core
+	url = ../external/rust/crates/mls-rs-core
 [submodule "platform/external/rust/crates/mockall"]
 	path = external/rust/crates/mockall
 	url = ../external/rust/crates/mockall
@@ -2059,6 +2092,9 @@
 [submodule "platform/external/rust/crates/once_cell"]
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
+[submodule "platform/external/rust/crates/oneshot-uniffi"]
+	path = external/rust/crates/oneshot-uniffi
+	url = ../external/rust/crates/oneshot-uniffi
 [submodule "platform/external/rust/crates/oorandom"]
 	path = external/rust/crates/oorandom
 	url = ../external/rust/crates/oorandom
@@ -2317,6 +2353,9 @@
 [submodule "platform/external/rust/crates/static_assertions"]
 	path = external/rust/crates/static_assertions
 	url = ../external/rust/crates/static_assertions
+[submodule "platform/external/rust/crates/strsim"]
+	path = external/rust/crates/strsim
+	url = ../external/rust/crates/strsim
 [submodule "platform/external/rust/crates/strum"]
 	path = external/rust/crates/strum
 	url = ../external/rust/crates/strum
@@ -2437,6 +2476,15 @@
 [submodule "platform/external/rust/crates/unicode-xid"]
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/uniffi_checksum_derive"]
+	path = external/rust/crates/uniffi_checksum_derive
+	url = ../external/rust/crates/uniffi_checksum_derive
+[submodule "platform/external/rust/crates/uniffi_core"]
+	path = external/rust/crates/uniffi_core
+	url = ../external/rust/crates/uniffi_core
+[submodule "platform/external/rust/crates/uniffi_meta"]
+	path = external/rust/crates/uniffi_meta
+	url = ../external/rust/crates/uniffi_meta
 [submodule "platform/external/rust/crates/unsafe-libyaml"]
 	path = external/rust/crates/unsafe-libyaml
 	url = ../external/rust/crates/unsafe-libyaml
@@ -3061,6 +3109,9 @@
 [submodule "platform/libnativehelper"]
 	path = libnativehelper
 	url = ../libnativehelper
+[submodule "platform/packages/apps/AvatarPicker"]
+	path = packages/apps/AvatarPicker
+	url = ../packages/apps/AvatarPicker
 [submodule "platform/packages/apps/BasicSmsReceiver"]
 	path = packages/apps/BasicSmsReceiver
 	url = ../packages/apps/BasicSmsReceiver

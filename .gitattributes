@@ -544,6 +544,7 @@
 /external/rust/crates/bytemuck_derive pdk
 /external/rust/crates/byteorder pdk
 /external/rust/crates/bytes pdk
+/external/rust/crates/camino pdk
 /external/rust/crates/cast pdk
 /external/rust/crates/cesu8 pdk
 /external/rust/crates/cexpr pdk
@@ -574,8 +575,12 @@
 /external/rust/crates/crossbeam-utils pdk
 /external/rust/crates/csv pdk
 /external/rust/crates/csv-core pdk
+/external/rust/crates/darling pdk
+/external/rust/crates/darling_core pdk
+/external/rust/crates/darling_macro pdk
 /external/rust/crates/dashmap pdk
 /external/rust/crates/data-encoding pdk
+/external/rust/crates/debug_tree pdk
 /external/rust/crates/der pdk
 /external/rust/crates/der_derive pdk
 /external/rust/crates/derive_arbitrary pdk
@@ -631,6 +636,7 @@
 /external/rust/crates/hex pdk
 /external/rust/crates/http pdk
 /external/rust/crates/httparse pdk
+/external/rust/crates/ident_case pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
 /external/rust/crates/ini pdk
@@ -662,6 +668,7 @@
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
 /external/rust/crates/matches trusty
+/external/rust/crates/maybe-async pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/memmap2 pdk
 /external/rust/crates/memoffset pdk
@@ -671,6 +678,10 @@
 /external/rust/crates/miette-derive pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
+/external/rust/crates/mls-rs pdk
+/external/rust/crates/mls-rs-codec pdk
+/external/rust/crates/mls-rs-codec-derive pdk
+/external/rust/crates/mls-rs-core pdk
 /external/rust/crates/mockall pdk
 /external/rust/crates/mockall_derive pdk
 /external/rust/crates/moveit pdk
@@ -685,6 +696,7 @@
 /external/rust/crates/num_cpus pdk
 /external/rust/crates/octets pdk
 /external/rust/crates/once_cell pdk
+/external/rust/crates/oneshot-uniffi pdk
 /external/rust/crates/oorandom pdk
 /external/rust/crates/openmls pdk
 /external/rust/crates/openmls_traits pdk
@@ -771,6 +783,7 @@
 /external/rust/crates/spin pdk
 /external/rust/crates/spki pdk
 /external/rust/crates/static_assertions pdk
+/external/rust/crates/strsim pdk
 /external/rust/crates/strum pdk
 /external/rust/crates/strum_macros pdk
 /external/rust/crates/syn pdk
@@ -811,6 +824,9 @@
 /external/rust/crates/unicode-segmentation pdk
 /external/rust/crates/unicode-width pdk
 /external/rust/crates/unicode-xid pdk
+/external/rust/crates/uniffi_checksum_derive pdk
+/external/rust/crates/uniffi_core pdk
+/external/rust/crates/uniffi_meta pdk
 /external/rust/crates/unsafe-libyaml pdk
 /external/rust/crates/untrusted pdk
 /external/rust/crates/url pdk
@@ -1019,6 +1035,7 @@
 /hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk
+/packages/apps/AvatarPicker pdk-fs
 /packages/apps/BasicSmsReceiver pdk-fs pdk-cw-fs
 /packages/apps/Browser2 pdk-fs
 /packages/apps/Calendar pdk-fs
