@@ -808,6 +808,9 @@
 [submodule "platform/external/google-styleguide"]
 	path = external/google-styleguide
 	url = ../external/google-styleguide
+[submodule "platform/external/googleapis"]
+	path = external/googleapis
+	url = ../external/googleapis
 [submodule "platform/external/googletest"]
 	path = external/googletest
 	url = ../external/googletest
@@ -3592,9 +3595,6 @@
 [submodule "platform/prebuilts/gradle-plugin"]
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
-[submodule "platform/prebuilts/jdk/jdk11"]
-	path = prebuilts/jdk/jdk11
-	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk17"]
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
@@ -3604,9 +3604,6 @@
 [submodule "platform/prebuilts/jdk/jdk8"]
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
-[submodule "platform/prebuilts/jdk/jdk9"]
-	path = prebuilts/jdk/jdk9
-	url = ../prebuilts/jdk/jdk9
 [submodule "platform/prebuilts/ktlint"]
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
