@@ -484,6 +484,9 @@
 [submodule "platform/external/bazelbuild-platforms"]
 	path = external/bazelbuild-platforms
 	url = ../external/bazelbuild-platforms
+[submodule "platform/external/bazelbuild-remote-apis"]
+	path = external/bazelbuild-remote-apis
+	url = ../external/bazelbuild-remote-apis
 [submodule "platform/external/bazelbuild-rules_android"]
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
@@ -1825,6 +1828,9 @@
 [submodule "platform/external/rust/crates/fragile"]
 	path = external/rust/crates/fragile
 	url = ../external/rust/crates/fragile
+[submodule "platform/external/rust/crates/fs-err"]
+	path = external/rust/crates/fs-err
+	url = ../external/rust/crates/fs-err
 [submodule "platform/external/rust/crates/futures"]
 	path = external/rust/crates/futures
 	url = ../external/rust/crates/futures
@@ -2101,12 +2107,6 @@
 [submodule "platform/external/rust/crates/oorandom"]
 	path = external/rust/crates/oorandom
 	url = ../external/rust/crates/oorandom
-[submodule "platform/external/rust/crates/openmls"]
-	path = external/rust/crates/openmls
-	url = ../external/rust/crates/openmls
-[submodule "platform/external/rust/crates/openmls_traits"]
-	path = external/rust/crates/openmls_traits
-	url = ../external/rust/crates/openmls_traits
 [submodule "platform/external/rust/crates/openssl"]
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
@@ -2410,12 +2410,6 @@
 [submodule "platform/external/rust/crates/tinyvec_macros"]
 	path = external/rust/crates/tinyvec_macros
 	url = ../external/rust/crates/tinyvec_macros
-[submodule "platform/external/rust/crates/tls_codec"]
-	path = external/rust/crates/tls_codec
-	url = ../external/rust/crates/tls_codec
-[submodule "platform/external/rust/crates/tls_codec_derive"]
-	path = external/rust/crates/tls_codec_derive
-	url = ../external/rust/crates/tls_codec_derive
 [submodule "platform/external/rust/crates/tokio"]
 	path = external/rust/crates/tokio
 	url = ../external/rust/crates/tokio
