@@ -295,6 +295,10 @@
 	branch = main
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "platform/external/python/six"]
+	branch = main
+	path = external/python/six
+	url = ../external/python/six
 [submodule "platform/external/rust/autocxx"]
 	branch = main
 	path = external/rust/autocxx
@@ -1631,6 +1635,10 @@
 	branch = main
 	path = test/app_compat/csuite
 	url = ../test/app_compat/csuite
+[submodule "platform/tools/asuite"]
+	branch = main
+	path = tools/asuite
+	url = ../tools/asuite
 [submodule "toolchain/go"]
 	branch = main
 	path = toolchain/go

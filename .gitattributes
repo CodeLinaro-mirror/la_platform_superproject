@@ -72,6 +72,7 @@
 /external/protobuf
 /external/python/cpython2
 /external/python/cpython3
+/external/python/six
 /external/rust/autocxx pdk
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
@@ -401,6 +402,7 @@
 /system/tools/xsdc
 /system/unwinding
 /test/app_compat/csuite
+/tools/asuite
 /toolchain/go
 /toolchain/m4
 /toolchain/make
