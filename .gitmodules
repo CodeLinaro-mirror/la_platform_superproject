@@ -190,6 +190,9 @@
 [submodule "platform/external/musl"]
 	path = external/musl
 	url = ../external/musl
+[submodule "platform/external/n2"]
+	path = external/n2
+	url = ../external/n2
 [submodule "platform/external/ninja"]
 	path = external/ninja
 	url = ../external/ninja
@@ -217,6 +220,9 @@
 [submodule "platform/external/python/cpython3"]
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "platform/external/python/six"]
+	path = external/python/six
+	url = ../external/python/six
 [submodule "platform/external/rust/autocxx"]
 	path = external/rust/autocxx
 	url = ../external/rust/autocxx
@@ -394,6 +400,9 @@
 [submodule "platform/external/rust/crates/csv-core"]
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/dashmap"]
+	path = external/rust/crates/dashmap
+	url = ../external/rust/crates/dashmap
 [submodule "platform/external/rust/crates/data-encoding"]
 	path = external/rust/crates/data-encoding
 	url = ../external/rust/crates/data-encoding
@@ -1201,6 +1210,9 @@
 [submodule "platform/test/app_compat/csuite"]
 	path = test/app_compat/csuite
 	url = ../test/app_compat/csuite
+[submodule "platform/tools/asuite"]
+	path = tools/asuite
+	url = ../tools/asuite
 [submodule "toolchain/go"]
 	path = toolchain/go
 	url = ../../toolchain/go
