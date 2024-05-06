@@ -30,6 +30,10 @@
 	branch = main
 	path = external/bazelbuild-kotlin-rules
 	url = ../external/bazelbuild-kotlin-rules
+[submodule "platform/external/bazelbuild-remote-apis"]
+	branch = main
+	path = external/bazelbuild-remote-apis
+	url = ../external/bazelbuild-remote-apis
 [submodule "platform/external/bazelbuild-rules_android"]
 	branch = main
 	path = external/bazelbuild-rules_android
@@ -51,6 +55,10 @@
 	shallow = true
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
+[submodule "platform/external/googleapis"]
+	branch = main
+	path = external/googleapis
+	url = ../external/googleapis
 [submodule "platform/external/guava"]
 	branch = main
 	path = external/guava

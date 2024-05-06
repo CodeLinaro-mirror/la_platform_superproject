@@ -6,11 +6,13 @@
 /build/soong
 /external/bazel-skylib pdk
 /external/bazelbuild-kotlin-rules pdk
+/external/bazelbuild-remote-apis
 /external/bazelbuild-rules_android pdk
 /external/bazelbuild-rules_license pdk
 /external/easymock
 /external/emma
 /external/golang-protobuf
+/external/googleapis
 /external/guava
 /external/hamcrest
 /external/hsqldb
