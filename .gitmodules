@@ -1930,9 +1930,6 @@
 [submodule "platform/external/rust/crates/indexmap"]
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
-[submodule "platform/external/rust/crates/ini"]
-	path = external/rust/crates/ini
-	url = ../external/rust/crates/ini
 [submodule "platform/external/rust/crates/instant"]
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
@@ -1951,9 +1948,6 @@
 [submodule "platform/external/rust/crates/jni-sys"]
 	path = external/rust/crates/jni-sys
 	url = ../external/rust/crates/jni-sys
-[submodule "platform/external/rust/crates/json5"]
-	path = external/rust/crates/json5
-	url = ../external/rust/crates/json5
 [submodule "platform/external/rust/crates/kernlog"]
 	path = external/rust/crates/kernlog
 	url = ../external/rust/crates/kernlog
@@ -2059,6 +2053,9 @@
 [submodule "platform/external/rust/crates/mls-rs-core"]
 	path = external/rust/crates/mls-rs-core
 	url = ../external/rust/crates/mls-rs-core
+[submodule "platform/external/rust/crates/mls-rs-crypto-traits"]
+	path = external/rust/crates/mls-rs-crypto-traits
+	url = ../external/rust/crates/mls-rs-crypto-traits
 [submodule "platform/external/rust/crates/mockall"]
 	path = external/rust/crates/mockall
 	url = ../external/rust/crates/mockall
@@ -2263,9 +2260,6 @@
 [submodule "platform/external/rust/crates/ring"]
 	path = external/rust/crates/ring
 	url = ../external/rust/crates/ring
-[submodule "platform/external/rust/crates/ron"]
-	path = external/rust/crates/ron
-	url = ../external/rust/crates/ron
 [submodule "platform/external/rust/crates/rusqlite"]
 	path = external/rust/crates/rusqlite
 	url = ../external/rust/crates/rusqlite
@@ -2335,6 +2329,9 @@
 [submodule "platform/external/rust/crates/shlex"]
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
+[submodule "platform/external/rust/crates/siphasher"]
+	path = external/rust/crates/siphasher
+	url = ../external/rust/crates/siphasher
 [submodule "platform/external/rust/crates/slab"]
 	path = external/rust/crates/slab
 	url = ../external/rust/crates/slab
@@ -2473,12 +2470,18 @@
 [submodule "platform/external/rust/crates/unicode-xid"]
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/uniffi"]
+	path = external/rust/crates/uniffi
+	url = ../external/rust/crates/uniffi
 [submodule "platform/external/rust/crates/uniffi_checksum_derive"]
 	path = external/rust/crates/uniffi_checksum_derive
 	url = ../external/rust/crates/uniffi_checksum_derive
 [submodule "platform/external/rust/crates/uniffi_core"]
 	path = external/rust/crates/uniffi_core
 	url = ../external/rust/crates/uniffi_core
+[submodule "platform/external/rust/crates/uniffi_macros"]
+	path = external/rust/crates/uniffi_macros
+	url = ../external/rust/crates/uniffi_macros
 [submodule "platform/external/rust/crates/uniffi_meta"]
 	path = external/rust/crates/uniffi_meta
 	url = ../external/rust/crates/uniffi_meta
