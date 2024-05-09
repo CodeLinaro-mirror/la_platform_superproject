@@ -1060,9 +1060,6 @@
 [submodule "platform/external/libhevc"]
 	path = external/libhevc
 	url = ../external/libhevc
-[submodule "platform/external/libiio"]
-	path = external/libiio
-	url = ../external/libiio
 [submodule "platform/external/libjpeg-turbo"]
 	path = external/libjpeg-turbo
 	url = ../external/libjpeg-turbo
