@@ -5575,14 +5575,6 @@
 	shallow = true
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
-[submodule "toolchain/prebuilts/ndk/r25"]
-	branch = main
-	path = toolchain/prebuilts/ndk/r25
-	url = ../../toolchain/prebuilts/ndk/r25
-[submodule "toolchain/prebuilts/ndk/r26"]
-	branch = main
-	path = toolchain/prebuilts/ndk/r26
-	url = ../../toolchain/prebuilts/ndk/r26
 [submodule "toolchain/prebuilts/ndk/releases"]
 	branch = main
 	path = toolchain/prebuilts/ndk/releases
