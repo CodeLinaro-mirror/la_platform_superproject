@@ -116,11 +116,6 @@
 	branch = llvm-toolchain-testing
 	path = toolchain/llvm_android
 	url = ../../toolchain/llvm_android
-[submodule "toolchain/prebuilts/ndk/r26"]
-	branch = main
-	shallow = true
-	path = toolchain/prebuilts/ndk/r26
-	url = ../../toolchain/prebuilts/ndk/r26
 [submodule "toolchain/prebuilts/ndk/releases"]
 	branch = main
 	shallow = true
