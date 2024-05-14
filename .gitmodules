@@ -424,7 +424,6 @@
 	path = external/rust/crates/protobuf-support
 	url = ../external/rust/crates/protobuf-support
 [submodule "platform/external/rust/crates/quote"]
-	branch = main
 	path = external/rust/crates/quote
 	url = ../external/rust/crates/quote
 [submodule "platform/external/rust/crates/rand"]
