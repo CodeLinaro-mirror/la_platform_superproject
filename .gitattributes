@@ -4,10 +4,12 @@
 /external/angle
 /external/glib
 /external/boringssl
+/external/cares
 /external/crosvm
 /external/dtc
 /external/flatbuffers
 /external/googletest
+/external/grpc
 /external/libdrm
 /external/libpciaccess
 /external/libpng
@@ -39,7 +41,9 @@
 /external/rust/crates/unicode-ident
 /external/rust/crates/zerocopy
 /external/rust/crates/zerocopy-derive
+/external/tink
 /external/virglrenderer
+/external/webrtc
 /external/zlib
 /hardware/generic/goldfish
 /hardware/google/aemu

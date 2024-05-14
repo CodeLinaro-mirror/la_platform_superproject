@@ -8,6 +8,7 @@
 	url = ../build/bazel
 [submodule "platform/external/abseil-cpp"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
 [submodule "platform/external/angle"]
@@ -23,6 +24,11 @@
 	shallow = true
 	path = external/boringssl
 	url = ../external/boringssl
+[submodule "platform/external/c-ares"]
+	branch = emu-dev
+	shallow = true
+	path = external/cares
+	url = ../external/c-ares
 [submodule "platform/external/crosvm"]
 	branch = emu-dev
 	path = external/crosvm
@@ -39,6 +45,11 @@
 	branch = main
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/grpc-grpc"]
+	branch = emu-dev
+	shallow = true
+	path = external/grpc
+	url = ../external/grpc-grpc
 [submodule "platform/external/libdrm"]
 	branch = emu-dev
 	path = external/libdrm
@@ -183,10 +194,20 @@
 	shallow = true
 	path = external/rust/crates/zerocopy-derive
 	url = ../external/rust/crates/zerocopy-derive
+[submodule "platform/external/tink"]
+	branch = emu-dev
+	shallow = true
+	path = external/tink
+	url = ../external/tink
 [submodule "platform/external/virglrenderer"]
 	branch = main
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/webrtc"]
+	branch = emu-dev
+	shallow = true
+	path = external/webrtc
+	url = ../external/webrtc
 [submodule "platform/external/zlib"]
 	branch = emu-dev
 	path = external/zlib
