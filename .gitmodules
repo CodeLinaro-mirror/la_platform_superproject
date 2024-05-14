@@ -4,6 +4,7 @@
 	url = ../../device/amlogic/yukawa
 [submodule "device/amlogic/yukawa-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/amlogic/yukawa-kernel
 	url = ../../device/amlogic/yukawa-kernel
 [submodule "device/common"]
@@ -96,6 +97,7 @@
 	url = ../../device/google/bluejay
 [submodule "device/google/bluejay-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/bluejay-kernel
 	url = ../../device/google/bluejay-kernel
 [submodule "device/google/bluejay-sepolicy"]
@@ -120,6 +122,7 @@
 	url = ../../device/google/coral
 [submodule "device/google/coral-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/coral-kernel
 	url = ../../device/google/coral-kernel
 [submodule "device/google/coral-sepolicy"]
@@ -132,10 +135,12 @@
 	url = ../../device/google/cuttlefish
 [submodule "device/google/cuttlefish_prebuilts"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
 [submodule "device/google/cuttlefish_vmm"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/cuttlefish_vmm
 	url = ../../device/google/cuttlefish_vmm
 [submodule "device/google/felix"]
@@ -144,6 +149,7 @@
 	url = ../../device/google/felix
 [submodule "device/google/felix-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/felix-kernel
 	url = ../../device/google/felix-kernel
 [submodule "device/google/felix-sepolicy"]
@@ -176,6 +182,7 @@
 	url = ../../device/google/lynx
 [submodule "device/google/lynx-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/lynx-kernel
 	url = ../../device/google/lynx-kernel
 [submodule "device/google/lynx-sepolicy"]
@@ -188,6 +195,7 @@
 	url = ../../device/google/pantah
 [submodule "device/google/pantah-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/pantah-kernel
 	url = ../../device/google/pantah-kernel
 [submodule "device/google/pantah-sepolicy"]
@@ -200,6 +208,7 @@
 	url = ../../device/google/raviole
 [submodule "device/google/raviole-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/raviole-kernel
 	url = ../../device/google/raviole-kernel
 [submodule "device/google/redbull"]
@@ -208,6 +217,7 @@
 	url = ../../device/google/redbull
 [submodule "device/google/redbull-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/redbull-kernel
 	url = ../../device/google/redbull-kernel
 [submodule "device/google/redbull-sepolicy"]
@@ -228,6 +238,7 @@
 	url = ../../device/google/shusky
 [submodule "device/google/shusky-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/shusky-kernel
 	url = ../../device/google/shusky-kernel
 [submodule "device/google/shusky-sepolicy"]
@@ -240,6 +251,7 @@
 	url = ../../device/google/sunfish
 [submodule "device/google/sunfish-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/sunfish-kernel
 	url = ../../device/google/sunfish-kernel
 [submodule "device/google/sunfish-sepolicy"]
@@ -252,6 +264,7 @@
 	url = ../../device/google/tangorpro
 [submodule "device/google/tangorpro-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/google/tangorpro-kernel
 	url = ../../device/google/tangorpro-kernel
 [submodule "device/google/tangorpro-sepolicy"]
@@ -284,6 +297,7 @@
 	url = ../../device/linaro/dragonboard
 [submodule "device/linaro/dragonboard-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/linaro/dragonboard-kernel
 	url = ../../device/linaro/dragonboard-kernel
 [submodule "device/linaro/hikey"]
@@ -292,6 +306,7 @@
 	url = ../../device/linaro/hikey
 [submodule "device/linaro/hikey-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/linaro/hikey-kernel
 	url = ../../device/linaro/hikey-kernel
 [submodule "device/linaro/poplar"]
@@ -300,6 +315,7 @@
 	url = ../../device/linaro/poplar
 [submodule "device/linaro/poplar-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = device/linaro/poplar-kernel
 	url = ../../device/linaro/poplar-kernel
 [submodule "device/sample"]
@@ -312,94 +328,117 @@
 	url = ../../kernel/configs
 [submodule "kernel/prebuilts/4.19/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/4.19/arm64
 	url = ../../kernel/prebuilts/4.19/arm64
 [submodule "kernel/prebuilts/5.10/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/5.10/arm64
 	url = ../../kernel/prebuilts/5.10/arm64
 [submodule "kernel/prebuilts/5.10/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/5.10/x86_64
 	url = ../../kernel/prebuilts/5.10/x86-64
 [submodule "kernel/prebuilts/5.15/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/5.15/arm64
 	url = ../../kernel/prebuilts/5.15/arm64
 [submodule "kernel/prebuilts/5.15/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/5.15/x86_64
 	url = ../../kernel/prebuilts/5.15/x86-64
 [submodule "kernel/prebuilts/5.4/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/5.4/arm64
 	url = ../../kernel/prebuilts/5.4/arm64
 [submodule "kernel/prebuilts/5.4/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/5.4/x86_64
 	url = ../../kernel/prebuilts/5.4/x86-64
 [submodule "kernel/prebuilts/6.1/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/6.1/arm64
 	url = ../../kernel/prebuilts/6.1/arm64
 [submodule "kernel/prebuilts/6.1/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/6.1/x86_64
 	url = ../../kernel/prebuilts/6.1/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/4.19/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/4.19/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/4.19/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/4.19/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.10/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/5.10/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.10/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.10/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.15/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/5.15/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.15/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.4/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/5.4/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.4/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.4/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/6.1/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/6.1/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/6.1/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/6.1/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/mainline/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/mainline/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/mainline/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/mainline/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/mainline/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/mainline/x86-64
 [submodule "kernel/prebuilts/mainline/arm64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/mainline/arm64
 	url = ../../kernel/prebuilts/mainline/arm64
 [submodule "kernel/prebuilts/mainline/x86-64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = kernel/prebuilts/mainline/x86_64
 	url = ../../kernel/prebuilts/mainline/x86-64
 [submodule "kernel/tests"]
@@ -728,6 +767,7 @@
 	url = ../external/chromium-trace
 [submodule "platform/external/chromium-webview"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = external/chromium-webview
 	url = ../external/chromium-webview
 [submodule "platform/external/clang"]
@@ -1524,6 +1564,7 @@
 	url = ../external/licenseclassifier
 [submodule "platform/external/linux-kselftest"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
 [submodule "platform/external/llvm"]
@@ -3476,6 +3517,7 @@
 	url = ../external/stressapptest
 [submodule "platform/external/subsampling-scale-image-view"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = external/subsampling-scale-image-view
 	url = ../external/subsampling-scale-image-view
 [submodule "platform/external/swiftshader"]
@@ -3504,6 +3546,7 @@
 	url = ../external/tflite-support
 [submodule "platform/external/timezone-boundary-builder"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = external/timezone-boundary-builder
 	url = ../external/timezone-boundary-builder
 [submodule "platform/external/tink"]
@@ -4340,6 +4383,7 @@
 	url = ../packages/modules/AppSearch
 [submodule "platform/packages/modules/ArtPrebuilt"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = packages/modules/ArtPrebuilt
 	url = ../packages/modules/ArtPrebuilt
 [submodule "platform/packages/modules/Bluetooth"]
@@ -4604,266 +4648,332 @@
 	url = ../platform_testing
 [submodule "platform/prebuilts/abi-dumps/ndk"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/abi-dumps/ndk
 	url = ../prebuilts/abi-dumps/ndk
 [submodule "platform/prebuilts/abi-dumps/platform"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/abi-dumps/platform
 	url = ../prebuilts/abi-dumps/platform
 [submodule "platform/prebuilts/abi-dumps/vndk"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/abi-dumps/vndk
 	url = ../prebuilts/abi-dumps/vndk
 [submodule "platform/prebuilts/android-emulator"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/asuite"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
 [submodule "platform/prebuilts/bazel/common"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/bazel/common
 	url = ../prebuilts/bazel/common
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/bazel/darwin-x86_64
 	url = ../prebuilts/bazel/darwin-x86_64
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/bazel/linux-x86_64
 	url = ../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/bundletool"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/bundletool
 	url = ../prebuilts/bundletool
 [submodule "platform/prebuilts/checkcolor"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/checkcolor
 	url = ../prebuilts/checkcolor
 [submodule "platform/prebuilts/checkstyle"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/clang-tools"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/clang-tools
 	url = ../prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/cmdline-tools"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/cmdline-tools
 	url = ../prebuilts/cmdline-tools
 [submodule "platform/prebuilts/devtools"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/go/darwin-x86"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
 [submodule "platform/prebuilts/go/linux-x86"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
 [submodule "platform/prebuilts/gradle-plugin"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
 [submodule "platform/prebuilts/jdk/jdk11"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk17"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/jdk/jdk21
 	url = ../prebuilts/jdk/jdk21
 [submodule "platform/prebuilts/jdk/jdk8"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/jdk/jdk9"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
 [submodule "platform/prebuilts/ktlint"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
 [submodule "platform/prebuilts/manifest-merger"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/manifest-merger
 	url = ../prebuilts/manifest-merger
 [submodule "platform/prebuilts/maven_repo/bumptech"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
 [submodule "platform/prebuilts/misc"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
 [submodule "platform/prebuilts/module_sdk/AdServices"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/AdServices
 	url = ../prebuilts/module_sdk/AdServices
 [submodule "platform/prebuilts/module_sdk/AppSearch"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/AppSearch
 	url = ../prebuilts/module_sdk/AppSearch
 [submodule "platform/prebuilts/module_sdk/Bluetooth"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/Bluetooth
 	url = ../prebuilts/module_sdk/Bluetooth
 [submodule "platform/prebuilts/module_sdk/ConfigInfrastructure"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/ConfigInfrastructure
 	url = ../prebuilts/module_sdk/ConfigInfrastructure
 [submodule "platform/prebuilts/module_sdk/Connectivity"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/Connectivity
 	url = ../prebuilts/module_sdk/Connectivity
 [submodule "platform/prebuilts/module_sdk/CrashRecovery"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/CrashRecovery
 	url = ../prebuilts/module_sdk/CrashRecovery
 [submodule "platform/prebuilts/module_sdk/DeviceLock"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/DeviceLock
 	url = ../prebuilts/module_sdk/DeviceLock
 [submodule "platform/prebuilts/module_sdk/HealthFitness"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/HealthFitness
 	url = ../prebuilts/module_sdk/HealthFitness
 [submodule "platform/prebuilts/module_sdk/IPsec"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/IPsec
 	url = ../prebuilts/module_sdk/IPsec
 [submodule "platform/prebuilts/module_sdk/Media"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/Media
 	url = ../prebuilts/module_sdk/Media
 [submodule "platform/prebuilts/module_sdk/MediaProvider"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/MediaProvider
 	url = ../prebuilts/module_sdk/MediaProvider
 [submodule "platform/prebuilts/module_sdk/OnDevicePersonalization"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/OnDevicePersonalization
 	url = ../prebuilts/module_sdk/OnDevicePersonalization
 [submodule "platform/prebuilts/module_sdk/Permission"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/Permission
 	url = ../prebuilts/module_sdk/Permission
 [submodule "platform/prebuilts/module_sdk/RemoteKeyProvisioning"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/RemoteKeyProvisioning
 	url = ../prebuilts/module_sdk/RemoteKeyProvisioning
 [submodule "platform/prebuilts/module_sdk/Scheduling"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/Scheduling
 	url = ../prebuilts/module_sdk/Scheduling
 [submodule "platform/prebuilts/module_sdk/SdkExtensions"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/SdkExtensions
 	url = ../prebuilts/module_sdk/SdkExtensions
 [submodule "platform/prebuilts/module_sdk/StatsD"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/StatsD
 	url = ../prebuilts/module_sdk/StatsD
 [submodule "platform/prebuilts/module_sdk/Uwb"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/Uwb
 	url = ../prebuilts/module_sdk/Uwb
 [submodule "platform/prebuilts/module_sdk/Wifi"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/Wifi
 	url = ../prebuilts/module_sdk/Wifi
 [submodule "platform/prebuilts/module_sdk/art"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/art
 	url = ../prebuilts/module_sdk/art
 [submodule "platform/prebuilts/module_sdk/conscrypt"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/module_sdk/conscrypt
 	url = ../prebuilts/module_sdk/conscrypt
 [submodule "platform/prebuilts/ndk"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
 [submodule "platform/prebuilts/qemu-kernel"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "platform/prebuilts/r8"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/r8
 	url = ../prebuilts/r8
 [submodule "platform/prebuilts/remoteexecution-client"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/remoteexecution-client
 	url = ../prebuilts/remoteexecution-client
 [submodule "platform/prebuilts/runtime"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/runtime
 	url = ../prebuilts/runtime
 [submodule "platform/prebuilts/rust"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/prebuilts/sdk"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
 [submodule "platform/prebuilts/tools"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/prebuilts/vndk/v29"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/vndk/v29
 	url = ../prebuilts/vndk/v29
 [submodule "platform/prebuilts/vndk/v30"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/vndk/v30
 	url = ../prebuilts/vndk/v30
 [submodule "platform/prebuilts/vndk/v31"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/vndk/v31
 	url = ../prebuilts/vndk/v31
 [submodule "platform/prebuilts/vndk/v32"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/vndk/v32
 	url = ../prebuilts/vndk/v32
 [submodule "platform/prebuilts/vndk/v33"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/vndk/v33
 	url = ../prebuilts/vndk/v33
 [submodule "platform/prebuilts/vndk/v34"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = prebuilts/vndk/v34
 	url = ../prebuilts/vndk/v34
 [submodule "platform/sdk"]
@@ -5288,6 +5398,7 @@
 	url = ../tools/tradefederation/contrib
 [submodule "platform/tools/tradefederation/prebuilts"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = tools/tradefederation/prebuilts
 	url = ../tools/tradefederation/prebuilts
 [submodule "platform/tools/treble"]
@@ -5304,6 +5415,7 @@
 	url = ../../toolchain/benchmark
 [submodule "toolchain/pgo-profiles"]
 	ref = refs/tags/android-14.0.0_r31
+	shallow = true
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
 [submodule "tools/platform-compat"]
