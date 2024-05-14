@@ -403,6 +403,9 @@
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
+[submodule "platform/external/accompanist"]
+	path = external/accompanist
+	url = ../external/accompanist
 [submodule "platform/external/android-key-attestation"]
 	path = external/android-key-attestation
 	url = ../external/android-key-attestation
@@ -1525,6 +1528,9 @@
 [submodule "platform/external/rootdev"]
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/android-crates-io"]
+	path = external/rust/android-crates-io
+	url = ../external/rust/android-crates-io
 [submodule "platform/external/rust/autocxx"]
 	path = external/rust/autocxx
 	url = ../external/rust/autocxx

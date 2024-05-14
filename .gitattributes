@@ -133,6 +133,7 @@
 /external/XNNPACK pdk
 /external/aac pdk
 /external/abseil-cpp pdk
+/external/accompanist pdk
 /external/android-key-attestation pdk
 /external/android-nn-driver pdk-gs-arm pdk-lassen
 /external/android_onboarding pdk-fs
@@ -507,6 +508,7 @@
 /external/roboto-flex-fonts pdk
 /external/roboto-fonts pdk
 /external/rootdev pdk
+/external/rust/android-crates-io pdk
 /external/rust/autocxx pdk
 /external/rust/beto-rust pdk
 /external/rust/crates/aarch64-paging pdk
