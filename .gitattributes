@@ -43,10 +43,12 @@
 /external/rust/crates/env_logger
 /external/rust/crates/fastrand
 /external/rust/crates/fnv
+/external/rust/crates/futures
 /external/rust/crates/futures-channel
 /external/rust/crates/futures-core
 /external/rust/crates/futures-executor
 /external/rust/crates/futures-io
+/external/rust/crates/futures-macro
 /external/rust/crates/futures-sink
 /external/rust/crates/futures-task
 /external/rust/crates/futures-util
