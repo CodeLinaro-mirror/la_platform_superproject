@@ -1,5 +1,6 @@
 [submodule "platform/build"]
 	branch = emu-dev
+	shallow = true
 	path = build/make
 	url = ../build
 [submodule "platform/build/bazel"]
@@ -13,10 +14,12 @@
 	url = ../external/abseil-cpp
 [submodule "platform/external/angle"]
 	branch = emu-dev
+	shallow = true
 	path = external/angle
 	url = ../external/angle
 [submodule "platform/external/bluetooth/glib"]
 	branch = emu-dev
+	shallow = true
 	path = external/glib
 	url = ../external/bluetooth/glib
 [submodule "platform/external/boringssl"]
@@ -31,18 +34,22 @@
 	url = ../external/c-ares
 [submodule "platform/external/crosvm"]
 	branch = emu-dev
+	shallow = true
 	path = external/crosvm
 	url = ../external/crosvm
 [submodule "platform/external/dtc"]
 	branch = emu-dev
+	shallow = true
 	path = external/dtc
 	url = ../external/dtc
 [submodule "platform/external/flatbuffers"]
 	branch = main
+	shallow = true
 	path = external/flatbuffers
 	url = ../external/flatbuffers
 [submodule "platform/external/googletest"]
 	branch = main
+	shallow = true
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/grpc-grpc"]
@@ -52,38 +59,47 @@
 	url = ../external/grpc-grpc
 [submodule "platform/external/libdrm"]
 	branch = emu-dev
+	shallow = true
 	path = external/libdrm
 	url = ../external/libdrm
 [submodule "platform/external/libpciaccess"]
 	branch = emu-dev
+	shallow = true
 	path = external/libpciaccess
 	url = ../external/libpciaccess
 [submodule "platform/external/libpng"]
 	branch = emu-dev
+	shallow = true
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/lz4"]
 	branch = emu-dev
+	shallow = true
 	path = external/lz4
 	url = ../external/lz4
 [submodule "platform/external/minigbm"]
 	branch = main
+	shallow = true
 	path = external/minigbm
 	url = ../external/minigbm
 [submodule "platform/external/minijail"]
 	branch = main
+	shallow = true
 	path = external/minijail
 	url = ../external/minijail
 [submodule "platform/external/pcre"]
 	branch = emu-dev
+	shallow = true
 	path = external/pcre2
 	url = ../external/pcre
 [submodule "platform/external/pixman"]
 	branch = emu-dev
+	shallow = true
 	path = external/pixman
 	url = ../external/pixman
 [submodule "platform/external/pkg-config"]
 	branch = emu-dev
+	shallow = true
 	path = external/pkg-config
 	url = ../external/pkg-config
 [submodule "platform/external/protobuf"]
@@ -97,6 +113,7 @@
 	url = ../external/qemu
 [submodule "platform/external/regex-re2"]
 	branch = main
+	shallow = true
 	path = external/regex-re2
 	url = ../external/regex-re2
 [submodule "platform/external/rust/crates/anyhow"]
@@ -201,6 +218,7 @@
 	url = ../external/tink
 [submodule "platform/external/virglrenderer"]
 	branch = main
+	shallow = true
 	path = external/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/external/webrtc"]
@@ -210,6 +228,7 @@
 	url = ../external/webrtc
 [submodule "platform/external/zlib"]
 	branch = emu-dev
+	shallow = true
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/hardware/generic/goldfish"]
@@ -309,10 +328,12 @@
 	url = ../tools/buildSrc
 [submodule "trusty/external/qemu-keycodemapdb"]
 	branch = main
+	shallow = true
 	path = external/keycodemapdb
 	url = ../../trusty/external/qemu-keycodemapdb
 [submodule "trusty/external/qemu-libslirp"]
 	branch = emu-dev
+	shallow = true
 	path = external/libslirp
 	url = ../../trusty/external/qemu-libslirp
 [submodule "trusty/external/qemu-meson"]
