@@ -69,6 +69,7 @@
 /external/rust/crates/lazycell
 /external/rust/crates/libc
 /external/rust/crates/libloading
+/external/rust/crates/libm
 /external/rust/crates/libz-sys
 /external/rust/crates/lock_api
 /external/rust/crates/log
