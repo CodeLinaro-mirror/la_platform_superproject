@@ -379,9 +379,6 @@
 [submodule "platform/external/FXdiv"]
 	path = external/FXdiv
 	url = ../external/FXdiv
-[submodule "platform/external/ImageMagick"]
-	path = external/ImageMagick
-	url = ../external/ImageMagick
 [submodule "platform/external/MPAndroidChart"]
 	path = external/MPAndroidChart
 	url = ../external/MPAndroidChart
