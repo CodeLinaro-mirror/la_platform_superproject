@@ -57,11 +57,26 @@
 	shallow = true
 	path = external/grpc
 	url = ../external/grpc-grpc
+[submodule "platform/external/jsoncpp"]
+	branch = main
+	shallow = true
+	path = external/jsoncpp
+	url = ../external/jsoncpp
+[submodule "platform/external/libaom"]
+	branch = emu-dev
+	shallow = true
+	path = external/libaom
+	url = ../external/libaom
 [submodule "platform/external/libdrm"]
 	branch = emu-dev
 	shallow = true
 	path = external/libdrm
 	url = ../external/libdrm
+[submodule "platform/external/libjpeg-turbo"]
+	branch = emu-dev
+	shallow = true
+	path = external/libjpeg-turbo
+	url = ../external/libjpeg-turbo
 [submodule "platform/external/libpciaccess"]
 	branch = emu-dev
 	shallow = true
@@ -72,6 +87,16 @@
 	shallow = true
 	path = external/libpng
 	url = ../external/libpng
+[submodule "platform/external/libvpx"]
+	branch = emu-dev
+	shallow = true
+	path = external/libvpx
+	url = ../external/libvpx
+[submodule "platform/external/libyuv"]
+	branch = emu-dev
+	shallow = true
+	path = external/libyuv
+	url = ../external/libyuv
 [submodule "platform/external/lz4"]
 	branch = emu-dev
 	shallow = true
@@ -92,6 +117,16 @@
 	shallow = true
 	path = external/pcre2
 	url = ../external/pcre
+[submodule "platform/external/perfetto"]
+	branch = main
+	shallow = true
+	path = external/perfetto
+	url = ../external/perfetto
+[submodule "platform/external/pffft"]
+	branch = emu-dev
+	shallow = true
+	path = external/pffft
+	url = ../external/pffft
 [submodule "platform/external/pixman"]
 	branch = emu-dev
 	shallow = true
@@ -116,6 +151,11 @@
 	shallow = true
 	path = external/regex-re2
 	url = ../external/regex-re2
+[submodule "platform/external/rnnoise"]
+	branch = emu-dev
+	shallow = true
+	path = external/rnnoise
+	url = ../external/rnnoise
 [submodule "platform/external/rust/crates/anyhow"]
 	branch = main
 	shallow = true
