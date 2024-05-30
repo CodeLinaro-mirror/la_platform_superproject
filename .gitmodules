@@ -2083,6 +2083,9 @@
 [submodule "platform/external/rust/crates/num-bigint"]
 	path = external/rust/crates/num-bigint
 	url = ../external/rust/crates/num-bigint
+[submodule "platform/external/rust/crates/num-complex"]
+	path = external/rust/crates/num-complex
+	url = ../external/rust/crates/num-complex
 [submodule "platform/external/rust/crates/num-derive"]
 	path = external/rust/crates/num-derive
 	url = ../external/rust/crates/num-derive
