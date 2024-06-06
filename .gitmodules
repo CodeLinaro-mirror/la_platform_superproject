@@ -382,9 +382,15 @@
 [submodule "platform/external/MPAndroidChart"]
 	path = external/MPAndroidChart
 	url = ../external/MPAndroidChart
+[submodule "platform/external/OpenCL-CLHPP"]
+	path = external/OpenCL-CLHPP
+	url = ../external/OpenCL-CLHPP
 [submodule "platform/external/OpenCL-CTS"]
 	path = external/OpenCL-CTS
 	url = ../external/OpenCL-CTS
+[submodule "platform/external/OpenCL-Headers"]
+	path = external/OpenCL-Headers
+	url = ../external/OpenCL-Headers
 [submodule "platform/external/OpenCSD"]
 	path = external/OpenCSD
 	url = ../external/OpenCSD
