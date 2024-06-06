@@ -1,225 +1,300 @@
 [submodule "device/generic/goldfish-opengl"]
+	ref = emu-35-1-release
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
 [submodule "device/generic/vulkan-cereal"]
+	ref = emu-35-1-release
 	path = device/generic/vulkan-cereal
 	url = ../../device/generic/vulkan-cereal
 [submodule "device/google/cuttlefish"]
+	ref = emu-35-1-release
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
 [submodule "platform/build"]
+	ref = emu-35-1-release
 	path = build/make
 	url = ../build
 [submodule "platform/build/bazel"]
+	ref = emu-35-1-release
 	path = build/bazel
 	url = ../build/bazel
 [submodule "platform/external/abseil-cpp"]
+	ref = emu-35-1-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
 [submodule "platform/external/adt-infra"]
+	ref = emu-35-1-release
 	path = external/adt-infra
 	url = ../external/adt-infra
 [submodule "platform/external/angle"]
+	ref = emu-35-1-release
 	path = external/angle
 	url = ../external/angle
 [submodule "platform/external/astc-codec"]
+	ref = emu-35-1-release
 	path = external/astc-codec
 	url = ../external/astc-codec
 [submodule "platform/external/bison"]
+	ref = emu-35-1-release
 	path = external/bison
 	url = ../external/bison
 [submodule "platform/external/bluetooth/glib"]
+	ref = emu-35-1-release
 	path = external/glib
 	url = ../external/bluetooth/glib
 [submodule "platform/external/boringssl"]
+	ref = emu-35-1-release
 	path = external/boringssl
 	url = ../external/boringssl
 [submodule "platform/external/c-ares"]
+	ref = emu-35-1-release
 	path = external/cares
 	url = ../external/c-ares
 [submodule "platform/external/curl"]
+	ref = emu-35-1-release
 	path = external/curl
 	url = ../external/curl
 [submodule "platform/external/deqp"]
+	ref = emu-35-1-release
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/dtc"]
+	ref = emu-35-1-release
 	path = external/dtc
 	url = ../external/dtc
 [submodule "platform/external/flatbuffers"]
+	ref = emu-35-1-release
 	path = external/flatbuffers
 	url = ../external/flatbuffers
 [submodule "platform/external/flex"]
+	ref = emu-35-1-release
 	path = external/flex
 	url = ../external/flex
 [submodule "platform/external/fmtlib"]
+	ref = emu-35-1-release
 	path = external/fmtlib
 	url = ../external/fmtlib
 [submodule "platform/external/gfxstream-protocols"]
+	ref = emu-35-1-release
 	path = external/gfxstream-protocols
 	url = ../external/gfxstream-protocols
 [submodule "platform/external/google-benchmark"]
+	ref = emu-35-1-release
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "platform/external/google-breakpad"]
+	ref = emu-35-1-release
 	path = external/google-breakpad
 	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
+	ref = emu-35-1-release
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/grpc-grpc"]
+	ref = emu-35-1-release
 	path = external/grpc
 	url = ../external/grpc-grpc
 [submodule "platform/external/libpng"]
+	ref = emu-35-1-release
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/libusb"]
+	ref = emu-35-1-release
 	path = external/libusb
 	url = ../external/libusb
 [submodule "platform/external/libxml2"]
+	ref = emu-35-1-release
 	path = external/libxml2
 	url = ../external/libxml2
 [submodule "platform/external/lz4"]
+	ref = emu-35-1-release
 	path = external/lz4
 	url = ../external/lz4
 [submodule "platform/external/mobly-bundled-snippets"]
+	ref = emu-35-1-release
 	path = external/mobly-bundled-snippets
 	url = ../external/mobly-bundled-snippets
 [submodule "platform/external/nasm"]
+	ref = emu-35-1-release
 	path = external/nasm
 	url = ../external/nasm
 [submodule "platform/external/perfetto"]
+	ref = emu-35-1-release
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
+	ref = emu-35-1-release
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/qemu"]
+	ref = emu-35-1-release
 	path = external/qemu
 	url = ../external/qemu
 [submodule "platform/external/rapidjson"]
+	ref = emu-35-1-release
 	path = external/rapidjson
 	url = ../external/rapidjson
 [submodule "platform/external/regex-re2"]
+	ref = emu-35-1-release
 	path = external/regex-re2
 	url = ../external/regex-re2
 [submodule "platform/external/tink"]
+	ref = emu-35-1-release
 	path = external/tink
 	url = ../external/tink
 [submodule "platform/external/tinyobjloader"]
+	ref = emu-35-1-release
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/external/virglrenderer"]
+	ref = emu-35-1-release
 	path = external/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/external/webrtc"]
+	ref = emu-35-1-release
 	path = external/webrtc
 	url = ../external/webrtc
 [submodule "platform/external/wpa_supplicant_8"]
+	ref = emu-35-1-release
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
 [submodule "platform/external/zlib"]
+	ref = emu-35-1-release
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/frameworks/native"]
+	ref = emu-35-1-release
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/hardware/google/aemu"]
+	ref = emu-35-1-release
 	path = hardware/google/aemu
 	url = ../hardware/google/aemu
 [submodule "platform/hardware/google/gfxstream"]
+	ref = emu-35-1-release
 	path = hardware/google/gfxstream
 	url = ../hardware/google/gfxstream
 [submodule "platform/packages/modules/Bluetooth"]
+	ref = emu-35-1-release
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
 [submodule "platform/prebuilts/android-emulator"]
+	ref = emu-35-1-release
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/android-emulator-build/archive"]
+	ref = emu-35-1-release
 	path = prebuilts/android-emulator-build/archive
 	url = ../prebuilts/android-emulator-build/archive
 [submodule "platform/prebuilts/android-emulator-build/common"]
+	ref = emu-35-1-release
 	path = prebuilts/android-emulator-build/common
 	url = ../prebuilts/android-emulator-build/common
 [submodule "platform/prebuilts/android-emulator-build/mesa"]
+	ref = emu-35-1-release
 	path = prebuilts/android-emulator-build/mesa
 	url = ../prebuilts/android-emulator-build/mesa
 [submodule "platform/prebuilts/android-emulator-build/mesa-deps"]
+	ref = emu-35-1-release
 	path = prebuilts/android-emulator-build/mesa-deps
 	url = ../prebuilts/android-emulator-build/mesa-deps
 [submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
+	ref = emu-35-1-release
 	path = prebuilts/android-emulator-build/qemu-android-deps
 	url = ../prebuilts/android-emulator-build/qemu-android-deps
 [submodule "platform/prebuilts/android-emulator-build/qt"]
+	ref = emu-35-1-release
 	path = prebuilts/android-emulator-build/qt
 	url = ../prebuilts/android-emulator-build/qt
 [submodule "platform/prebuilts/android-emulator-build/system-images"]
+	ref = emu-35-1-release
 	path = prebuilts/android-emulator-build/system-images
 	url = ../prebuilts/android-emulator-build/system-images
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
+	ref = emu-35-1-release
 	path = prebuilts/bazel/darwin-x86_64
 	url = ../prebuilts/bazel/darwin-x86_64
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
+	ref = emu-35-1-release
 	path = prebuilts/bazel/linux-x86_64
 	url = ../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/bazel/windows-x86_64"]
+	ref = emu-35-1-release
 	path = prebuilts/bazel/windows-x86_64
 	url = ../prebuilts/bazel/windows-x86_64
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/clang/host/windows-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/clang/host/windows-x86
 	url = ../prebuilts/clang/host/windows-x86
 [submodule "platform/prebuilts/cmake/darwin-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/cmake/darwin-x86
 	url = ../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/cmake/linux-x86
 	url = ../prebuilts/cmake/linux-x86
 [submodule "platform/prebuilts/cmake/windows-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	ref = emu-35-1-release
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	ref = emu-35-1-release
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/ninja/darwin-x86
 	url = ../prebuilts/ninja/darwin-x86
 [submodule "platform/prebuilts/ninja/linux-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/python/darwin-x86
 	url = ../prebuilts/python/darwin-x86
 [submodule "platform/prebuilts/python/linux-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/python/linux-x86
 	url = ../prebuilts/python/linux-x86
 [submodule "platform/prebuilts/python/windows-x86"]
+	ref = emu-35-1-release
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
 [submodule "platform/prebuilts/rust"]
+	ref = emu-35-1-release
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/prebuilts/studio/jdk"]
+	ref = emu-35-1-release
 	path = prebuilts/studio/jdk
 	url = ../prebuilts/studio/jdk
 [submodule "platform/tools/buildSrc"]
+	ref = emu-35-1-release
 	path = tools/buildSrc
 	url = ../tools/buildSrc
 [submodule "platform/tools/netsim"]
+	ref = emu-35-1-release
 	path = tools/netsim
 	url = ../tools/netsim
 [submodule "toolchain/m4"]
+	ref = emu-35-1-release
 	path = external/m4
 	url = ../../toolchain/m4
 [submodule "trusty/external/qemu-libslirp"]
+	ref = emu-35-1-release
 	path = external/libslirp
 	url = ../../trusty/external/qemu-libslirp
