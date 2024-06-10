@@ -955,6 +955,12 @@
 [submodule "platform/external/rust/crates/threadpool"]
 	path = external/rust/crates/threadpool
 	url = ../external/rust/crates/threadpool
+[submodule "platform/external/rust/crates/tikv-jemalloc-sys"]
+	path = external/rust/crates/tikv-jemalloc-sys
+	url = ../external/rust/crates/tikv-jemalloc-sys
+[submodule "platform/external/rust/crates/tikv-jemallocator"]
+	path = external/rust/crates/tikv-jemallocator
+	url = ../external/rust/crates/tikv-jemallocator
 [submodule "platform/external/rust/crates/tinytemplate"]
 	path = external/rust/crates/tinytemplate
 	url = ../external/rust/crates/tinytemplate
