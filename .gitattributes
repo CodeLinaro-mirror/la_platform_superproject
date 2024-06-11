@@ -681,6 +681,7 @@
 /external/rust/crates/merge_derive pdk
 /external/rust/crates/miette pdk
 /external/rust/crates/miette-derive pdk
+/external/rust/crates/mime pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
 /external/rust/crates/mls-rs pdk
@@ -817,10 +818,14 @@
 /external/rust/crates/toml pdk
 /external/rust/crates/toml_datetime pdk
 /external/rust/crates/toml_edit pdk
+/external/rust/crates/tower pdk
+/external/rust/crates/tower-layer pdk
+/external/rust/crates/tower-service pdk
 /external/rust/crates/tracing pdk
 /external/rust/crates/tracing-attributes pdk
 /external/rust/crates/tracing-core pdk
 /external/rust/crates/tracing-subscriber pdk
+/external/rust/crates/try-lock pdk
 /external/rust/crates/tungstenite pdk
 /external/rust/crates/twox-hash pdk
 /external/rust/crates/ucd-trie pdk
@@ -854,6 +859,7 @@
 /external/rust/crates/vsock pdk
 /external/rust/crates/vulkano pdk
 /external/rust/crates/walkdir pdk
+/external/rust/crates/want pdk
 /external/rust/crates/weak-table pdk
 /external/rust/crates/webpki pdk
 /external/rust/crates/which pdk
@@ -1197,6 +1203,7 @@
 /prebuilts/clang-tools pdk
 /prebuilts/clang/host/darwin-x86 pdk darwin
 /prebuilts/clang/host/linux-x86 pdk
+/prebuilts/cmake/linux-x86 pdk
 /prebuilts/cmdline-tools pdk-fs
 /prebuilts/devtools pdk-fs
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 pdk linux
