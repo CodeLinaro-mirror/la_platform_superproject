@@ -1,3675 +1,4900 @@
 [submodule "device/amlogic/yukawa"]
+	ref = android14-tests-release
 	path = device/amlogic/yukawa
 	url = ../../device/amlogic/yukawa
 [submodule "device/amlogic/yukawa-kernel"]
+	ref = android14-tests-release
 	path = device/amlogic/yukawa-kernel
 	url = ../../device/amlogic/yukawa-kernel
 [submodule "device/common"]
+	ref = android14-tests-release
 	path = device/common
 	url = ../../device/common
 [submodule "device/generic/arm64"]
+	ref = android14-tests-release
 	path = device/generic/arm64
 	url = ../../device/generic/arm64
 [submodule "device/generic/armv7-a-neon"]
+	ref = android14-tests-release
 	path = device/generic/armv7-a-neon
 	url = ../../device/generic/armv7-a-neon
 [submodule "device/generic/art"]
+	ref = android14-tests-release
 	path = device/generic/art
 	url = ../../device/generic/art
 [submodule "device/generic/car"]
+	ref = android14-tests-release
 	path = device/generic/car
 	url = ../../device/generic/car
 [submodule "device/generic/common"]
+	ref = android14-tests-release
 	path = device/generic/common
 	url = ../../device/generic/common
 [submodule "device/generic/goldfish"]
+	ref = android14-tests-release
 	path = device/generic/goldfish
 	url = ../../device/generic/goldfish
 [submodule "device/generic/goldfish-opengl"]
+	ref = android14-tests-release
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
 [submodule "device/generic/mini-emulator-arm64"]
+	ref = android14-tests-release
 	path = device/generic/mini-emulator-arm64
 	url = ../../device/generic/mini-emulator-arm64
 [submodule "device/generic/mini-emulator-armv7-a-neon"]
+	ref = android14-tests-release
 	path = device/generic/mini-emulator-armv7-a-neon
 	url = ../../device/generic/mini-emulator-armv7-a-neon
 [submodule "device/generic/mini-emulator-x86"]
+	ref = android14-tests-release
 	path = device/generic/mini-emulator-x86
 	url = ../../device/generic/mini-emulator-x86
 [submodule "device/generic/mini-emulator-x86_64"]
+	ref = android14-tests-release
 	path = device/generic/mini-emulator-x86_64
 	url = ../../device/generic/mini-emulator-x86_64
 [submodule "device/generic/opengl-transport"]
+	ref = android14-tests-release
 	path = device/generic/opengl-transport
 	url = ../../device/generic/opengl-transport
 [submodule "device/generic/qemu"]
+	ref = android14-tests-release
 	path = device/generic/qemu
 	url = ../../device/generic/qemu
 [submodule "device/generic/trusty"]
+	ref = android14-tests-release
 	path = device/generic/trusty
 	url = ../../device/generic/trusty
 [submodule "device/generic/uml"]
+	ref = android14-tests-release
 	path = device/generic/uml
 	url = ../../device/generic/uml
 [submodule "device/generic/vulkan-cereal"]
+	ref = android14-tests-release
 	path = device/generic/vulkan-cereal
 	url = ../../device/generic/vulkan-cereal
 [submodule "device/generic/x86"]
+	ref = android14-tests-release
 	path = device/generic/x86
 	url = ../../device/generic/x86
 [submodule "device/generic/x86_64"]
+	ref = android14-tests-release
 	path = device/generic/x86_64
 	url = ../../device/generic/x86_64
 [submodule "device/google/atv"]
+	ref = android14-tests-release
 	path = device/google/atv
 	url = ../../device/google/atv
 [submodule "device/google/barbet"]
+	ref = android14-tests-release
 	path = device/google/barbet
 	url = ../../device/google/barbet
 [submodule "device/google/barbet-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/barbet-sepolicy
 	url = ../../device/google/barbet-sepolicy
 [submodule "device/google/bluejay"]
+	ref = android14-tests-release
 	path = device/google/bluejay
 	url = ../../device/google/bluejay
 [submodule "device/google/bluejay-kernel"]
+	ref = android14-tests-release
 	path = device/google/bluejay-kernel
 	url = ../../device/google/bluejay-kernel
 [submodule "device/google/bluejay-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/bluejay-sepolicy
 	url = ../../device/google/bluejay-sepolicy
 [submodule "device/google/bramble"]
+	ref = android14-tests-release
 	path = device/google/bramble
 	url = ../../device/google/bramble
 [submodule "device/google/bramble-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/bramble-sepolicy
 	url = ../../device/google/bramble-sepolicy
 [submodule "device/google/contexthub"]
+	ref = android14-tests-release
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
 [submodule "device/google/coral"]
+	ref = android14-tests-release
 	path = device/google/coral
 	url = ../../device/google/coral
 [submodule "device/google/coral-kernel"]
+	ref = android14-tests-release
 	path = device/google/coral-kernel
 	url = ../../device/google/coral-kernel
 [submodule "device/google/coral-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/coral-sepolicy
 	url = ../../device/google/coral-sepolicy
 [submodule "device/google/cuttlefish"]
+	ref = android14-tests-release
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
 [submodule "device/google/cuttlefish_prebuilts"]
+	ref = android14-tests-release
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
 [submodule "device/google/felix"]
+	ref = android14-tests-release
 	path = device/google/felix
 	url = ../../device/google/felix
 [submodule "device/google/felix-kernel"]
+	ref = android14-tests-release
 	path = device/google/felix-kernel
 	url = ../../device/google/felix-kernel
 [submodule "device/google/felix-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/felix-sepolicy
 	url = ../../device/google/felix-sepolicy
 [submodule "device/google/gs-common"]
+	ref = android14-tests-release
 	path = device/google/gs-common
 	url = ../../device/google/gs-common
 [submodule "device/google/gs101"]
+	ref = android14-tests-release
 	path = device/google/gs101
 	url = ../../device/google/gs101
 [submodule "device/google/gs101-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/gs101-sepolicy
 	url = ../../device/google/gs101-sepolicy
 [submodule "device/google/gs201"]
+	ref = android14-tests-release
 	path = device/google/gs201
 	url = ../../device/google/gs201
 [submodule "device/google/gs201-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/gs201-sepolicy
 	url = ../../device/google/gs201-sepolicy
 [submodule "device/google/lynx"]
+	ref = android14-tests-release
 	path = device/google/lynx
 	url = ../../device/google/lynx
 [submodule "device/google/lynx-kernel"]
+	ref = android14-tests-release
 	path = device/google/lynx-kernel
 	url = ../../device/google/lynx-kernel
 [submodule "device/google/lynx-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/lynx-sepolicy
 	url = ../../device/google/lynx-sepolicy
 [submodule "device/google/pantah"]
+	ref = android14-tests-release
 	path = device/google/pantah
 	url = ../../device/google/pantah
 [submodule "device/google/pantah-kernel"]
+	ref = android14-tests-release
 	path = device/google/pantah-kernel
 	url = ../../device/google/pantah-kernel
 [submodule "device/google/pantah-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/pantah-sepolicy
 	url = ../../device/google/pantah-sepolicy
 [submodule "device/google/raviole"]
+	ref = android14-tests-release
 	path = device/google/raviole
 	url = ../../device/google/raviole
 [submodule "device/google/raviole-kernel"]
+	ref = android14-tests-release
 	path = device/google/raviole-kernel
 	url = ../../device/google/raviole-kernel
 [submodule "device/google/redbull"]
+	ref = android14-tests-release
 	path = device/google/redbull
 	url = ../../device/google/redbull
 [submodule "device/google/redbull-kernel"]
+	ref = android14-tests-release
 	path = device/google/redbull-kernel
 	url = ../../device/google/redbull-kernel
 [submodule "device/google/redbull-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/redbull-sepolicy
 	url = ../../device/google/redbull-sepolicy
 [submodule "device/google/redfin"]
+	ref = android14-tests-release
 	path = device/google/redfin
 	url = ../../device/google/redfin
 [submodule "device/google/redfin-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/redfin-sepolicy
 	url = ../../device/google/redfin-sepolicy
 [submodule "device/google/sunfish"]
+	ref = android14-tests-release
 	path = device/google/sunfish
 	url = ../../device/google/sunfish
 [submodule "device/google/sunfish-kernel"]
+	ref = android14-tests-release
 	path = device/google/sunfish-kernel
 	url = ../../device/google/sunfish-kernel
 [submodule "device/google/sunfish-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/sunfish-sepolicy
 	url = ../../device/google/sunfish-sepolicy
 [submodule "device/google/tangorpro"]
+	ref = android14-tests-release
 	path = device/google/tangorpro
 	url = ../../device/google/tangorpro
 [submodule "device/google/tangorpro-kernel"]
+	ref = android14-tests-release
 	path = device/google/tangorpro-kernel
 	url = ../../device/google/tangorpro-kernel
 [submodule "device/google/tangorpro-sepolicy"]
+	ref = android14-tests-release
 	path = device/google/tangorpro-sepolicy
 	url = ../../device/google/tangorpro-sepolicy
 [submodule "device/google/trout"]
+	ref = android14-tests-release
 	path = device/google/trout
 	url = ../../device/google/trout
 [submodule "device/google/vrservices"]
+	ref = android14-tests-release
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
 [submodule "device/google_car"]
+	ref = android14-tests-release
 	path = device/google_car
 	url = ../../device/google_car
 [submodule "device/linaro/dragonboard"]
+	ref = android14-tests-release
 	path = device/linaro/dragonboard
 	url = ../../device/linaro/dragonboard
 [submodule "device/linaro/dragonboard-kernel"]
+	ref = android14-tests-release
 	path = device/linaro/dragonboard-kernel
 	url = ../../device/linaro/dragonboard-kernel
 [submodule "device/linaro/hikey"]
+	ref = android14-tests-release
 	path = device/linaro/hikey
 	url = ../../device/linaro/hikey
 [submodule "device/linaro/hikey-kernel"]
+	ref = android14-tests-release
 	path = device/linaro/hikey-kernel
 	url = ../../device/linaro/hikey-kernel
 [submodule "device/linaro/poplar"]
+	ref = android14-tests-release
 	path = device/linaro/poplar
 	url = ../../device/linaro/poplar
 [submodule "device/linaro/poplar-kernel"]
+	ref = android14-tests-release
 	path = device/linaro/poplar-kernel
 	url = ../../device/linaro/poplar-kernel
 [submodule "device/sample"]
+	ref = android14-tests-release
 	path = device/sample
 	url = ../../device/sample
 [submodule "device/ti/beagle-x15"]
+	ref = android14-tests-release
 	path = device/ti/beagle_x15
 	url = ../../device/ti/beagle-x15
 [submodule "device/ti/beagle-x15-kernel"]
+	ref = android14-tests-release
 	path = device/ti/beagle_x15-kernel
 	url = ../../device/ti/beagle-x15-kernel
 [submodule "kernel/configs"]
+	ref = android14-tests-release
 	path = kernel/configs
 	url = ../../kernel/configs
 [submodule "kernel/prebuilts/4.19/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/4.19/arm64
 	url = ../../kernel/prebuilts/4.19/arm64
 [submodule "kernel/prebuilts/5.10/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/5.10/arm64
 	url = ../../kernel/prebuilts/5.10/arm64
 [submodule "kernel/prebuilts/5.10/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/5.10/x86_64
 	url = ../../kernel/prebuilts/5.10/x86-64
 [submodule "kernel/prebuilts/5.15/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/5.15/arm64
 	url = ../../kernel/prebuilts/5.15/arm64
 [submodule "kernel/prebuilts/5.15/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/5.15/x86_64
 	url = ../../kernel/prebuilts/5.15/x86-64
 [submodule "kernel/prebuilts/5.4/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/5.4/arm64
 	url = ../../kernel/prebuilts/5.4/arm64
 [submodule "kernel/prebuilts/5.4/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/5.4/x86_64
 	url = ../../kernel/prebuilts/5.4/x86-64
 [submodule "kernel/prebuilts/6.1/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/6.1/arm64
 	url = ../../kernel/prebuilts/6.1/arm64
 [submodule "kernel/prebuilts/6.1/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/6.1/x86_64
 	url = ../../kernel/prebuilts/6.1/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/4.19/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/4.19/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/4.19/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/4.19/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.10/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/5.10/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.10/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.10/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.15/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/5.15/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.15/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.4/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/5.4/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.4/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.4/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/6.1/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/6.1/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/6.1/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/6.1/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/mainline/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/mainline/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/mainline/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/mainline/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/common-modules/virtual-device/mainline/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/mainline/x86-64
 [submodule "kernel/prebuilts/mainline/arm64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/mainline/arm64
 	url = ../../kernel/prebuilts/mainline/arm64
 [submodule "kernel/prebuilts/mainline/x86-64"]
+	ref = android14-tests-release
 	path = kernel/prebuilts/mainline/x86_64
 	url = ../../kernel/prebuilts/mainline/x86-64
 [submodule "kernel/tests"]
+	ref = android14-tests-release
 	path = kernel/tests
 	url = ../../kernel/tests
 [submodule "platform/art"]
+	ref = android14-tests-release
 	path = art
 	url = ../art
 [submodule "platform/bionic"]
+	ref = android14-tests-release
 	path = bionic
 	url = ../bionic
 [submodule "platform/bootable/libbootloader"]
+	ref = android14-tests-release
 	path = bootable/libbootloader
 	url = ../bootable/libbootloader
 [submodule "platform/bootable/recovery"]
+	ref = android14-tests-release
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "platform/build"]
+	ref = android14-tests-release
 	path = build/make
 	url = ../build
 [submodule "platform/build/bazel"]
+	ref = android14-tests-release
 	path = build/bazel
 	url = ../build/bazel
 [submodule "platform/build/bazel_common_rules"]
+	ref = android14-tests-release
 	path = build/bazel_common_rules
 	url = ../build/bazel_common_rules
 [submodule "platform/build/blueprint"]
+	ref = android14-tests-release
 	path = build/blueprint
 	url = ../build/blueprint
 [submodule "platform/build/orchestrator"]
+	ref = android14-tests-release
 	path = build/orchestrator
 	url = ../build/orchestrator
 [submodule "platform/build/pesto"]
+	ref = android14-tests-release
 	path = build/pesto
 	url = ../build/pesto
 [submodule "platform/build/soong"]
+	ref = android14-tests-release
 	path = build/soong
 	url = ../build/soong
 [submodule "platform/cts"]
+	ref = android14-tests-release
 	path = cts
 	url = ../cts
 [submodule "platform/dalvik"]
+	ref = android14-tests-release
 	path = dalvik
 	url = ../dalvik
 [submodule "platform/developers/build"]
+	ref = android14-tests-release
 	path = developers/build
 	url = ../developers/build
 [submodule "platform/developers/demos"]
+	ref = android14-tests-release
 	path = developers/demos
 	url = ../developers/demos
 [submodule "platform/developers/samples/android"]
+	ref = android14-tests-release
 	path = developers/samples/android
 	url = ../developers/samples/android
 [submodule "platform/development"]
+	ref = android14-tests-release
 	path = development
 	url = ../development
 [submodule "platform/external/AFLplusplus"]
+	ref = android14-tests-release
 	path = external/AFLplusplus
 	url = ../external/AFLplusplus
 [submodule "platform/external/ComputeLibrary"]
+	ref = android14-tests-release
 	path = external/ComputeLibrary
 	url = ../external/ComputeLibrary
 [submodule "platform/external/FP16"]
+	ref = android14-tests-release
 	path = external/FP16
 	url = ../external/FP16
 [submodule "platform/external/FXdiv"]
+	ref = android14-tests-release
 	path = external/FXdiv
 	url = ../external/FXdiv
 [submodule "platform/external/ImageMagick"]
+	ref = android14-tests-release
 	path = external/ImageMagick
 	url = ../external/ImageMagick
 [submodule "platform/external/MPAndroidChart"]
+	ref = android14-tests-release
 	path = external/MPAndroidChart
 	url = ../external/MPAndroidChart
 [submodule "platform/external/OpenCL-CTS"]
+	ref = android14-tests-release
 	path = external/OpenCL-CTS
 	url = ../external/OpenCL-CTS
 [submodule "platform/external/OpenCSD"]
+	ref = android14-tests-release
 	path = external/OpenCSD
 	url = ../external/OpenCSD
 [submodule "platform/external/TestParameterInjector"]
+	ref = android14-tests-release
 	path = external/TestParameterInjector
 	url = ../external/TestParameterInjector
 [submodule "platform/external/XNNPACK"]
+	ref = android14-tests-release
 	path = external/XNNPACK
 	url = ../external/XNNPACK
 [submodule "platform/external/aac"]
+	ref = android14-tests-release
 	path = external/aac
 	url = ../external/aac
 [submodule "platform/external/abseil-cpp"]
+	ref = android14-tests-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
 [submodule "platform/external/android-clat"]
+	ref = android14-tests-release
 	path = external/android-clat
 	url = ../external/android-clat
 [submodule "platform/external/android-key-attestation"]
+	ref = android14-tests-release
 	path = external/android-key-attestation
 	url = ../external/android-key-attestation
 [submodule "platform/external/android-nn-driver"]
+	ref = android14-tests-release
 	path = external/android-nn-driver
 	url = ../external/android-nn-driver
 [submodule "platform/external/androidplot"]
+	ref = android14-tests-release
 	path = external/androidplot
 	url = ../external/androidplot
 [submodule "platform/external/angle"]
+	ref = android14-tests-release
 	path = external/angle
 	url = ../external/angle
 [submodule "platform/external/ant-glob"]
+	ref = android14-tests-release
 	path = external/ant-glob
 	url = ../external/ant-glob
 [submodule "platform/external/antlr"]
+	ref = android14-tests-release
 	path = external/antlr
 	url = ../external/antlr
 [submodule "platform/external/apache-commons-bcel"]
+	ref = android14-tests-release
 	path = external/apache-commons-bcel
 	url = ../external/apache-commons-bcel
 [submodule "platform/external/apache-commons-compress"]
+	ref = android14-tests-release
 	path = external/apache-commons-compress
 	url = ../external/apache-commons-compress
 [submodule "platform/external/apache-commons-io"]
+	ref = android14-tests-release
 	path = external/apache-commons-io
 	url = ../external/apache-commons-io
 [submodule "platform/external/apache-commons-lang"]
+	ref = android14-tests-release
 	path = external/apache-commons-lang
 	url = ../external/apache-commons-lang
 [submodule "platform/external/apache-commons-math"]
+	ref = android14-tests-release
 	path = external/apache-commons-math
 	url = ../external/apache-commons-math
 [submodule "platform/external/apache-harmony"]
+	ref = android14-tests-release
 	path = external/apache-harmony
 	url = ../external/apache-harmony
 [submodule "platform/external/apache-http"]
+	ref = android14-tests-release
 	path = external/apache-http
 	url = ../external/apache-http
 [submodule "platform/external/apache-velocity-engine"]
+	ref = android14-tests-release
 	path = external/apache-velocity-engine
 	url = ../external/apache-velocity-engine
 [submodule "platform/external/apache-xml"]
+	ref = android14-tests-release
 	path = external/apache-xml
 	url = ../external/apache-xml
 [submodule "platform/external/arm-neon-tests"]
+	ref = android14-tests-release
 	path = external/arm-neon-tests
 	url = ../external/arm-neon-tests
 [submodule "platform/external/arm-optimized-routines"]
+	ref = android14-tests-release
 	path = external/arm-optimized-routines
 	url = ../external/arm-optimized-routines
 [submodule "platform/external/arm-trusted-firmware"]
+	ref = android14-tests-release
 	path = external/arm-trusted-firmware
 	url = ../external/arm-trusted-firmware
 [submodule "platform/external/armnn"]
+	ref = android14-tests-release
 	path = external/armnn
 	url = ../external/armnn
 [submodule "platform/external/auto"]
+	ref = android14-tests-release
 	path = external/auto
 	url = ../external/auto
 [submodule "platform/external/autotest"]
+	ref = android14-tests-release
 	path = external/autotest
 	url = ../external/autotest
 [submodule "platform/external/avb"]
+	ref = android14-tests-release
 	path = external/avb
 	url = ../external/avb
 [submodule "platform/external/bazel-skylib"]
+	ref = android14-tests-release
 	path = external/bazel-skylib
 	url = ../external/bazel-skylib
 [submodule "platform/external/bazelbuild-kotlin-rules"]
+	ref = android14-tests-release
 	path = external/bazelbuild-kotlin-rules
 	url = ../external/bazelbuild-kotlin-rules
 [submodule "platform/external/bazelbuild-rules_android"]
+	ref = android14-tests-release
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
 [submodule "platform/external/bazelbuild-rules_license"]
+	ref = android14-tests-release
 	path = external/bazelbuild-rules_license
 	url = ../external/bazelbuild-rules_license
 [submodule "platform/external/bc"]
+	ref = android14-tests-release
 	path = external/bc
 	url = ../external/bc
 [submodule "platform/external/bcc"]
+	ref = android14-tests-release
 	path = external/bcc
 	url = ../external/bcc
 [submodule "platform/external/blktrace"]
+	ref = android14-tests-release
 	path = external/blktrace
 	url = ../external/blktrace
 [submodule "platform/external/boringssl"]
+	ref = android14-tests-release
 	path = external/boringssl
 	url = ../external/boringssl
 [submodule "platform/external/bouncycastle"]
+	ref = android14-tests-release
 	path = external/bouncycastle
 	url = ../external/bouncycastle
 [submodule "platform/external/bpftool"]
+	ref = android14-tests-release
 	path = external/bpftool
 	url = ../external/bpftool
 [submodule "platform/external/brotli"]
+	ref = android14-tests-release
 	path = external/brotli
 	url = ../external/brotli
 [submodule "platform/external/bsdiff"]
+	ref = android14-tests-release
 	path = external/bsdiff
 	url = ../external/bsdiff
 [submodule "platform/external/bzip2"]
+	ref = android14-tests-release
 	path = external/bzip2
 	url = ../external/bzip2
 [submodule "platform/external/caliper"]
+	ref = android14-tests-release
 	path = external/caliper
 	url = ../external/caliper
 [submodule "platform/external/capstone"]
+	ref = android14-tests-release
 	path = external/capstone
 	url = ../external/capstone
 [submodule "platform/external/catch2"]
+	ref = android14-tests-release
 	path = external/catch2
 	url = ../external/catch2
 [submodule "platform/external/cblas"]
+	ref = android14-tests-release
 	path = external/cblas
 	url = ../external/cblas
 [submodule "platform/external/cbor-java"]
+	ref = android14-tests-release
 	path = external/cbor-java
 	url = ../external/cbor-java
 [submodule "platform/external/chromium-trace"]
+	ref = android14-tests-release
 	path = external/chromium-trace
 	url = ../external/chromium-trace
 [submodule "platform/external/chromium-webview"]
+	ref = android14-tests-release
 	path = external/chromium-webview
 	url = ../external/chromium-webview
 [submodule "platform/external/clang"]
+	ref = android14-tests-release
 	path = external/clang
 	url = ../external/clang
 [submodule "platform/external/cldr"]
+	ref = android14-tests-release
 	path = external/cldr
 	url = ../external/cldr
 [submodule "platform/external/cn-cbor"]
+	ref = android14-tests-release
 	path = external/cn-cbor
 	url = ../external/cn-cbor
 [submodule "platform/external/compiler-rt"]
+	ref = android14-tests-release
 	path = external/compiler-rt
 	url = ../external/compiler-rt
 [submodule "platform/external/connectedappssdk"]
+	ref = android14-tests-release
 	path = external/connectedappssdk
 	url = ../external/connectedappssdk
 [submodule "platform/external/conscrypt"]
+	ref = android14-tests-release
 	path = external/conscrypt
 	url = ../external/conscrypt
 [submodule "platform/external/cpu_features"]
+	ref = android14-tests-release
 	path = external/cpu_features
 	url = ../external/cpu_features
 [submodule "platform/external/cpuinfo"]
+	ref = android14-tests-release
 	path = external/cpuinfo
 	url = ../external/cpuinfo
 [submodule "platform/external/crcalc"]
+	ref = android14-tests-release
 	path = external/crcalc
 	url = ../external/crcalc
 [submodule "platform/external/cronet"]
+	ref = android14-tests-release
 	path = external/cronet
 	url = ../external/cronet
 [submodule "platform/external/crosvm"]
+	ref = android14-tests-release
 	path = external/crosvm
 	url = ../external/crosvm
 [submodule "platform/external/curl"]
+	ref = android14-tests-release
 	path = external/curl
 	url = ../external/curl
 [submodule "platform/external/dagger2"]
+	ref = android14-tests-release
 	path = external/dagger2
 	url = ../external/dagger2
 [submodule "platform/external/deqp"]
+	ref = android14-tests-release
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/deqp-deps/SPIRV-Headers"]
+	ref = android14-tests-release
 	path = external/deqp-deps/SPIRV-Headers
 	url = ../external/deqp-deps/SPIRV-Headers
 [submodule "platform/external/deqp-deps/SPIRV-Tools"]
+	ref = android14-tests-release
 	path = external/deqp-deps/SPIRV-Tools
 	url = ../external/deqp-deps/SPIRV-Tools
 [submodule "platform/external/deqp-deps/amber"]
+	ref = android14-tests-release
 	path = external/deqp-deps/amber
 	url = ../external/deqp-deps/amber
 [submodule "platform/external/deqp-deps/glslang"]
+	ref = android14-tests-release
 	path = external/deqp-deps/glslang
 	url = ../external/deqp-deps/glslang
 [submodule "platform/external/desugar"]
+	ref = android14-tests-release
 	path = external/desugar
 	url = ../external/desugar
 [submodule "platform/external/dexmaker"]
+	ref = android14-tests-release
 	path = external/dexmaker
 	url = ../external/dexmaker
 [submodule "platform/external/dlmalloc"]
+	ref = android14-tests-release
 	path = external/dlmalloc
 	url = ../external/dlmalloc
 [submodule "platform/external/dng_sdk"]
+	ref = android14-tests-release
 	path = external/dng_sdk
 	url = ../external/dng_sdk
 [submodule "platform/external/dnsmasq"]
+	ref = android14-tests-release
 	path = external/dnsmasq
 	url = ../external/dnsmasq
 [submodule "platform/external/doclava"]
+	ref = android14-tests-release
 	path = external/doclava
 	url = ../external/doclava
 [submodule "platform/external/dokka"]
+	ref = android14-tests-release
 	path = external/dokka
 	url = ../external/dokka
 [submodule "platform/external/double-conversion"]
+	ref = android14-tests-release
 	path = external/double-conversion
 	url = ../external/double-conversion
 [submodule "platform/external/downloader"]
+	ref = android14-tests-release
 	path = external/downloader
 	url = ../external/downloader
 [submodule "platform/external/drm_hwcomposer"]
+	ref = android14-tests-release
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
 [submodule "platform/external/dtc"]
+	ref = android14-tests-release
 	path = external/dtc
 	url = ../external/dtc
 [submodule "platform/external/dynamic_depth"]
+	ref = android14-tests-release
 	path = external/dynamic_depth
 	url = ../external/dynamic_depth
 [submodule "platform/external/e2fsprogs"]
+	ref = android14-tests-release
 	path = external/e2fsprogs
 	url = ../external/e2fsprogs
 [submodule "platform/external/easymock"]
+	ref = android14-tests-release
 	path = external/easymock
 	url = ../external/easymock
 [submodule "platform/external/eigen"]
+	ref = android14-tests-release
 	path = external/eigen
 	url = ../external/eigen
 [submodule "platform/external/elfutils"]
+	ref = android14-tests-release
 	path = external/elfutils
 	url = ../external/elfutils
 [submodule "platform/external/emma"]
+	ref = android14-tests-release
 	path = external/emma
 	url = ../external/emma
 [submodule "platform/external/erofs-utils"]
+	ref = android14-tests-release
 	path = external/erofs-utils
 	url = ../external/erofs-utils
 [submodule "platform/external/error_prone"]
+	ref = android14-tests-release
 	path = external/error_prone
 	url = ../external/error_prone
 [submodule "platform/external/escapevelocity"]
+	ref = android14-tests-release
 	path = external/escapevelocity
 	url = ../external/escapevelocity
 [submodule "platform/external/ethtool"]
+	ref = android14-tests-release
 	path = external/ethtool
 	url = ../external/ethtool
 [submodule "platform/external/exfatprogs"]
+	ref = android14-tests-release
 	path = external/exfatprogs
 	url = ../external/exfatprogs
 [submodule "platform/external/exoplayer"]
+	ref = android14-tests-release
 	path = external/exoplayer
 	url = ../external/exoplayer
 [submodule "platform/external/expat"]
+	ref = android14-tests-release
 	path = external/expat
 	url = ../external/expat
 [submodule "platform/external/f2fs-tools"]
+	ref = android14-tests-release
 	path = external/f2fs-tools
 	url = ../external/f2fs-tools
 [submodule "platform/external/fastrpc"]
+	ref = android14-tests-release
 	path = external/fastrpc
 	url = ../external/fastrpc
 [submodule "platform/external/fdlibm"]
+	ref = android14-tests-release
 	path = external/fdlibm
 	url = ../external/fdlibm
 [submodule "platform/external/fec"]
+	ref = android14-tests-release
 	path = external/fec
 	url = ../external/fec
 [submodule "platform/external/fft2d"]
+	ref = android14-tests-release
 	path = external/fft2d
 	url = ../external/fft2d
 [submodule "platform/external/firebase-messaging"]
+	ref = android14-tests-release
 	path = external/firebase-messaging
 	url = ../external/firebase-messaging
 [submodule "platform/external/flac"]
+	ref = android14-tests-release
 	path = external/flac
 	url = ../external/flac
 [submodule "platform/external/flatbuffers"]
+	ref = android14-tests-release
 	path = external/flatbuffers
 	url = ../external/flatbuffers
 [submodule "platform/external/fmtlib"]
+	ref = android14-tests-release
 	path = external/fmtlib
 	url = ../external/fmtlib
 [submodule "platform/external/fonttools"]
+	ref = android14-tests-release
 	path = external/fonttools
 	url = ../external/fonttools
 [submodule "platform/external/freetype"]
+	ref = android14-tests-release
 	path = external/freetype
 	url = ../external/freetype
 [submodule "platform/external/fsck_msdos"]
+	ref = android14-tests-release
 	path = external/fsck_msdos
 	url = ../external/fsck_msdos
 [submodule "platform/external/fsverity-utils"]
+	ref = android14-tests-release
 	path = external/fsverity-utils
 	url = ../external/fsverity-utils
 [submodule "platform/external/gemmlowp"]
+	ref = android14-tests-release
 	path = external/gemmlowp
 	url = ../external/gemmlowp
 [submodule "platform/external/geojson-jackson"]
+	ref = android14-tests-release
 	path = external/geojson-jackson
 	url = ../external/geojson-jackson
 [submodule "platform/external/geonames"]
+	ref = android14-tests-release
 	path = external/geonames
 	url = ../external/geonames
 [submodule "platform/external/gflags"]
+	ref = android14-tests-release
 	path = external/gflags
 	url = ../external/gflags
 [submodule "platform/external/gfxstream-protocols"]
+	ref = android14-tests-release
 	path = external/gfxstream-protocols
 	url = ../external/gfxstream-protocols
 [submodule "platform/external/giflib"]
+	ref = android14-tests-release
 	path = external/giflib
 	url = ../external/giflib
 [submodule "platform/external/glide"]
+	ref = android14-tests-release
 	path = external/glide
 	url = ../external/glide
 [submodule "platform/external/go-cmp"]
+	ref = android14-tests-release
 	path = external/go-cmp
 	url = ../external/go-cmp
 [submodule "platform/external/golang-protobuf"]
+	ref = android14-tests-release
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
 [submodule "platform/external/google-benchmark"]
+	ref = android14-tests-release
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "platform/external/google-breakpad"]
+	ref = android14-tests-release
 	path = external/google-breakpad
 	url = ../external/google-breakpad
 [submodule "platform/external/google-fonts/arbutus-slab"]
+	ref = android14-tests-release
 	path = external/google-fonts/arbutus-slab
 	url = ../external/google-fonts/arbutus-slab
 [submodule "platform/external/google-fonts/arvo"]
+	ref = android14-tests-release
 	path = external/google-fonts/arvo
 	url = ../external/google-fonts/arvo
 [submodule "platform/external/google-fonts/barlow"]
+	ref = android14-tests-release
 	path = external/google-fonts/barlow
 	url = ../external/google-fonts/barlow
 [submodule "platform/external/google-fonts/big-shoulders-text"]
+	ref = android14-tests-release
 	path = external/google-fonts/big-shoulders-text
 	url = ../external/google-fonts/big-shoulders-text
 [submodule "platform/external/google-fonts/carrois-gothic-sc"]
+	ref = android14-tests-release
 	path = external/google-fonts/carrois-gothic-sc
 	url = ../external/google-fonts/carrois-gothic-sc
 [submodule "platform/external/google-fonts/coming-soon"]
+	ref = android14-tests-release
 	path = external/google-fonts/coming-soon
 	url = ../external/google-fonts/coming-soon
 [submodule "platform/external/google-fonts/cutive-mono"]
+	ref = android14-tests-release
 	path = external/google-fonts/cutive-mono
 	url = ../external/google-fonts/cutive-mono
 [submodule "platform/external/google-fonts/dancing-script"]
+	ref = android14-tests-release
 	path = external/google-fonts/dancing-script
 	url = ../external/google-fonts/dancing-script
 [submodule "platform/external/google-fonts/fraunces"]
+	ref = android14-tests-release
 	path = external/google-fonts/fraunces
 	url = ../external/google-fonts/fraunces
 [submodule "platform/external/google-fonts/karla"]
+	ref = android14-tests-release
 	path = external/google-fonts/karla
 	url = ../external/google-fonts/karla
 [submodule "platform/external/google-fonts/lato"]
+	ref = android14-tests-release
 	path = external/google-fonts/lato
 	url = ../external/google-fonts/lato
 [submodule "platform/external/google-fonts/lustria"]
+	ref = android14-tests-release
 	path = external/google-fonts/lustria
 	url = ../external/google-fonts/lustria
 [submodule "platform/external/google-fonts/rubik"]
+	ref = android14-tests-release
 	path = external/google-fonts/rubik
 	url = ../external/google-fonts/rubik
 [submodule "platform/external/google-fonts/source-sans-pro"]
+	ref = android14-tests-release
 	path = external/google-fonts/source-sans-pro
 	url = ../external/google-fonts/source-sans-pro
 [submodule "platform/external/google-fonts/zilla-slab"]
+	ref = android14-tests-release
 	path = external/google-fonts/zilla-slab
 	url = ../external/google-fonts/zilla-slab
 [submodule "platform/external/google-fruit"]
+	ref = android14-tests-release
 	path = external/google-fruit
 	url = ../external/google-fruit
 [submodule "platform/external/google-java-format"]
+	ref = android14-tests-release
 	path = external/google-java-format
 	url = ../external/google-java-format
 [submodule "platform/external/google-smali"]
+	ref = android14-tests-release
 	path = external/google-smali
 	url = ../external/google-smali
 [submodule "platform/external/google-styleguide"]
+	ref = android14-tests-release
 	path = external/google-styleguide
 	url = ../external/google-styleguide
 [submodule "platform/external/googletest"]
+	ref = android14-tests-release
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/gptfdisk"]
+	ref = android14-tests-release
 	path = external/gptfdisk
 	url = ../external/gptfdisk
 [submodule "platform/external/grpc-grpc"]
+	ref = android14-tests-release
 	path = external/grpc-grpc
 	url = ../external/grpc-grpc
 [submodule "platform/external/grpc-grpc-java"]
+	ref = android14-tests-release
 	path = external/grpc-grpc-java
 	url = ../external/grpc-grpc-java
 [submodule "platform/external/gson"]
+	ref = android14-tests-release
 	path = external/gson
 	url = ../external/gson
 [submodule "platform/external/guava"]
+	ref = android14-tests-release
 	path = external/guava
 	url = ../external/guava
 [submodule "platform/external/guice"]
+	ref = android14-tests-release
 	path = external/guice
 	url = ../external/guice
 [submodule "platform/external/gwp_asan"]
+	ref = android14-tests-release
 	path = external/gwp_asan
 	url = ../external/gwp_asan
 [submodule "platform/external/hamcrest"]
+	ref = android14-tests-release
 	path = external/hamcrest
 	url = ../external/hamcrest
 [submodule "platform/external/harfbuzz_ng"]
+	ref = android14-tests-release
 	path = external/harfbuzz_ng
 	url = ../external/harfbuzz_ng
 [submodule "platform/external/hyphenation-patterns"]
+	ref = android14-tests-release
 	path = external/hyphenation-patterns
 	url = ../external/hyphenation-patterns
 [submodule "platform/external/icing"]
+	ref = android14-tests-release
 	path = external/icing
 	url = ../external/icing
 [submodule "platform/external/icu"]
+	ref = android14-tests-release
 	path = external/icu
 	url = ../external/icu
 [submodule "platform/external/igt-gpu-tools"]
+	ref = android14-tests-release
 	path = external/igt-gpu-tools
 	url = ../external/igt-gpu-tools
 [submodule "platform/external/image_io"]
+	ref = android14-tests-release
 	path = external/image_io
 	url = ../external/image_io
 [submodule "platform/external/ims"]
+	ref = android14-tests-release
 	path = external/ims
 	url = ../external/ims
 [submodule "platform/external/iperf3"]
+	ref = android14-tests-release
 	path = external/iperf3
 	url = ../external/iperf3
 [submodule "platform/external/iproute2"]
+	ref = android14-tests-release
 	path = external/iproute2
 	url = ../external/iproute2
 [submodule "platform/external/ipsec-tools"]
+	ref = android14-tests-release
 	path = external/ipsec-tools
 	url = ../external/ipsec-tools
 [submodule "platform/external/iptables"]
+	ref = android14-tests-release
 	path = external/iptables
 	url = ../external/iptables
 [submodule "platform/external/iputils"]
+	ref = android14-tests-release
 	path = external/iputils
 	url = ../external/iputils
 [submodule "platform/external/iw"]
+	ref = android14-tests-release
 	path = external/iw
 	url = ../external/iw
 [submodule "platform/external/jackson-annotations"]
+	ref = android14-tests-release
 	path = external/jackson-annotations
 	url = ../external/jackson-annotations
 [submodule "platform/external/jackson-core"]
+	ref = android14-tests-release
 	path = external/jackson-core
 	url = ../external/jackson-core
 [submodule "platform/external/jackson-databind"]
+	ref = android14-tests-release
 	path = external/jackson-databind
 	url = ../external/jackson-databind
 [submodule "platform/external/jacoco"]
+	ref = android14-tests-release
 	path = external/jacoco
 	url = ../external/jacoco
 [submodule "platform/external/jarjar"]
+	ref = android14-tests-release
 	path = external/jarjar
 	url = ../external/jarjar
 [submodule "platform/external/javaparser"]
+	ref = android14-tests-release
 	path = external/javaparser
 	url = ../external/javaparser
 [submodule "platform/external/javapoet"]
+	ref = android14-tests-release
 	path = external/javapoet
 	url = ../external/javapoet
 [submodule "platform/external/javasqlite"]
+	ref = android14-tests-release
 	path = external/javasqlite
 	url = ../external/javasqlite
 [submodule "platform/external/javassist"]
+	ref = android14-tests-release
 	path = external/javassist
 	url = ../external/javassist
 [submodule "platform/external/jazzer-api"]
+	ref = android14-tests-release
 	path = external/jazzer-api
 	url = ../external/jazzer-api
 [submodule "platform/external/jcommander"]
+	ref = android14-tests-release
 	path = external/jcommander
 	url = ../external/jcommander
 [submodule "platform/external/jdiff"]
+	ref = android14-tests-release
 	path = external/jdiff
 	url = ../external/jdiff
 [submodule "platform/external/jemalloc_new"]
+	ref = android14-tests-release
 	path = external/jemalloc_new
 	url = ../external/jemalloc_new
 [submodule "platform/external/jimfs"]
+	ref = android14-tests-release
 	path = external/jimfs
 	url = ../external/jimfs
 [submodule "platform/external/jline"]
+	ref = android14-tests-release
 	path = external/jline
 	url = ../external/jline
 [submodule "platform/external/jsilver"]
+	ref = android14-tests-release
 	path = external/jsilver
 	url = ../external/jsilver
 [submodule "platform/external/jsmn"]
+	ref = android14-tests-release
 	path = external/jsmn
 	url = ../external/jsmn
 [submodule "platform/external/jsoncpp"]
+	ref = android14-tests-release
 	path = external/jsoncpp
 	url = ../external/jsoncpp
 [submodule "platform/external/jsr305"]
+	ref = android14-tests-release
 	path = external/jsr305
 	url = ../external/jsr305
 [submodule "platform/external/jsr330"]
+	ref = android14-tests-release
 	path = external/jsr330
 	url = ../external/jsr330
 [submodule "platform/external/junit"]
+	ref = android14-tests-release
 	path = external/junit
 	url = ../external/junit
 [submodule "platform/external/junit-params"]
+	ref = android14-tests-release
 	path = external/junit-params
 	url = ../external/junit-params
 [submodule "platform/external/kernel-headers"]
+	ref = android14-tests-release
 	path = external/kernel-headers
 	url = ../external/kernel-headers
 [submodule "platform/external/kmod"]
+	ref = android14-tests-release
 	path = external/kmod
 	url = ../external/kmod
 [submodule "platform/external/kotlinc"]
+	ref = android14-tests-release
 	path = external/kotlinc
 	url = ../external/kotlinc
 [submodule "platform/external/kotlinpoet"]
+	ref = android14-tests-release
 	path = external/kotlinpoet
 	url = ../external/kotlinpoet
 [submodule "platform/external/kotlinx.atomicfu"]
+	ref = android14-tests-release
 	path = external/kotlinx.atomicfu
 	url = ../external/kotlinx.atomicfu
 [submodule "platform/external/kotlinx.coroutines"]
+	ref = android14-tests-release
 	path = external/kotlinx.coroutines
 	url = ../external/kotlinx.coroutines
 [submodule "platform/external/kotlinx.metadata"]
+	ref = android14-tests-release
 	path = external/kotlinx.metadata
 	url = ../external/kotlinx.metadata
 [submodule "platform/external/ksoap2"]
+	ref = android14-tests-release
 	path = external/ksoap2
 	url = ../external/ksoap2
 [submodule "platform/external/ksp"]
+	ref = android14-tests-release
 	path = external/ksp
 	url = ../external/ksp
 [submodule "platform/external/ktfmt"]
+	ref = android14-tests-release
 	path = external/ktfmt
 	url = ../external/ktfmt
 [submodule "platform/external/leveldb"]
+	ref = android14-tests-release
 	path = external/leveldb
 	url = ../external/leveldb
 [submodule "platform/external/libabigail"]
+	ref = android14-tests-release
 	path = external/libabigail
 	url = ../external/libabigail
 [submodule "platform/external/libaom"]
+	ref = android14-tests-release
 	path = external/libaom
 	url = ../external/libaom
 [submodule "platform/external/libavc"]
+	ref = android14-tests-release
 	path = external/libavc
 	url = ../external/libavc
 [submodule "platform/external/libbackup"]
+	ref = android14-tests-release
 	path = external/libbackup
 	url = ../external/libbackup
 [submodule "platform/external/libbpf"]
+	ref = android14-tests-release
 	path = external/libbpf
 	url = ../external/libbpf
 [submodule "platform/external/libbrillo"]
+	ref = android14-tests-release
 	path = external/libbrillo
 	url = ../external/libbrillo
 [submodule "platform/external/libcap"]
+	ref = android14-tests-release
 	path = external/libcap
 	url = ../external/libcap
 [submodule "platform/external/libcap-ng"]
+	ref = android14-tests-release
 	path = external/libcap-ng
 	url = ../external/libcap-ng
 [submodule "platform/external/libchrome"]
+	ref = android14-tests-release
 	path = external/libchrome
 	url = ../external/libchrome
 [submodule "platform/external/libchrome-gestures"]
+	ref = android14-tests-release
 	path = external/libchrome-gestures
 	url = ../external/libchrome-gestures
 [submodule "platform/external/libchromeos-rs"]
+	ref = android14-tests-release
 	path = external/libchromeos-rs
 	url = ../external/libchromeos-rs
 [submodule "platform/external/libconfig"]
+	ref = android14-tests-release
 	path = external/libconfig
 	url = ../external/libconfig
 [submodule "platform/external/libcups"]
+	ref = android14-tests-release
 	path = external/libcups
 	url = ../external/libcups
 [submodule "platform/external/libcxx"]
+	ref = android14-tests-release
 	path = external/libcxx
 	url = ../external/libcxx
 [submodule "platform/external/libcxxabi"]
+	ref = android14-tests-release
 	path = external/libcxxabi
 	url = ../external/libcxxabi
 [submodule "platform/external/libdivsufsort"]
+	ref = android14-tests-release
 	path = external/libdivsufsort
 	url = ../external/libdivsufsort
 [submodule "platform/external/libdrm"]
+	ref = android14-tests-release
 	path = external/libdrm
 	url = ../external/libdrm
 [submodule "platform/external/libepoxy"]
+	ref = android14-tests-release
 	path = external/libepoxy
 	url = ../external/libepoxy
 [submodule "platform/external/libese"]
+	ref = android14-tests-release
 	path = external/libese
 	url = ../external/libese
 [submodule "platform/external/libevent"]
+	ref = android14-tests-release
 	path = external/libevent
 	url = ../external/libevent
 [submodule "platform/external/libexif"]
+	ref = android14-tests-release
 	path = external/libexif
 	url = ../external/libexif
 [submodule "platform/external/libffi"]
+	ref = android14-tests-release
 	path = external/libffi
 	url = ../external/libffi
 [submodule "platform/external/libfuse"]
+	ref = android14-tests-release
 	path = external/libfuse
 	url = ../external/libfuse
 [submodule "platform/external/libgav1"]
+	ref = android14-tests-release
 	path = external/libgav1
 	url = ../external/libgav1
 [submodule "platform/external/libgsm"]
+	ref = android14-tests-release
 	path = external/libgsm
 	url = ../external/libgsm
 [submodule "platform/external/libhevc"]
+	ref = android14-tests-release
 	path = external/libhevc
 	url = ../external/libhevc
 [submodule "platform/external/libiio"]
+	ref = android14-tests-release
 	path = external/libiio
 	url = ../external/libiio
 [submodule "platform/external/libjpeg-turbo"]
+	ref = android14-tests-release
 	path = external/libjpeg-turbo
 	url = ../external/libjpeg-turbo
 [submodule "platform/external/libkmsxx"]
+	ref = android14-tests-release
 	path = external/libkmsxx
 	url = ../external/libkmsxx
 [submodule "platform/external/libldac"]
+	ref = android14-tests-release
 	path = external/libldac
 	url = ../external/libldac
 [submodule "platform/external/libmpeg2"]
+	ref = android14-tests-release
 	path = external/libmpeg2
 	url = ../external/libmpeg2
 [submodule "platform/external/libnetfilter_conntrack"]
+	ref = android14-tests-release
 	path = external/libnetfilter_conntrack
 	url = ../external/libnetfilter_conntrack
 [submodule "platform/external/libnfnetlink"]
+	ref = android14-tests-release
 	path = external/libnfnetlink
 	url = ../external/libnfnetlink
 [submodule "platform/external/libnl"]
+	ref = android14-tests-release
 	path = external/libnl
 	url = ../external/libnl
 [submodule "platform/external/libogg"]
+	ref = android14-tests-release
 	path = external/libogg
 	url = ../external/libogg
 [submodule "platform/external/libopus"]
+	ref = android14-tests-release
 	path = external/libopus
 	url = ../external/libopus
 [submodule "platform/external/libpalmrejection"]
+	ref = android14-tests-release
 	path = external/libpalmrejection
 	url = ../external/libpalmrejection
 [submodule "platform/external/libpcap"]
+	ref = android14-tests-release
 	path = external/libpcap
 	url = ../external/libpcap
 [submodule "platform/external/libphonenumber"]
+	ref = android14-tests-release
 	path = external/libphonenumber
 	url = ../external/libphonenumber
 [submodule "platform/external/libpng"]
+	ref = android14-tests-release
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/libprotobuf-mutator"]
+	ref = android14-tests-release
 	path = external/libprotobuf-mutator
 	url = ../external/libprotobuf-mutator
 [submodule "platform/external/libsrtp2"]
+	ref = android14-tests-release
 	path = external/libsrtp2
 	url = ../external/libsrtp2
 [submodule "platform/external/libtextclassifier"]
+	ref = android14-tests-release
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
 [submodule "platform/external/libtraceevent"]
+	ref = android14-tests-release
 	path = external/libtraceevent
 	url = ../external/libtraceevent
 [submodule "platform/external/libtracefs"]
+	ref = android14-tests-release
 	path = external/libtracefs
 	url = ../external/libtracefs
 [submodule "platform/external/liburing"]
+	ref = android14-tests-release
 	path = external/liburing
 	url = ../external/liburing
 [submodule "platform/external/libusb"]
+	ref = android14-tests-release
 	path = external/libusb
 	url = ../external/libusb
 [submodule "platform/external/libutf"]
+	ref = android14-tests-release
 	path = external/libutf
 	url = ../external/libutf
 [submodule "platform/external/libvpx"]
+	ref = android14-tests-release
 	path = external/libvpx
 	url = ../external/libvpx
 [submodule "platform/external/libwebm"]
+	ref = android14-tests-release
 	path = external/libwebm
 	url = ../external/libwebm
 [submodule "platform/external/libwebsockets"]
+	ref = android14-tests-release
 	path = external/libwebsockets
 	url = ../external/libwebsockets
 [submodule "platform/external/libxaac"]
+	ref = android14-tests-release
 	path = external/libxaac
 	url = ../external/libxaac
 [submodule "platform/external/libxkbcommon"]
+	ref = android14-tests-release
 	path = external/libxkbcommon
 	url = ../external/libxkbcommon
 [submodule "platform/external/libxml2"]
+	ref = android14-tests-release
 	path = external/libxml2
 	url = ../external/libxml2
 [submodule "platform/external/libyuv"]
+	ref = android14-tests-release
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/external/licenseclassifier"]
+	ref = android14-tests-release
 	path = external/licenseclassifier
 	url = ../external/licenseclassifier
 [submodule "platform/external/linux-kselftest"]
+	ref = android14-tests-release
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
 [submodule "platform/external/llvm"]
+	ref = android14-tests-release
 	path = external/llvm
 	url = ../external/llvm
 [submodule "platform/external/lmfit"]
+	ref = android14-tests-release
 	path = external/lmfit
 	url = ../external/lmfit
 [submodule "platform/external/lottie"]
+	ref = android14-tests-release
 	path = external/lottie
 	url = ../external/lottie
 [submodule "platform/external/ltp"]
+	ref = android14-tests-release
 	path = external/ltp
 	url = ../external/ltp
 [submodule "platform/external/lua"]
+	ref = android14-tests-release
 	path = external/lua
 	url = ../external/lua
 [submodule "platform/external/lz4"]
+	ref = android14-tests-release
 	path = external/lz4
 	url = ../external/lz4
 [submodule "platform/external/lzma"]
+	ref = android14-tests-release
 	path = external/lzma
 	url = ../external/lzma
 [submodule "platform/external/marisa-trie"]
+	ref = android14-tests-release
 	path = external/marisa-trie
 	url = ../external/marisa-trie
 [submodule "platform/external/markdown"]
+	ref = android14-tests-release
 	path = external/markdown
 	url = ../external/markdown
 [submodule "platform/external/mbedtls"]
+	ref = android14-tests-release
 	path = external/mbedtls
 	url = ../external/mbedtls
 [submodule "platform/external/mdnsresponder"]
+	ref = android14-tests-release
 	path = external/mdnsresponder
 	url = ../external/mdnsresponder
 [submodule "platform/external/mesa3d"]
+	ref = android14-tests-release
 	path = external/mesa3d
 	url = ../external/mesa3d
 [submodule "platform/external/mime-support"]
+	ref = android14-tests-release
 	path = external/mime-support
 	url = ../external/mime-support
 [submodule "platform/external/minigbm"]
+	ref = android14-tests-release
 	path = external/minigbm
 	url = ../external/minigbm
 [submodule "platform/external/minijail"]
+	ref = android14-tests-release
 	path = external/minijail
 	url = ../external/minijail
 [submodule "platform/external/mksh"]
+	ref = android14-tests-release
 	path = external/mksh
 	url = ../external/mksh
 [submodule "platform/external/mobile-data-download"]
+	ref = android14-tests-release
 	path = external/mobile-data-download
 	url = ../external/mobile-data-download
 [submodule "platform/external/mobly-bundled-snippets"]
+	ref = android14-tests-release
 	path = external/mobly-bundled-snippets
 	url = ../external/mobly-bundled-snippets
 [submodule "platform/external/mobly-snippet-lib"]
+	ref = android14-tests-release
 	path = external/mobly-snippet-lib
 	url = ../external/mobly-snippet-lib
 [submodule "platform/external/mockftpserver"]
+	ref = android14-tests-release
 	path = external/mockftpserver
 	url = ../external/mockftpserver
 [submodule "platform/external/mockito"]
+	ref = android14-tests-release
 	path = external/mockito
 	url = ../external/mockito
 [submodule "platform/external/mockwebserver"]
+	ref = android14-tests-release
 	path = external/mockwebserver
 	url = ../external/mockwebserver
 [submodule "platform/external/modp_b64"]
+	ref = android14-tests-release
 	path = external/modp_b64
 	url = ../external/modp_b64
 [submodule "platform/external/mp4parser"]
+	ref = android14-tests-release
 	path = external/mp4parser
 	url = ../external/mp4parser
 [submodule "platform/external/ms-tpm-20-ref"]
+	ref = android14-tests-release
 	path = external/ms-tpm-20-ref
 	url = ../external/ms-tpm-20-ref
 [submodule "platform/external/mtools"]
+	ref = android14-tests-release
 	path = external/mtools
 	url = ../external/mtools
 [submodule "platform/external/mtpd"]
+	ref = android14-tests-release
 	path = external/mtpd
 	url = ../external/mtpd
 [submodule "platform/external/musl"]
+	ref = android14-tests-release
 	path = external/musl
 	url = ../external/musl
 [submodule "platform/external/nanohttpd"]
+	ref = android14-tests-release
 	path = external/nanohttpd
 	url = ../external/nanohttpd
 [submodule "platform/external/nanopb-c"]
+	ref = android14-tests-release
 	path = external/nanopb-c
 	url = ../external/nanopb-c
 [submodule "platform/external/naver-fonts"]
+	ref = android14-tests-release
 	path = external/naver-fonts
 	url = ../external/naver-fonts
 [submodule "platform/external/neon_2_sse"]
+	ref = android14-tests-release
 	path = external/neon_2_sse
 	url = ../external/neon_2_sse
 [submodule "platform/external/neven"]
+	ref = android14-tests-release
 	path = external/neven
 	url = ../external/neven
 [submodule "platform/external/newfs_msdos"]
+	ref = android14-tests-release
 	path = external/newfs_msdos
 	url = ../external/newfs_msdos
 [submodule "platform/external/nist-pkits"]
+	ref = android14-tests-release
 	path = external/nist-pkits
 	url = ../external/nist-pkits
 [submodule "platform/external/nist-sip"]
+	ref = android14-tests-release
 	path = external/nist-sip
 	url = ../external/nist-sip
 [submodule "platform/external/nos/host/generic"]
+	ref = android14-tests-release
 	path = external/nos/host/generic
 	url = ../external/nos/host/generic
 [submodule "platform/external/noto-fonts"]
+	ref = android14-tests-release
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "platform/external/nullaway"]
+	ref = android14-tests-release
 	path = external/nullaway
 	url = ../external/nullaway
 [submodule "platform/external/oauth"]
+	ref = android14-tests-release
 	path = external/oauth
 	url = ../external/oauth
 [submodule "platform/external/obex"]
+	ref = android14-tests-release
 	path = external/obex
 	url = ../external/obex
 [submodule "platform/external/objenesis"]
+	ref = android14-tests-release
 	path = external/objenesis
 	url = ../external/objenesis
 [submodule "platform/external/oboe"]
+	ref = android14-tests-release
 	path = external/oboe
 	url = ../external/oboe
 [submodule "platform/external/obstack"]
+	ref = android14-tests-release
 	path = external/obstack
 	url = ../external/obstack
 [submodule "platform/external/oj-libjdwp"]
+	ref = android14-tests-release
 	path = external/oj-libjdwp
 	url = ../external/oj-libjdwp
 [submodule "platform/external/okhttp"]
+	ref = android14-tests-release
 	path = external/okhttp
 	url = ../external/okhttp
 [submodule "platform/external/okio"]
+	ref = android14-tests-release
 	path = external/okio
 	url = ../external/okio
 [submodule "platform/external/one-true-awk"]
+	ref = android14-tests-release
 	path = external/one-true-awk
 	url = ../external/one-true-awk
 [submodule "platform/external/open-dice"]
+	ref = android14-tests-release
 	path = external/open-dice
 	url = ../external/open-dice
 [submodule "platform/external/opencensus-java"]
+	ref = android14-tests-release
 	path = external/opencensus-java
 	url = ../external/opencensus-java
 [submodule "platform/external/openscreen"]
+	ref = android14-tests-release
 	path = external/openscreen
 	url = ../external/openscreen
 [submodule "platform/external/openthread"]
+	ref = android14-tests-release
 	path = external/openthread
 	url = ../external/openthread
 [submodule "platform/external/openwrt-prebuilts"]
+	ref = android14-tests-release
 	path = external/openwrt-prebuilts
 	url = ../external/openwrt-prebuilts
 [submodule "platform/external/oss-fuzz"]
+	ref = android14-tests-release
 	path = external/oss-fuzz
 	url = ../external/oss-fuzz
 [submodule "platform/external/ot-br-posix"]
+	ref = android14-tests-release
 	path = external/ot-br-posix
 	url = ../external/ot-br-posix
 [submodule "platform/external/ow2-asm"]
+	ref = android14-tests-release
 	path = external/ow2-asm
 	url = ../external/ow2-asm
 [submodule "platform/external/owasp/java-encoder"]
+	ref = android14-tests-release
 	path = external/owasp/java-encoder
 	url = ../external/owasp/java-encoder
 [submodule "platform/external/owasp/sanitizer"]
+	ref = android14-tests-release
 	path = external/owasp/sanitizer
 	url = ../external/owasp/sanitizer
 [submodule "platform/external/pandora/avatar"]
+	ref = android14-tests-release
 	path = external/pandora/avatar
 	url = ../external/pandora/avatar
 [submodule "platform/external/pandora/bt-test-interfaces"]
+	ref = android14-tests-release
 	path = external/pandora/bt-test-interfaces
 	url = ../external/pandora/bt-test-interfaces
 [submodule "platform/external/pandora/mmi2grpc"]
+	ref = android14-tests-release
 	path = external/pandora/mmi2grpc
 	url = ../external/pandora/mmi2grpc
 [submodule "platform/external/parameter-framework"]
+	ref = android14-tests-release
 	path = external/parameter-framework
 	url = ../external/parameter-framework
 [submodule "platform/external/pcre"]
+	ref = android14-tests-release
 	path = external/pcre
 	url = ../external/pcre
 [submodule "platform/external/pdfium"]
+	ref = android14-tests-release
 	path = external/pdfium
 	url = ../external/pdfium
 [submodule "platform/external/perfetto"]
+	ref = android14-tests-release
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/pffft"]
+	ref = android14-tests-release
 	path = external/pffft
 	url = ../external/pffft
 [submodule "platform/external/piex"]
+	ref = android14-tests-release
 	path = external/piex
 	url = ../external/piex
 [submodule "platform/external/pigweed"]
+	ref = android14-tests-release
 	path = external/pigweed
 	url = ../external/pigweed
 [submodule "platform/external/ply"]
+	ref = android14-tests-release
 	path = external/ply
 	url = ../external/ply
 [submodule "platform/external/ppp"]
+	ref = android14-tests-release
 	path = external/ppp
 	url = ../external/ppp
 [submodule "platform/external/proguard"]
+	ref = android14-tests-release
 	path = external/proguard
 	url = ../external/proguard
 [submodule "platform/external/protobuf"]
+	ref = android14-tests-release
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/psimd"]
+	ref = android14-tests-release
 	path = external/psimd
 	url = ../external/psimd
 [submodule "platform/external/pthreadpool"]
+	ref = android14-tests-release
 	path = external/pthreadpool
 	url = ../external/pthreadpool
 [submodule "platform/external/puffin"]
+	ref = android14-tests-release
 	path = external/puffin
 	url = ../external/puffin
 [submodule "platform/external/python/absl-py"]
+	ref = android14-tests-release
 	path = external/python/absl-py
 	url = ../external/python/absl-py
 [submodule "platform/external/python/apitools"]
+	ref = android14-tests-release
 	path = external/python/apitools
 	url = ../external/python/apitools
 [submodule "platform/external/python/asn1crypto"]
+	ref = android14-tests-release
 	path = external/python/asn1crypto
 	url = ../external/python/asn1crypto
 [submodule "platform/external/python/bumble"]
+	ref = android14-tests-release
 	path = external/python/bumble
 	url = ../external/python/bumble
 [submodule "platform/external/python/cachetools"]
+	ref = android14-tests-release
 	path = external/python/cachetools
 	url = ../external/python/cachetools
 [submodule "platform/external/python/cffi"]
+	ref = android14-tests-release
 	path = external/python/cffi
 	url = ../external/python/cffi
 [submodule "platform/external/python/cpython2"]
+	ref = android14-tests-release
 	path = external/python/cpython2
 	url = ../external/python/cpython2
 [submodule "platform/external/python/cpython3"]
+	ref = android14-tests-release
 	path = external/python/cpython3
 	url = ../external/python/cpython3
 [submodule "platform/external/python/cryptography"]
+	ref = android14-tests-release
 	path = external/python/cryptography
 	url = ../external/python/cryptography
 [submodule "platform/external/python/dateutil"]
+	ref = android14-tests-release
 	path = external/python/dateutil
 	url = ../external/python/dateutil
 [submodule "platform/external/python/enum34"]
+	ref = android14-tests-release
 	path = external/python/enum34
 	url = ../external/python/enum34
 [submodule "platform/external/python/google-api-python-client"]
+	ref = android14-tests-release
 	path = external/python/google-api-python-client
 	url = ../external/python/google-api-python-client
 [submodule "platform/external/python/google-auth-library-python"]
+	ref = android14-tests-release
 	path = external/python/google-auth-library-python
 	url = ../external/python/google-auth-library-python
 [submodule "platform/external/python/httplib2"]
+	ref = android14-tests-release
 	path = external/python/httplib2
 	url = ../external/python/httplib2
 [submodule "platform/external/python/ipaddress"]
+	ref = android14-tests-release
 	path = external/python/ipaddress
 	url = ../external/python/ipaddress
 [submodule "platform/external/python/jinja"]
+	ref = android14-tests-release
 	path = external/python/jinja
 	url = ../external/python/jinja
 [submodule "platform/external/python/markupsafe"]
+	ref = android14-tests-release
 	path = external/python/markupsafe
 	url = ../external/python/markupsafe
 [submodule "platform/external/python/mobly"]
+	ref = android14-tests-release
 	path = external/python/mobly
 	url = ../external/python/mobly
 [submodule "platform/external/python/oauth2client"]
+	ref = android14-tests-release
 	path = external/python/oauth2client
 	url = ../external/python/oauth2client
 [submodule "platform/external/python/parse_type"]
+	ref = android14-tests-release
 	path = external/python/parse_type
 	url = ../external/python/parse_type
 [submodule "platform/external/python/portpicker"]
+	ref = android14-tests-release
 	path = external/python/portpicker
 	url = ../external/python/portpicker
 [submodule "platform/external/python/pyasn1"]
+	ref = android14-tests-release
 	path = external/python/pyasn1
 	url = ../external/python/pyasn1
 [submodule "platform/external/python/pyasn1-modules"]
+	ref = android14-tests-release
 	path = external/python/pyasn1-modules
 	url = ../external/python/pyasn1-modules
 [submodule "platform/external/python/pybind11"]
+	ref = android14-tests-release
 	path = external/python/pybind11
 	url = ../external/python/pybind11
 [submodule "platform/external/python/pycparser"]
+	ref = android14-tests-release
 	path = external/python/pycparser
 	url = ../external/python/pycparser
 [submodule "platform/external/python/pyee"]
+	ref = android14-tests-release
 	path = external/python/pyee
 	url = ../external/python/pyee
 [submodule "platform/external/python/pyfakefs"]
+	ref = android14-tests-release
 	path = external/python/pyfakefs
 	url = ../external/python/pyfakefs
 [submodule "platform/external/python/pyserial"]
+	ref = android14-tests-release
 	path = external/python/pyserial
 	url = ../external/python/pyserial
 [submodule "platform/external/python/python-api-core"]
+	ref = android14-tests-release
 	path = external/python/python-api-core
 	url = ../external/python/python-api-core
 [submodule "platform/external/python/pyyaml"]
+	ref = android14-tests-release
 	path = external/python/pyyaml
 	url = ../external/python/pyyaml
 [submodule "platform/external/python/rsa"]
+	ref = android14-tests-release
 	path = external/python/rsa
 	url = ../external/python/rsa
 [submodule "platform/external/python/setuptools"]
+	ref = android14-tests-release
 	path = external/python/setuptools
 	url = ../external/python/setuptools
 [submodule "platform/external/python/six"]
+	ref = android14-tests-release
 	path = external/python/six
 	url = ../external/python/six
 [submodule "platform/external/python/timeout-decorator"]
+	ref = android14-tests-release
 	path = external/python/timeout-decorator
 	url = ../external/python/timeout-decorator
 [submodule "platform/external/python/typing"]
+	ref = android14-tests-release
 	path = external/python/typing
 	url = ../external/python/typing
 [submodule "platform/external/python/uritemplates"]
+	ref = android14-tests-release
 	path = external/python/uritemplates
 	url = ../external/python/uritemplates
 [submodule "platform/external/rappor"]
+	ref = android14-tests-release
 	path = external/rappor
 	url = ../external/rappor
 [submodule "platform/external/renderscript-intrinsics-replacement-toolkit"]
+	ref = android14-tests-release
 	path = external/renderscript-intrinsics-replacement-toolkit
 	url = ../external/renderscript-intrinsics-replacement-toolkit
 [submodule "platform/external/replicaisland"]
+	ref = android14-tests-release
 	path = external/replicaisland
 	url = ../external/replicaisland
 [submodule "platform/external/rmi4utils"]
+	ref = android14-tests-release
 	path = external/rmi4utils
 	url = ../external/rmi4utils
 [submodule "platform/external/rnnoise"]
+	ref = android14-tests-release
 	path = external/rnnoise
 	url = ../external/rnnoise
 [submodule "platform/external/robolectric"]
+	ref = android14-tests-release
 	path = external/robolectric
 	url = ../external/robolectric
 [submodule "platform/external/robolectric-shadows"]
+	ref = android14-tests-release
 	path = external/robolectric-shadows
 	url = ../external/robolectric-shadows
 [submodule "platform/external/roboto-flex-fonts"]
+	ref = android14-tests-release
 	path = external/roboto-flex-fonts
 	url = ../external/roboto-flex-fonts
 [submodule "platform/external/roboto-fonts"]
+	ref = android14-tests-release
 	path = external/roboto-fonts
 	url = ../external/roboto-fonts
 [submodule "platform/external/rootdev"]
+	ref = android14-tests-release
 	path = external/rootdev
 	url = ../external/rootdev
 [submodule "platform/external/rust/beto-rust"]
+	ref = android14-tests-release
 	path = external/rust/beto-rust
 	url = ../external/rust/beto-rust
 [submodule "platform/external/rust/crates/aarch64-paging"]
+	ref = android14-tests-release
 	path = external/rust/crates/aarch64-paging
 	url = ../external/rust/crates/aarch64-paging
 [submodule "platform/external/rust/crates/ahash"]
+	ref = android14-tests-release
 	path = external/rust/crates/ahash
 	url = ../external/rust/crates/ahash
 [submodule "platform/external/rust/crates/aho-corasick"]
+	ref = android14-tests-release
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
 [submodule "platform/external/rust/crates/android_log-sys"]
+	ref = android14-tests-release
 	path = external/rust/crates/android_log-sys
 	url = ../external/rust/crates/android_log-sys
 [submodule "platform/external/rust/crates/android_logger"]
+	ref = android14-tests-release
 	path = external/rust/crates/android_logger
 	url = ../external/rust/crates/android_logger
 [submodule "platform/external/rust/crates/anes"]
+	ref = android14-tests-release
 	path = external/rust/crates/anes
 	url = ../external/rust/crates/anes
 [submodule "platform/external/rust/crates/anyhow"]
+	ref = android14-tests-release
 	path = external/rust/crates/anyhow
 	url = ../external/rust/crates/anyhow
 [submodule "platform/external/rust/crates/arbitrary"]
+	ref = android14-tests-release
 	path = external/rust/crates/arbitrary
 	url = ../external/rust/crates/arbitrary
 [submodule "platform/external/rust/crates/argh"]
+	ref = android14-tests-release
 	path = external/rust/crates/argh
 	url = ../external/rust/crates/argh
 [submodule "platform/external/rust/crates/argh_derive"]
+	ref = android14-tests-release
 	path = external/rust/crates/argh_derive
 	url = ../external/rust/crates/argh_derive
 [submodule "platform/external/rust/crates/argh_shared"]
+	ref = android14-tests-release
 	path = external/rust/crates/argh_shared
 	url = ../external/rust/crates/argh_shared
 [submodule "platform/external/rust/crates/ash"]
+	ref = android14-tests-release
 	path = external/rust/crates/ash
 	url = ../external/rust/crates/ash
 [submodule "platform/external/rust/crates/async-stream"]
+	ref = android14-tests-release
 	path = external/rust/crates/async-stream
 	url = ../external/rust/crates/async-stream
 [submodule "platform/external/rust/crates/async-stream-impl"]
+	ref = android14-tests-release
 	path = external/rust/crates/async-stream-impl
 	url = ../external/rust/crates/async-stream-impl
 [submodule "platform/external/rust/crates/async-task"]
+	ref = android14-tests-release
 	path = external/rust/crates/async-task
 	url = ../external/rust/crates/async-task
 [submodule "platform/external/rust/crates/async-trait"]
+	ref = android14-tests-release
 	path = external/rust/crates/async-trait
 	url = ../external/rust/crates/async-trait
 [submodule "platform/external/rust/crates/atomic"]
+	ref = android14-tests-release
 	path = external/rust/crates/atomic
 	url = ../external/rust/crates/atomic
 [submodule "platform/external/rust/crates/atty"]
+	ref = android14-tests-release
 	path = external/rust/crates/atty
 	url = ../external/rust/crates/atty
 [submodule "platform/external/rust/crates/base64"]
+	ref = android14-tests-release
 	path = external/rust/crates/base64
 	url = ../external/rust/crates/base64
 [submodule "platform/external/rust/crates/bencher"]
+	ref = android14-tests-release
 	path = external/rust/crates/bencher
 	url = ../external/rust/crates/bencher
 [submodule "platform/external/rust/crates/bindgen"]
+	ref = android14-tests-release
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
 [submodule "platform/external/rust/crates/bindgen-cli"]
+	ref = android14-tests-release
 	path = external/rust/crates/bindgen-cli
 	url = ../external/rust/crates/bindgen-cli
 [submodule "platform/external/rust/crates/bitflags"]
+	ref = android14-tests-release
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/bitreader"]
+	ref = android14-tests-release
 	path = external/rust/crates/bitreader
 	url = ../external/rust/crates/bitreader
 [submodule "platform/external/rust/crates/bstr"]
+	ref = android14-tests-release
 	path = external/rust/crates/bstr
 	url = ../external/rust/crates/bstr
 [submodule "platform/external/rust/crates/buddy_system_allocator"]
+	ref = android14-tests-release
 	path = external/rust/crates/buddy_system_allocator
 	url = ../external/rust/crates/buddy_system_allocator
 [submodule "platform/external/rust/crates/byteorder"]
+	ref = android14-tests-release
 	path = external/rust/crates/byteorder
 	url = ../external/rust/crates/byteorder
 [submodule "platform/external/rust/crates/bytes"]
+	ref = android14-tests-release
 	path = external/rust/crates/bytes
 	url = ../external/rust/crates/bytes
 [submodule "platform/external/rust/crates/cast"]
+	ref = android14-tests-release
 	path = external/rust/crates/cast
 	url = ../external/rust/crates/cast
 [submodule "platform/external/rust/crates/cesu8"]
+	ref = android14-tests-release
 	path = external/rust/crates/cesu8
 	url = ../external/rust/crates/cesu8
 [submodule "platform/external/rust/crates/cexpr"]
+	ref = android14-tests-release
 	path = external/rust/crates/cexpr
 	url = ../external/rust/crates/cexpr
 [submodule "platform/external/rust/crates/cfg-if"]
+	ref = android14-tests-release
 	path = external/rust/crates/cfg-if
 	url = ../external/rust/crates/cfg-if
 [submodule "platform/external/rust/crates/chrono"]
+	ref = android14-tests-release
 	path = external/rust/crates/chrono
 	url = ../external/rust/crates/chrono
 [submodule "platform/external/rust/crates/ciborium"]
+	ref = android14-tests-release
 	path = external/rust/crates/ciborium
 	url = ../external/rust/crates/ciborium
 [submodule "platform/external/rust/crates/ciborium-io"]
+	ref = android14-tests-release
 	path = external/rust/crates/ciborium-io
 	url = ../external/rust/crates/ciborium-io
 [submodule "platform/external/rust/crates/ciborium-ll"]
+	ref = android14-tests-release
 	path = external/rust/crates/ciborium-ll
 	url = ../external/rust/crates/ciborium-ll
 [submodule "platform/external/rust/crates/clang-sys"]
+	ref = android14-tests-release
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys
 [submodule "platform/external/rust/crates/clap"]
+	ref = android14-tests-release
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
 [submodule "platform/external/rust/crates/clap_derive"]
+	ref = android14-tests-release
 	path = external/rust/crates/clap_derive
 	url = ../external/rust/crates/clap_derive
 [submodule "platform/external/rust/crates/clap_lex"]
+	ref = android14-tests-release
 	path = external/rust/crates/clap_lex
 	url = ../external/rust/crates/clap_lex
 [submodule "platform/external/rust/crates/codespan-reporting"]
+	ref = android14-tests-release
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
 [submodule "platform/external/rust/crates/combine"]
+	ref = android14-tests-release
 	path = external/rust/crates/combine
 	url = ../external/rust/crates/combine
 [submodule "platform/external/rust/crates/command-fds"]
+	ref = android14-tests-release
 	path = external/rust/crates/command-fds
 	url = ../external/rust/crates/command-fds
 [submodule "platform/external/rust/crates/const-oid"]
+	ref = android14-tests-release
 	path = external/rust/crates/const-oid
 	url = ../external/rust/crates/const-oid
 [submodule "platform/external/rust/crates/coset"]
+	ref = android14-tests-release
 	path = external/rust/crates/coset
 	url = ../external/rust/crates/coset
 [submodule "platform/external/rust/crates/crc32fast"]
+	ref = android14-tests-release
 	path = external/rust/crates/crc32fast
 	url = ../external/rust/crates/crc32fast
 [submodule "platform/external/rust/crates/criterion"]
+	ref = android14-tests-release
 	path = external/rust/crates/criterion
 	url = ../external/rust/crates/criterion
 [submodule "platform/external/rust/crates/criterion-plot"]
+	ref = android14-tests-release
 	path = external/rust/crates/criterion-plot
 	url = ../external/rust/crates/criterion-plot
 [submodule "platform/external/rust/crates/crossbeam-channel"]
+	ref = android14-tests-release
 	path = external/rust/crates/crossbeam-channel
 	url = ../external/rust/crates/crossbeam-channel
 [submodule "platform/external/rust/crates/crossbeam-deque"]
+	ref = android14-tests-release
 	path = external/rust/crates/crossbeam-deque
 	url = ../external/rust/crates/crossbeam-deque
 [submodule "platform/external/rust/crates/crossbeam-epoch"]
+	ref = android14-tests-release
 	path = external/rust/crates/crossbeam-epoch
 	url = ../external/rust/crates/crossbeam-epoch
 [submodule "platform/external/rust/crates/crossbeam-queue"]
+	ref = android14-tests-release
 	path = external/rust/crates/crossbeam-queue
 	url = ../external/rust/crates/crossbeam-queue
 [submodule "platform/external/rust/crates/crossbeam-utils"]
+	ref = android14-tests-release
 	path = external/rust/crates/crossbeam-utils
 	url = ../external/rust/crates/crossbeam-utils
 [submodule "platform/external/rust/crates/csv"]
+	ref = android14-tests-release
 	path = external/rust/crates/csv
 	url = ../external/rust/crates/csv
 [submodule "platform/external/rust/crates/csv-core"]
+	ref = android14-tests-release
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
 [submodule "platform/external/rust/crates/der"]
+	ref = android14-tests-release
 	path = external/rust/crates/der
 	url = ../external/rust/crates/der
 [submodule "platform/external/rust/crates/der-oid-macro"]
+	ref = android14-tests-release
 	path = external/rust/crates/der-oid-macro
 	url = ../external/rust/crates/der-oid-macro
 [submodule "platform/external/rust/crates/der-parser"]
+	ref = android14-tests-release
 	path = external/rust/crates/der-parser
 	url = ../external/rust/crates/der-parser
 [submodule "platform/external/rust/crates/der_derive"]
+	ref = android14-tests-release
 	path = external/rust/crates/der_derive
 	url = ../external/rust/crates/der_derive
 [submodule "platform/external/rust/crates/derive-getters"]
+	ref = android14-tests-release
 	path = external/rust/crates/derive-getters
 	url = ../external/rust/crates/derive-getters
 [submodule "platform/external/rust/crates/derive_arbitrary"]
+	ref = android14-tests-release
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
 [submodule "platform/external/rust/crates/document-features"]
+	ref = android14-tests-release
 	path = external/rust/crates/document-features
 	url = ../external/rust/crates/document-features
 [submodule "platform/external/rust/crates/downcast-rs"]
+	ref = android14-tests-release
 	path = external/rust/crates/downcast-rs
 	url = ../external/rust/crates/downcast-rs
 [submodule "platform/external/rust/crates/either"]
+	ref = android14-tests-release
 	path = external/rust/crates/either
 	url = ../external/rust/crates/either
 [submodule "platform/external/rust/crates/enumn"]
+	ref = android14-tests-release
 	path = external/rust/crates/enumn
 	url = ../external/rust/crates/enumn
 [submodule "platform/external/rust/crates/env_logger"]
+	ref = android14-tests-release
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
 [submodule "platform/external/rust/crates/fallible-iterator"]
+	ref = android14-tests-release
 	path = external/rust/crates/fallible-iterator
 	url = ../external/rust/crates/fallible-iterator
 [submodule "platform/external/rust/crates/fallible-streaming-iterator"]
+	ref = android14-tests-release
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
 [submodule "platform/external/rust/crates/fastrand"]
+	ref = android14-tests-release
 	path = external/rust/crates/fastrand
 	url = ../external/rust/crates/fastrand
 [submodule "platform/external/rust/crates/flagset"]
+	ref = android14-tests-release
 	path = external/rust/crates/flagset
 	url = ../external/rust/crates/flagset
 [submodule "platform/external/rust/crates/flate2"]
+	ref = android14-tests-release
 	path = external/rust/crates/flate2
 	url = ../external/rust/crates/flate2
 [submodule "platform/external/rust/crates/fnv"]
+	ref = android14-tests-release
 	path = external/rust/crates/fnv
 	url = ../external/rust/crates/fnv
 [submodule "platform/external/rust/crates/foreign-types"]
+	ref = android14-tests-release
 	path = external/rust/crates/foreign-types
 	url = ../external/rust/crates/foreign-types
 [submodule "platform/external/rust/crates/foreign-types-shared"]
+	ref = android14-tests-release
 	path = external/rust/crates/foreign-types-shared
 	url = ../external/rust/crates/foreign-types-shared
 [submodule "platform/external/rust/crates/form_urlencoded"]
+	ref = android14-tests-release
 	path = external/rust/crates/form_urlencoded
 	url = ../external/rust/crates/form_urlencoded
 [submodule "platform/external/rust/crates/futures"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures
 	url = ../external/rust/crates/futures
 [submodule "platform/external/rust/crates/futures-channel"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures-channel
 	url = ../external/rust/crates/futures-channel
 [submodule "platform/external/rust/crates/futures-core"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures-core
 	url = ../external/rust/crates/futures-core
 [submodule "platform/external/rust/crates/futures-executor"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures-executor
 	url = ../external/rust/crates/futures-executor
 [submodule "platform/external/rust/crates/futures-io"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures-io
 	url = ../external/rust/crates/futures-io
 [submodule "platform/external/rust/crates/futures-macro"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures-macro
 	url = ../external/rust/crates/futures-macro
 [submodule "platform/external/rust/crates/futures-sink"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures-sink
 	url = ../external/rust/crates/futures-sink
 [submodule "platform/external/rust/crates/futures-task"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures-task
 	url = ../external/rust/crates/futures-task
 [submodule "platform/external/rust/crates/futures-test"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures-test
 	url = ../external/rust/crates/futures-test
 [submodule "platform/external/rust/crates/futures-util"]
+	ref = android14-tests-release
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
 [submodule "platform/external/rust/crates/fxhash"]
+	ref = android14-tests-release
 	path = external/rust/crates/fxhash
 	url = ../external/rust/crates/fxhash
 [submodule "platform/external/rust/crates/gdbstub"]
+	ref = android14-tests-release
 	path = external/rust/crates/gdbstub
 	url = ../external/rust/crates/gdbstub
 [submodule "platform/external/rust/crates/gdbstub_arch"]
+	ref = android14-tests-release
 	path = external/rust/crates/gdbstub_arch
 	url = ../external/rust/crates/gdbstub_arch
 [submodule "platform/external/rust/crates/getrandom"]
+	ref = android14-tests-release
 	path = external/rust/crates/getrandom
 	url = ../external/rust/crates/getrandom
 [submodule "platform/external/rust/crates/glam"]
+	ref = android14-tests-release
 	path = external/rust/crates/glam
 	url = ../external/rust/crates/glam
 [submodule "platform/external/rust/crates/glob"]
+	ref = android14-tests-release
 	path = external/rust/crates/glob
 	url = ../external/rust/crates/glob
 [submodule "platform/external/rust/crates/grpcio"]
+	ref = android14-tests-release
 	path = external/rust/crates/grpcio
 	url = ../external/rust/crates/grpcio
 [submodule "platform/external/rust/crates/grpcio-compiler"]
+	ref = android14-tests-release
 	path = external/rust/crates/grpcio-compiler
 	url = ../external/rust/crates/grpcio-compiler
 [submodule "platform/external/rust/crates/grpcio-sys"]
+	ref = android14-tests-release
 	path = external/rust/crates/grpcio-sys
 	url = ../external/rust/crates/grpcio-sys
 [submodule "platform/external/rust/crates/half"]
+	ref = android14-tests-release
 	path = external/rust/crates/half
 	url = ../external/rust/crates/half
 [submodule "platform/external/rust/crates/hashbrown"]
+	ref = android14-tests-release
 	path = external/rust/crates/hashbrown
 	url = ../external/rust/crates/hashbrown
 [submodule "platform/external/rust/crates/hashlink"]
+	ref = android14-tests-release
 	path = external/rust/crates/hashlink
 	url = ../external/rust/crates/hashlink
 [submodule "platform/external/rust/crates/heck"]
+	ref = android14-tests-release
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
 [submodule "platform/external/rust/crates/hex"]
+	ref = android14-tests-release
 	path = external/rust/crates/hex
 	url = ../external/rust/crates/hex
 [submodule "platform/external/rust/crates/idna"]
+	ref = android14-tests-release
 	path = external/rust/crates/idna
 	url = ../external/rust/crates/idna
 [submodule "platform/external/rust/crates/indexmap"]
+	ref = android14-tests-release
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
 [submodule "platform/external/rust/crates/instant"]
+	ref = android14-tests-release
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
 [submodule "platform/external/rust/crates/intrusive-collections"]
+	ref = android14-tests-release
 	path = external/rust/crates/intrusive-collections
 	url = ../external/rust/crates/intrusive-collections
 [submodule "platform/external/rust/crates/itertools"]
+	ref = android14-tests-release
 	path = external/rust/crates/itertools
 	url = ../external/rust/crates/itertools
 [submodule "platform/external/rust/crates/itoa"]
+	ref = android14-tests-release
 	path = external/rust/crates/itoa
 	url = ../external/rust/crates/itoa
 [submodule "platform/external/rust/crates/jni"]
+	ref = android14-tests-release
 	path = external/rust/crates/jni
 	url = ../external/rust/crates/jni
 [submodule "platform/external/rust/crates/jni-sys"]
+	ref = android14-tests-release
 	path = external/rust/crates/jni-sys
 	url = ../external/rust/crates/jni-sys
 [submodule "platform/external/rust/crates/kernlog"]
+	ref = android14-tests-release
 	path = external/rust/crates/kernlog
 	url = ../external/rust/crates/kernlog
 [submodule "platform/external/rust/crates/lazy_static"]
+	ref = android14-tests-release
 	path = external/rust/crates/lazy_static
 	url = ../external/rust/crates/lazy_static
 [submodule "platform/external/rust/crates/lazycell"]
+	ref = android14-tests-release
 	path = external/rust/crates/lazycell
 	url = ../external/rust/crates/lazycell
 [submodule "platform/external/rust/crates/libc"]
+	ref = android14-tests-release
 	path = external/rust/crates/libc
 	url = ../external/rust/crates/libc
 [submodule "platform/external/rust/crates/libfuzzer-sys"]
+	ref = android14-tests-release
 	path = external/rust/crates/libfuzzer-sys
 	url = ../external/rust/crates/libfuzzer-sys
 [submodule "platform/external/rust/crates/libloading"]
+	ref = android14-tests-release
 	path = external/rust/crates/libloading
 	url = ../external/rust/crates/libloading
 [submodule "platform/external/rust/crates/libm"]
+	ref = android14-tests-release
 	path = external/rust/crates/libm
 	url = ../external/rust/crates/libm
 [submodule "platform/external/rust/crates/libsqlite3-sys"]
+	ref = android14-tests-release
 	path = external/rust/crates/libsqlite3-sys
 	url = ../external/rust/crates/libsqlite3-sys
 [submodule "platform/external/rust/crates/libtest-mimic"]
+	ref = android14-tests-release
 	path = external/rust/crates/libtest-mimic
 	url = ../external/rust/crates/libtest-mimic
 [submodule "platform/external/rust/crates/libz-sys"]
+	ref = android14-tests-release
 	path = external/rust/crates/libz-sys
 	url = ../external/rust/crates/libz-sys
 [submodule "platform/external/rust/crates/linked-hash-map"]
+	ref = android14-tests-release
 	path = external/rust/crates/linked-hash-map
 	url = ../external/rust/crates/linked-hash-map
 [submodule "platform/external/rust/crates/litrs"]
+	ref = android14-tests-release
 	path = external/rust/crates/litrs
 	url = ../external/rust/crates/litrs
 [submodule "platform/external/rust/crates/lock_api"]
+	ref = android14-tests-release
 	path = external/rust/crates/lock_api
 	url = ../external/rust/crates/lock_api
 [submodule "platform/external/rust/crates/log"]
+	ref = android14-tests-release
 	path = external/rust/crates/log
 	url = ../external/rust/crates/log
 [submodule "platform/external/rust/crates/lru-cache"]
+	ref = android14-tests-release
 	path = external/rust/crates/lru-cache
 	url = ../external/rust/crates/lru-cache
 [submodule "platform/external/rust/crates/macaddr"]
+	ref = android14-tests-release
 	path = external/rust/crates/macaddr
 	url = ../external/rust/crates/macaddr
 [submodule "platform/external/rust/crates/managed"]
+	ref = android14-tests-release
 	path = external/rust/crates/managed
 	url = ../external/rust/crates/managed
 [submodule "platform/external/rust/crates/memchr"]
+	ref = android14-tests-release
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
 [submodule "platform/external/rust/crates/memoffset"]
+	ref = android14-tests-release
 	path = external/rust/crates/memoffset
 	url = ../external/rust/crates/memoffset
 [submodule "platform/external/rust/crates/merge"]
+	ref = android14-tests-release
 	path = external/rust/crates/merge
 	url = ../external/rust/crates/merge
 [submodule "platform/external/rust/crates/merge_derive"]
+	ref = android14-tests-release
 	path = external/rust/crates/merge_derive
 	url = ../external/rust/crates/merge_derive
 [submodule "platform/external/rust/crates/minimal-lexical"]
+	ref = android14-tests-release
 	path = external/rust/crates/minimal-lexical
 	url = ../external/rust/crates/minimal-lexical
 [submodule "platform/external/rust/crates/mio"]
+	ref = android14-tests-release
 	path = external/rust/crates/mio
 	url = ../external/rust/crates/mio
 [submodule "platform/external/rust/crates/nix"]
+	ref = android14-tests-release
 	path = external/rust/crates/nix
 	url = ../external/rust/crates/nix
 [submodule "platform/external/rust/crates/no-panic"]
+	ref = android14-tests-release
 	path = external/rust/crates/no-panic
 	url = ../external/rust/crates/no-panic
 [submodule "platform/external/rust/crates/nom"]
+	ref = android14-tests-release
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
 [submodule "platform/external/rust/crates/num-bigint"]
+	ref = android14-tests-release
 	path = external/rust/crates/num-bigint
 	url = ../external/rust/crates/num-bigint
 [submodule "platform/external/rust/crates/num-derive"]
+	ref = android14-tests-release
 	path = external/rust/crates/num-derive
 	url = ../external/rust/crates/num-derive
 [submodule "platform/external/rust/crates/num-integer"]
+	ref = android14-tests-release
 	path = external/rust/crates/num-integer
 	url = ../external/rust/crates/num-integer
 [submodule "platform/external/rust/crates/num-traits"]
+	ref = android14-tests-release
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
 [submodule "platform/external/rust/crates/num_cpus"]
+	ref = android14-tests-release
 	path = external/rust/crates/num_cpus
 	url = ../external/rust/crates/num_cpus
 [submodule "platform/external/rust/crates/octets"]
+	ref = android14-tests-release
 	path = external/rust/crates/octets
 	url = ../external/rust/crates/octets
 [submodule "platform/external/rust/crates/oid-registry"]
+	ref = android14-tests-release
 	path = external/rust/crates/oid-registry
 	url = ../external/rust/crates/oid-registry
 [submodule "platform/external/rust/crates/once_cell"]
+	ref = android14-tests-release
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
 [submodule "platform/external/rust/crates/oorandom"]
+	ref = android14-tests-release
 	path = external/rust/crates/oorandom
 	url = ../external/rust/crates/oorandom
 [submodule "platform/external/rust/crates/openssl"]
+	ref = android14-tests-release
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
 [submodule "platform/external/rust/crates/openssl-macros"]
+	ref = android14-tests-release
 	path = external/rust/crates/openssl-macros
 	url = ../external/rust/crates/openssl-macros
 [submodule "platform/external/rust/crates/os_str_bytes"]
+	ref = android14-tests-release
 	path = external/rust/crates/os_str_bytes
 	url = ../external/rust/crates/os_str_bytes
 [submodule "platform/external/rust/crates/parking_lot"]
+	ref = android14-tests-release
 	path = external/rust/crates/parking_lot
 	url = ../external/rust/crates/parking_lot
 [submodule "platform/external/rust/crates/parking_lot_core"]
+	ref = android14-tests-release
 	path = external/rust/crates/parking_lot_core
 	url = ../external/rust/crates/parking_lot_core
 [submodule "platform/external/rust/crates/paste"]
+	ref = android14-tests-release
 	path = external/rust/crates/paste
 	url = ../external/rust/crates/paste
 [submodule "platform/external/rust/crates/peeking_take_while"]
+	ref = android14-tests-release
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
 [submodule "platform/external/rust/crates/percent-encoding"]
+	ref = android14-tests-release
 	path = external/rust/crates/percent-encoding
 	url = ../external/rust/crates/percent-encoding
 [submodule "platform/external/rust/crates/pest"]
+	ref = android14-tests-release
 	path = external/rust/crates/pest
 	url = ../external/rust/crates/pest
 [submodule "platform/external/rust/crates/pest_derive"]
+	ref = android14-tests-release
 	path = external/rust/crates/pest_derive
 	url = ../external/rust/crates/pest_derive
 [submodule "platform/external/rust/crates/pest_generator"]
+	ref = android14-tests-release
 	path = external/rust/crates/pest_generator
 	url = ../external/rust/crates/pest_generator
 [submodule "platform/external/rust/crates/pest_meta"]
+	ref = android14-tests-release
 	path = external/rust/crates/pest_meta
 	url = ../external/rust/crates/pest_meta
 [submodule "platform/external/rust/crates/pin-project"]
+	ref = android14-tests-release
 	path = external/rust/crates/pin-project
 	url = ../external/rust/crates/pin-project
 [submodule "platform/external/rust/crates/pin-project-internal"]
+	ref = android14-tests-release
 	path = external/rust/crates/pin-project-internal
 	url = ../external/rust/crates/pin-project-internal
 [submodule "platform/external/rust/crates/pin-project-lite"]
+	ref = android14-tests-release
 	path = external/rust/crates/pin-project-lite
 	url = ../external/rust/crates/pin-project-lite
 [submodule "platform/external/rust/crates/pin-utils"]
+	ref = android14-tests-release
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
 [submodule "platform/external/rust/crates/pkcs1"]
+	ref = android14-tests-release
 	path = external/rust/crates/pkcs1
 	url = ../external/rust/crates/pkcs1
 [submodule "platform/external/rust/crates/pkcs8"]
+	ref = android14-tests-release
 	path = external/rust/crates/pkcs8
 	url = ../external/rust/crates/pkcs8
 [submodule "platform/external/rust/crates/plotters"]
+	ref = android14-tests-release
 	path = external/rust/crates/plotters
 	url = ../external/rust/crates/plotters
 [submodule "platform/external/rust/crates/plotters-backend"]
+	ref = android14-tests-release
 	path = external/rust/crates/plotters-backend
 	url = ../external/rust/crates/plotters-backend
 [submodule "platform/external/rust/crates/plotters-svg"]
+	ref = android14-tests-release
 	path = external/rust/crates/plotters-svg
 	url = ../external/rust/crates/plotters-svg
 [submodule "platform/external/rust/crates/ppv-lite86"]
+	ref = android14-tests-release
 	path = external/rust/crates/ppv-lite86
 	url = ../external/rust/crates/ppv-lite86
 [submodule "platform/external/rust/crates/proc-macro-error"]
+	ref = android14-tests-release
 	path = external/rust/crates/proc-macro-error
 	url = ../external/rust/crates/proc-macro-error
 [submodule "platform/external/rust/crates/proc-macro-error-attr"]
+	ref = android14-tests-release
 	path = external/rust/crates/proc-macro-error-attr
 	url = ../external/rust/crates/proc-macro-error-attr
 [submodule "platform/external/rust/crates/proc-macro-nested"]
+	ref = android14-tests-release
 	path = external/rust/crates/proc-macro-nested
 	url = ../external/rust/crates/proc-macro-nested
 [submodule "platform/external/rust/crates/proc-macro2"]
+	ref = android14-tests-release
 	path = external/rust/crates/proc-macro2
 	url = ../external/rust/crates/proc-macro2
 [submodule "platform/external/rust/crates/protobuf"]
+	ref = android14-tests-release
 	path = external/rust/crates/protobuf
 	url = ../external/rust/crates/protobuf
 [submodule "platform/external/rust/crates/protobuf-codegen"]
+	ref = android14-tests-release
 	path = external/rust/crates/protobuf-codegen
 	url = ../external/rust/crates/protobuf-codegen
 [submodule "platform/external/rust/crates/protobuf-json-mapping"]
+	ref = android14-tests-release
 	path = external/rust/crates/protobuf-json-mapping
 	url = ../external/rust/crates/protobuf-json-mapping
 [submodule "platform/external/rust/crates/protobuf-parse"]
+	ref = android14-tests-release
 	path = external/rust/crates/protobuf-parse
 	url = ../external/rust/crates/protobuf-parse
 [submodule "platform/external/rust/crates/protobuf-support"]
+	ref = android14-tests-release
 	path = external/rust/crates/protobuf-support
 	url = ../external/rust/crates/protobuf-support
 [submodule "platform/external/rust/crates/psci"]
+	ref = android14-tests-release
 	path = external/rust/crates/psci
 	url = ../external/rust/crates/psci
 [submodule "platform/external/rust/crates/quiche"]
+	ref = android14-tests-release
 	path = external/rust/crates/quiche
 	url = ../external/rust/crates/quiche
 [submodule "platform/external/rust/crates/quickcheck"]
+	ref = android14-tests-release
 	path = external/rust/crates/quickcheck
 	url = ../external/rust/crates/quickcheck
 [submodule "platform/external/rust/crates/quote"]
+	ref = android14-tests-release
 	path = external/rust/crates/quote
 	url = ../external/rust/crates/quote
 [submodule "platform/external/rust/crates/rand"]
+	ref = android14-tests-release
 	path = external/rust/crates/rand
 	url = ../external/rust/crates/rand
 [submodule "platform/external/rust/crates/rand_chacha"]
+	ref = android14-tests-release
 	path = external/rust/crates/rand_chacha
 	url = ../external/rust/crates/rand_chacha
 [submodule "platform/external/rust/crates/rand_core"]
+	ref = android14-tests-release
 	path = external/rust/crates/rand_core
 	url = ../external/rust/crates/rand_core
 [submodule "platform/external/rust/crates/rand_xorshift"]
+	ref = android14-tests-release
 	path = external/rust/crates/rand_xorshift
 	url = ../external/rust/crates/rand_xorshift
 [submodule "platform/external/rust/crates/rayon"]
+	ref = android14-tests-release
 	path = external/rust/crates/rayon
 	url = ../external/rust/crates/rayon
 [submodule "platform/external/rust/crates/rayon-core"]
+	ref = android14-tests-release
 	path = external/rust/crates/rayon-core
 	url = ../external/rust/crates/rayon-core
 [submodule "platform/external/rust/crates/regex"]
+	ref = android14-tests-release
 	path = external/rust/crates/regex
 	url = ../external/rust/crates/regex
 [submodule "platform/external/rust/crates/regex-automata"]
+	ref = android14-tests-release
 	path = external/rust/crates/regex-automata
 	url = ../external/rust/crates/regex-automata
 [submodule "platform/external/rust/crates/regex-syntax"]
+	ref = android14-tests-release
 	path = external/rust/crates/regex-syntax
 	url = ../external/rust/crates/regex-syntax
 [submodule "platform/external/rust/crates/remain"]
+	ref = android14-tests-release
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
 [submodule "platform/external/rust/crates/remove_dir_all"]
+	ref = android14-tests-release
 	path = external/rust/crates/remove_dir_all
 	url = ../external/rust/crates/remove_dir_all
 [submodule "platform/external/rust/crates/ring"]
+	ref = android14-tests-release
 	path = external/rust/crates/ring
 	url = ../external/rust/crates/ring
 [submodule "platform/external/rust/crates/rusqlite"]
+	ref = android14-tests-release
 	path = external/rust/crates/rusqlite
 	url = ../external/rust/crates/rusqlite
 [submodule "platform/external/rust/crates/rustc-demangle"]
+	ref = android14-tests-release
 	path = external/rust/crates/rustc-demangle
 	url = ../external/rust/crates/rustc-demangle
 [submodule "platform/external/rust/crates/rustc-demangle-capi"]
+	ref = android14-tests-release
 	path = external/rust/crates/rustc-demangle-capi
 	url = ../external/rust/crates/rustc-demangle-capi
 [submodule "platform/external/rust/crates/rustc-hash"]
+	ref = android14-tests-release
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
 [submodule "platform/external/rust/crates/rusticata-macros"]
+	ref = android14-tests-release
 	path = external/rust/crates/rusticata-macros
 	url = ../external/rust/crates/rusticata-macros
 [submodule "platform/external/rust/crates/rustversion"]
+	ref = android14-tests-release
 	path = external/rust/crates/rustversion
 	url = ../external/rust/crates/rustversion
 [submodule "platform/external/rust/crates/ryu"]
+	ref = android14-tests-release
 	path = external/rust/crates/ryu
 	url = ../external/rust/crates/ryu
 [submodule "platform/external/rust/crates/same-file"]
+	ref = android14-tests-release
 	path = external/rust/crates/same-file
 	url = ../external/rust/crates/same-file
 [submodule "platform/external/rust/crates/scopeguard"]
+	ref = android14-tests-release
 	path = external/rust/crates/scopeguard
 	url = ../external/rust/crates/scopeguard
 [submodule "platform/external/rust/crates/sec1"]
+	ref = android14-tests-release
 	path = external/rust/crates/sec1
 	url = ../external/rust/crates/sec1
 [submodule "platform/external/rust/crates/semver"]
+	ref = android14-tests-release
 	path = external/rust/crates/semver
 	url = ../external/rust/crates/semver
 [submodule "platform/external/rust/crates/serde"]
+	ref = android14-tests-release
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
 [submodule "platform/external/rust/crates/serde-xml-rs"]
+	ref = android14-tests-release
 	path = external/rust/crates/serde-xml-rs
 	url = ../external/rust/crates/serde-xml-rs
 [submodule "platform/external/rust/crates/serde_cbor"]
+	ref = android14-tests-release
 	path = external/rust/crates/serde_cbor
 	url = ../external/rust/crates/serde_cbor
 [submodule "platform/external/rust/crates/serde_derive"]
+	ref = android14-tests-release
 	path = external/rust/crates/serde_derive
 	url = ../external/rust/crates/serde_derive
 [submodule "platform/external/rust/crates/serde_json"]
+	ref = android14-tests-release
 	path = external/rust/crates/serde_json
 	url = ../external/rust/crates/serde_json
 [submodule "platform/external/rust/crates/serde_test"]
+	ref = android14-tests-release
 	path = external/rust/crates/serde_test
 	url = ../external/rust/crates/serde_test
 [submodule "platform/external/rust/crates/shared_child"]
+	ref = android14-tests-release
 	path = external/rust/crates/shared_child
 	url = ../external/rust/crates/shared_child
 [submodule "platform/external/rust/crates/shared_library"]
+	ref = android14-tests-release
 	path = external/rust/crates/shared_library
 	url = ../external/rust/crates/shared_library
 [submodule "platform/external/rust/crates/shlex"]
+	ref = android14-tests-release
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
 [submodule "platform/external/rust/crates/slab"]
+	ref = android14-tests-release
 	path = external/rust/crates/slab
 	url = ../external/rust/crates/slab
 [submodule "platform/external/rust/crates/smallvec"]
+	ref = android14-tests-release
 	path = external/rust/crates/smallvec
 	url = ../external/rust/crates/smallvec
 [submodule "platform/external/rust/crates/socket2"]
+	ref = android14-tests-release
 	path = external/rust/crates/socket2
 	url = ../external/rust/crates/socket2
 [submodule "platform/external/rust/crates/spin"]
+	ref = android14-tests-release
 	path = external/rust/crates/spin
 	url = ../external/rust/crates/spin
 [submodule "platform/external/rust/crates/spki"]
+	ref = android14-tests-release
 	path = external/rust/crates/spki
 	url = ../external/rust/crates/spki
 [submodule "platform/external/rust/crates/static_assertions"]
+	ref = android14-tests-release
 	path = external/rust/crates/static_assertions
 	url = ../external/rust/crates/static_assertions
 [submodule "platform/external/rust/crates/syn"]
+	ref = android14-tests-release
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
 [submodule "platform/external/rust/crates/syn-mid"]
+	ref = android14-tests-release
 	path = external/rust/crates/syn-mid
 	url = ../external/rust/crates/syn-mid
 [submodule "platform/external/rust/crates/synstructure"]
+	ref = android14-tests-release
 	path = external/rust/crates/synstructure
 	url = ../external/rust/crates/synstructure
 [submodule "platform/external/rust/crates/tempfile"]
+	ref = android14-tests-release
 	path = external/rust/crates/tempfile
 	url = ../external/rust/crates/tempfile
 [submodule "platform/external/rust/crates/termcolor"]
+	ref = android14-tests-release
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
 [submodule "platform/external/rust/crates/textwrap"]
+	ref = android14-tests-release
 	path = external/rust/crates/textwrap
 	url = ../external/rust/crates/textwrap
 [submodule "platform/external/rust/crates/thiserror"]
+	ref = android14-tests-release
 	path = external/rust/crates/thiserror
 	url = ../external/rust/crates/thiserror
 [submodule "platform/external/rust/crates/thiserror-impl"]
+	ref = android14-tests-release
 	path = external/rust/crates/thiserror-impl
 	url = ../external/rust/crates/thiserror-impl
 [submodule "platform/external/rust/crates/thread_local"]
+	ref = android14-tests-release
 	path = external/rust/crates/thread_local
 	url = ../external/rust/crates/thread_local
 [submodule "platform/external/rust/crates/tinytemplate"]
+	ref = android14-tests-release
 	path = external/rust/crates/tinytemplate
 	url = ../external/rust/crates/tinytemplate
 [submodule "platform/external/rust/crates/tinyvec"]
+	ref = android14-tests-release
 	path = external/rust/crates/tinyvec
 	url = ../external/rust/crates/tinyvec
 [submodule "platform/external/rust/crates/tinyvec_macros"]
+	ref = android14-tests-release
 	path = external/rust/crates/tinyvec_macros
 	url = ../external/rust/crates/tinyvec_macros
 [submodule "platform/external/rust/crates/tokio"]
+	ref = android14-tests-release
 	path = external/rust/crates/tokio
 	url = ../external/rust/crates/tokio
 [submodule "platform/external/rust/crates/tokio-macros"]
+	ref = android14-tests-release
 	path = external/rust/crates/tokio-macros
 	url = ../external/rust/crates/tokio-macros
 [submodule "platform/external/rust/crates/tokio-stream"]
+	ref = android14-tests-release
 	path = external/rust/crates/tokio-stream
 	url = ../external/rust/crates/tokio-stream
 [submodule "platform/external/rust/crates/tokio-test"]
+	ref = android14-tests-release
 	path = external/rust/crates/tokio-test
 	url = ../external/rust/crates/tokio-test
 [submodule "platform/external/rust/crates/tokio-util"]
+	ref = android14-tests-release
 	path = external/rust/crates/tokio-util
 	url = ../external/rust/crates/tokio-util
 [submodule "platform/external/rust/crates/tracing"]
+	ref = android14-tests-release
 	path = external/rust/crates/tracing
 	url = ../external/rust/crates/tracing
 [submodule "platform/external/rust/crates/tracing-attributes"]
+	ref = android14-tests-release
 	path = external/rust/crates/tracing-attributes
 	url = ../external/rust/crates/tracing-attributes
 [submodule "platform/external/rust/crates/tracing-core"]
+	ref = android14-tests-release
 	path = external/rust/crates/tracing-core
 	url = ../external/rust/crates/tracing-core
 [submodule "platform/external/rust/crates/ucd-trie"]
+	ref = android14-tests-release
 	path = external/rust/crates/ucd-trie
 	url = ../external/rust/crates/ucd-trie
 [submodule "platform/external/rust/crates/unicode-bidi"]
+	ref = android14-tests-release
 	path = external/rust/crates/unicode-bidi
 	url = ../external/rust/crates/unicode-bidi
 [submodule "platform/external/rust/crates/unicode-ident"]
+	ref = android14-tests-release
 	path = external/rust/crates/unicode-ident
 	url = ../external/rust/crates/unicode-ident
 [submodule "platform/external/rust/crates/unicode-normalization"]
+	ref = android14-tests-release
 	path = external/rust/crates/unicode-normalization
 	url = ../external/rust/crates/unicode-normalization
 [submodule "platform/external/rust/crates/unicode-segmentation"]
+	ref = android14-tests-release
 	path = external/rust/crates/unicode-segmentation
 	url = ../external/rust/crates/unicode-segmentation
 [submodule "platform/external/rust/crates/unicode-width"]
+	ref = android14-tests-release
 	path = external/rust/crates/unicode-width
 	url = ../external/rust/crates/unicode-width
 [submodule "platform/external/rust/crates/unicode-xid"]
+	ref = android14-tests-release
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
 [submodule "platform/external/rust/crates/untrusted"]
+	ref = android14-tests-release
 	path = external/rust/crates/untrusted
 	url = ../external/rust/crates/untrusted
 [submodule "platform/external/rust/crates/url"]
+	ref = android14-tests-release
 	path = external/rust/crates/url
 	url = ../external/rust/crates/url
 [submodule "platform/external/rust/crates/userfaultfd"]
+	ref = android14-tests-release
 	path = external/rust/crates/userfaultfd
 	url = ../external/rust/crates/userfaultfd
 [submodule "platform/external/rust/crates/userfaultfd-sys"]
+	ref = android14-tests-release
 	path = external/rust/crates/userfaultfd-sys
 	url = ../external/rust/crates/userfaultfd-sys
 [submodule "platform/external/rust/crates/uuid"]
+	ref = android14-tests-release
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
 [submodule "platform/external/rust/crates/virtio-drivers"]
+	ref = android14-tests-release
 	path = external/rust/crates/virtio-drivers
 	url = ../external/rust/crates/virtio-drivers
 [submodule "platform/external/rust/crates/vsock"]
+	ref = android14-tests-release
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
 [submodule "platform/external/rust/crates/vulkano"]
+	ref = android14-tests-release
 	path = external/rust/crates/vulkano
 	url = ../external/rust/crates/vulkano
 [submodule "platform/external/rust/crates/walkdir"]
+	ref = android14-tests-release
 	path = external/rust/crates/walkdir
 	url = ../external/rust/crates/walkdir
 [submodule "platform/external/rust/crates/weak-table"]
+	ref = android14-tests-release
 	path = external/rust/crates/weak-table
 	url = ../external/rust/crates/weak-table
 [submodule "platform/external/rust/crates/webpki"]
+	ref = android14-tests-release
 	path = external/rust/crates/webpki
 	url = ../external/rust/crates/webpki
 [submodule "platform/external/rust/crates/which"]
+	ref = android14-tests-release
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
 [submodule "platform/external/rust/crates/x509-cert"]
+	ref = android14-tests-release
 	path = external/rust/crates/x509-cert
 	url = ../external/rust/crates/x509-cert
 [submodule "platform/external/rust/crates/x509-parser"]
+	ref = android14-tests-release
 	path = external/rust/crates/x509-parser
 	url = ../external/rust/crates/x509-parser
 [submodule "platform/external/rust/crates/xml-rs"]
+	ref = android14-tests-release
 	path = external/rust/crates/xml-rs
 	url = ../external/rust/crates/xml-rs
 [submodule "platform/external/rust/crates/zerocopy"]
+	ref = android14-tests-release
 	path = external/rust/crates/zerocopy
 	url = ../external/rust/crates/zerocopy
 [submodule "platform/external/rust/crates/zerocopy-derive"]
+	ref = android14-tests-release
 	path = external/rust/crates/zerocopy-derive
 	url = ../external/rust/crates/zerocopy-derive
 [submodule "platform/external/rust/crates/zeroize"]
+	ref = android14-tests-release
 	path = external/rust/crates/zeroize
 	url = ../external/rust/crates/zeroize
 [submodule "platform/external/rust/crates/zeroize_derive"]
+	ref = android14-tests-release
 	path = external/rust/crates/zeroize_derive
 	url = ../external/rust/crates/zeroize_derive
 [submodule "platform/external/rust/crates/zip"]
+	ref = android14-tests-release
 	path = external/rust/crates/zip
 	url = ../external/rust/crates/zip
 [submodule "platform/external/rust/cxx"]
+	ref = android14-tests-release
 	path = external/rust/cxx
 	url = ../external/rust/cxx
 [submodule "platform/external/rust/pica"]
+	ref = android14-tests-release
 	path = external/rust/pica
 	url = ../external/rust/pica
 [submodule "platform/external/ruy"]
+	ref = android14-tests-release
 	path = external/ruy
 	url = ../external/ruy
 [submodule "platform/external/s2-geometry-library-java"]
+	ref = android14-tests-release
 	path = external/s2-geometry-library-java
 	url = ../external/s2-geometry-library-java
 [submodule "platform/external/scapy"]
+	ref = android14-tests-release
 	path = external/scapy
 	url = ../external/scapy
 [submodule "platform/external/scrypt"]
+	ref = android14-tests-release
 	path = external/scrypt
 	url = ../external/scrypt
 [submodule "platform/external/scudo"]
+	ref = android14-tests-release
 	path = external/scudo
 	url = ../external/scudo
 [submodule "platform/external/seccomp-tests"]
+	ref = android14-tests-release
 	path = external/seccomp-tests
 	url = ../external/seccomp-tests
 [submodule "platform/external/selinux"]
+	ref = android14-tests-release
 	path = external/selinux
 	url = ../external/selinux
 [submodule "platform/external/setfilters"]
+	ref = android14-tests-release
 	path = external/setfilters
 	url = ../external/setfilters
 [submodule "platform/external/setupcompat"]
+	ref = android14-tests-release
 	path = external/setupcompat
 	url = ../external/setupcompat
 [submodule "platform/external/setupdesign"]
+	ref = android14-tests-release
 	path = external/setupdesign
 	url = ../external/setupdesign
 [submodule "platform/external/sfntly"]
+	ref = android14-tests-release
 	path = external/sfntly
 	url = ../external/sfntly
 [submodule "platform/external/sg3_utils"]
+	ref = android14-tests-release
 	path = external/sg3_utils
 	url = ../external/sg3_utils
 [submodule "platform/external/shaderc/spirv-headers"]
+	ref = android14-tests-release
 	path = external/shaderc/spirv-headers
 	url = ../external/shaderc/spirv-headers
 [submodule "platform/external/shflags"]
+	ref = android14-tests-release
 	path = external/shflags
 	url = ../external/shflags
 [submodule "platform/external/skia"]
+	ref = android14-tests-release
 	path = external/skia
 	url = ../external/skia
 [submodule "platform/external/sl4a"]
+	ref = android14-tests-release
 	path = external/sl4a
 	url = ../external/sl4a
 [submodule "platform/external/slf4j"]
+	ref = android14-tests-release
 	path = external/slf4j
 	url = ../external/slf4j
 [submodule "platform/external/smali"]
+	ref = android14-tests-release
 	path = external/smali
 	url = ../external/smali
 [submodule "platform/external/snakeyaml"]
+	ref = android14-tests-release
 	path = external/snakeyaml
 	url = ../external/snakeyaml
 [submodule "platform/external/sonic"]
+	ref = android14-tests-release
 	path = external/sonic
 	url = ../external/sonic
 [submodule "platform/external/sonivox"]
+	ref = android14-tests-release
 	path = external/sonivox
 	url = ../external/sonivox
 [submodule "platform/external/spdx-tools"]
+	ref = android14-tests-release
 	path = external/spdx-tools
 	url = ../external/spdx-tools
 [submodule "platform/external/speex"]
+	ref = android14-tests-release
 	path = external/speex
 	url = ../external/speex
 [submodule "platform/external/sqlite"]
+	ref = android14-tests-release
 	path = external/sqlite
 	url = ../external/sqlite
 [submodule "platform/external/squashfs-tools"]
+	ref = android14-tests-release
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
 [submodule "platform/external/stardoc"]
+	ref = android14-tests-release
 	path = external/stardoc
 	url = ../external/stardoc
 [submodule "platform/external/starlark-go"]
+	ref = android14-tests-release
 	path = external/starlark-go
 	url = ../external/starlark-go
 [submodule "platform/external/strace"]
+	ref = android14-tests-release
 	path = external/strace
 	url = ../external/strace
 [submodule "platform/external/stressapptest"]
+	ref = android14-tests-release
 	path = external/stressapptest
 	url = ../external/stressapptest
 [submodule "platform/external/subsampling-scale-image-view"]
+	ref = android14-tests-release
 	path = external/subsampling-scale-image-view
 	url = ../external/subsampling-scale-image-view
 [submodule "platform/external/swiftshader"]
+	ref = android14-tests-release
 	path = external/swiftshader
 	url = ../external/swiftshader
 [submodule "platform/external/tagsoup"]
+	ref = android14-tests-release
 	path = external/tagsoup
 	url = ../external/tagsoup
 [submodule "platform/external/tcpdump"]
+	ref = android14-tests-release
 	path = external/tcpdump
 	url = ../external/tcpdump
 [submodule "platform/external/tensorflow"]
+	ref = android14-tests-release
 	path = external/tensorflow
 	url = ../external/tensorflow
 [submodule "platform/external/testng"]
+	ref = android14-tests-release
 	path = external/testng
 	url = ../external/testng
 [submodule "platform/external/tflite-support"]
+	ref = android14-tests-release
 	path = external/tflite-support
 	url = ../external/tflite-support
 [submodule "platform/external/timezone-boundary-builder"]
+	ref = android14-tests-release
 	path = external/timezone-boundary-builder
 	url = ../external/timezone-boundary-builder
 [submodule "platform/external/tinyalsa"]
+	ref = android14-tests-release
 	path = external/tinyalsa
 	url = ../external/tinyalsa
 [submodule "platform/external/tinyalsa_new"]
+	ref = android14-tests-release
 	path = external/tinyalsa_new
 	url = ../external/tinyalsa_new
 [submodule "platform/external/tinycompress"]
+	ref = android14-tests-release
 	path = external/tinycompress
 	url = ../external/tinycompress
 [submodule "platform/external/tinyxml2"]
+	ref = android14-tests-release
 	path = external/tinyxml2
 	url = ../external/tinyxml2
 [submodule "platform/external/toolchain-utils"]
+	ref = android14-tests-release
 	path = external/toolchain-utils
 	url = ../external/toolchain-utils
 [submodule "platform/external/toybox"]
+	ref = android14-tests-release
 	path = external/toybox
 	url = ../external/toybox
 [submodule "platform/external/tpm2-tss"]
+	ref = android14-tests-release
 	path = external/tpm2-tss
 	url = ../external/tpm2-tss
 [submodule "platform/external/trace-cmd"]
+	ref = android14-tests-release
 	path = external/trace-cmd
 	url = ../external/trace-cmd
 [submodule "platform/external/tremolo"]
+	ref = android14-tests-release
 	path = external/tremolo
 	url = ../external/tremolo
 [submodule "platform/external/truth"]
+	ref = android14-tests-release
 	path = external/truth
 	url = ../external/truth
 [submodule "platform/external/turbine"]
+	ref = android14-tests-release
 	path = external/turbine
 	url = ../external/turbine
 [submodule "platform/external/ukey2"]
+	ref = android14-tests-release
 	path = external/ukey2
 	url = ../external/ukey2
 [submodule "platform/external/unicode"]
+	ref = android14-tests-release
 	path = external/unicode
 	url = ../external/unicode
 [submodule "platform/external/universal-tween-engine"]
+	ref = android14-tests-release
 	path = external/universal-tween-engine
 	url = ../external/universal-tween-engine
 [submodule "platform/external/uwb"]
+	ref = android14-tests-release
 	path = external/uwb
 	url = ../external/uwb
 [submodule "platform/external/v4l2_codec2"]
+	ref = android14-tests-release
 	path = external/v4l2_codec2
 	url = ../external/v4l2_codec2
 [submodule "platform/external/vboot_reference"]
+	ref = android14-tests-release
 	path = external/vboot_reference
 	url = ../external/vboot_reference
 [submodule "platform/external/virglrenderer"]
+	ref = android14-tests-release
 	path = external/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/external/vixl"]
+	ref = android14-tests-release
 	path = external/vixl
 	url = ../external/vixl
 [submodule "platform/external/vogar"]
+	ref = android14-tests-release
 	path = external/vogar
 	url = ../external/vogar
 [submodule "platform/external/volley"]
+	ref = android14-tests-release
 	path = external/volley
 	url = ../external/volley
 [submodule "platform/external/vulkan-headers"]
+	ref = android14-tests-release
 	path = external/vulkan-headers
 	url = ../external/vulkan-headers
 [submodule "platform/external/vulkan-validation-layers"]
+	ref = android14-tests-release
 	path = external/vulkan-validation-layers
 	url = ../external/vulkan-validation-layers
 [submodule "platform/external/walt"]
+	ref = android14-tests-release
 	path = external/walt
 	url = ../external/walt
 [submodule "platform/external/wayland"]
+	ref = android14-tests-release
 	path = external/wayland
 	url = ../external/wayland
 [submodule "platform/external/wayland-protocols"]
+	ref = android14-tests-release
 	path = external/wayland-protocols
 	url = ../external/wayland-protocols
 [submodule "platform/external/webp"]
+	ref = android14-tests-release
 	path = external/webp
 	url = ../external/webp
 [submodule "platform/external/webrtc"]
+	ref = android14-tests-release
 	path = external/webrtc
 	url = ../external/webrtc
 [submodule "platform/external/wmediumd"]
+	ref = android14-tests-release
 	path = external/wmediumd
 	url = ../external/wmediumd
 [submodule "platform/external/wpa_supplicant_8"]
+	ref = android14-tests-release
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
 [submodule "platform/external/wuffs-mirror-release-c"]
+	ref = android14-tests-release
 	path = external/wuffs-mirror-release-c
 	url = ../external/wuffs-mirror-release-c
 [submodule "platform/external/wycheproof"]
+	ref = android14-tests-release
 	path = external/wycheproof
 	url = ../external/wycheproof
 [submodule "platform/external/xmp_toolkit"]
+	ref = android14-tests-release
 	path = external/xmp_toolkit
 	url = ../external/xmp_toolkit
 [submodule "platform/external/xz-embedded"]
+	ref = android14-tests-release
 	path = external/xz-embedded
 	url = ../external/xz-embedded
 [submodule "platform/external/xz-java"]
+	ref = android14-tests-release
 	path = external/xz-java
 	url = ../external/xz-java
 [submodule "platform/external/yapf"]
+	ref = android14-tests-release
 	path = external/yapf
 	url = ../external/yapf
 [submodule "platform/external/zlib"]
+	ref = android14-tests-release
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/external/zopfli"]
+	ref = android14-tests-release
 	path = external/zopfli
 	url = ../external/zopfli
 [submodule "platform/external/zstd"]
+	ref = android14-tests-release
 	path = external/zstd
 	url = ../external/zstd
 [submodule "platform/external/zucchini"]
+	ref = android14-tests-release
 	path = external/zucchini
 	url = ../external/zucchini
 [submodule "platform/external/zxing"]
+	ref = android14-tests-release
 	path = external/zxing
 	url = ../external/zxing
 [submodule "platform/frameworks/av"]
+	ref = android14-tests-release
 	path = frameworks/av
 	url = ../frameworks/av
 [submodule "platform/frameworks/base"]
+	ref = android14-tests-release
 	path = frameworks/base
 	url = ../frameworks/base
 [submodule "platform/frameworks/compile/libbcc"]
+	ref = android14-tests-release
 	path = frameworks/compile/libbcc
 	url = ../frameworks/compile/libbcc
 [submodule "platform/frameworks/compile/mclinker"]
+	ref = android14-tests-release
 	path = frameworks/compile/mclinker
 	url = ../frameworks/compile/mclinker
 [submodule "platform/frameworks/compile/slang"]
+	ref = android14-tests-release
 	path = frameworks/compile/slang
 	url = ../frameworks/compile/slang
 [submodule "platform/frameworks/ex"]
+	ref = android14-tests-release
 	path = frameworks/ex
 	url = ../frameworks/ex
 [submodule "platform/frameworks/hardware/interfaces"]
+	ref = android14-tests-release
 	path = frameworks/hardware/interfaces
 	url = ../frameworks/hardware/interfaces
 [submodule "platform/frameworks/layoutlib"]
+	ref = android14-tests-release
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
 [submodule "platform/frameworks/libs/binary_translation"]
+	ref = android14-tests-release
 	path = frameworks/libs/binary_translation
 	url = ../frameworks/libs/binary_translation
 [submodule "platform/frameworks/libs/gsma_services"]
+	ref = android14-tests-release
 	path = frameworks/libs/gsma_services
 	url = ../frameworks/libs/gsma_services
 [submodule "platform/frameworks/libs/modules-utils"]
+	ref = android14-tests-release
 	path = frameworks/libs/modules-utils
 	url = ../frameworks/libs/modules-utils
 [submodule "platform/frameworks/libs/native_bridge_support"]
+	ref = android14-tests-release
 	path = frameworks/libs/native_bridge_support
 	url = ../frameworks/libs/native_bridge_support
 [submodule "platform/frameworks/libs/net"]
+	ref = android14-tests-release
 	path = frameworks/libs/net
 	url = ../frameworks/libs/net
 [submodule "platform/frameworks/libs/service_entitlement"]
+	ref = android14-tests-release
 	path = frameworks/libs/service_entitlement
 	url = ../frameworks/libs/service_entitlement
 [submodule "platform/frameworks/libs/systemui"]
+	ref = android14-tests-release
 	path = frameworks/libs/systemui
 	url = ../frameworks/libs/systemui
 [submodule "platform/frameworks/minikin"]
+	ref = android14-tests-release
 	path = frameworks/minikin
 	url = ../frameworks/minikin
 [submodule "platform/frameworks/multidex"]
+	ref = android14-tests-release
 	path = frameworks/multidex
 	url = ../frameworks/multidex
 [submodule "platform/frameworks/native"]
+	ref = android14-tests-release
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/frameworks/opt/bitmap"]
+	ref = android14-tests-release
 	path = frameworks/opt/bitmap
 	url = ../frameworks/opt/bitmap
 [submodule "platform/frameworks/opt/calendar"]
+	ref = android14-tests-release
 	path = frameworks/opt/calendar
 	url = ../frameworks/opt/calendar
 [submodule "platform/frameworks/opt/car/services"]
+	ref = android14-tests-release
 	path = frameworks/opt/car/services
 	url = ../frameworks/opt/car/services
 [submodule "platform/frameworks/opt/car/setupwizard"]
+	ref = android14-tests-release
 	path = frameworks/opt/car/setupwizard
 	url = ../frameworks/opt/car/setupwizard
 [submodule "platform/frameworks/opt/chips"]
+	ref = android14-tests-release
 	path = frameworks/opt/chips
 	url = ../frameworks/opt/chips
 [submodule "platform/frameworks/opt/colorpicker"]
+	ref = android14-tests-release
 	path = frameworks/opt/colorpicker
 	url = ../frameworks/opt/colorpicker
 [submodule "platform/frameworks/opt/localepicker"]
+	ref = android14-tests-release
 	path = frameworks/opt/localepicker
 	url = ../frameworks/opt/localepicker
 [submodule "platform/frameworks/opt/net/ethernet"]
+	ref = android14-tests-release
 	path = frameworks/opt/net/ethernet
 	url = ../frameworks/opt/net/ethernet
 [submodule "platform/frameworks/opt/net/ims"]
+	ref = android14-tests-release
 	path = frameworks/opt/net/ims
 	url = ../frameworks/opt/net/ims
 [submodule "platform/frameworks/opt/net/voip"]
+	ref = android14-tests-release
 	path = frameworks/opt/net/voip
 	url = ../frameworks/opt/net/voip
 [submodule "platform/frameworks/opt/net/wifi"]
+	ref = android14-tests-release
 	path = frameworks/opt/net/wifi
 	url = ../frameworks/opt/net/wifi
 [submodule "platform/frameworks/opt/photoviewer"]
+	ref = android14-tests-release
 	path = frameworks/opt/photoviewer
 	url = ../frameworks/opt/photoviewer
 [submodule "platform/frameworks/opt/setupwizard"]
+	ref = android14-tests-release
 	path = frameworks/opt/setupwizard
 	url = ../frameworks/opt/setupwizard
 [submodule "platform/frameworks/opt/telephony"]
+	ref = android14-tests-release
 	path = frameworks/opt/telephony
 	url = ../frameworks/opt/telephony
 [submodule "platform/frameworks/opt/timezonepicker"]
+	ref = android14-tests-release
 	path = frameworks/opt/timezonepicker
 	url = ../frameworks/opt/timezonepicker
 [submodule "platform/frameworks/opt/tv/tvsystem"]
+	ref = android14-tests-release
 	path = frameworks/opt/tv/tvsystem
 	url = ../frameworks/opt/tv/tvsystem
 [submodule "platform/frameworks/opt/vcard"]
+	ref = android14-tests-release
 	path = frameworks/opt/vcard
 	url = ../frameworks/opt/vcard
 [submodule "platform/frameworks/proto_logging"]
+	ref = android14-tests-release
 	path = frameworks/proto_logging
 	url = ../frameworks/proto_logging
 [submodule "platform/frameworks/rs"]
+	ref = android14-tests-release
 	path = frameworks/rs
 	url = ../frameworks/rs
 [submodule "platform/frameworks/wilhelm"]
+	ref = android14-tests-release
 	path = frameworks/wilhelm
 	url = ../frameworks/wilhelm
 [submodule "platform/hardware/broadcom/libbt"]
+	ref = android14-tests-release
 	path = hardware/broadcom/libbt
 	url = ../hardware/broadcom/libbt
 [submodule "platform/hardware/broadcom/wlan"]
+	ref = android14-tests-release
 	path = hardware/broadcom/wlan
 	url = ../hardware/broadcom/wlan
 [submodule "platform/hardware/google/aemu"]
+	ref = android14-tests-release
 	path = hardware/google/aemu
 	url = ../hardware/google/aemu
 [submodule "platform/hardware/google/apf"]
+	ref = android14-tests-release
 	path = hardware/google/apf
 	url = ../hardware/google/apf
 [submodule "platform/hardware/google/av"]
+	ref = android14-tests-release
 	path = hardware/google/av
 	url = ../hardware/google/av
 [submodule "platform/hardware/google/camera"]
+	ref = android14-tests-release
 	path = hardware/google/camera
 	url = ../hardware/google/camera
 [submodule "platform/hardware/google/easel"]
+	ref = android14-tests-release
 	path = hardware/google/easel
 	url = ../hardware/google/easel
 [submodule "platform/hardware/google/gchips"]
+	ref = android14-tests-release
 	path = hardware/google/gchips
 	url = ../hardware/google/gchips
 [submodule "platform/hardware/google/gfxstream"]
+	ref = android14-tests-release
 	path = hardware/google/gfxstream
 	url = ../hardware/google/gfxstream
 [submodule "platform/hardware/google/graphics/common"]
+	ref = android14-tests-release
 	path = hardware/google/graphics/common
 	url = ../hardware/google/graphics/common
 [submodule "platform/hardware/google/graphics/gs101"]
+	ref = android14-tests-release
 	path = hardware/google/graphics/gs101
 	url = ../hardware/google/graphics/gs101
 [submodule "platform/hardware/google/graphics/gs201"]
+	ref = android14-tests-release
 	path = hardware/google/graphics/gs201
 	url = ../hardware/google/graphics/gs201
 [submodule "platform/hardware/google/interfaces"]
+	ref = android14-tests-release
 	path = hardware/google/interfaces
 	url = ../hardware/google/interfaces
 [submodule "platform/hardware/google/pixel"]
+	ref = android14-tests-release
 	path = hardware/google/pixel
 	url = ../hardware/google/pixel
 [submodule "platform/hardware/google/pixel-sepolicy"]
+	ref = android14-tests-release
 	path = hardware/google/pixel-sepolicy
 	url = ../hardware/google/pixel-sepolicy
 [submodule "platform/hardware/interfaces"]
+	ref = android14-tests-release
 	path = hardware/interfaces
 	url = ../hardware/interfaces
 [submodule "platform/hardware/invensense"]
+	ref = android14-tests-release
 	path = hardware/invensense
 	url = ../hardware/invensense
 [submodule "platform/hardware/knowles/athletico/sound_trigger_hal"]
+	ref = android14-tests-release
 	path = hardware/knowles/athletico/sound_trigger_hal
 	url = ../hardware/knowles/athletico/sound_trigger_hal
 [submodule "platform/hardware/libhardware"]
+	ref = android14-tests-release
 	path = hardware/libhardware
 	url = ../hardware/libhardware
 [submodule "platform/hardware/libhardware_legacy"]
+	ref = android14-tests-release
 	path = hardware/libhardware_legacy
 	url = ../hardware/libhardware_legacy
 [submodule "platform/hardware/nxp/nfc"]
+	ref = android14-tests-release
 	path = hardware/nxp/nfc
 	url = ../hardware/nxp/nfc
 [submodule "platform/hardware/nxp/secure_element"]
+	ref = android14-tests-release
 	path = hardware/nxp/secure_element
 	url = ../hardware/nxp/secure_element
 [submodule "platform/hardware/nxp/uwb"]
+	ref = android14-tests-release
 	path = hardware/nxp/uwb
 	url = ../hardware/nxp/uwb
 [submodule "platform/hardware/qcom/audio"]
+	ref = android14-tests-release
 	path = hardware/qcom/audio
 	url = ../hardware/qcom/audio
 [submodule "platform/hardware/qcom/bootctrl"]
+	ref = android14-tests-release
 	path = hardware/qcom/bootctrl
 	url = ../hardware/qcom/bootctrl
 [submodule "platform/hardware/qcom/bt"]
+	ref = android14-tests-release
 	path = hardware/qcom/bt
 	url = ../hardware/qcom/bt
 [submodule "platform/hardware/qcom/camera"]
+	ref = android14-tests-release
 	path = hardware/qcom/camera
 	url = ../hardware/qcom/camera
 [submodule "platform/hardware/qcom/data/ipacfg-mgr"]
+	ref = android14-tests-release
 	path = hardware/qcom/data/ipacfg-mgr
 	url = ../hardware/qcom/data/ipacfg-mgr
 [submodule "platform/hardware/qcom/display"]
+	ref = android14-tests-release
 	path = hardware/qcom/display
 	url = ../hardware/qcom/display
 [submodule "platform/hardware/qcom/gps"]
+	ref = android14-tests-release
 	path = hardware/qcom/gps
 	url = ../hardware/qcom/gps
 [submodule "platform/hardware/qcom/keymaster"]
+	ref = android14-tests-release
 	path = hardware/qcom/keymaster
 	url = ../hardware/qcom/keymaster
 [submodule "platform/hardware/qcom/media"]
+	ref = android14-tests-release
 	path = hardware/qcom/media
 	url = ../hardware/qcom/media
 [submodule "platform/hardware/qcom/power"]
+	ref = android14-tests-release
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
 [submodule "platform/hardware/qcom/sm7150/gps"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm7150/gps
 	url = ../hardware/qcom/sm7150/gps
 [submodule "platform/hardware/qcom/sm7250/display"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm7250/display
 	url = ../hardware/qcom/sm7250/display
 [submodule "platform/hardware/qcom/sm7250/gps"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm7250/gps
 	url = ../hardware/qcom/sm7250/gps
 [submodule "platform/hardware/qcom/sm7250/media"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm7250/media
 	url = ../hardware/qcom/sm7250/media
 [submodule "platform/hardware/qcom/sm8150/data/ipacfg-mgr"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm8150/data/ipacfg-mgr
 	url = ../hardware/qcom/sm8150/data/ipacfg-mgr
 [submodule "platform/hardware/qcom/sm8150/display"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm8150/display
 	url = ../hardware/qcom/sm8150/display
 [submodule "platform/hardware/qcom/sm8150/gps"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm8150/gps
 	url = ../hardware/qcom/sm8150/gps
 [submodule "platform/hardware/qcom/sm8150/media"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm8150/media
 	url = ../hardware/qcom/sm8150/media
 [submodule "platform/hardware/qcom/sm8150/thermal"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm8150/thermal
 	url = ../hardware/qcom/sm8150/thermal
 [submodule "platform/hardware/qcom/sm8150/vr"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm8150/vr
 	url = ../hardware/qcom/sm8150/vr
 [submodule "platform/hardware/qcom/sm8150p/gps"]
+	ref = android14-tests-release
 	path = hardware/qcom/sm8150p/gps
 	url = ../hardware/qcom/sm8150p/gps
 [submodule "platform/hardware/qcom/wlan"]
+	ref = android14-tests-release
 	path = hardware/qcom/wlan
 	url = ../hardware/qcom/wlan
 [submodule "platform/hardware/ril"]
+	ref = android14-tests-release
 	path = hardware/ril
 	url = ../hardware/ril
 [submodule "platform/hardware/samsung/nfc"]
+	ref = android14-tests-release
 	path = hardware/samsung/nfc
 	url = ../hardware/samsung/nfc
 [submodule "platform/hardware/st/nfc"]
+	ref = android14-tests-release
 	path = hardware/st/nfc
 	url = ../hardware/st/nfc
 [submodule "platform/hardware/st/secure_element"]
+	ref = android14-tests-release
 	path = hardware/st/secure_element
 	url = ../hardware/st/secure_element
 [submodule "platform/hardware/st/secure_element2"]
+	ref = android14-tests-release
 	path = hardware/st/secure_element2
 	url = ../hardware/st/secure_element2
 [submodule "platform/hardware/synaptics/wlan"]
+	ref = android14-tests-release
 	path = hardware/synaptics/wlan
 	url = ../hardware/synaptics/wlan
 [submodule "platform/hardware/ti/am57x"]
+	ref = android14-tests-release
 	path = hardware/ti/am57x
 	url = ../hardware/ti/am57x
 [submodule "platform/libcore"]
+	ref = android14-tests-release
 	path = libcore
 	url = ../libcore
 [submodule "platform/libnativehelper"]
+	ref = android14-tests-release
 	path = libnativehelper
 	url = ../libnativehelper
 [submodule "platform/packages/apps/BasicSmsReceiver"]
+	ref = android14-tests-release
 	path = packages/apps/BasicSmsReceiver
 	url = ../packages/apps/BasicSmsReceiver
 [submodule "platform/packages/apps/Browser2"]
+	ref = android14-tests-release
 	path = packages/apps/Browser2
 	url = ../packages/apps/Browser2
 [submodule "platform/packages/apps/Calendar"]
+	ref = android14-tests-release
 	path = packages/apps/Calendar
 	url = ../packages/apps/Calendar
 [submodule "platform/packages/apps/Camera2"]
+	ref = android14-tests-release
 	path = packages/apps/Camera2
 	url = ../packages/apps/Camera2
 [submodule "platform/packages/apps/Car/Calendar"]
+	ref = android14-tests-release
 	path = packages/apps/Car/Calendar
 	url = ../packages/apps/Car/Calendar
 [submodule "platform/packages/apps/Car/Cluster"]
+	ref = android14-tests-release
 	path = packages/apps/Car/Cluster
 	url = ../packages/apps/Car/Cluster
 [submodule "platform/packages/apps/Car/DebuggingRestrictionController"]
+	ref = android14-tests-release
 	path = packages/apps/Car/DebuggingRestrictionController
 	url = ../packages/apps/Car/DebuggingRestrictionController
 [submodule "platform/packages/apps/Car/DialerPrebuilt"]
+	ref = android14-tests-release
 	path = packages/apps/Car/DialerPrebuilt
 	url = ../packages/apps/Car/DialerPrebuilt
 [submodule "platform/packages/apps/Car/LatinIME"]
+	ref = android14-tests-release
 	path = packages/apps/Car/LatinIME
 	url = ../packages/apps/Car/LatinIME
 [submodule "platform/packages/apps/Car/Launcher"]
+	ref = android14-tests-release
 	path = packages/apps/Car/Launcher
 	url = ../packages/apps/Car/Launcher
 [submodule "platform/packages/apps/Car/LinkViewer"]
+	ref = android14-tests-release
 	path = packages/apps/Car/LinkViewer
 	url = ../packages/apps/Car/LinkViewer
 [submodule "platform/packages/apps/Car/LocalMediaPlayer"]
+	ref = android14-tests-release
 	path = packages/apps/Car/LocalMediaPlayer
 	url = ../packages/apps/Car/LocalMediaPlayer
 [submodule "platform/packages/apps/Car/MediaPrebuilt"]
+	ref = android14-tests-release
 	path = packages/apps/Car/MediaPrebuilt
 	url = ../packages/apps/Car/MediaPrebuilt
 [submodule "platform/packages/apps/Car/MessengerPrebuilt"]
+	ref = android14-tests-release
 	path = packages/apps/Car/MessengerPrebuilt
 	url = ../packages/apps/Car/MessengerPrebuilt
 [submodule "platform/packages/apps/Car/Notification"]
+	ref = android14-tests-release
 	path = packages/apps/Car/Notification
 	url = ../packages/apps/Car/Notification
 [submodule "platform/packages/apps/Car/Provision"]
+	ref = android14-tests-release
 	path = packages/apps/Car/Provision
 	url = ../packages/apps/Car/Provision
 [submodule "platform/packages/apps/Car/Radio"]
+	ref = android14-tests-release
 	path = packages/apps/Car/Radio
 	url = ../packages/apps/Car/Radio
 [submodule "platform/packages/apps/Car/RotaryController"]
+	ref = android14-tests-release
 	path = packages/apps/Car/RotaryController
 	url = ../packages/apps/Car/RotaryController
 [submodule "platform/packages/apps/Car/Settings"]
+	ref = android14-tests-release
 	path = packages/apps/Car/Settings
 	url = ../packages/apps/Car/Settings
 [submodule "platform/packages/apps/Car/SettingsIntelligence"]
+	ref = android14-tests-release
 	path = packages/apps/Car/SettingsIntelligence
 	url = ../packages/apps/Car/SettingsIntelligence
 [submodule "platform/packages/apps/Car/SystemUI"]
+	ref = android14-tests-release
 	path = packages/apps/Car/SystemUI
 	url = ../packages/apps/Car/SystemUI
 [submodule "platform/packages/apps/Car/SystemUpdater"]
+	ref = android14-tests-release
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
 [submodule "platform/packages/apps/Car/systemlibs"]
+	ref = android14-tests-release
 	path = packages/apps/Car/systemlibs
 	url = ../packages/apps/Car/systemlibs
 [submodule "platform/packages/apps/CarrierConfig"]
+	ref = android14-tests-release
 	path = packages/apps/CarrierConfig
 	url = ../packages/apps/CarrierConfig
 [submodule "platform/packages/apps/CellBroadcastReceiver"]
+	ref = android14-tests-release
 	path = packages/apps/CellBroadcastReceiver
 	url = ../packages/apps/CellBroadcastReceiver
 [submodule "platform/packages/apps/CertInstaller"]
+	ref = android14-tests-release
 	path = packages/apps/CertInstaller
 	url = ../packages/apps/CertInstaller
 [submodule "platform/packages/apps/Contacts"]
+	ref = android14-tests-release
 	path = packages/apps/Contacts
 	url = ../packages/apps/Contacts
 [submodule "platform/packages/apps/DeskClock"]
+	ref = android14-tests-release
 	path = packages/apps/DeskClock
 	url = ../packages/apps/DeskClock
 [submodule "platform/packages/apps/DevCamera"]
+	ref = android14-tests-release
 	path = packages/apps/DevCamera
 	url = ../packages/apps/DevCamera
 [submodule "platform/packages/apps/Dialer"]
+	ref = android14-tests-release
 	path = packages/apps/Dialer
 	url = ../packages/apps/Dialer
 [submodule "platform/packages/apps/DocumentsUI"]
+	ref = android14-tests-release
 	path = packages/apps/DocumentsUI
 	url = ../packages/apps/DocumentsUI
 [submodule "platform/packages/apps/EmergencyInfo"]
+	ref = android14-tests-release
 	path = packages/apps/EmergencyInfo
 	url = ../packages/apps/EmergencyInfo
 [submodule "platform/packages/apps/Gallery"]
+	ref = android14-tests-release
 	path = packages/apps/Gallery
 	url = ../packages/apps/Gallery
 [submodule "platform/packages/apps/Gallery2"]
+	ref = android14-tests-release
 	path = packages/apps/Gallery2
 	url = ../packages/apps/Gallery2
 [submodule "platform/packages/apps/HTMLViewer"]
+	ref = android14-tests-release
 	path = packages/apps/HTMLViewer
 	url = ../packages/apps/HTMLViewer
 [submodule "platform/packages/apps/ImsServiceEntitlement"]
+	ref = android14-tests-release
 	path = packages/apps/ImsServiceEntitlement
 	url = ../packages/apps/ImsServiceEntitlement
 [submodule "platform/packages/apps/KeyChain"]
+	ref = android14-tests-release
 	path = packages/apps/KeyChain
 	url = ../packages/apps/KeyChain
 [submodule "platform/packages/apps/Launcher3"]
+	ref = android14-tests-release
 	path = packages/apps/Launcher3
 	url = ../packages/apps/Launcher3
 [submodule "platform/packages/apps/LegacyCamera"]
+	ref = android14-tests-release
 	path = packages/apps/LegacyCamera
 	url = ../packages/apps/LegacyCamera
 [submodule "platform/packages/apps/ManagedProvisioning"]
+	ref = android14-tests-release
 	path = packages/apps/ManagedProvisioning
 	url = ../packages/apps/ManagedProvisioning
 [submodule "platform/packages/apps/Messaging"]
+	ref = android14-tests-release
 	path = packages/apps/Messaging
 	url = ../packages/apps/Messaging
 [submodule "platform/packages/apps/Music"]
+	ref = android14-tests-release
 	path = packages/apps/Music
 	url = ../packages/apps/Music
 [submodule "platform/packages/apps/MusicFX"]
+	ref = android14-tests-release
 	path = packages/apps/MusicFX
 	url = ../packages/apps/MusicFX
 [submodule "platform/packages/apps/Nfc"]
+	ref = android14-tests-release
 	path = packages/apps/Nfc
 	url = ../packages/apps/Nfc
 [submodule "platform/packages/apps/OnDeviceAppPrediction"]
+	ref = android14-tests-release
 	path = packages/apps/OnDeviceAppPrediction
 	url = ../packages/apps/OnDeviceAppPrediction
 [submodule "platform/packages/apps/PhoneCommon"]
+	ref = android14-tests-release
 	path = packages/apps/PhoneCommon
 	url = ../packages/apps/PhoneCommon
 [submodule "platform/packages/apps/Protips"]
+	ref = android14-tests-release
 	path = packages/apps/Protips
 	url = ../packages/apps/Protips
 [submodule "platform/packages/apps/Provision"]
+	ref = android14-tests-release
 	path = packages/apps/Provision
 	url = ../packages/apps/Provision
 [submodule "platform/packages/apps/QuickAccessWallet"]
+	ref = android14-tests-release
 	path = packages/apps/QuickAccessWallet
 	url = ../packages/apps/QuickAccessWallet
 [submodule "platform/packages/apps/QuickSearchBox"]
+	ref = android14-tests-release
 	path = packages/apps/QuickSearchBox
 	url = ../packages/apps/QuickSearchBox
 [submodule "platform/packages/apps/SafetyRegulatoryInfo"]
+	ref = android14-tests-release
 	path = packages/apps/SafetyRegulatoryInfo
 	url = ../packages/apps/SafetyRegulatoryInfo
 [submodule "platform/packages/apps/SampleLocationAttribution"]
+	ref = android14-tests-release
 	path = packages/apps/SampleLocationAttribution
 	url = ../packages/apps/SampleLocationAttribution
 [submodule "platform/packages/apps/SecureElement"]
+	ref = android14-tests-release
 	path = packages/apps/SecureElement
 	url = ../packages/apps/SecureElement
 [submodule "platform/packages/apps/Settings"]
+	ref = android14-tests-release
 	path = packages/apps/Settings
 	url = ../packages/apps/Settings
 [submodule "platform/packages/apps/SettingsIntelligence"]
+	ref = android14-tests-release
 	path = packages/apps/SettingsIntelligence
 	url = ../packages/apps/SettingsIntelligence
 [submodule "platform/packages/apps/SpareParts"]
+	ref = android14-tests-release
 	path = packages/apps/SpareParts
 	url = ../packages/apps/SpareParts
 [submodule "platform/packages/apps/Stk"]
+	ref = android14-tests-release
 	path = packages/apps/Stk
 	url = ../packages/apps/Stk
 [submodule "platform/packages/apps/StorageManager"]
+	ref = android14-tests-release
 	path = packages/apps/StorageManager
 	url = ../packages/apps/StorageManager
 [submodule "platform/packages/apps/SystemUIGo"]
+	ref = android14-tests-release
 	path = packages/apps/SystemUIGo
 	url = ../packages/apps/SystemUIGo
 [submodule "platform/packages/apps/TV"]
+	ref = android14-tests-release
 	path = packages/apps/TV
 	url = ../packages/apps/TV
 [submodule "platform/packages/apps/Tag"]
+	ref = android14-tests-release
 	path = packages/apps/Tag
 	url = ../packages/apps/Tag
 [submodule "platform/packages/apps/Test/connectivity"]
+	ref = android14-tests-release
 	path = packages/apps/Test/connectivity
 	url = ../packages/apps/Test/connectivity
 [submodule "platform/packages/apps/ThemePicker"]
+	ref = android14-tests-release
 	path = packages/apps/ThemePicker
 	url = ../packages/apps/ThemePicker
 [submodule "platform/packages/apps/Traceur"]
+	ref = android14-tests-release
 	path = packages/apps/Traceur
 	url = ../packages/apps/Traceur
 [submodule "platform/packages/apps/TvSettings"]
+	ref = android14-tests-release
 	path = packages/apps/TvSettings
 	url = ../packages/apps/TvSettings
 [submodule "platform/packages/apps/UniversalMediaPlayer"]
+	ref = android14-tests-release
 	path = packages/apps/UniversalMediaPlayer
 	url = ../packages/apps/UniversalMediaPlayer
 [submodule "platform/packages/apps/WallpaperPicker"]
+	ref = android14-tests-release
 	path = packages/apps/WallpaperPicker
 	url = ../packages/apps/WallpaperPicker
 [submodule "platform/packages/apps/WallpaperPicker2"]
+	ref = android14-tests-release
 	path = packages/apps/WallpaperPicker2
 	url = ../packages/apps/WallpaperPicker2
 [submodule "platform/packages/inputmethods/LatinIME"]
+	ref = android14-tests-release
 	path = packages/inputmethods/LatinIME
 	url = ../packages/inputmethods/LatinIME
 [submodule "platform/packages/inputmethods/LeanbackIME"]
+	ref = android14-tests-release
 	path = packages/inputmethods/LeanbackIME
 	url = ../packages/inputmethods/LeanbackIME
 [submodule "platform/packages/modules/AdServices"]
+	ref = android14-tests-release
 	path = packages/modules/AdServices
 	url = ../packages/modules/AdServices
 [submodule "platform/packages/modules/AppSearch"]
+	ref = android14-tests-release
 	path = packages/modules/AppSearch
 	url = ../packages/modules/AppSearch
 [submodule "platform/packages/modules/ArtPrebuilt"]
+	ref = android14-tests-release
 	path = packages/modules/ArtPrebuilt
 	url = ../packages/modules/ArtPrebuilt
 [submodule "platform/packages/modules/Bluetooth"]
+	ref = android14-tests-release
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
 [submodule "platform/packages/modules/CaptivePortalLogin"]
+	ref = android14-tests-release
 	path = packages/modules/CaptivePortalLogin
 	url = ../packages/modules/CaptivePortalLogin
 [submodule "platform/packages/modules/CellBroadcastService"]
+	ref = android14-tests-release
 	path = packages/modules/CellBroadcastService
 	url = ../packages/modules/CellBroadcastService
 [submodule "platform/packages/modules/ConfigInfrastructure"]
+	ref = android14-tests-release
 	path = packages/modules/ConfigInfrastructure
 	url = ../packages/modules/ConfigInfrastructure
 [submodule "platform/packages/modules/Connectivity"]
+	ref = android14-tests-release
 	path = packages/modules/Connectivity
 	url = ../packages/modules/Connectivity
 [submodule "platform/packages/modules/Cronet"]
+	ref = android14-tests-release
 	path = packages/modules/Cronet
 	url = ../packages/modules/Cronet
 [submodule "platform/packages/modules/DeviceLock"]
+	ref = android14-tests-release
 	path = packages/modules/DeviceLock
 	url = ../packages/modules/DeviceLock
 [submodule "platform/packages/modules/DnsResolver"]
+	ref = android14-tests-release
 	path = packages/modules/DnsResolver
 	url = ../packages/modules/DnsResolver
 [submodule "platform/packages/modules/ExtServices"]
+	ref = android14-tests-release
 	path = packages/modules/ExtServices
 	url = ../packages/modules/ExtServices
 [submodule "platform/packages/modules/GeoTZ"]
+	ref = android14-tests-release
 	path = packages/modules/GeoTZ
 	url = ../packages/modules/GeoTZ
 [submodule "platform/packages/modules/Gki"]
+	ref = android14-tests-release
 	path = packages/modules/Gki
 	url = ../packages/modules/Gki
 [submodule "platform/packages/modules/HealthFitness"]
+	ref = android14-tests-release
 	path = packages/modules/HealthFitness
 	url = ../packages/modules/HealthFitness
 [submodule "platform/packages/modules/IPsec"]
+	ref = android14-tests-release
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
 [submodule "platform/packages/modules/ImsMedia"]
+	ref = android14-tests-release
 	path = packages/modules/ImsMedia
 	url = ../packages/modules/ImsMedia
 [submodule "platform/packages/modules/IntentResolver"]
+	ref = android14-tests-release
 	path = packages/modules/IntentResolver
 	url = ../packages/modules/IntentResolver
 [submodule "platform/packages/modules/Media"]
+	ref = android14-tests-release
 	path = packages/modules/Media
 	url = ../packages/modules/Media
 [submodule "platform/packages/modules/ModuleMetadata"]
+	ref = android14-tests-release
 	path = packages/modules/ModuleMetadata
 	url = ../packages/modules/ModuleMetadata
 [submodule "platform/packages/modules/NetworkPermissionConfig"]
+	ref = android14-tests-release
 	path = packages/modules/NetworkPermissionConfig
 	url = ../packages/modules/NetworkPermissionConfig
 [submodule "platform/packages/modules/NetworkStack"]
+	ref = android14-tests-release
 	path = packages/modules/NetworkStack
 	url = ../packages/modules/NetworkStack
 [submodule "platform/packages/modules/NeuralNetworks"]
+	ref = android14-tests-release
 	path = packages/modules/NeuralNetworks
 	url = ../packages/modules/NeuralNetworks
 [submodule "platform/packages/modules/OnDevicePersonalization"]
+	ref = android14-tests-release
 	path = packages/modules/OnDevicePersonalization
 	url = ../packages/modules/OnDevicePersonalization
 [submodule "platform/packages/modules/Permission"]
+	ref = android14-tests-release
 	path = packages/modules/Permission
 	url = ../packages/modules/Permission
 [submodule "platform/packages/modules/RemoteKeyProvisioning"]
+	ref = android14-tests-release
 	path = packages/modules/RemoteKeyProvisioning
 	url = ../packages/modules/RemoteKeyProvisioning
 [submodule "platform/packages/modules/RuntimeI18n"]
+	ref = android14-tests-release
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
 [submodule "platform/packages/modules/SEPolicy"]
+	ref = android14-tests-release
 	path = packages/modules/SEPolicy
 	url = ../packages/modules/SEPolicy
 [submodule "platform/packages/modules/Scheduling"]
+	ref = android14-tests-release
 	path = packages/modules/Scheduling
 	url = ../packages/modules/Scheduling
 [submodule "platform/packages/modules/SdkExtensions"]
+	ref = android14-tests-release
 	path = packages/modules/SdkExtensions
 	url = ../packages/modules/SdkExtensions
 [submodule "platform/packages/modules/StatsD"]
+	ref = android14-tests-release
 	path = packages/modules/StatsD
 	url = ../packages/modules/StatsD
 [submodule "platform/packages/modules/Telephony"]
+	ref = android14-tests-release
 	path = packages/modules/Telephony
 	url = ../packages/modules/Telephony
 [submodule "platform/packages/modules/TestModule"]
+	ref = android14-tests-release
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
 [submodule "platform/packages/modules/ThreadNetwork"]
+	ref = android14-tests-release
 	path = packages/modules/ThreadNetwork
 	url = ../packages/modules/ThreadNetwork
 [submodule "platform/packages/modules/Uwb"]
+	ref = android14-tests-release
 	path = packages/modules/Uwb
 	url = ../packages/modules/Uwb
 [submodule "platform/packages/modules/Virtualization"]
+	ref = android14-tests-release
 	path = packages/modules/Virtualization
 	url = ../packages/modules/Virtualization
 [submodule "platform/packages/modules/Wifi"]
+	ref = android14-tests-release
 	path = packages/modules/Wifi
 	url = ../packages/modules/Wifi
 [submodule "platform/packages/modules/adb"]
+	ref = android14-tests-release
 	path = packages/modules/adb
 	url = ../packages/modules/adb
 [submodule "platform/packages/modules/common"]
+	ref = android14-tests-release
 	path = packages/modules/common
 	url = ../packages/modules/common
 [submodule "platform/packages/modules/vndk"]
+	ref = android14-tests-release
 	path = packages/modules/vndk
 	url = ../packages/modules/vndk
 [submodule "platform/packages/providers/BlockedNumberProvider"]
+	ref = android14-tests-release
 	path = packages/providers/BlockedNumberProvider
 	url = ../packages/providers/BlockedNumberProvider
 [submodule "platform/packages/providers/BookmarkProvider"]
+	ref = android14-tests-release
 	path = packages/providers/BookmarkProvider
 	url = ../packages/providers/BookmarkProvider
 [submodule "platform/packages/providers/CalendarProvider"]
+	ref = android14-tests-release
 	path = packages/providers/CalendarProvider
 	url = ../packages/providers/CalendarProvider
 [submodule "platform/packages/providers/CallLogProvider"]
+	ref = android14-tests-release
 	path = packages/providers/CallLogProvider
 	url = ../packages/providers/CallLogProvider
 [submodule "platform/packages/providers/ContactsProvider"]
+	ref = android14-tests-release
 	path = packages/providers/ContactsProvider
 	url = ../packages/providers/ContactsProvider
 [submodule "platform/packages/providers/DownloadProvider"]
+	ref = android14-tests-release
 	path = packages/providers/DownloadProvider
 	url = ../packages/providers/DownloadProvider
 [submodule "platform/packages/providers/MediaProvider"]
+	ref = android14-tests-release
 	path = packages/providers/MediaProvider
 	url = ../packages/providers/MediaProvider
 [submodule "platform/packages/providers/PartnerBookmarksProvider"]
+	ref = android14-tests-release
 	path = packages/providers/PartnerBookmarksProvider
 	url = ../packages/providers/PartnerBookmarksProvider
 [submodule "platform/packages/providers/TelephonyProvider"]
+	ref = android14-tests-release
 	path = packages/providers/TelephonyProvider
 	url = ../packages/providers/TelephonyProvider
 [submodule "platform/packages/providers/TvProvider"]
+	ref = android14-tests-release
 	path = packages/providers/TvProvider
 	url = ../packages/providers/TvProvider
 [submodule "platform/packages/providers/UserDictionaryProvider"]
+	ref = android14-tests-release
 	path = packages/providers/UserDictionaryProvider
 	url = ../packages/providers/UserDictionaryProvider
 [submodule "platform/packages/screensavers/Basic"]
+	ref = android14-tests-release
 	path = packages/screensavers/Basic
 	url = ../packages/screensavers/Basic
 [submodule "platform/packages/screensavers/PhotoTable"]
+	ref = android14-tests-release
 	path = packages/screensavers/PhotoTable
 	url = ../packages/screensavers/PhotoTable
 [submodule "platform/packages/services/AlternativeNetworkAccess"]
+	ref = android14-tests-release
 	path = packages/services/AlternativeNetworkAccess
 	url = ../packages/services/AlternativeNetworkAccess
 [submodule "platform/packages/services/BuiltInPrintService"]
+	ref = android14-tests-release
 	path = packages/services/BuiltInPrintService
 	url = ../packages/services/BuiltInPrintService
 [submodule "platform/packages/services/Car"]
+	ref = android14-tests-release
 	path = packages/services/Car
 	url = ../packages/services/Car
 [submodule "platform/packages/services/DeviceAsWebcam"]
+	ref = android14-tests-release
 	path = packages/services/DeviceAsWebcam
 	url = ../packages/services/DeviceAsWebcam
 [submodule "platform/packages/services/Iwlan"]
+	ref = android14-tests-release
 	path = packages/services/Iwlan
 	url = ../packages/services/Iwlan
 [submodule "platform/packages/services/Mms"]
+	ref = android14-tests-release
 	path = packages/services/Mms
 	url = ../packages/services/Mms
 [submodule "platform/packages/services/Mtp"]
+	ref = android14-tests-release
 	path = packages/services/Mtp
 	url = ../packages/services/Mtp
 [submodule "platform/packages/services/Telecomm"]
+	ref = android14-tests-release
 	path = packages/services/Telecomm
 	url = ../packages/services/Telecomm
 [submodule "platform/packages/services/Telephony"]
+	ref = android14-tests-release
 	path = packages/services/Telephony
 	url = ../packages/services/Telephony
 [submodule "platform/packages/wallpapers/ImageWallpaper"]
+	ref = android14-tests-release
 	path = packages/wallpapers/ImageWallpaper
 	url = ../packages/wallpapers/ImageWallpaper
 [submodule "platform/packages/wallpapers/LivePicker"]
+	ref = android14-tests-release
 	path = packages/wallpapers/LivePicker
 	url = ../packages/wallpapers/LivePicker
 [submodule "platform/pdk"]
+	ref = android14-tests-release
 	path = pdk
 	url = ../pdk
 [submodule "platform/platform_testing"]
+	ref = android14-tests-release
 	path = platform_testing
 	url = ../platform_testing
 [submodule "platform/prebuilts/abi-dumps/ndk"]
+	ref = android14-tests-release
 	path = prebuilts/abi-dumps/ndk
 	url = ../prebuilts/abi-dumps/ndk
 [submodule "platform/prebuilts/abi-dumps/platform"]
+	ref = android14-tests-release
 	path = prebuilts/abi-dumps/platform
 	url = ../prebuilts/abi-dumps/platform
 [submodule "platform/prebuilts/abi-dumps/vndk"]
+	ref = android14-tests-release
 	path = prebuilts/abi-dumps/vndk
 	url = ../prebuilts/abi-dumps/vndk
 [submodule "platform/prebuilts/android-emulator"]
+	ref = android14-tests-release
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/asuite"]
+	ref = android14-tests-release
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
 [submodule "platform/prebuilts/bazel/common"]
+	ref = android14-tests-release
 	path = prebuilts/bazel/common
 	url = ../prebuilts/bazel/common
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
+	ref = android14-tests-release
 	path = prebuilts/bazel/darwin-x86_64
 	url = ../prebuilts/bazel/darwin-x86_64
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
+	ref = android14-tests-release
 	path = prebuilts/bazel/linux-x86_64
 	url = ../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
+	ref = android14-tests-release
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/bundletool"]
+	ref = android14-tests-release
 	path = prebuilts/bundletool
 	url = ../prebuilts/bundletool
 [submodule "platform/prebuilts/checkcolor"]
+	ref = android14-tests-release
 	path = prebuilts/checkcolor
 	url = ../prebuilts/checkcolor
 [submodule "platform/prebuilts/checkstyle"]
+	ref = android14-tests-release
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/clang-tools"]
+	ref = android14-tests-release
 	path = prebuilts/clang-tools
 	url = ../prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
+	ref = android14-tests-release
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
+	ref = android14-tests-release
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/cmdline-tools"]
+	ref = android14-tests-release
 	path = prebuilts/cmdline-tools
 	url = ../prebuilts/cmdline-tools
 [submodule "platform/prebuilts/devtools"]
+	ref = android14-tests-release
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	ref = android14-tests-release
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	ref = android14-tests-release
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/go/darwin-x86"]
+	ref = android14-tests-release
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
 [submodule "platform/prebuilts/go/linux-x86"]
+	ref = android14-tests-release
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
 [submodule "platform/prebuilts/gradle-plugin"]
+	ref = android14-tests-release
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
 [submodule "platform/prebuilts/jdk/jdk11"]
+	ref = android14-tests-release
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk17"]
+	ref = android14-tests-release
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk8"]
+	ref = android14-tests-release
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/jdk/jdk9"]
+	ref = android14-tests-release
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
 [submodule "platform/prebuilts/ktlint"]
+	ref = android14-tests-release
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
 [submodule "platform/prebuilts/manifest-merger"]
+	ref = android14-tests-release
 	path = prebuilts/manifest-merger
 	url = ../prebuilts/manifest-merger
 [submodule "platform/prebuilts/maven_repo/bumptech"]
+	ref = android14-tests-release
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
 [submodule "platform/prebuilts/misc"]
+	ref = android14-tests-release
 	path = prebuilts/misc
 	url = ../prebuilts/misc
 [submodule "platform/prebuilts/module_sdk/AdServices"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/AdServices
 	url = ../prebuilts/module_sdk/AdServices
 [submodule "platform/prebuilts/module_sdk/AppSearch"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/AppSearch
 	url = ../prebuilts/module_sdk/AppSearch
 [submodule "platform/prebuilts/module_sdk/Bluetooth"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/Bluetooth
 	url = ../prebuilts/module_sdk/Bluetooth
 [submodule "platform/prebuilts/module_sdk/ConfigInfrastructure"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/ConfigInfrastructure
 	url = ../prebuilts/module_sdk/ConfigInfrastructure
 [submodule "platform/prebuilts/module_sdk/Connectivity"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/Connectivity
 	url = ../prebuilts/module_sdk/Connectivity
 [submodule "platform/prebuilts/module_sdk/DeviceLock"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/DeviceLock
 	url = ../prebuilts/module_sdk/DeviceLock
 [submodule "platform/prebuilts/module_sdk/HealthFitness"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/HealthFitness
 	url = ../prebuilts/module_sdk/HealthFitness
 [submodule "platform/prebuilts/module_sdk/IPsec"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/IPsec
 	url = ../prebuilts/module_sdk/IPsec
 [submodule "platform/prebuilts/module_sdk/Media"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/Media
 	url = ../prebuilts/module_sdk/Media
 [submodule "platform/prebuilts/module_sdk/MediaProvider"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/MediaProvider
 	url = ../prebuilts/module_sdk/MediaProvider
 [submodule "platform/prebuilts/module_sdk/OnDevicePersonalization"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/OnDevicePersonalization
 	url = ../prebuilts/module_sdk/OnDevicePersonalization
 [submodule "platform/prebuilts/module_sdk/Permission"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/Permission
 	url = ../prebuilts/module_sdk/Permission
 [submodule "platform/prebuilts/module_sdk/RemoteKeyProvisioning"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/RemoteKeyProvisioning
 	url = ../prebuilts/module_sdk/RemoteKeyProvisioning
 [submodule "platform/prebuilts/module_sdk/Scheduling"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/Scheduling
 	url = ../prebuilts/module_sdk/Scheduling
 [submodule "platform/prebuilts/module_sdk/SdkExtensions"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/SdkExtensions
 	url = ../prebuilts/module_sdk/SdkExtensions
 [submodule "platform/prebuilts/module_sdk/StatsD"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/StatsD
 	url = ../prebuilts/module_sdk/StatsD
 [submodule "platform/prebuilts/module_sdk/Uwb"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/Uwb
 	url = ../prebuilts/module_sdk/Uwb
 [submodule "platform/prebuilts/module_sdk/Wifi"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/Wifi
 	url = ../prebuilts/module_sdk/Wifi
 [submodule "platform/prebuilts/module_sdk/art"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/art
 	url = ../prebuilts/module_sdk/art
 [submodule "platform/prebuilts/module_sdk/conscrypt"]
+	ref = android14-tests-release
 	path = prebuilts/module_sdk/conscrypt
 	url = ../prebuilts/module_sdk/conscrypt
 [submodule "platform/prebuilts/ndk"]
+	ref = android14-tests-release
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
 [submodule "platform/prebuilts/qemu-kernel"]
+	ref = android14-tests-release
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "platform/prebuilts/r8"]
+	ref = android14-tests-release
 	path = prebuilts/r8
 	url = ../prebuilts/r8
 [submodule "platform/prebuilts/remoteexecution-client"]
+	ref = android14-tests-release
 	path = prebuilts/remoteexecution-client
 	url = ../prebuilts/remoteexecution-client
 [submodule "platform/prebuilts/runtime"]
+	ref = android14-tests-release
 	path = prebuilts/runtime
 	url = ../prebuilts/runtime
 [submodule "platform/prebuilts/rust"]
+	ref = android14-tests-release
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/prebuilts/sdk"]
+	ref = android14-tests-release
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
 [submodule "platform/prebuilts/tools"]
+	ref = android14-tests-release
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/prebuilts/vndk/v29"]
+	ref = android14-tests-release
 	path = prebuilts/vndk/v29
 	url = ../prebuilts/vndk/v29
 [submodule "platform/prebuilts/vndk/v30"]
+	ref = android14-tests-release
 	path = prebuilts/vndk/v30
 	url = ../prebuilts/vndk/v30
 [submodule "platform/prebuilts/vndk/v31"]
+	ref = android14-tests-release
 	path = prebuilts/vndk/v31
 	url = ../prebuilts/vndk/v31
 [submodule "platform/prebuilts/vndk/v32"]
+	ref = android14-tests-release
 	path = prebuilts/vndk/v32
 	url = ../prebuilts/vndk/v32
 [submodule "platform/prebuilts/vndk/v33"]
+	ref = android14-tests-release
 	path = prebuilts/vndk/v33
 	url = ../prebuilts/vndk/v33
 [submodule "platform/sdk"]
+	ref = android14-tests-release
 	path = sdk
 	url = ../sdk
 [submodule "platform/system/apex"]
+	ref = android14-tests-release
 	path = system/apex
 	url = ../system/apex
 [submodule "platform/system/bpf"]
+	ref = android14-tests-release
 	path = system/bpf
 	url = ../system/bpf
 [submodule "platform/system/bpfprogs"]
+	ref = android14-tests-release
 	path = system/bpfprogs
 	url = ../system/bpfprogs
 [submodule "platform/system/ca-certificates"]
+	ref = android14-tests-release
 	path = system/ca-certificates
 	url = ../system/ca-certificates
 [submodule "platform/system/chre"]
+	ref = android14-tests-release
 	path = system/chre
 	url = ../system/chre
 [submodule "platform/system/connectivity/wificond"]
+	ref = android14-tests-release
 	path = system/connectivity/wificond
 	url = ../system/connectivity/wificond
 [submodule "platform/system/core"]
+	ref = android14-tests-release
 	path = system/core
 	url = ../system/core
 [submodule "platform/system/dmesgd"]
+	ref = android14-tests-release
 	path = system/dmesgd
 	url = ../system/dmesgd
 [submodule "platform/system/extras"]
+	ref = android14-tests-release
 	path = system/extras
 	url = ../system/extras
 [submodule "platform/system/gatekeeper"]
+	ref = android14-tests-release
 	path = system/gatekeeper
 	url = ../system/gatekeeper
 [submodule "platform/system/gsid"]
+	ref = android14-tests-release
 	path = system/gsid
 	url = ../system/gsid
 [submodule "platform/system/hardware/interfaces"]
+	ref = android14-tests-release
 	path = system/hardware/interfaces
 	url = ../system/hardware/interfaces
 [submodule "platform/system/hwservicemanager"]
+	ref = android14-tests-release
 	path = system/hwservicemanager
 	url = ../system/hwservicemanager
 [submodule "platform/system/incremental_delivery"]
+	ref = android14-tests-release
 	path = system/incremental_delivery
 	url = ../system/incremental_delivery
 [submodule "platform/system/iorap"]
+	ref = android14-tests-release
 	path = system/iorap
 	url = ../system/iorap
 [submodule "platform/system/keymaster"]
+	ref = android14-tests-release
 	path = system/keymaster
 	url = ../system/keymaster
 [submodule "platform/system/keymint"]
+	ref = android14-tests-release
 	path = system/keymint
 	url = ../system/keymint
 [submodule "platform/system/libartpalette"]
+	ref = android14-tests-release
 	path = system/libartpalette
 	url = ../system/libartpalette
 [submodule "platform/system/libbase"]
+	ref = android14-tests-release
 	path = system/libbase
 	url = ../system/libbase
 [submodule "platform/system/libcppbor"]
+	ref = android14-tests-release
 	path = system/libcppbor
 	url = ../system/libcppbor
 [submodule "platform/system/libfmq"]
+	ref = android14-tests-release
 	path = system/libfmq
 	url = ../system/libfmq
 [submodule "platform/system/libhidl"]
+	ref = android14-tests-release
 	path = system/libhidl
 	url = ../system/libhidl
 [submodule "platform/system/libhwbinder"]
+	ref = android14-tests-release
 	path = system/libhwbinder
 	url = ../system/libhwbinder
 [submodule "platform/system/libprocinfo"]
+	ref = android14-tests-release
 	path = system/libprocinfo
 	url = ../system/libprocinfo
 [submodule "platform/system/librustutils"]
+	ref = android14-tests-release
 	path = system/librustutils
 	url = ../system/librustutils
 [submodule "platform/system/libsysprop"]
+	ref = android14-tests-release
 	path = system/libsysprop
 	url = ../system/libsysprop
 [submodule "platform/system/libufdt"]
+	ref = android14-tests-release
 	path = system/libufdt
 	url = ../system/libufdt
 [submodule "platform/system/libvintf"]
+	ref = android14-tests-release
 	path = system/libvintf
 	url = ../system/libvintf
 [submodule "platform/system/libziparchive"]
+	ref = android14-tests-release
 	path = system/libziparchive
 	url = ../system/libziparchive
 [submodule "platform/system/linkerconfig"]
+	ref = android14-tests-release
 	path = system/linkerconfig
 	url = ../system/linkerconfig
 [submodule "platform/system/logging"]
+	ref = android14-tests-release
 	path = system/logging
 	url = ../system/logging
 [submodule "platform/system/media"]
+	ref = android14-tests-release
 	path = system/media
 	url = ../system/media
 [submodule "platform/system/memory/libdmabufheap"]
+	ref = android14-tests-release
 	path = system/memory/libdmabufheap
 	url = ../system/memory/libdmabufheap
 [submodule "platform/system/memory/libion"]
+	ref = android14-tests-release
 	path = system/memory/libion
 	url = ../system/memory/libion
 [submodule "platform/system/memory/libmeminfo"]
+	ref = android14-tests-release
 	path = system/memory/libmeminfo
 	url = ../system/memory/libmeminfo
 [submodule "platform/system/memory/libmemtrack"]
+	ref = android14-tests-release
 	path = system/memory/libmemtrack
 	url = ../system/memory/libmemtrack
 [submodule "platform/system/memory/libmemunreachable"]
+	ref = android14-tests-release
 	path = system/memory/libmemunreachable
 	url = ../system/memory/libmemunreachable
 [submodule "platform/system/memory/lmkd"]
+	ref = android14-tests-release
 	path = system/memory/lmkd
 	url = ../system/memory/lmkd
 [submodule "platform/system/netd"]
+	ref = android14-tests-release
 	path = system/netd
 	url = ../system/netd
 [submodule "platform/system/nfc"]
+	ref = android14-tests-release
 	path = system/nfc
 	url = ../system/nfc
 [submodule "platform/system/nvram"]
+	ref = android14-tests-release
 	path = system/nvram
 	url = ../system/nvram
 [submodule "platform/system/security"]
+	ref = android14-tests-release
 	path = system/security
 	url = ../system/security
 [submodule "platform/system/sepolicy"]
+	ref = android14-tests-release
 	path = system/sepolicy
 	url = ../system/sepolicy
 [submodule "platform/system/server_configurable_flags"]
+	ref = android14-tests-release
 	path = system/server_configurable_flags
 	url = ../system/server_configurable_flags
 [submodule "platform/system/teeui"]
+	ref = android14-tests-release
 	path = system/teeui
 	url = ../system/teeui
 [submodule "platform/system/testing/gtest_extras"]
+	ref = android14-tests-release
 	path = system/testing/gtest_extras
 	url = ../system/testing/gtest_extras
 [submodule "platform/system/timezone"]
+	ref = android14-tests-release
 	path = system/timezone
 	url = ../system/timezone
 [submodule "platform/system/tools/aidl"]
+	ref = android14-tests-release
 	path = system/tools/aidl
 	url = ../system/tools/aidl
 [submodule "platform/system/tools/hidl"]
+	ref = android14-tests-release
 	path = system/tools/hidl
 	url = ../system/tools/hidl
 [submodule "platform/system/tools/mkbootimg"]
+	ref = android14-tests-release
 	path = system/tools/mkbootimg
 	url = ../system/tools/mkbootimg
 [submodule "platform/system/tools/sysprop"]
+	ref = android14-tests-release
 	path = system/tools/sysprop
 	url = ../system/tools/sysprop
 [submodule "platform/system/tools/xsdc"]
+	ref = android14-tests-release
 	path = system/tools/xsdc
 	url = ../system/tools/xsdc
 [submodule "platform/system/unwinding"]
+	ref = android14-tests-release
 	path = system/unwinding
 	url = ../system/unwinding
 [submodule "platform/system/update_engine"]
+	ref = android14-tests-release
 	path = system/update_engine
 	url = ../system/update_engine
 [submodule "platform/system/vold"]
+	ref = android14-tests-release
 	path = system/vold
 	url = ../system/vold
 [submodule "platform/test/app_compat/csuite"]
+	ref = android14-tests-release
 	path = test/app_compat/csuite
 	url = ../test/app_compat/csuite
 [submodule "platform/test/catbox"]
+	ref = android14-tests-release
 	path = test/catbox
 	url = ../test/catbox
 [submodule "platform/test/cts-root"]
+	ref = android14-tests-release
 	path = test/cts-root
 	url = ../test/cts-root
 [submodule "platform/test/dittosuite"]
+	ref = android14-tests-release
 	path = test/dittosuite
 	url = ../test/dittosuite
 [submodule "platform/test/framework"]
+	ref = android14-tests-release
 	path = test/framework
 	url = ../test/framework
 [submodule "platform/test/mlts/benchmark"]
+	ref = android14-tests-release
 	path = test/mlts/benchmark
 	url = ../test/mlts/benchmark
 [submodule "platform/test/mlts/models"]
+	ref = android14-tests-release
 	path = test/mlts/models
 	url = ../test/mlts/models
 [submodule "platform/test/mts"]
+	ref = android14-tests-release
 	path = test/mts
 	url = ../test/mts
 [submodule "platform/test/robolectric-extensions"]
+	ref = android14-tests-release
 	path = test/robolectric-extensions
 	url = ../test/robolectric-extensions
 [submodule "platform/test/vts"]
+	ref = android14-tests-release
 	path = test/vts
 	url = ../test/vts
 [submodule "platform/test/vts-testcase/hal"]
+	ref = android14-tests-release
 	path = test/vts-testcase/hal
 	url = ../test/vts-testcase/hal
 [submodule "platform/test/vts-testcase/hal-trace"]
+	ref = android14-tests-release
 	path = test/vts-testcase/hal-trace
 	url = ../test/vts-testcase/hal-trace
 [submodule "platform/test/vts-testcase/kernel"]
+	ref = android14-tests-release
 	path = test/vts-testcase/kernel
 	url = ../test/vts-testcase/kernel
 [submodule "platform/test/vts-testcase/nbu"]
+	ref = android14-tests-release
 	path = test/vts-testcase/nbu
 	url = ../test/vts-testcase/nbu
 [submodule "platform/test/vts-testcase/performance"]
+	ref = android14-tests-release
 	path = test/vts-testcase/performance
 	url = ../test/vts-testcase/performance
 [submodule "platform/test/vts-testcase/security"]
+	ref = android14-tests-release
 	path = test/vts-testcase/security
 	url = ../test/vts-testcase/security
 [submodule "platform/test/vts-testcase/vndk"]
+	ref = android14-tests-release
 	path = test/vts-testcase/vndk
 	url = ../test/vts-testcase/vndk
 [submodule "platform/tools/aadevtools"]
+	ref = android14-tests-release
 	path = tools/aadevtools
 	url = ../tools/aadevtools
 [submodule "platform/tools/acloud"]
+	ref = android14-tests-release
 	path = tools/acloud
 	url = ../tools/acloud
 [submodule "platform/tools/apifinder"]
+	ref = android14-tests-release
 	path = tools/apifinder
 	url = ../tools/apifinder
 [submodule "platform/tools/apksig"]
+	ref = android14-tests-release
 	path = tools/apksig
 	url = ../tools/apksig
 [submodule "platform/tools/apkzlib"]
+	ref = android14-tests-release
 	path = tools/apkzlib
 	url = ../tools/apkzlib
 [submodule "platform/tools/asuite"]
+	ref = android14-tests-release
 	path = tools/asuite
 	url = ../tools/asuite
 [submodule "platform/tools/carrier_settings"]
+	ref = android14-tests-release
 	path = tools/carrier_settings
 	url = ../tools/carrier_settings
 [submodule "platform/tools/currysrc"]
+	ref = android14-tests-release
 	path = tools/currysrc
 	url = ../tools/currysrc
 [submodule "platform/tools/dexter"]
+	ref = android14-tests-release
 	path = tools/dexter
 	url = ../tools/dexter
 [submodule "platform/tools/doc_generation"]
+	ref = android14-tests-release
 	path = tools/doc_generation
 	url = ../tools/doc_generation
 [submodule "platform/tools/external/fat32lib"]
+	ref = android14-tests-release
 	path = tools/external/fat32lib
 	url = ../tools/external/fat32lib
 [submodule "platform/tools/external_updater"]
+	ref = android14-tests-release
 	path = tools/external_updater
 	url = ../tools/external_updater
 [submodule "platform/tools/loganalysis"]
+	ref = android14-tests-release
 	path = tools/loganalysis
 	url = ../tools/loganalysis
 [submodule "platform/tools/metalava"]
+	ref = android14-tests-release
 	path = tools/metalava
 	url = ../tools/metalava
 [submodule "platform/tools/ndkports"]
+	ref = android14-tests-release
 	path = tools/ndkports
 	url = ../tools/ndkports
 [submodule "platform/tools/netsim"]
+	ref = android14-tests-release
 	path = tools/netsim
 	url = ../tools/netsim
 [submodule "platform/tools/repohooks"]
+	ref = android14-tests-release
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/tools/security"]
+	ref = android14-tests-release
 	path = tools/security
 	url = ../tools/security
 [submodule "platform/tools/test/connectivity"]
+	ref = android14-tests-release
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity
 [submodule "platform/tools/test/graphicsbenchmark"]
+	ref = android14-tests-release
 	path = tools/test/graphicsbenchmark
 	url = ../tools/test/graphicsbenchmark
 [submodule "platform/tools/test/mobly_extensions"]
+	ref = android14-tests-release
 	path = tools/test/mobly_extensions
 	url = ../tools/test/mobly_extensions
 [submodule "platform/tools/test/mobly_snippets"]
+	ref = android14-tests-release
 	path = tools/test/mobly_snippets
 	url = ../tools/test/mobly_snippets
 [submodule "platform/tools/test/openhst"]
+	ref = android14-tests-release
 	path = tools/test/openhst
 	url = ../tools/test/openhst
 [submodule "platform/tools/tradefederation/prebuilts"]
+	ref = android14-tests-release
 	path = tools/tradefederation/prebuilts
 	url = ../tools/tradefederation/prebuilts
 [submodule "platform/tools/treble"]
+	ref = android14-tests-release
 	path = tools/treble
 	url = ../tools/treble
 [submodule "platform/tools/trebuchet"]
+	ref = android14-tests-release
 	path = tools/trebuchet
 	url = ../tools/trebuchet
 [submodule "toolchain/benchmark"]
+	ref = android14-tests-release
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
 [submodule "toolchain/pgo-profiles"]
+	ref = android14-tests-release
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
 [submodule "tools/platform-compat"]
+	ref = android14-tests-release
 	path = tools/platform-compat
 	url = ../../tools/platform-compat
