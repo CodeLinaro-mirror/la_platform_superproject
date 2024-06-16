@@ -2142,6 +2142,14 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/atty
 	url = ../external/rust/crates/atty
+[submodule "platform/external/rust/crates/axum"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/axum
+	url = ../external/rust/crates/axum
+[submodule "platform/external/rust/crates/axum-core"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/axum-core
+	url = ../external/rust/crates/axum-core
 [submodule "platform/external/rust/crates/base64"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/base64
@@ -2542,6 +2550,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/grpcio-sys
 	url = ../external/rust/crates/grpcio-sys
+[submodule "platform/external/rust/crates/h2"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/h2
+	url = ../external/rust/crates/h2
 [submodule "platform/external/rust/crates/half"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/half
@@ -2578,6 +2590,14 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/httpdate
 	url = ../external/rust/crates/httpdate
+[submodule "platform/external/rust/crates/hyper"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/hyper
+	url = ../external/rust/crates/hyper
+[submodule "platform/external/rust/crates/hyper-timeout"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/hyper-timeout
+	url = ../external/rust/crates/hyper-timeout
 [submodule "platform/external/rust/crates/ident_case"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/ident_case
@@ -2698,6 +2718,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/matches
 	url = ../external/rust/crates/matches
+[submodule "platform/external/rust/crates/matchit"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/matchit
+	url = ../external/rust/crates/matchit
 [submodule "platform/external/rust/crates/maybe-async"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/maybe-async
@@ -2730,6 +2754,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/miette-derive
 	url = ../external/rust/crates/miette-derive
+[submodule "platform/external/rust/crates/mime"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/mime
+	url = ../external/rust/crates/mime
 [submodule "platform/external/rust/crates/minimal-lexical"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/minimal-lexical
@@ -3182,6 +3210,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/syn-mid
 	url = ../external/rust/crates/syn-mid
+[submodule "platform/external/rust/crates/sync_wrapper"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/sync_wrapper
+	url = ../external/rust/crates/sync_wrapper
 [submodule "platform/external/rust/crates/synstructure"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/synstructure
@@ -3246,6 +3278,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/tokio
 	url = ../external/rust/crates/tokio
+[submodule "platform/external/rust/crates/tokio-io-timeout"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/tokio-io-timeout
+	url = ../external/rust/crates/tokio-io-timeout
 [submodule "platform/external/rust/crates/tokio-macros"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/tokio-macros
@@ -3274,6 +3310,22 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/toml_edit
 	url = ../external/rust/crates/toml_edit
+[submodule "platform/external/rust/crates/tonic"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/tonic
+	url = ../external/rust/crates/tonic
+[submodule "platform/external/rust/crates/tower"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/tower
+	url = ../external/rust/crates/tower
+[submodule "platform/external/rust/crates/tower-layer"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/tower-layer
+	url = ../external/rust/crates/tower-layer
+[submodule "platform/external/rust/crates/tower-service"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/tower-service
+	url = ../external/rust/crates/tower-service
 [submodule "platform/external/rust/crates/tracing"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/tracing
@@ -3290,6 +3342,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/tracing-subscriber
 	url = ../external/rust/crates/tracing-subscriber
+[submodule "platform/external/rust/crates/try-lock"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/try-lock
+	url = ../external/rust/crates/try-lock
 [submodule "platform/external/rust/crates/tungstenite"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/tungstenite
@@ -3422,6 +3478,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/walkdir
 	url = ../external/rust/crates/walkdir
+[submodule "platform/external/rust/crates/want"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/want
+	url = ../external/rust/crates/want
 [submodule "platform/external/rust/crates/weak-table"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/weak-table
@@ -4794,6 +4854,10 @@
 	ref = busytown-mac-infra-release
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/cmake/linux-x86"]
+	ref = busytown-mac-infra-release
+	path = prebuilts/cmake/linux-x86
+	url = ../prebuilts/cmake/linux-x86
 [submodule "platform/prebuilts/cmdline-tools"]
 	ref = busytown-mac-infra-release
 	path = prebuilts/cmdline-tools

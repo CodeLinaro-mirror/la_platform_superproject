@@ -534,6 +534,8 @@
 /external/rust/crates/async-trait pdk
 /external/rust/crates/atomic pdk
 /external/rust/crates/atty pdk
+/external/rust/crates/axum pdk
+/external/rust/crates/axum-core pdk
 /external/rust/crates/base64 pdk
 /external/rust/crates/bencher pdk
 /external/rust/crates/bincode pdk
@@ -634,6 +636,7 @@
 /external/rust/crates/grpcio pdk
 /external/rust/crates/grpcio-compiler pdk
 /external/rust/crates/grpcio-sys pdk
+/external/rust/crates/h2 pdk
 /external/rust/crates/half pdk
 /external/rust/crates/hashbrown pdk
 /external/rust/crates/hashlink pdk
@@ -643,6 +646,8 @@
 /external/rust/crates/http-body pdk
 /external/rust/crates/httparse pdk
 /external/rust/crates/httpdate pdk
+/external/rust/crates/hyper pdk
+/external/rust/crates/hyper-timeout pdk
 /external/rust/crates/ident_case pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
@@ -673,6 +678,7 @@
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
 /external/rust/crates/matches trusty
+/external/rust/crates/matchit pdk
 /external/rust/crates/maybe-async pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/memmap2 pdk
@@ -681,6 +687,7 @@
 /external/rust/crates/merge_derive pdk
 /external/rust/crates/miette pdk
 /external/rust/crates/miette-derive pdk
+/external/rust/crates/mime pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
 /external/rust/crates/mls-rs pdk
@@ -794,6 +801,7 @@
 /external/rust/crates/strum_macros pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/syn-mid pdk
+/external/rust/crates/sync_wrapper pdk
 /external/rust/crates/synstructure pdk
 /external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
@@ -810,6 +818,7 @@
 /external/rust/crates/tinyvec pdk
 /external/rust/crates/tinyvec_macros pdk
 /external/rust/crates/tokio pdk
+/external/rust/crates/tokio-io-timeout pdk
 /external/rust/crates/tokio-macros pdk
 /external/rust/crates/tokio-stream pdk
 /external/rust/crates/tokio-test pdk
@@ -817,10 +826,15 @@
 /external/rust/crates/toml pdk
 /external/rust/crates/toml_datetime pdk
 /external/rust/crates/toml_edit pdk
+/external/rust/crates/tonic pdk
+/external/rust/crates/tower pdk
+/external/rust/crates/tower-layer pdk
+/external/rust/crates/tower-service pdk
 /external/rust/crates/tracing pdk
 /external/rust/crates/tracing-attributes pdk
 /external/rust/crates/tracing-core pdk
 /external/rust/crates/tracing-subscriber pdk
+/external/rust/crates/try-lock pdk
 /external/rust/crates/tungstenite pdk
 /external/rust/crates/twox-hash pdk
 /external/rust/crates/ucd-trie pdk
@@ -854,6 +868,7 @@
 /external/rust/crates/vsock pdk
 /external/rust/crates/vulkano pdk
 /external/rust/crates/walkdir pdk
+/external/rust/crates/want pdk
 /external/rust/crates/weak-table pdk
 /external/rust/crates/webpki pdk
 /external/rust/crates/which pdk
@@ -1197,6 +1212,7 @@
 /prebuilts/clang-tools pdk
 /prebuilts/clang/host/darwin-x86 pdk darwin
 /prebuilts/clang/host/linux-x86 pdk
+/prebuilts/cmake/linux-x86 pdk
 /prebuilts/cmdline-tools pdk-fs
 /prebuilts/devtools pdk-fs
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 pdk linux
