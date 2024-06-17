@@ -64,6 +64,7 @@
 /external/rust/crates/httparse
 /external/rust/crates/indexmap
 /external/rust/crates/instant
+/external/rust/crates/itertools
 /external/rust/crates/itoa
 /external/rust/crates/lazy_static
 /external/rust/crates/lazycell

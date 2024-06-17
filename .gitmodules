@@ -263,6 +263,10 @@
 	branch = main
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
+[submodule "platform/external/rust/crates/itertools"]
+	branch = main
+	path = external/rust/crates/itertools
+	url = ../external/rust/crates/itertools
 [submodule "platform/external/rust/crates/itoa"]
 	branch = main
 	path = external/rust/crates/itoa
