@@ -78,6 +78,18 @@
 	ref = sdk-release
 	path = device/generic/x86_64
 	url = ../../device/generic/x86_64
+[submodule "device/google/akita"]
+	ref = sdk-release
+	path = device/google/akita
+	url = ../../device/google/akita
+[submodule "device/google/akita-kernel"]
+	ref = sdk-release
+	path = device/google/akita-kernel
+	url = ../../device/google/akita-kernel
+[submodule "device/google/akita-sepolicy"]
+	ref = sdk-release
+	path = device/google/akita-sepolicy
+	url = ../../device/google/akita-sepolicy
 [submodule "device/google/atv"]
 	ref = sdk-release
 	path = device/google/atv
@@ -2026,10 +2038,6 @@
 	ref = sdk-release
 	path = external/robolectric
 	url = ../external/robolectric
-[submodule "platform/external/robolectric-shadows"]
-	ref = sdk-release
-	path = external/robolectric-shadows
-	url = ../external/robolectric-shadows
 [submodule "platform/external/roboto-flex-fonts"]
 	ref = sdk-release
 	path = external/roboto-flex-fonts
@@ -4706,6 +4714,10 @@
 	ref = sdk-release
 	path = packages/providers/CallLogProvider
 	url = ../packages/providers/CallLogProvider
+[submodule "platform/packages/providers/ContactsKeysProvider"]
+	ref = sdk-release
+	path = packages/providers/ContactsKeysProvider
+	url = ../packages/providers/ContactsKeysProvider
 [submodule "platform/packages/providers/ContactsProvider"]
 	ref = sdk-release
 	path = packages/providers/ContactsProvider
