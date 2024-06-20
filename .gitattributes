@@ -99,6 +99,7 @@
 /external/rust/crates/clap pdk
 /external/rust/crates/clap_derive pdk
 /external/rust/crates/clap_lex pdk
+/external/rust/crates/codespan-reporting pdk
 /external/rust/crates/either pdk
 /external/rust/crates/fastrand pdk
 /external/rust/crates/getrandom pdk
@@ -131,11 +132,13 @@
 /external/rust/crates/serde_json pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/tempfile pdk
+/external/rust/crates/termcolor pdk
 /external/rust/crates/thiserror pdk
 /external/rust/crates/thiserror-impl pdk
 /external/rust/crates/tinytemplate pdk
 /external/rust/crates/unicode-ident pdk
 /external/rust/crates/unicode-segmentation pdk
+/external/rust/crates/unicode-width pdk
 /external/rust/crates/which pdk
 /external/rust/crates/zerocopy pdk
 /external/rust/crates/zerocopy-derive pdk
@@ -208,6 +211,7 @@
 /system/memory/libmeminfo pdk
 /system/netd pdk
 /system/sepolicy pdk
+/system/server_configurable_flags pdk
 /system/testing/gtest_extras pdk
 /system/tools/aidl pdk
 /system/tools/sysprop pdk

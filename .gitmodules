@@ -402,6 +402,10 @@
 	branch = main
 	path = external/rust/crates/clap_lex
 	url = ../external/rust/crates/clap_lex
+[submodule "platform/external/rust/crates/codespan-reporting"]
+	branch = main
+	path = external/rust/crates/codespan-reporting
+	url = ../external/rust/crates/codespan-reporting
 [submodule "platform/external/rust/crates/either"]
 	branch = main
 	path = external/rust/crates/either
@@ -530,6 +534,10 @@
 	branch = main
 	path = external/rust/crates/tempfile
 	url = ../external/rust/crates/tempfile
+[submodule "platform/external/rust/crates/termcolor"]
+	branch = main
+	path = external/rust/crates/termcolor
+	url = ../external/rust/crates/termcolor
 [submodule "platform/external/rust/crates/thiserror"]
 	branch = main
 	path = external/rust/crates/thiserror
@@ -550,6 +558,10 @@
 	branch = main
 	path = external/rust/crates/unicode-segmentation
 	url = ../external/rust/crates/unicode-segmentation
+[submodule "platform/external/rust/crates/unicode-width"]
+	branch = main
+	path = external/rust/crates/unicode-width
+	url = ../external/rust/crates/unicode-width
 [submodule "platform/external/rust/crates/which"]
 	branch = main
 	path = external/rust/crates/which
@@ -866,6 +878,10 @@
 	branch = main
 	path = system/sepolicy
 	url = ../system/sepolicy
+[submodule "platform/system/server_configurable_flags"]
+	branch = main
+	path = system/server_configurable_flags
+	url = ../system/server_configurable_flags
 [submodule "platform/system/testing/gtest_extras"]
 	branch = main
 	path = system/testing/gtest_extras
