@@ -2910,10 +2910,6 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/pdl-runtime
 	url = ../external/rust/crates/pdl-runtime
-[submodule "platform/external/rust/crates/peeking_take_while"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/peeking_take_while
-	url = ../external/rust/crates/peeking_take_while
 [submodule "platform/external/rust/crates/percent-encoding"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/percent-encoding
