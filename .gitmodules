@@ -4414,6 +4414,10 @@
 	ref = android13-tests-release
 	path = tools/currysrc
 	url = ../tools/currysrc
+[submodule "platform/tools/deviceinfra/prebuilts"]
+	ref = android13-tests-release
+	path = tools/deviceinfra/prebuilts
+	url = ../tools/deviceinfra/prebuilts
 [submodule "platform/tools/dexter"]
 	ref = android13-tests-release
 	path = tools/dexter
