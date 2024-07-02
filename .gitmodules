@@ -4090,6 +4090,10 @@
 	ref = android12-tests-release
 	path = tools/currysrc
 	url = ../tools/currysrc
+[submodule "platform/tools/deviceinfra/prebuilts"]
+	ref = android12-tests-release
+	path = tools/deviceinfra/prebuilts
+	url = ../tools/deviceinfra/prebuilts
 [submodule "platform/tools/dexter"]
 	ref = android12-tests-release
 	path = tools/dexter
