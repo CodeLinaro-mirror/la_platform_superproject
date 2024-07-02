@@ -4187,6 +4187,10 @@
 	branch = android12-release
 	path = tools/currysrc
 	url = ../tools/currysrc
+[submodule "platform/tools/deviceinfra/prebuilts"]
+	branch = android12-tests-dev
+	path = tools/deviceinfra/prebuilts
+	url = ../tools/deviceinfra/prebuilts
 [submodule "platform/tools/dexter"]
 	branch = android12-release
 	path = tools/dexter
