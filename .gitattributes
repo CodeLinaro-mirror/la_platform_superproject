@@ -765,6 +765,7 @@
 /tools/build notdefault tools
 /tools/carrier_settings tools
 /tools/currysrc pdk
+/tools/deviceinfra/prebuilts pdk tools
 /tools/dexter pdk-fs tools
 /tools/doc_generation pdk tools
 /tools/external/fat32lib tools
