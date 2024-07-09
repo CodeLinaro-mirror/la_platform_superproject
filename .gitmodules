@@ -1674,10 +1674,6 @@
 	ref = sdk-release
 	path = external/mtools
 	url = ../external/mtools
-[submodule "platform/external/mtpd"]
-	ref = sdk-release
-	path = external/mtpd
-	url = ../external/mtpd
 [submodule "platform/external/musl"]
 	ref = sdk-release
 	path = external/musl
@@ -2006,6 +2002,10 @@
 	ref = sdk-release
 	path = external/python/typing
 	url = ../external/python/typing
+[submodule "platform/external/python/typing_extensions"]
+	ref = sdk-release
+	path = external/python/typing_extensions
+	url = ../external/python/typing_extensions
 [submodule "platform/external/python/uritemplates"]
 	ref = sdk-release
 	path = external/python/uritemplates
@@ -3958,10 +3958,6 @@
 	ref = sdk-release
 	path = frameworks/opt/localepicker
 	url = ../frameworks/opt/localepicker
-[submodule "platform/frameworks/opt/net/ethernet"]
-	ref = sdk-release
-	path = frameworks/opt/net/ethernet
-	url = ../frameworks/opt/net/ethernet
 [submodule "platform/frameworks/opt/net/ims"]
 	ref = sdk-release
 	path = frameworks/opt/net/ims
@@ -4610,10 +4606,6 @@
 	ref = sdk-release
 	path = packages/modules/ModuleMetadata
 	url = ../packages/modules/ModuleMetadata
-[submodule "platform/packages/modules/NetworkPermissionConfig"]
-	ref = sdk-release
-	path = packages/modules/NetworkPermissionConfig
-	url = ../packages/modules/NetworkPermissionConfig
 [submodule "platform/packages/modules/NetworkStack"]
 	ref = sdk-release
 	path = packages/modules/NetworkStack
@@ -5578,10 +5570,6 @@
 	ref = sdk-release
 	path = trusty/host/common
 	url = ../../trusty/host/common
-[submodule "trusty/interfaces"]
-	ref = sdk-release
-	path = trusty/interfaces
-	url = ../../trusty/interfaces
 [submodule "trusty/lib"]
 	ref = sdk-release
 	path = trusty/user/base
