@@ -14,10 +14,6 @@
 	branch = main
 	path = build/blueprint
 	url = ../build/blueprint
-[submodule "platform/build/kati"]
-	branch = main
-	path = build/kati
-	url = ../build/kati
 [submodule "platform/build/soong"]
 	branch = main
 	path = build/soong

@@ -2,7 +2,6 @@
 /build/bazel pdk
 /build/bazel_common_rules pdk
 /build/blueprint
-/build/kati
 /build/soong
 /external/bazel-skylib pdk
 /external/bazelbuild-kotlin-rules pdk
