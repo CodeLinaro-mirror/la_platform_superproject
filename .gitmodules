@@ -4558,10 +4558,6 @@
 	ref = sdk-release
 	path = packages/modules/CrashRecovery
 	url = ../packages/modules/CrashRecovery
-[submodule "platform/packages/modules/Cronet"]
-	ref = sdk-release
-	path = packages/modules/Cronet
-	url = ../packages/modules/Cronet
 [submodule "platform/packages/modules/DeviceLock"]
 	ref = sdk-release
 	path = packages/modules/DeviceLock
@@ -4634,10 +4630,6 @@
 	ref = sdk-release
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
-[submodule "platform/packages/modules/SEPolicy"]
-	ref = sdk-release
-	path = packages/modules/SEPolicy
-	url = ../packages/modules/SEPolicy
 [submodule "platform/packages/modules/Scheduling"]
 	ref = sdk-release
 	path = packages/modules/Scheduling
@@ -4654,10 +4646,6 @@
 	ref = sdk-release
 	path = packages/modules/Telephony
 	url = ../packages/modules/Telephony
-[submodule "platform/packages/modules/TestModule"]
-	ref = sdk-release
-	path = packages/modules/TestModule
-	url = ../packages/modules/TestModule
 [submodule "platform/packages/modules/ThreadNetwork"]
 	ref = sdk-release
 	path = packages/modules/ThreadNetwork
@@ -5122,10 +5110,6 @@
 	ref = sdk-release
 	path = system/incremental_delivery
 	url = ../system/incremental_delivery
-[submodule "platform/system/iorap"]
-	ref = sdk-release
-	path = system/iorap
-	url = ../system/iorap
 [submodule "platform/system/keymaster"]
 	ref = sdk-release
 	path = system/keymaster
