@@ -1,129 +1,172 @@
 [submodule "platform/build"]
+	ref = androidx-paging-release
 	path = build/make
 	url = ../build
 [submodule "platform/external/abseil-cpp"]
+	ref = androidx-paging-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
 [submodule "platform/external/icing"]
+	ref = androidx-paging-release
 	path = external/icing
 	url = ../external/icing
 [submodule "platform/external/icu"]
+	ref = androidx-paging-release
 	path = external/icu
 	url = ../external/icu
 [submodule "platform/external/ink-stroke-modeler"]
+	ref = androidx-paging-release
 	path = external/ink-stroke-modeler
 	url = ../external/ink-stroke-modeler
 [submodule "platform/external/libyuv"]
+	ref = androidx-paging-release
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/external/noto-fonts"]
+	ref = androidx-paging-release
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "platform/external/protobuf"]
+	ref = androidx-paging-release
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/sqlite"]
+	ref = androidx-paging-release
 	path = external/sqlite
 	url = ../external/sqlite
 [submodule "platform/external/webview_support_interfaces"]
+	ref = androidx-paging-release
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
 [submodule "platform/frameworks/support"]
+	ref = androidx-paging-release
 	path = frameworks/support
 	url = ../frameworks/support
 [submodule "platform/frameworks/support-golden"]
+	ref = androidx-paging-release
 	path = golden
 	url = ../frameworks/support-golden
 [submodule "platform/prebuilts/androidx/exoplayer"]
+	ref = androidx-paging-release
 	path = prebuilts/androidx/exoplayer
 	url = ../prebuilts/androidx/exoplayer
 [submodule "platform/prebuilts/androidx/external"]
+	ref = androidx-paging-release
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
 [submodule "platform/prebuilts/androidx/internal"]
+	ref = androidx-paging-release
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
 [submodule "platform/prebuilts/androidx/konan"]
+	ref = androidx-paging-release
 	path = prebuilts/androidx/konan
 	url = ../prebuilts/androidx/konan
 [submodule "platform/prebuilts/androidx/traceprocessor"]
+	ref = androidx-paging-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
 [submodule "platform/prebuilts/build-tools"]
+	ref = androidx-paging-release
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/checkstyle"]
+	ref = androidx-paging-release
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/cmake/darwin-x86"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-darwin/cmake
 	url = ../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-linux/cmake
 	url = ../prebuilts/cmake/linux-x86
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-darwin/build-tools
 	url = ../prebuilts/fullsdk-darwin/build-tools
 [submodule "platform/prebuilts/fullsdk-darwin/cmdline-tools"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-darwin/cmdline-tools
 	url = ../prebuilts/fullsdk-darwin/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = ../prebuilts/fullsdk-darwin/platform-tools
 [submodule "platform/prebuilts/fullsdk-darwin/tools"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-darwin/tools
 	url = ../prebuilts/fullsdk-darwin/tools
 [submodule "platform/prebuilts/fullsdk-linux/build-tools"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-linux/build-tools
 	url = ../prebuilts/fullsdk-linux/build-tools
 [submodule "platform/prebuilts/fullsdk-linux/cmdline-tools"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-linux/cmdline-tools
 	url = ../prebuilts/fullsdk-linux/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = ../prebuilts/fullsdk-linux/platform-tools
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
 [submodule "platform/prebuilts/fullsdk/platforms"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-darwin/platforms
 	url = ../prebuilts/fullsdk/platforms
 [submodule "platform/prebuilts/fullsdk/sources"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-darwin/sources
 	url = ../prebuilts/fullsdk/sources
 [submodule "platform/prebuilts/jdk/jdk17"]
+	ref = androidx-paging-release
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
+	ref = androidx-paging-release
 	path = prebuilts/jdk/jdk21
 	url = ../prebuilts/jdk/jdk21
 [submodule "platform/prebuilts/ninja/darwin-x86"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-darwin/ninja
 	url = ../prebuilts/ninja/darwin-x86
 [submodule "platform/prebuilts/ninja/linux-x86"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-linux/ninja
 	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/protobuf"]
+	ref = androidx-paging-release
 	path = prebuilts/protobuf
 	url = ../prebuilts/protobuf
 [submodule "platform/tools/dexter"]
+	ref = androidx-paging-release
 	path = external/dexter
 	url = ../tools/dexter
 [submodule "platform/tools/external/gradle"]
+	ref = androidx-paging-release
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/metalava"]
+	ref = androidx-paging-release
 	path = tools/metalava
 	url = ../tools/metalava
 [submodule "platform/tools/repohooks"]
+	ref = androidx-paging-release
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk-darwin/r25"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-darwin/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk-darwin/r25
 [submodule "toolchain/prebuilts/ndk/r25"]
+	ref = androidx-paging-release
 	path = prebuilts/fullsdk-linux/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk/r25
 [submodule "tools/fetch_artifact"]
+	ref = androidx-paging-release
 	path = tools/fetch_artifact
 	url = ../../tools/fetch_artifact
