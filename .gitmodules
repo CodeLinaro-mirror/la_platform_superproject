@@ -1674,10 +1674,6 @@
 	ref = busytown-mac-infra-release
 	path = external/mtools
 	url = ../external/mtools
-[submodule "platform/external/mtpd"]
-	ref = busytown-mac-infra-release
-	path = external/mtpd
-	url = ../external/mtpd
 [submodule "platform/external/musl"]
 	ref = busytown-mac-infra-release
 	path = external/musl
@@ -2006,6 +2002,10 @@
 	ref = busytown-mac-infra-release
 	path = external/python/typing
 	url = ../external/python/typing
+[submodule "platform/external/python/typing_extensions"]
+	ref = busytown-mac-infra-release
+	path = external/python/typing_extensions
+	url = ../external/python/typing_extensions
 [submodule "platform/external/python/uritemplates"]
 	ref = busytown-mac-infra-release
 	path = external/python/uritemplates
@@ -3958,10 +3958,6 @@
 	ref = busytown-mac-infra-release
 	path = frameworks/opt/localepicker
 	url = ../frameworks/opt/localepicker
-[submodule "platform/frameworks/opt/net/ethernet"]
-	ref = busytown-mac-infra-release
-	path = frameworks/opt/net/ethernet
-	url = ../frameworks/opt/net/ethernet
 [submodule "platform/frameworks/opt/net/ims"]
 	ref = busytown-mac-infra-release
 	path = frameworks/opt/net/ims
@@ -4562,10 +4558,6 @@
 	ref = busytown-mac-infra-release
 	path = packages/modules/CrashRecovery
 	url = ../packages/modules/CrashRecovery
-[submodule "platform/packages/modules/Cronet"]
-	ref = busytown-mac-infra-release
-	path = packages/modules/Cronet
-	url = ../packages/modules/Cronet
 [submodule "platform/packages/modules/DeviceLock"]
 	ref = busytown-mac-infra-release
 	path = packages/modules/DeviceLock
@@ -4610,10 +4602,6 @@
 	ref = busytown-mac-infra-release
 	path = packages/modules/ModuleMetadata
 	url = ../packages/modules/ModuleMetadata
-[submodule "platform/packages/modules/NetworkPermissionConfig"]
-	ref = busytown-mac-infra-release
-	path = packages/modules/NetworkPermissionConfig
-	url = ../packages/modules/NetworkPermissionConfig
 [submodule "platform/packages/modules/NetworkStack"]
 	ref = busytown-mac-infra-release
 	path = packages/modules/NetworkStack
@@ -4642,10 +4630,6 @@
 	ref = busytown-mac-infra-release
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
-[submodule "platform/packages/modules/SEPolicy"]
-	ref = busytown-mac-infra-release
-	path = packages/modules/SEPolicy
-	url = ../packages/modules/SEPolicy
 [submodule "platform/packages/modules/Scheduling"]
 	ref = busytown-mac-infra-release
 	path = packages/modules/Scheduling
@@ -4662,10 +4646,6 @@
 	ref = busytown-mac-infra-release
 	path = packages/modules/Telephony
 	url = ../packages/modules/Telephony
-[submodule "platform/packages/modules/TestModule"]
-	ref = busytown-mac-infra-release
-	path = packages/modules/TestModule
-	url = ../packages/modules/TestModule
 [submodule "platform/packages/modules/ThreadNetwork"]
 	ref = busytown-mac-infra-release
 	path = packages/modules/ThreadNetwork
@@ -5130,10 +5110,6 @@
 	ref = busytown-mac-infra-release
 	path = system/incremental_delivery
 	url = ../system/incremental_delivery
-[submodule "platform/system/iorap"]
-	ref = busytown-mac-infra-release
-	path = system/iorap
-	url = ../system/iorap
 [submodule "platform/system/keymaster"]
 	ref = busytown-mac-infra-release
 	path = system/keymaster
@@ -5578,10 +5554,6 @@
 	ref = busytown-mac-infra-release
 	path = trusty/host/common
 	url = ../../trusty/host/common
-[submodule "trusty/interfaces"]
-	ref = busytown-mac-infra-release
-	path = trusty/interfaces
-	url = ../../trusty/interfaces
 [submodule "trusty/lib"]
 	ref = busytown-mac-infra-release
 	path = trusty/user/base
