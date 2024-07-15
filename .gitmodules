@@ -4726,10 +4726,6 @@
 	branch = main
 	path = packages/services/Telephony
 	url = ../packages/services/Telephony
-[submodule "platform/packages/wallpapers/ImageWallpaper"]
-	branch = main
-	path = packages/wallpapers/ImageWallpaper
-	url = ../packages/wallpapers/ImageWallpaper
 [submodule "platform/packages/wallpapers/LivePicker"]
 	branch = main
 	path = packages/wallpapers/LivePicker
