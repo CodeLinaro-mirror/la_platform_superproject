@@ -15,7 +15,6 @@
 /device/generic/opengl-transport pdk
 /device/generic/trusty pdk
 /device/generic/uml pdk device
-/device/generic/vulkan-cereal pdk
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
 /device/google/akita akita device
@@ -67,7 +66,6 @@
 /device/google/tangorpro-kernel tangorpro device
 /device/google/tangorpro-sepolicy tangorpro device
 /device/google/trout pdk trout device gull
-/device/google/vrservices pdk
 /device/google/zuma pdk-gs-arm ripcurrent device
 /device/google/zuma-sepolicy pdk-gs-arm ripcurrent device
 /device/google_car pdk
@@ -79,25 +77,10 @@
 /device/linaro/poplar-kernel poplar pdk device
 /device/sample pdk
 /kernel/configs vts pdk
-/kernel/prebuilts/4.19/arm64 pdk
-/kernel/prebuilts/5.10/arm64 pdk
-/kernel/prebuilts/5.10/x86_64 pdk
-/kernel/prebuilts/5.15/arm64 pdk
-/kernel/prebuilts/5.15/x86_64 pdk
-/kernel/prebuilts/5.4/arm64 pdk
-/kernel/prebuilts/5.4/x86_64 pdk
 /kernel/prebuilts/6.1/arm64 pdk
 /kernel/prebuilts/6.1/x86_64 pdk
 /kernel/prebuilts/6.6/arm64 pdk
 /kernel/prebuilts/6.6/x86_64 pdk
-/kernel/prebuilts/common-modules/virtual-device/4.19/arm64 pdk
-/kernel/prebuilts/common-modules/virtual-device/4.19/x86-64 pdk
-/kernel/prebuilts/common-modules/virtual-device/5.10/arm64 pdk
-/kernel/prebuilts/common-modules/virtual-device/5.10/x86-64 pdk
-/kernel/prebuilts/common-modules/virtual-device/5.15/arm64 pdk
-/kernel/prebuilts/common-modules/virtual-device/5.15/x86-64 pdk
-/kernel/prebuilts/common-modules/virtual-device/5.4/arm64 pdk
-/kernel/prebuilts/common-modules/virtual-device/5.4/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.1/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.1/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.6/arm64 pdk
@@ -460,7 +443,6 @@
 /external/piex pdk
 /external/pigweed pdk
 /external/ply pdk
-/external/ppp pdk
 /external/private-join-and-compute pdk
 /external/protobuf pdk
 /external/psimd pdk
@@ -767,6 +749,7 @@
 /external/rust/crates/remove_dir_all pdk
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
+/external/rust/crates/rust-stemmers pdk
 /external/rust/crates/rustc-demangle pdk
 /external/rust/crates/rustc-demangle-capi pdk
 /external/rust/crates/rustc-hash pdk
@@ -939,7 +922,6 @@
 /external/universal-tween-engine
 /external/uwb pdk
 /external/v4l2_codec2 pdk
-/external/vboot_reference pdk-fs vboot
 /external/virglrenderer pdk
 /external/vixl pdk
 /external/vogar pdk
@@ -1016,7 +998,6 @@
 /hardware/google/interfaces pdk
 /hardware/google/pixel pdk-gs-arm generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
-/hardware/google/trusty pdk
 /hardware/interfaces pdk
 /hardware/invensense invensense pdk
 /hardware/knowles/athletico/sound_trigger_hal generic_fs coral
@@ -1027,16 +1008,7 @@
 /hardware/nxp/secure_element pdk
 /hardware/nxp/uwb pdk
 /hardware/nxp/weaver pdk
-/hardware/qcom/audio qcom_audio qcom pdk-qcom
 /hardware/qcom/bootctrl pdk-qcom
-/hardware/qcom/bt qcom pdk-qcom
-/hardware/qcom/camera qcom_camera pdk-qcom
-/hardware/qcom/data/ipacfg-mgr qcom pdk-qcom
-/hardware/qcom/display qcom qcom_display pdk-qcom
-/hardware/qcom/gps qcom pdk-qcom qcom_gps
-/hardware/qcom/keymaster qcom qcom_keymaster pdk-qcom
-/hardware/qcom/media qcom pdk-qcom
-/hardware/qcom/power qcom pdk-qcom
 /hardware/qcom/sm7150/gps qcom_sm7150
 /hardware/qcom/sm7250/display qcom_sm7250
 /hardware/qcom/sm7250/gps qcom_sm7250
@@ -1190,7 +1162,6 @@
 /packages/services/Mtp pdk-fs pdk-cw-fs
 /packages/services/Telecomm pdk-fs pdk-cw-fs
 /packages/services/Telephony pdk-fs pdk-cw-fs
-/packages/wallpapers/ImageWallpaper pdk-fs
 /packages/wallpapers/LivePicker pdk-fs
 /pdk pdk
 /platform_testing pdk-fs cts pdk-cw-fs
@@ -1321,7 +1292,6 @@
 /test/catbox
 /test/cts-root
 /test/dittosuite pdk
-/test/framework vts pdk projectarch
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
 /test/mts
