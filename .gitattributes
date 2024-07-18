@@ -399,6 +399,7 @@
 /system/libhwbinder
 /system/libziparchive
 /system/logging
+/system/server_configurable_flags
 /system/tools/aidl
 /system/tools/hidl
 /system/tools/xsdc

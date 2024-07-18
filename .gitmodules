@@ -1602,6 +1602,10 @@
 	ref = build-tools-release
 	path = system/logging
 	url = ../system/logging
+[submodule "platform/system/server_configurable_flags"]
+	ref = build-tools-release
+	path = system/server_configurable_flags
+	url = ../system/server_configurable_flags
 [submodule "platform/system/tools/aidl"]
 	ref = build-tools-release
 	path = system/tools/aidl
