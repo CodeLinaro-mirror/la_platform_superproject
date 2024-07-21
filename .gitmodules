@@ -66,10 +66,6 @@
 	ref = busytown-mac-infra-release
 	path = device/generic/uml
 	url = ../../device/generic/uml
-[submodule "device/generic/vulkan-cereal"]
-	ref = busytown-mac-infra-release
-	path = device/generic/vulkan-cereal
-	url = ../../device/generic/vulkan-cereal
 [submodule "device/generic/x86"]
 	ref = busytown-mac-infra-release
 	path = device/generic/x86
@@ -274,10 +270,6 @@
 	ref = busytown-mac-infra-release
 	path = device/google/trout
 	url = ../../device/google/trout
-[submodule "device/google/vrservices"]
-	ref = busytown-mac-infra-release
-	path = device/google/vrservices
-	url = ../../device/google/vrservices
 [submodule "device/google/zuma"]
 	ref = busytown-mac-infra-release
 	path = device/google/zuma
@@ -322,34 +314,6 @@
 	ref = busytown-mac-infra-release
 	path = kernel/configs
 	url = ../../kernel/configs
-[submodule "kernel/prebuilts/4.19/arm64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/4.19/arm64
-	url = ../../kernel/prebuilts/4.19/arm64
-[submodule "kernel/prebuilts/5.10/arm64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/5.10/arm64
-	url = ../../kernel/prebuilts/5.10/arm64
-[submodule "kernel/prebuilts/5.10/x86-64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/5.10/x86_64
-	url = ../../kernel/prebuilts/5.10/x86-64
-[submodule "kernel/prebuilts/5.15/arm64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/5.15/arm64
-	url = ../../kernel/prebuilts/5.15/arm64
-[submodule "kernel/prebuilts/5.15/x86-64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/5.15/x86_64
-	url = ../../kernel/prebuilts/5.15/x86-64
-[submodule "kernel/prebuilts/5.4/arm64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/5.4/arm64
-	url = ../../kernel/prebuilts/5.4/arm64
-[submodule "kernel/prebuilts/5.4/x86-64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/5.4/x86_64
-	url = ../../kernel/prebuilts/5.4/x86-64
 [submodule "kernel/prebuilts/6.1/arm64"]
 	ref = busytown-mac-infra-release
 	path = kernel/prebuilts/6.1/arm64
@@ -366,38 +330,6 @@
 	ref = busytown-mac-infra-release
 	path = kernel/prebuilts/6.6/x86_64
 	url = ../../kernel/prebuilts/6.6/x86-64
-[submodule "kernel/prebuilts/common-modules/virtual-device/4.19/arm64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/common-modules/virtual-device/4.19/arm64
-	url = ../../kernel/prebuilts/common-modules/virtual-device/4.19/arm64
-[submodule "kernel/prebuilts/common-modules/virtual-device/4.19/x86-64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
-	url = ../../kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.10/arm64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/common-modules/virtual-device/5.10/arm64
-	url = ../../kernel/prebuilts/common-modules/virtual-device/5.10/arm64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.10/x86-64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
-	url = ../../kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.15/arm64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/common-modules/virtual-device/5.15/arm64
-	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/arm64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.15/x86-64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
-	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.4/arm64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/common-modules/virtual-device/5.4/arm64
-	url = ../../kernel/prebuilts/common-modules/virtual-device/5.4/arm64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.4/x86-64"]
-	ref = busytown-mac-infra-release
-	path = kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
-	url = ../../kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/6.1/arm64"]
 	ref = busytown-mac-infra-release
 	path = kernel/prebuilts/common-modules/virtual-device/6.1/arm64
@@ -1846,10 +1778,6 @@
 	ref = busytown-mac-infra-release
 	path = external/ply
 	url = ../external/ply
-[submodule "platform/external/ppp"]
-	ref = busytown-mac-infra-release
-	path = external/ppp
-	url = ../external/ppp
 [submodule "platform/external/private-join-and-compute"]
 	ref = busytown-mac-infra-release
 	path = external/private-join-and-compute
@@ -3074,6 +3002,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/rusqlite
 	url = ../external/rust/crates/rusqlite
+[submodule "platform/external/rust/crates/rust-stemmers"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/rust-stemmers
+	url = ../external/rust/crates/rust-stemmers
 [submodule "platform/external/rust/crates/rustc-demangle"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/rustc-demangle
@@ -3762,10 +3694,6 @@
 	ref = busytown-mac-infra-release
 	path = external/v4l2_codec2
 	url = ../external/v4l2_codec2
-[submodule "platform/external/vboot_reference"]
-	ref = busytown-mac-infra-release
-	path = external/vboot_reference
-	url = ../external/vboot_reference
 [submodule "platform/external/virglrenderer"]
 	ref = busytown-mac-infra-release
 	path = external/virglrenderer
@@ -4070,10 +3998,6 @@
 	ref = busytown-mac-infra-release
 	path = hardware/google/pixel-sepolicy
 	url = ../hardware/google/pixel-sepolicy
-[submodule "platform/hardware/google/trusty"]
-	ref = busytown-mac-infra-release
-	path = hardware/google/trusty
-	url = ../hardware/google/trusty
 [submodule "platform/hardware/interfaces"]
 	ref = busytown-mac-infra-release
 	path = hardware/interfaces
@@ -4114,46 +4038,10 @@
 	ref = busytown-mac-infra-release
 	path = hardware/nxp/weaver
 	url = ../hardware/nxp/weaver
-[submodule "platform/hardware/qcom/audio"]
-	ref = busytown-mac-infra-release
-	path = hardware/qcom/audio
-	url = ../hardware/qcom/audio
 [submodule "platform/hardware/qcom/bootctrl"]
 	ref = busytown-mac-infra-release
 	path = hardware/qcom/bootctrl
 	url = ../hardware/qcom/bootctrl
-[submodule "platform/hardware/qcom/bt"]
-	ref = busytown-mac-infra-release
-	path = hardware/qcom/bt
-	url = ../hardware/qcom/bt
-[submodule "platform/hardware/qcom/camera"]
-	ref = busytown-mac-infra-release
-	path = hardware/qcom/camera
-	url = ../hardware/qcom/camera
-[submodule "platform/hardware/qcom/data/ipacfg-mgr"]
-	ref = busytown-mac-infra-release
-	path = hardware/qcom/data/ipacfg-mgr
-	url = ../hardware/qcom/data/ipacfg-mgr
-[submodule "platform/hardware/qcom/display"]
-	ref = busytown-mac-infra-release
-	path = hardware/qcom/display
-	url = ../hardware/qcom/display
-[submodule "platform/hardware/qcom/gps"]
-	ref = busytown-mac-infra-release
-	path = hardware/qcom/gps
-	url = ../hardware/qcom/gps
-[submodule "platform/hardware/qcom/keymaster"]
-	ref = busytown-mac-infra-release
-	path = hardware/qcom/keymaster
-	url = ../hardware/qcom/keymaster
-[submodule "platform/hardware/qcom/media"]
-	ref = busytown-mac-infra-release
-	path = hardware/qcom/media
-	url = ../hardware/qcom/media
-[submodule "platform/hardware/qcom/power"]
-	ref = busytown-mac-infra-release
-	path = hardware/qcom/power
-	url = ../hardware/qcom/power
 [submodule "platform/hardware/qcom/sm7150/gps"]
 	ref = busytown-mac-infra-release
 	path = hardware/qcom/sm7150/gps
@@ -4766,10 +4654,6 @@
 	ref = busytown-mac-infra-release
 	path = packages/services/Telephony
 	url = ../packages/services/Telephony
-[submodule "platform/packages/wallpapers/ImageWallpaper"]
-	ref = busytown-mac-infra-release
-	path = packages/wallpapers/ImageWallpaper
-	url = ../packages/wallpapers/ImageWallpaper
 [submodule "platform/packages/wallpapers/LivePicker"]
 	ref = busytown-mac-infra-release
 	path = packages/wallpapers/LivePicker
@@ -5290,10 +5174,6 @@
 	ref = busytown-mac-infra-release
 	path = test/dittosuite
 	url = ../test/dittosuite
-[submodule "platform/test/framework"]
-	ref = busytown-mac-infra-release
-	path = test/framework
-	url = ../test/framework
 [submodule "platform/test/mlts/benchmark"]
 	ref = busytown-mac-infra-release
 	path = test/mlts/benchmark
