@@ -1,4 +1,5 @@
 /prebuilts/jdk/jdk17
+/prebuilts/jdk/jdk21
 /prebuilts/sdk
 /prebuilts/tools
 /tools/metalava
