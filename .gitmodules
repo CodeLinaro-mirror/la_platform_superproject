@@ -234,18 +234,12 @@
 	path = prebuilts/bazel/windows-x86_64
 	url = ../prebuilts/bazel/windows-x86_64
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = main
-	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = main
-	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/clang/host/windows-x86"]
-	branch = main
-	shallow = true
 	path = prebuilts/clang/host/windows-x86
 	url = ../prebuilts/clang/host/windows-x86
 [submodule "platform/prebuilts/cmake/darwin-x86"]
