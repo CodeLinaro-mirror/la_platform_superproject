@@ -386,7 +386,7 @@
 	path = build/pesto
 	url = ../build/pesto
 [submodule "platform/build/soong"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = build/soong
 	url = ../build/soong
 [submodule "platform/compatibility/cdd"]
@@ -4154,7 +4154,7 @@
 	path = test/mlts/models
 	url = ../test/mlts/models
 [submodule "platform/test/mts"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/mts
 	url = ../test/mts
 [submodule "platform/test/vti/dashboard"]
