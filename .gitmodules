@@ -393,7 +393,7 @@
 	path = build/pesto
 	url = ../build/pesto
 [submodule "platform/build/soong"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = build/soong
 	url = ../build/soong
 [submodule "platform/cts"]
@@ -4427,7 +4427,7 @@
 	path = test/mlts/models
 	url = ../test/mlts/models
 [submodule "platform/test/mts"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = test/mts
 	url = ../test/mts
 [submodule "platform/test/vts"]
