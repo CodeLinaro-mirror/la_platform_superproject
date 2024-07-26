@@ -349,7 +349,7 @@
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "platform/build"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = build/make
 	url = ../build
 [submodule "platform/build/bazel"]
@@ -365,7 +365,7 @@
 	path = build/pesto
 	url = ../build/pesto
 [submodule "platform/build/soong"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = build/soong
 	url = ../build/soong
 [submodule "platform/compatibility/cdd"]
@@ -4104,7 +4104,7 @@
 	path = test/mlts/models
 	url = ../test/mlts/models
 [submodule "platform/test/mts"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = test/mts
 	url = ../test/mts
 [submodule "platform/test/vts"]
