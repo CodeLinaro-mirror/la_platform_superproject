@@ -4849,7 +4849,7 @@
 	path = test/mlts/models
 	url = ../test/mlts/models
 [submodule "platform/test/mts"]
-	branch = android14-release
+	branch = android14-tests-dev
 	path = test/mts
 	url = ../test/mts
 [submodule "platform/test/robolectric-extensions"]
