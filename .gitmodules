@@ -62,10 +62,6 @@
 	ref = busytown-mac-infra-release
 	path = device/generic/trusty
 	url = ../../device/generic/trusty
-[submodule "device/generic/uml"]
-	ref = busytown-mac-infra-release
-	path = device/generic/uml
-	url = ../../device/generic/uml
 [submodule "device/generic/x86"]
 	ref = busytown-mac-infra-release
 	path = device/generic/x86
