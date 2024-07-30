@@ -3417,7 +3417,7 @@
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
 [submodule "platform/packages/modules/Scheduling"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = packages/modules/Scheduling
 	url = ../packages/modules/Scheduling
 [submodule "platform/packages/modules/SdkExtensions"]
