@@ -1782,10 +1782,6 @@
 	ref = busytown-mac-infra-release
 	path = external/protobuf
 	url = ../external/protobuf
-[submodule "platform/external/psimd"]
-	ref = busytown-mac-infra-release
-	path = external/psimd
-	url = ../external/psimd
 [submodule "platform/external/pthreadpool"]
 	ref = busytown-mac-infra-release
 	path = external/pthreadpool
@@ -2838,6 +2834,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/percent-encoding
 	url = ../external/rust/crates/percent-encoding
+[submodule "platform/external/rust/crates/percore"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/percore
+	url = ../external/rust/crates/percore
 [submodule "platform/external/rust/crates/pest"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/pest
