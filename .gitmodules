@@ -1258,6 +1258,10 @@
 	ref = sdk-release
 	path = external/ktfmt
 	url = ../external/ktfmt
+[submodule "platform/external/leakcanary2"]
+	ref = sdk-release
+	path = external/leakcanary2
+	url = ../external/leakcanary2
 [submodule "platform/external/leveldb"]
 	ref = sdk-release
 	path = external/leveldb
@@ -1706,10 +1710,6 @@
 	ref = sdk-release
 	path = external/openwrt-prebuilts
 	url = ../external/openwrt-prebuilts
-[submodule "platform/external/oss-fuzz"]
-	ref = sdk-release
-	path = external/oss-fuzz
-	url = ../external/oss-fuzz
 [submodule "platform/external/ot-br-posix"]
 	ref = sdk-release
 	path = external/ot-br-posix
@@ -1982,6 +1982,10 @@
 	ref = sdk-release
 	path = external/rust/beto-rust
 	url = ../external/rust/beto-rust
+[submodule "platform/external/rust/crabbyavif"]
+	ref = sdk-release
+	path = external/rust/crabbyavif
+	url = ../external/rust/crabbyavif
 [submodule "platform/external/rust/crates/aarch64-paging"]
 	ref = sdk-release
 	path = external/rust/crates/aarch64-paging
@@ -3590,10 +3594,6 @@
 	ref = sdk-release
 	path = external/strace
 	url = ../external/strace
-[submodule "platform/external/stressapptest"]
-	ref = sdk-release
-	path = external/stressapptest
-	url = ../external/stressapptest
 [submodule "platform/external/subsampling-scale-image-view"]
 	ref = sdk-release
 	path = external/subsampling-scale-image-view
@@ -5278,10 +5278,6 @@
 	ref = sdk-release
 	path = tools/external_updater
 	url = ../tools/external_updater
-[submodule "platform/tools/lint_checks"]
-	ref = sdk-release
-	path = tools/lint_checks
-	url = ../tools/lint_checks
 [submodule "platform/tools/loganalysis"]
 	ref = sdk-release
 	path = tools/loganalysis
