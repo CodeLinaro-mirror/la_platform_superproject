@@ -1494,6 +1494,10 @@
 	ref = build-tools-release
 	path = external/zopfli
 	url = ../external/zopfli
+[submodule "platform/libnativehelper"]
+	ref = build-tools-release
+	path = libnativehelper
+	url = ../libnativehelper
 [submodule "platform/packages/modules/common"]
 	ref = build-tools-release
 	path = packages/modules/common
@@ -1542,14 +1546,6 @@
 	ref = build-tools-release
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
-[submodule "platform/prebuilts/jdk/jdk11"]
-	ref = build-tools-release
-	path = prebuilts/jdk/jdk11
-	url = ../prebuilts/jdk/jdk11
-[submodule "platform/prebuilts/jdk/jdk17"]
-	ref = build-tools-release
-	path = prebuilts/jdk/jdk17
-	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	ref = build-tools-release
 	path = prebuilts/jdk/jdk21
@@ -1558,10 +1554,6 @@
 	ref = build-tools-release
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
-[submodule "platform/prebuilts/jdk/jdk9"]
-	ref = build-tools-release
-	path = prebuilts/jdk/jdk9
-	url = ../prebuilts/jdk/jdk9
 [submodule "platform/prebuilts/misc"]
 	ref = build-tools-release
 	path = prebuilts/misc
