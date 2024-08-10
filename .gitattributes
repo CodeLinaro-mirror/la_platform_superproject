@@ -372,6 +372,7 @@
 /external/turbine
 /external/zlib
 /external/zopfli
+/libnativehelper
 /packages/modules/common pdk-fs pdk-cw-fs
 /prebuilts/bazel/common pdk
 /prebuilts/bazel/darwin-x86_64 pdk notdefault platform-darwin

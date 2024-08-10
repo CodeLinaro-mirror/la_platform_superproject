@@ -1495,6 +1495,10 @@
 	branch = main
 	path = external/zopfli
 	url = ../external/zopfli
+[submodule "platform/libnativehelper"]
+	branch = main
+	path = libnativehelper
+	url = ../libnativehelper
 [submodule "platform/packages/modules/common"]
 	branch = main
 	path = packages/modules/common
