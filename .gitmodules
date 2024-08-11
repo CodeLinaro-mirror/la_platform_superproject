@@ -1258,6 +1258,10 @@
 	ref = busytown-mac-infra-release
 	path = external/ktfmt
 	url = ../external/ktfmt
+[submodule "platform/external/leakcanary2"]
+	ref = busytown-mac-infra-release
+	path = external/leakcanary2
+	url = ../external/leakcanary2
 [submodule "platform/external/leveldb"]
 	ref = busytown-mac-infra-release
 	path = external/leveldb
@@ -1706,10 +1710,6 @@
 	ref = busytown-mac-infra-release
 	path = external/openwrt-prebuilts
 	url = ../external/openwrt-prebuilts
-[submodule "platform/external/oss-fuzz"]
-	ref = busytown-mac-infra-release
-	path = external/oss-fuzz
-	url = ../external/oss-fuzz
 [submodule "platform/external/ot-br-posix"]
 	ref = busytown-mac-infra-release
 	path = external/ot-br-posix
@@ -1982,6 +1982,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/beto-rust
 	url = ../external/rust/beto-rust
+[submodule "platform/external/rust/crabbyavif"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crabbyavif
+	url = ../external/rust/crabbyavif
 [submodule "platform/external/rust/crates/aarch64-paging"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/aarch64-paging
@@ -3590,10 +3594,6 @@
 	ref = busytown-mac-infra-release
 	path = external/strace
 	url = ../external/strace
-[submodule "platform/external/stressapptest"]
-	ref = busytown-mac-infra-release
-	path = external/stressapptest
-	url = ../external/stressapptest
 [submodule "platform/external/subsampling-scale-image-view"]
 	ref = busytown-mac-infra-release
 	path = external/subsampling-scale-image-view
@@ -5278,10 +5278,6 @@
 	ref = busytown-mac-infra-release
 	path = tools/external_updater
 	url = ../tools/external_updater
-[submodule "platform/tools/lint_checks"]
-	ref = busytown-mac-infra-release
-	path = tools/lint_checks
-	url = ../tools/lint_checks
 [submodule "platform/tools/loganalysis"]
 	ref = busytown-mac-infra-release
 	path = tools/loganalysis
