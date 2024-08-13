@@ -112,6 +112,11 @@
 	shallow = true
 	path = external/minijail
 	url = ../external/minijail
+[submodule "platform/external/nasm"]
+	branch = emu-dev
+	shallow = true
+	path = external/nasm
+	url = ../external/nasm
 [submodule "platform/external/pcre"]
 	branch = emu-dev
 	shallow = true
@@ -366,6 +371,10 @@
 	branch = emu-dev
 	path = tools/buildSrc
 	url = ../tools/buildSrc
+[submodule "platform/tools/repohooks"]
+	branch = emu-dev
+	path = tools/repohooks
+	url = ../tools/repohooks
 [submodule "trusty/external/qemu-keycodemapdb"]
 	branch = main
 	shallow = true

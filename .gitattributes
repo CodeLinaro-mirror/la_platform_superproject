@@ -21,6 +21,7 @@
 /external/lz4
 /external/minigbm
 /external/minijail
+/external/nasm
 /external/pcre2
 /external/perfetto
 /external/pffft
@@ -74,6 +75,7 @@
 /prebuilts/python/windows-x86 notdefault platform-windows
 /prebuilts/rust
 /tools/buildSrc
+/tools/repohooks developers tools
 /external/keycodemapdb
 /external/libslirp
 /external/meson
