@@ -73,6 +73,7 @@
 /external/python/cpython2
 /external/python/cpython3
 /external/python/six
+/external/rust/android-crates-io pdk
 /external/rust/autocxx pdk
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
