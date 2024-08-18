@@ -4754,10 +4754,6 @@
 	ref = busytown-mac-infra-release
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
-[submodule "platform/prebuilts/jdk/jdk17"]
-	ref = busytown-mac-infra-release
-	path = prebuilts/jdk/jdk17
-	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	ref = busytown-mac-infra-release
 	path = prebuilts/jdk/jdk21
