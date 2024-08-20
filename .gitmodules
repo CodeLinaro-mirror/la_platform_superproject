@@ -1258,6 +1258,10 @@
 	ref = simpleperf-release
 	path = external/ktfmt
 	url = ../external/ktfmt
+[submodule "platform/external/leakcanary2"]
+	ref = simpleperf-release
+	path = external/leakcanary2
+	url = ../external/leakcanary2
 [submodule "platform/external/leveldb"]
 	ref = simpleperf-release
 	path = external/leveldb
@@ -1706,10 +1710,6 @@
 	ref = simpleperf-release
 	path = external/openwrt-prebuilts
 	url = ../external/openwrt-prebuilts
-[submodule "platform/external/oss-fuzz"]
-	ref = simpleperf-release
-	path = external/oss-fuzz
-	url = ../external/oss-fuzz
 [submodule "platform/external/ot-br-posix"]
 	ref = simpleperf-release
 	path = external/ot-br-posix
@@ -1782,10 +1782,6 @@
 	ref = simpleperf-release
 	path = external/protobuf
 	url = ../external/protobuf
-[submodule "platform/external/psimd"]
-	ref = simpleperf-release
-	path = external/psimd
-	url = ../external/psimd
 [submodule "platform/external/pthreadpool"]
 	ref = simpleperf-release
 	path = external/pthreadpool
@@ -1986,6 +1982,10 @@
 	ref = simpleperf-release
 	path = external/rust/beto-rust
 	url = ../external/rust/beto-rust
+[submodule "platform/external/rust/crabbyavif"]
+	ref = simpleperf-release
+	path = external/rust/crabbyavif
+	url = ../external/rust/crabbyavif
 [submodule "platform/external/rust/crates/aarch64-paging"]
 	ref = simpleperf-release
 	path = external/rust/crates/aarch64-paging
@@ -2838,6 +2838,10 @@
 	ref = simpleperf-release
 	path = external/rust/crates/percent-encoding
 	url = ../external/rust/crates/percent-encoding
+[submodule "platform/external/rust/crates/percore"]
+	ref = simpleperf-release
+	path = external/rust/crates/percore
+	url = ../external/rust/crates/percore
 [submodule "platform/external/rust/crates/pest"]
 	ref = simpleperf-release
 	path = external/rust/crates/pest
@@ -4754,10 +4758,6 @@
 	ref = simpleperf-release
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
-[submodule "platform/prebuilts/jdk/jdk17"]
-	ref = simpleperf-release
-	path = prebuilts/jdk/jdk17
-	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	ref = simpleperf-release
 	path = prebuilts/jdk/jdk21
@@ -5278,10 +5278,6 @@
 	ref = simpleperf-release
 	path = tools/external_updater
 	url = ../tools/external_updater
-[submodule "platform/tools/lint_checks"]
-	ref = simpleperf-release
-	path = tools/lint_checks
-	url = ../tools/lint_checks
 [submodule "platform/tools/loganalysis"]
 	ref = simpleperf-release
 	path = tools/loganalysis
