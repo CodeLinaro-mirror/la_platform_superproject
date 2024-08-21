@@ -43,6 +43,7 @@
 /external/python/cpython3
 /external/rapidjson
 /external/regex-re2
+/external/rust/android-crates-io
 /external/rust/crates/ahash
 /external/rust/crates/aho-corasick
 /external/rust/crates/annotate-snippets
