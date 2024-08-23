@@ -1503,6 +1503,10 @@
 	branch = main
 	path = libnativehelper
 	url = ../libnativehelper
+[submodule "platform/packages/modules/adb"]
+	branch = main
+	path = packages/modules/adb
+	url = ../packages/modules/adb
 [submodule "platform/packages/modules/common"]
 	branch = main
 	path = packages/modules/common
