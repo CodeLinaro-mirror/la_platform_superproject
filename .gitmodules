@@ -3594,6 +3594,10 @@
 	ref = busytown-mac-infra-release
 	path = external/strace
 	url = ../external/strace
+[submodule "platform/external/stressapptest"]
+	ref = busytown-mac-infra-release
+	path = external/stressapptest
+	url = ../external/stressapptest
 [submodule "platform/external/subsampling-scale-image-view"]
 	ref = busytown-mac-infra-release
 	path = external/subsampling-scale-image-view
@@ -5098,6 +5102,10 @@
 	ref = busytown-mac-infra-release
 	path = system/security
 	url = ../system/security
+[submodule "platform/system/see/authmgr"]
+	ref = busytown-mac-infra-release
+	path = system/see/authmgr
+	url = ../system/see/authmgr
 [submodule "platform/system/sepolicy"]
 	ref = busytown-mac-infra-release
 	path = system/sepolicy
