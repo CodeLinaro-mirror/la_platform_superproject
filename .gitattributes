@@ -221,6 +221,7 @@
 /external/fft2d pdk
 /external/firebase-messaging pdk
 /external/flac pdk
+/external/flashrom pdk
 /external/flatbuffers pdk
 /external/fmtlib pdk
 /external/fonttools pdk
@@ -434,6 +435,7 @@
 /external/pandora/bt-test-interfaces pdk
 /external/pandora/mmi2grpc pdk
 /external/parameter-framework pdk
+/external/pciutils pdk
 /external/pcre pdk
 /external/pdfium pdk
 /external/perfetto pdk
@@ -922,6 +924,7 @@
 /external/universal-tween-engine
 /external/uwb pdk
 /external/v4l2_codec2 pdk
+/external/vboot_reference pdk
 /external/virglrenderer pdk
 /external/vixl pdk
 /external/vogar pdk
@@ -1274,6 +1277,7 @@
 /system/nvram pdk
 /system/secretkeeper pdk
 /system/security pdk
+/system/see/authmgr pdk
 /system/sepolicy pdk
 /system/server_configurable_flags pdk
 /system/teeui pdk
@@ -1348,6 +1352,7 @@
 /trusty/user/app/storage trusty
 /trusty/device/arm/generic-arm64 trusty
 /trusty/device/arm/vexpress-a15 trusty
+/trusty/device/desktop android-desktop trusty
 /trusty/device/nxp/imx7d trusty
 /trusty/device/x86/generic-x86_64 trusty
 /external/trusty/headers trusty
@@ -1359,4 +1364,5 @@
 /external/trusty/lk trusty
 /trusty/hardware/nxp trusty
 /trusty/kernel trusty
+/trusty/user/desktop android-desktop trusty
 /trusty/vendor/google/aosp trusty
