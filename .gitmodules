@@ -890,6 +890,10 @@
 	ref = sdk-release
 	path = external/flac
 	url = ../external/flac
+[submodule "platform/external/flashrom"]
+	ref = sdk-release
+	path = external/flashrom
+	url = ../external/flashrom
 [submodule "platform/external/flatbuffers"]
 	ref = sdk-release
 	path = external/flatbuffers
@@ -1742,6 +1746,10 @@
 	ref = sdk-release
 	path = external/parameter-framework
 	url = ../external/parameter-framework
+[submodule "platform/external/pciutils"]
+	ref = sdk-release
+	path = external/pciutils
+	url = ../external/pciutils
 [submodule "platform/external/pcre"]
 	ref = sdk-release
 	path = external/pcre
@@ -3694,6 +3702,10 @@
 	ref = sdk-release
 	path = external/v4l2_codec2
 	url = ../external/v4l2_codec2
+[submodule "platform/external/vboot_reference"]
+	ref = sdk-release
+	path = external/vboot_reference
+	url = ../external/vboot_reference
 [submodule "platform/external/virglrenderer"]
 	ref = sdk-release
 	path = external/virglrenderer
@@ -5402,6 +5414,10 @@
 	ref = sdk-release
 	path = trusty/device/arm/vexpress-a15
 	url = ../../trusty/device/arm/vexpress-a15
+[submodule "trusty/device/desktop"]
+	ref = sdk-release
+	path = trusty/device/desktop
+	url = ../../trusty/device/desktop
 [submodule "trusty/device/nxp/imx7d"]
 	ref = sdk-release
 	path = trusty/device/nxp/imx7d
@@ -5446,6 +5462,10 @@
 	ref = sdk-release
 	path = trusty/kernel
 	url = ../../trusty/lk/trusty
+[submodule "trusty/user/desktop"]
+	ref = sdk-release
+	path = trusty/user/desktop
+	url = ../../trusty/user/desktop
 [submodule "trusty/vendor/google/aosp"]
 	ref = sdk-release
 	path = trusty/vendor/google/aosp
