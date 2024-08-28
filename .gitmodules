@@ -154,14 +154,14 @@
 	ref = androidx-profileinstaller-release
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r23"]
+[submodule "toolchain/prebuilts/ndk-darwin/r25"]
 	ref = androidx-profileinstaller-release
 	path = prebuilts/fullsdk-darwin/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk-darwin/r23
-[submodule "toolchain/prebuilts/ndk/r23"]
+	url = ../../toolchain/prebuilts/ndk-darwin/r25
+[submodule "toolchain/prebuilts/ndk/r25"]
 	ref = androidx-profileinstaller-release
 	path = prebuilts/fullsdk-linux/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk/r23
+	url = ../../toolchain/prebuilts/ndk/r25
 [submodule "tools/fetch_artifact"]
 	ref = androidx-profileinstaller-release
 	path = tools/fetch_artifact
