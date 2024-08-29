@@ -6,14 +6,6 @@
 	ref = androidx-profileinstaller-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/dokka"]
-	ref = androidx-profileinstaller-release
-	path = external/dokka
-	url = ../external/dokka
-[submodule "platform/external/google-benchmark"]
-	ref = androidx-profileinstaller-release
-	path = external/google-benchmark
-	url = ../external/google-benchmark
 [submodule "platform/external/icing"]
 	ref = androidx-profileinstaller-release
 	path = external/icing
