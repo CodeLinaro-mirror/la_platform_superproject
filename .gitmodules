@@ -54,6 +54,10 @@
 	ref = androidx-profileinstaller-release
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
+[submodule "platform/prebuilts/androidx/ink"]
+	ref = androidx-profileinstaller-release
+	path = prebuilts/androidx/ink
+	url = ../prebuilts/androidx/ink
 [submodule "platform/prebuilts/androidx/internal"]
 	ref = androidx-profileinstaller-release
 	path = prebuilts/androidx/internal
@@ -158,14 +162,14 @@
 	ref = androidx-profileinstaller-release
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r25"]
+[submodule "toolchain/prebuilts/ndk-darwin/r27"]
 	ref = androidx-profileinstaller-release
 	path = prebuilts/fullsdk-darwin/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk-darwin/r25
-[submodule "toolchain/prebuilts/ndk/r25"]
+	url = ../../toolchain/prebuilts/ndk-darwin/r27
+[submodule "toolchain/prebuilts/ndk/r27"]
 	ref = androidx-profileinstaller-release
 	path = prebuilts/fullsdk-linux/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk/r25
+	url = ../../toolchain/prebuilts/ndk/r27
 [submodule "tools/fetch_artifact"]
 	ref = androidx-profileinstaller-release
 	path = tools/fetch_artifact
