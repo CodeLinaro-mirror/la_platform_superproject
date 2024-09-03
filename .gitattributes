@@ -234,6 +234,7 @@
 /external/gflags pdk
 /external/giflib pdk qcom_msm8x26
 /external/glide pdk
+/external/gmmlib pdk
 /external/go-cmp pdk
 /external/golang-protobuf pdk
 /external/google-benchmark pdk
@@ -275,6 +276,7 @@
 /external/igt-gpu-tools pdk
 /external/image_io pdk
 /external/ims pdk
+/external/intel-media-driver pdk
 /external/iperf3 pdk
 /external/iproute2 pdk
 /external/ipsec-tools pdk
@@ -365,6 +367,7 @@
 /external/liburing pdk
 /external/libusb pdk
 /external/libutf pdk
+/external/libva pdk
 /external/libvpx pdk
 /external/libwebm pdk
 /external/libwebsockets pdk

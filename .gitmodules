@@ -942,6 +942,10 @@
 	ref = sdk-release
 	path = external/glide
 	url = ../external/glide
+[submodule "platform/external/gmmlib"]
+	ref = sdk-release
+	path = external/gmmlib
+	url = ../external/gmmlib
 [submodule "platform/external/go-cmp"]
 	ref = sdk-release
 	path = external/go-cmp
@@ -1106,6 +1110,10 @@
 	ref = sdk-release
 	path = external/ims
 	url = ../external/ims
+[submodule "platform/external/intel-media-driver"]
+	ref = sdk-release
+	path = external/intel-media-driver
+	url = ../external/intel-media-driver
 [submodule "platform/external/iperf3"]
 	ref = sdk-release
 	path = external/iperf3
@@ -1466,6 +1474,10 @@
 	ref = sdk-release
 	path = external/libutf
 	url = ../external/libutf
+[submodule "platform/external/libva"]
+	ref = sdk-release
+	path = external/libva
+	url = ../external/libva
 [submodule "platform/external/libvpx"]
 	ref = sdk-release
 	path = external/libvpx
