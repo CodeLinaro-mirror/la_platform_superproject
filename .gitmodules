@@ -298,6 +298,10 @@
 	ref = build-tools-release
 	path = external/python/six
 	url = ../external/python/six
+[submodule "platform/external/rust/android-crates-io"]
+	ref = build-tools-release
+	path = external/rust/android-crates-io
+	url = ../external/rust/android-crates-io
 [submodule "platform/external/rust/autocxx"]
 	ref = build-tools-release
 	path = external/rust/autocxx
@@ -1498,6 +1502,10 @@
 	ref = build-tools-release
 	path = libnativehelper
 	url = ../libnativehelper
+[submodule "platform/packages/modules/adb"]
+	ref = build-tools-release
+	path = packages/modules/adb
+	url = ../packages/modules/adb
 [submodule "platform/packages/modules/common"]
 	ref = build-tools-release
 	path = packages/modules/common
