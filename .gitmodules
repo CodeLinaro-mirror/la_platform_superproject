@@ -262,11 +262,6 @@
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
-[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = main
-	shallow = true
-	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
-	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	branch = emu-master-dev
 	shallow = true
@@ -286,9 +281,6 @@
 [submodule "platform/prebuilts/python/windows-x86"]
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
-[submodule "platform/prebuilts/rust"]
-	path = prebuilts/rust
-	url = ../prebuilts/rust
 [submodule "platform/prebuilts/studio/jdk"]
 	branch = studio-main
 	shallow = true
