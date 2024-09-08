@@ -942,6 +942,10 @@
 	ref = busytown-mac-infra-release
 	path = external/glide
 	url = ../external/glide
+[submodule "platform/external/gmmlib"]
+	ref = busytown-mac-infra-release
+	path = external/gmmlib
+	url = ../external/gmmlib
 [submodule "platform/external/go-cmp"]
 	ref = busytown-mac-infra-release
 	path = external/go-cmp
@@ -1106,6 +1110,10 @@
 	ref = busytown-mac-infra-release
 	path = external/ims
 	url = ../external/ims
+[submodule "platform/external/intel-media-driver"]
+	ref = busytown-mac-infra-release
+	path = external/intel-media-driver
+	url = ../external/intel-media-driver
 [submodule "platform/external/iperf3"]
 	ref = busytown-mac-infra-release
 	path = external/iperf3
@@ -1466,6 +1474,10 @@
 	ref = busytown-mac-infra-release
 	path = external/libutf
 	url = ../external/libutf
+[submodule "platform/external/libva"]
+	ref = busytown-mac-infra-release
+	path = external/libva
+	url = ../external/libva
 [submodule "platform/external/libvpx"]
 	ref = busytown-mac-infra-release
 	path = external/libvpx
@@ -2586,6 +2598,14 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/lazycell
 	url = ../external/rust/crates/lazycell
+[submodule "platform/external/rust/crates/libbpf-rs"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/libbpf-rs
+	url = ../external/rust/crates/libbpf-rs
+[submodule "platform/external/rust/crates/libbpf-sys"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/libbpf-sys
+	url = ../external/rust/crates/libbpf-sys
 [submodule "platform/external/rust/crates/libc"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/libc
@@ -2782,6 +2802,14 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/num_cpus
 	url = ../external/rust/crates/num_cpus
+[submodule "platform/external/rust/crates/num_enum"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/num_enum
+	url = ../external/rust/crates/num_enum
+[submodule "platform/external/rust/crates/num_enum_derive"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/num_enum_derive
+	url = ../external/rust/crates/num_enum_derive
 [submodule "platform/external/rust/crates/octets"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/octets
@@ -3414,6 +3442,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
+[submodule "platform/external/rust/crates/vsprintf"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/vsprintf
+	url = ../external/rust/crates/vsprintf
 [submodule "platform/external/rust/crates/vulkano"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/vulkano

@@ -234,6 +234,7 @@
 /external/gflags pdk
 /external/giflib pdk qcom_msm8x26
 /external/glide pdk
+/external/gmmlib pdk
 /external/go-cmp pdk
 /external/golang-protobuf pdk
 /external/google-benchmark pdk
@@ -275,6 +276,7 @@
 /external/igt-gpu-tools pdk
 /external/image_io pdk
 /external/ims pdk
+/external/intel-media-driver pdk
 /external/iperf3 pdk
 /external/iproute2 pdk
 /external/ipsec-tools pdk
@@ -365,6 +367,7 @@
 /external/liburing pdk
 /external/libusb pdk
 /external/libutf pdk
+/external/libva pdk
 /external/libvpx pdk
 /external/libwebm pdk
 /external/libwebsockets pdk
@@ -645,6 +648,8 @@
 /external/rust/crates/kernlog pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
+/external/rust/crates/libbpf-rs pdk
+/external/rust/crates/libbpf-sys pdk
 /external/rust/crates/libc pdk
 /external/rust/crates/libfuzzer-sys pdk
 /external/rust/crates/libloading pdk
@@ -694,6 +699,8 @@
 /external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
+/external/rust/crates/num_enum pdk
+/external/rust/crates/num_enum_derive pdk
 /external/rust/crates/octets pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oneshot-uniffi pdk
@@ -852,6 +859,7 @@
 /external/rust/crates/vm-memory pdk
 /external/rust/crates/vmm-sys-util pdk
 /external/rust/crates/vsock pdk
+/external/rust/crates/vsprintf pdk
 /external/rust/crates/vulkano pdk
 /external/rust/crates/walkdir pdk
 /external/rust/crates/want pdk
