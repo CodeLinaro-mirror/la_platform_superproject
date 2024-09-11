@@ -2,6 +2,10 @@
 	branch = main
 	path = device/generic/art
 	url = ../../device/generic/art
+[submodule "device/google/cuttlefish_vmm"]
+	branch = main
+	path = device/google/cuttlefish_vmm
+	url = ../../device/google/cuttlefish_vmm
 [submodule "platform/art"]
 	branch = main
 	path = art

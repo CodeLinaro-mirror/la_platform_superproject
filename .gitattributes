@@ -1,4 +1,5 @@
 /device/generic/art pdk
+/device/google/cuttlefish_vmm pdk
 /art pdk
 /build/make pdk
 /build/bazel pdk
