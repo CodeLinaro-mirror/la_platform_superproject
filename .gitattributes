@@ -15,6 +15,7 @@
 /external/protobuf
 /external/qemu
 /external/regex-re2
+/external/rust/android-crates-io
 /external/rust/crates/aho-corasick
 /external/rust/crates/anyhow
 /external/rust/crates/argh
