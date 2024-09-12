@@ -1646,6 +1646,10 @@
 	ref = sdk-release
 	path = external/modp_b64
 	url = ../external/modp_b64
+[submodule "platform/external/moshi"]
+	ref = sdk-release
+	path = external/moshi
+	url = ../external/moshi
 [submodule "platform/external/mp4parser"]
 	ref = sdk-release
 	path = external/mp4parser
@@ -4058,10 +4062,6 @@
 	ref = sdk-release
 	path = hardware/google/camera
 	url = ../hardware/google/camera
-[submodule "platform/hardware/google/easel"]
-	ref = sdk-release
-	path = hardware/google/easel
-	url = ../hardware/google/easel
 [submodule "platform/hardware/google/gchips"]
 	ref = sdk-release
 	path = hardware/google/gchips
@@ -5422,10 +5422,6 @@
 	ref = sdk-release
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity
-[submodule "platform/tools/test/graphicsbenchmark"]
-	ref = sdk-release
-	path = tools/test/graphicsbenchmark
-	url = ../tools/test/graphicsbenchmark
 [submodule "platform/tools/test/mobly_extensions"]
 	ref = sdk-release
 	path = tools/test/mobly_extensions
