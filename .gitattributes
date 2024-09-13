@@ -128,6 +128,7 @@
 /external/rust/crates/remove_dir_all pdk
 /external/rust/crates/rustc-demangle pdk
 /external/rust/crates/rustc-demangle-capi pdk
+/external/rust/crates/rustix pdk
 /external/rust/crates/ryu pdk
 /external/rust/crates/serde pdk
 /external/rust/crates/serde_derive pdk
