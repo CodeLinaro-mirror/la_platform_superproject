@@ -47,6 +47,11 @@
 	shallow = true
 	path = external/flatbuffers
 	url = ../external/flatbuffers
+[submodule "platform/external/google-benchmark"]
+	branch = main
+	shallow = true
+	path = external/google-benchmark
+	url = ../external/google-benchmark
 [submodule "platform/external/googletest"]
 	branch = main
 	shallow = true

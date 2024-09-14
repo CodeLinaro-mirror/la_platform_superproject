@@ -8,6 +8,7 @@
 /external/crosvm
 /external/dtc
 /external/flatbuffers
+/external/google-benchmark
 /external/googletest
 /external/grpc
 /external/jsoncpp
