@@ -74,10 +74,10 @@
 	ref = busytown-mac-infra-release
 	path = device/google/akita
 	url = ../../device/google/akita
-[submodule "device/google/akita-kernel"]
+[submodule "device/google/akita-kernels/5.15"]
 	ref = busytown-mac-infra-release
-	path = device/google/akita-kernel
-	url = ../../device/google/akita-kernel
+	path = device/google/akita-kernels/5.15
+	url = ../../device/google/akita-kernels/5.15
 [submodule "device/google/akita-sepolicy"]
 	ref = busytown-mac-infra-release
 	path = device/google/akita-sepolicy
@@ -98,22 +98,14 @@
 	ref = busytown-mac-infra-release
 	path = device/google/bluejay
 	url = ../../device/google/bluejay
-[submodule "device/google/bluejay-kernel"]
+[submodule "device/google/bluejay-kernels/5.10"]
 	ref = busytown-mac-infra-release
-	path = device/google/bluejay-kernel
-	url = ../../device/google/bluejay-kernel
+	path = device/google/bluejay-kernels/5.10
+	url = ../../device/google/bluejay-kernels/5.10
 [submodule "device/google/bluejay-sepolicy"]
 	ref = busytown-mac-infra-release
 	path = device/google/bluejay-sepolicy
 	url = ../../device/google/bluejay-sepolicy
-[submodule "device/google/bramble"]
-	ref = busytown-mac-infra-release
-	path = device/google/bramble
-	url = ../../device/google/bramble
-[submodule "device/google/bramble-sepolicy"]
-	ref = busytown-mac-infra-release
-	path = device/google/bramble-sepolicy
-	url = ../../device/google/bramble-sepolicy
 [submodule "device/google/contexthub"]
 	ref = busytown-mac-infra-release
 	path = device/google/contexthub
@@ -146,10 +138,10 @@
 	ref = busytown-mac-infra-release
 	path = device/google/felix
 	url = ../../device/google/felix
-[submodule "device/google/felix-kernel"]
+[submodule "device/google/felix-kernels/5.10"]
 	ref = busytown-mac-infra-release
-	path = device/google/felix-kernel
-	url = ../../device/google/felix-kernel
+	path = device/google/felix-kernels/5.10
+	url = ../../device/google/felix-kernels/5.10
 [submodule "device/google/felix-sepolicy"]
 	ref = busytown-mac-infra-release
 	path = device/google/felix-sepolicy
@@ -178,10 +170,10 @@
 	ref = busytown-mac-infra-release
 	path = device/google/lynx
 	url = ../../device/google/lynx
-[submodule "device/google/lynx-kernel"]
+[submodule "device/google/lynx-kernels/5.10"]
 	ref = busytown-mac-infra-release
-	path = device/google/lynx-kernel
-	url = ../../device/google/lynx-kernel
+	path = device/google/lynx-kernels/5.10
+	url = ../../device/google/lynx-kernels/5.10
 [submodule "device/google/lynx-sepolicy"]
 	ref = busytown-mac-infra-release
 	path = device/google/lynx-sepolicy
@@ -190,10 +182,10 @@
 	ref = busytown-mac-infra-release
 	path = device/google/pantah
 	url = ../../device/google/pantah
-[submodule "device/google/pantah-kernel"]
+[submodule "device/google/pantah-kernels/5.10"]
 	ref = busytown-mac-infra-release
-	path = device/google/pantah-kernel
-	url = ../../device/google/pantah-kernel
+	path = device/google/pantah-kernels/5.10
+	url = ../../device/google/pantah-kernels/5.10
 [submodule "device/google/pantah-sepolicy"]
 	ref = busytown-mac-infra-release
 	path = device/google/pantah-sepolicy
@@ -202,10 +194,10 @@
 	ref = busytown-mac-infra-release
 	path = device/google/raviole
 	url = ../../device/google/raviole
-[submodule "device/google/raviole-kernel"]
+[submodule "device/google/raviole-kernels/5.10"]
 	ref = busytown-mac-infra-release
-	path = device/google/raviole-kernel
-	url = ../../device/google/raviole-kernel
+	path = device/google/raviole-kernels/5.10
+	url = ../../device/google/raviole-kernels/5.10
 [submodule "device/google/redbull"]
 	ref = busytown-mac-infra-release
 	path = device/google/redbull
@@ -230,10 +222,10 @@
 	ref = busytown-mac-infra-release
 	path = device/google/shusky
 	url = ../../device/google/shusky
-[submodule "device/google/shusky-kernel"]
+[submodule "device/google/shusky-kernels/5.15"]
 	ref = busytown-mac-infra-release
-	path = device/google/shusky-kernel
-	url = ../../device/google/shusky-kernel
+	path = device/google/shusky-kernels/5.15
+	url = ../../device/google/shusky-kernels/5.15
 [submodule "device/google/shusky-sepolicy"]
 	ref = busytown-mac-infra-release
 	path = device/google/shusky-sepolicy
@@ -254,10 +246,10 @@
 	ref = busytown-mac-infra-release
 	path = device/google/tangorpro
 	url = ../../device/google/tangorpro
-[submodule "device/google/tangorpro-kernel"]
+[submodule "device/google/tangorpro-kernels/5.10"]
 	ref = busytown-mac-infra-release
-	path = device/google/tangorpro-kernel
-	url = ../../device/google/tangorpro-kernel
+	path = device/google/tangorpro-kernels/5.10
+	url = ../../device/google/tangorpro-kernels/5.10
 [submodule "device/google/tangorpro-sepolicy"]
 	ref = busytown-mac-infra-release
 	path = device/google/tangorpro-sepolicy
@@ -462,6 +454,10 @@
 	ref = busytown-mac-infra-release
 	path = external/OpenCL-Headers
 	url = ../external/OpenCL-Headers
+[submodule "platform/external/OpenCL-ICD-Loader"]
+	ref = busytown-mac-infra-release
+	path = external/OpenCL-ICD-Loader
+	url = ../external/OpenCL-ICD-Loader
 [submodule "platform/external/OpenCSD"]
 	ref = busytown-mac-infra-release
 	path = external/OpenCSD
@@ -482,6 +478,10 @@
 	ref = busytown-mac-infra-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
+[submodule "platform/external/accessibility-test-framework"]
+	ref = busytown-mac-infra-release
+	path = external/accessibility-test-framework
+	url = ../external/accessibility-test-framework
 [submodule "platform/external/accompanist"]
 	ref = busytown-mac-infra-release
 	path = external/accompanist
@@ -582,6 +582,18 @@
 	ref = busytown-mac-infra-release
 	path = external/avb
 	url = ../external/avb
+[submodule "platform/external/aws-crt-java"]
+	ref = busytown-mac-infra-release
+	path = external/aws-crt-java
+	url = ../external/aws-crt-java
+[submodule "platform/external/aws-eventstream-java"]
+	ref = busytown-mac-infra-release
+	path = external/aws-eventstream-java
+	url = ../external/aws-eventstream-java
+[submodule "platform/external/aws-sdk-java-v2"]
+	ref = busytown-mac-infra-release
+	path = external/aws-sdk-java-v2
+	url = ../external/aws-sdk-java-v2
 [submodule "platform/external/bazel-skylib"]
 	ref = busytown-mac-infra-release
 	path = external/bazel-skylib
@@ -818,6 +830,10 @@
 	ref = busytown-mac-infra-release
 	path = external/easymock
 	url = ../external/easymock
+[submodule "platform/external/edid-decode"]
+	ref = busytown-mac-infra-release
+	path = external/edid-decode
+	url = ../external/edid-decode
 [submodule "platform/external/eigen"]
 	ref = busytown-mac-infra-release
 	path = external/eigen
@@ -954,6 +970,10 @@
 	ref = busytown-mac-infra-release
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
+[submodule "platform/external/google-auth-library-java"]
+	ref = busytown-mac-infra-release
+	path = external/google-auth-library-java
+	url = ../external/google-auth-library-java
 [submodule "platform/external/google-benchmark"]
 	ref = busytown-mac-infra-release
 	path = external/google-benchmark
@@ -962,6 +982,10 @@
 	ref = busytown-mac-infra-release
 	path = external/google-breakpad
 	url = ../external/google-breakpad
+[submodule "platform/external/google-cloud-java"]
+	ref = busytown-mac-infra-release
+	path = external/google-cloud-java
+	url = ../external/google-cloud-java
 [submodule "platform/external/google-fonts/arbutus-slab"]
 	ref = busytown-mac-infra-release
 	path = external/google-fonts/arbutus-slab
@@ -1062,6 +1086,10 @@
 	ref = busytown-mac-infra-release
 	path = external/gson
 	url = ../external/gson
+[submodule "platform/external/gturri-jISO8601"]
+	ref = busytown-mac-infra-release
+	path = external/gturri-jISO8601
+	url = ../external/gturri-jISO8601
 [submodule "platform/external/guava"]
 	ref = busytown-mac-infra-release
 	path = external/guava
@@ -1210,6 +1238,14 @@
 	ref = busytown-mac-infra-release
 	path = external/jsoncpp
 	url = ../external/jsoncpp
+[submodule "platform/external/jsoup"]
+	ref = busytown-mac-infra-release
+	path = external/jsoup
+	url = ../external/jsoup
+[submodule "platform/external/jsoup-1p-stubs"]
+	ref = busytown-mac-infra-release
+	path = external/jsoup-1p-stubs
+	url = ../external/jsoup-1p-stubs
 [submodule "platform/external/jsr305"]
 	ref = busytown-mac-infra-release
 	path = external/jsr305
@@ -1610,6 +1646,10 @@
 	ref = busytown-mac-infra-release
 	path = external/modp_b64
 	url = ../external/modp_b64
+[submodule "platform/external/moshi"]
+	ref = busytown-mac-infra-release
+	path = external/moshi
+	url = ../external/moshi
 [submodule "platform/external/mp4parser"]
 	ref = busytown-mac-infra-release
 	path = external/mp4parser
@@ -2362,6 +2402,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/epoll
 	url = ../external/rust/crates/epoll
+[submodule "platform/external/rust/crates/equivalent"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/equivalent
+	url = ../external/rust/crates/equivalent
 [submodule "platform/external/rust/crates/errno"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/errno
@@ -2378,6 +2422,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/fastrand
 	url = ../external/rust/crates/fastrand
+[submodule "platform/external/rust/crates/fixedbitset"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/fixedbitset
+	url = ../external/rust/crates/fixedbitset
 [submodule "platform/external/rust/crates/flagset"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/flagset
@@ -2526,6 +2574,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/hex
 	url = ../external/rust/crates/hex
+[submodule "platform/external/rust/crates/hound"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/hound
+	url = ../external/rust/crates/hound
 [submodule "platform/external/rust/crates/http"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/http
@@ -2894,6 +2946,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/pest_meta
 	url = ../external/rust/crates/pest_meta
+[submodule "platform/external/rust/crates/petgraph"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/petgraph
+	url = ../external/rust/crates/petgraph
 [submodule "platform/external/rust/crates/pin-project"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/pin-project
@@ -3538,6 +3594,10 @@
 	ref = busytown-mac-infra-release
 	path = external/scudo
 	url = ../external/scudo
+[submodule "platform/external/sdk-platform-java"]
+	ref = busytown-mac-infra-release
+	path = external/sdk-platform-java
+	url = ../external/sdk-platform-java
 [submodule "platform/external/sdv/vsomeip"]
 	ref = busytown-mac-infra-release
 	path = external/sdv/vsomeip
@@ -3562,10 +3622,6 @@
 	ref = busytown-mac-infra-release
 	path = external/setupdesign
 	url = ../external/setupdesign
-[submodule "platform/external/sfntly"]
-	ref = busytown-mac-infra-release
-	path = external/sfntly
-	url = ../external/sfntly
 [submodule "platform/external/sg3_utils"]
 	ref = busytown-mac-infra-release
 	path = external/sg3_utils
@@ -3666,6 +3722,10 @@
 	ref = busytown-mac-infra-release
 	path = external/tflite-support
 	url = ../external/tflite-support
+[submodule "platform/external/threetenbp"]
+	ref = busytown-mac-infra-release
+	path = external/threetenbp
+	url = ../external/threetenbp
 [submodule "platform/external/timezone-boundary-builder"]
 	ref = busytown-mac-infra-release
 	path = external/timezone-boundary-builder
@@ -4002,10 +4062,6 @@
 	ref = busytown-mac-infra-release
 	path = hardware/google/camera
 	url = ../hardware/google/camera
-[submodule "platform/hardware/google/easel"]
-	ref = busytown-mac-infra-release
-	path = hardware/google/easel
-	url = ../hardware/google/easel
 [submodule "platform/hardware/google/gchips"]
 	ref = busytown-mac-infra-release
 	path = hardware/google/gchips
@@ -4194,6 +4250,10 @@
 	ref = busytown-mac-infra-release
 	path = packages/apps/Car/Cluster
 	url = ../packages/apps/Car/Cluster
+[submodule "platform/packages/apps/Car/DataSubscriptionReference"]
+	ref = busytown-mac-infra-release
+	path = packages/apps/Car/DataSubscriptionReference
+	url = ../packages/apps/Car/DataSubscriptionReference
 [submodule "platform/packages/apps/Car/DebuggingRestrictionController"]
 	ref = busytown-mac-infra-release
 	path = packages/apps/Car/DebuggingRestrictionController
@@ -4234,10 +4294,10 @@
 	ref = busytown-mac-infra-release
 	path = packages/apps/Car/Provision
 	url = ../packages/apps/Car/Provision
-[submodule "platform/packages/apps/Car/Radio"]
+[submodule "platform/packages/apps/Car/RadioPrebuilt"]
 	ref = busytown-mac-infra-release
-	path = packages/apps/Car/Radio
-	url = ../packages/apps/Car/Radio
+	path = packages/apps/Car/RadioPrebuilt
+	url = ../packages/apps/Car/RadioPrebuilt
 [submodule "platform/packages/apps/Car/RotaryController"]
 	ref = busytown-mac-infra-release
 	path = packages/apps/Car/RotaryController
@@ -4974,6 +5034,10 @@
 	ref = busytown-mac-infra-release
 	path = sdk
 	url = ../sdk
+[submodule "platform/system/acpi/bert_collector"]
+	ref = busytown-mac-infra-release
+	path = system/acpi/bert_collector
+	url = ../system/acpi/bert_collector
 [submodule "platform/system/apex"]
 	ref = busytown-mac-infra-release
 	path = system/apex
@@ -5358,10 +5422,6 @@
 	ref = busytown-mac-infra-release
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity
-[submodule "platform/tools/test/graphicsbenchmark"]
-	ref = busytown-mac-infra-release
-	path = tools/test/graphicsbenchmark
-	url = ../tools/test/graphicsbenchmark
 [submodule "platform/tools/test/mobly_extensions"]
 	ref = busytown-mac-infra-release
 	path = tools/test/mobly_extensions
