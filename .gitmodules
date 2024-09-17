@@ -54,10 +54,6 @@
 	ref = sdk-release
 	path = device/generic/mini-emulator-x86_64
 	url = ../../device/generic/mini-emulator-x86_64
-[submodule "device/generic/opengl-transport"]
-	ref = sdk-release
-	path = device/generic/opengl-transport
-	url = ../../device/generic/opengl-transport
 [submodule "device/generic/trusty"]
 	ref = sdk-release
 	path = device/generic/trusty
@@ -1082,10 +1078,18 @@
 	ref = sdk-release
 	path = external/grpc-grpc-java
 	url = ../external/grpc-grpc-java
+[submodule "platform/external/gsc-utils"]
+	ref = sdk-release
+	path = external/gsc-utils
+	url = ../external/gsc-utils
 [submodule "platform/external/gson"]
 	ref = sdk-release
 	path = external/gson
 	url = ../external/gson
+[submodule "platform/external/gturri-aXMLRPC"]
+	ref = sdk-release
+	path = external/gturri-aXMLRPC
+	url = ../external/gturri-aXMLRPC
 [submodule "platform/external/gturri-jISO8601"]
 	ref = sdk-release
 	path = external/gturri-jISO8601
@@ -2282,6 +2286,10 @@
 	ref = sdk-release
 	path = external/rust/crates/coset
 	url = ../external/rust/crates/coset
+[submodule "platform/external/rust/crates/cov-mark"]
+	ref = sdk-release
+	path = external/rust/crates/cov-mark
+	url = ../external/rust/crates/cov-mark
 [submodule "platform/external/rust/crates/crc32fast"]
 	ref = sdk-release
 	path = external/rust/crates/crc32fast
