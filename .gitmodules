@@ -770,10 +770,6 @@
 	ref = sdk-release
 	path = external/deqp-deps/glslang
 	url = ../external/deqp-deps/glslang
-[submodule "platform/external/desugar"]
-	ref = sdk-release
-	path = external/desugar
-	url = ../external/desugar
 [submodule "platform/external/dexmaker"]
 	ref = sdk-release
 	path = external/dexmaker
