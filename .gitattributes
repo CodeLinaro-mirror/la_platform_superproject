@@ -12,7 +12,6 @@
 /device/generic/mini-emulator-armv7-a-neon pdk
 /device/generic/mini-emulator-x86 pdk
 /device/generic/mini-emulator-x86_64 pdk
-/device/generic/opengl-transport pdk
 /device/generic/trusty pdk
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
@@ -192,7 +191,6 @@
 /external/deqp-deps/SPIRV-Tools pdk-fs
 /external/deqp-deps/amber pdk-fs
 /external/deqp-deps/glslang pdk-fs
-/external/desugar pdk
 /external/dexmaker pdk
 /external/dlmalloc pdk
 /external/dng_sdk pdk
@@ -269,7 +267,9 @@
 /external/gptfdisk pdk
 /external/grpc-grpc tradefed pdk
 /external/grpc-grpc-java tradefed pdk
+/external/gsc-utils pdk
 /external/gson tradefed pdk
+/external/gturri-aXMLRPC pdk-desktop
 /external/gturri-jISO8601 pdk-desktop
 /external/guava pdk
 /external/guice pdk
@@ -569,6 +569,7 @@
 /external/rust/crates/configparser pdk
 /external/rust/crates/const-oid pdk
 /external/rust/crates/coset pdk
+/external/rust/crates/cov-mark pdk
 /external/rust/crates/crc32fast pdk
 /external/rust/crates/criterion pdk
 /external/rust/crates/criterion-plot pdk

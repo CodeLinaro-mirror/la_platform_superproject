@@ -54,10 +54,6 @@
 	ref = busytown-mac-infra-release
 	path = device/generic/mini-emulator-x86_64
 	url = ../../device/generic/mini-emulator-x86_64
-[submodule "device/generic/opengl-transport"]
-	ref = busytown-mac-infra-release
-	path = device/generic/opengl-transport
-	url = ../../device/generic/opengl-transport
 [submodule "device/generic/trusty"]
 	ref = busytown-mac-infra-release
 	path = device/generic/trusty
@@ -774,10 +770,6 @@
 	ref = busytown-mac-infra-release
 	path = external/deqp-deps/glslang
 	url = ../external/deqp-deps/glslang
-[submodule "platform/external/desugar"]
-	ref = busytown-mac-infra-release
-	path = external/desugar
-	url = ../external/desugar
 [submodule "platform/external/dexmaker"]
 	ref = busytown-mac-infra-release
 	path = external/dexmaker
@@ -1082,10 +1074,18 @@
 	ref = busytown-mac-infra-release
 	path = external/grpc-grpc-java
 	url = ../external/grpc-grpc-java
+[submodule "platform/external/gsc-utils"]
+	ref = busytown-mac-infra-release
+	path = external/gsc-utils
+	url = ../external/gsc-utils
 [submodule "platform/external/gson"]
 	ref = busytown-mac-infra-release
 	path = external/gson
 	url = ../external/gson
+[submodule "platform/external/gturri-aXMLRPC"]
+	ref = busytown-mac-infra-release
+	path = external/gturri-aXMLRPC
+	url = ../external/gturri-aXMLRPC
 [submodule "platform/external/gturri-jISO8601"]
 	ref = busytown-mac-infra-release
 	path = external/gturri-jISO8601
@@ -2282,6 +2282,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/coset
 	url = ../external/rust/crates/coset
+[submodule "platform/external/rust/crates/cov-mark"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/cov-mark
+	url = ../external/rust/crates/cov-mark
 [submodule "platform/external/rust/crates/crc32fast"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/crc32fast
