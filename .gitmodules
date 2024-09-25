@@ -111,6 +111,10 @@
 	branch = main
 	path = external/lz4
 	url = ../external/lz4
+[submodule "platform/external/mesa3d"]
+	branch = main
+	path = external/mesa3d
+	url = ../external/mesa3d
 [submodule "platform/external/mobly-bundled-snippets"]
 	branch = main
 	path = external/mobly-bundled-snippets
