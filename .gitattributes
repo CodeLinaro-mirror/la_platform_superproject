@@ -286,6 +286,7 @@
 /external/rust/crates/rustc-demangle-capi pdk
 /external/rust/crates/rustc-hash pdk
 /external/rust/crates/rusticata-macros pdk
+/external/rust/crates/rustix pdk
 /external/rust/crates/rustversion pdk
 /external/rust/crates/ryu pdk
 /external/rust/crates/same-file pdk
