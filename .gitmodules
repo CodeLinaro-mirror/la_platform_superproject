@@ -5279,10 +5279,6 @@
 	branch = android15-tests-dev
 	path = test/robolectric-extensions
 	url = ../test/robolectric-extensions
-[submodule "platform/test/suite_harness"]
-	branch = android15-tests-dev
-	path = test/suite_harness
-	url = ../test/suite_harness
 [submodule "platform/test/vts"]
 	branch = android15-tests-dev
 	path = test/vts
@@ -5343,10 +5339,6 @@
 	branch = android15-tests-dev
 	path = tools/carrier_settings
 	url = ../tools/carrier_settings
-[submodule "platform/tools/content_addressed_storage/prebuilts"]
-	branch = android15-tests-dev
-	path = tools/content_addressed_storage/prebuilts
-	url = ../tools/content_addressed_storage/prebuilts
 [submodule "platform/tools/currysrc"]
 	branch = android15-tests-dev
 	path = tools/currysrc
@@ -5375,10 +5367,6 @@
 	branch = android15-tests-dev
 	path = tools/lint_checks
 	url = ../tools/lint_checks
-[submodule "platform/tools/loganalysis"]
-	branch = android15-tests-dev
-	path = tools/loganalysis
-	url = ../tools/loganalysis
 [submodule "platform/tools/metalava"]
 	branch = android15-tests-dev
 	path = tools/metalava
@@ -5423,14 +5411,6 @@
 	branch = android15-tests-dev
 	path = tools/test/openhst
 	url = ../tools/test/openhst
-[submodule "platform/tools/tradefederation"]
-	branch = android15-tests-dev
-	path = tools/tradefederation/core
-	url = ../tools/tradefederation
-[submodule "platform/tools/tradefederation/contrib"]
-	branch = android15-tests-dev
-	path = tools/tradefederation/contrib
-	url = ../tools/tradefederation/contrib
 [submodule "platform/tools/tradefederation/prebuilts"]
 	branch = android15-tests-dev
 	shallow = true
