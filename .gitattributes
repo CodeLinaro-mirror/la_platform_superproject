@@ -1296,7 +1296,6 @@
 /test/mlts/models pdk
 /test/mts
 /test/robolectric-extensions pdk-fs pdk-cw-fs sysui-studio
-/test/suite_harness pdk-fs cts pdk-cw-fs
 /test/vts vts pdk
 /test/vts-testcase/hal vts pdk
 /test/vts-testcase/hal-trace vts pdk
@@ -1312,7 +1311,6 @@
 /tools/apkzlib tradefed pdk
 /tools/asuite pdk
 /tools/carrier_settings tools
-/tools/content_addressed_storage/prebuilts pdk tools
 /tools/currysrc pdk
 /tools/deviceinfra/prebuilts pdk tools
 /tools/dexter pdk-fs pdk-cw-fs tools
@@ -1320,7 +1318,6 @@
 /tools/external/fat32lib tools
 /tools/external_updater tools
 /tools/lint_checks pdk
-/tools/loganalysis tradefed pdk nopresubmit
 /tools/metalava pdk tools
 /tools/ndkports pdk
 /tools/netsim pdk
@@ -1332,8 +1329,6 @@
 /tools/test/mobly_extensions pdk
 /tools/test/mobly_snippets pdk
 /tools/test/openhst tools
-/tools/tradefederation/core tradefed pdk
-/tools/tradefederation/contrib tradefed pdk
 /tools/tradefederation/prebuilts tradefed pdk
 /tools/treble pdk tools
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
