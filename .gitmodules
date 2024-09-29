@@ -314,6 +314,10 @@
 	ref = busytown-mac-infra-release
 	path = kernel/prebuilts/6.6/x86_64
 	url = ../../kernel/prebuilts/6.6/x86-64
+[submodule "kernel/prebuilts/common-modules/trusty/6.6/arm64"]
+	ref = busytown-mac-infra-release
+	path = kernel/prebuilts/common-modules/trusty/6.6/arm64
+	url = ../../kernel/prebuilts/common-modules/trusty/6.6/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/6.1/arm64"]
 	ref = busytown-mac-infra-release
 	path = kernel/prebuilts/common-modules/virtual-device/6.1/arm64
@@ -3086,10 +3090,6 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
-[submodule "platform/external/rust/crates/remove_dir_all"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/remove_dir_all
-	url = ../external/rust/crates/remove_dir_all
 [submodule "platform/external/rust/crates/ring"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/ring
