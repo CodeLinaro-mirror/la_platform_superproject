@@ -102,6 +102,30 @@
 	ref = sdk-release
 	path = device/google/bluejay-sepolicy
 	url = ../../device/google/bluejay-sepolicy
+[submodule "device/google/caimito"]
+	ref = sdk-release
+	path = device/google/caimito
+	url = ../../device/google/caimito
+[submodule "device/google/caimito-kernels/6.1"]
+	ref = sdk-release
+	path = device/google/caimito-kernels/6.1
+	url = ../../device/google/caimito-kernels/6.1
+[submodule "device/google/caimito-sepolicy"]
+	ref = sdk-release
+	path = device/google/caimito-sepolicy
+	url = ../../device/google/caimito-sepolicy
+[submodule "device/google/comet"]
+	ref = sdk-release
+	path = device/google/comet
+	url = ../../device/google/comet
+[submodule "device/google/comet-kernels/6.1"]
+	ref = sdk-release
+	path = device/google/comet-kernels/6.1
+	url = ../../device/google/comet-kernels/6.1
+[submodule "device/google/comet-sepolicy"]
+	ref = sdk-release
+	path = device/google/comet-sepolicy
+	url = ../../device/google/comet-sepolicy
 [submodule "device/google/contexthub"]
 	ref = sdk-release
 	path = device/google/contexthub
@@ -262,6 +286,14 @@
 	ref = sdk-release
 	path = device/google/zuma-sepolicy
 	url = ../../device/google/zuma-sepolicy
+[submodule "device/google/zumapro"]
+	ref = sdk-release
+	path = device/google/zumapro
+	url = ../../device/google/zumapro
+[submodule "device/google/zumapro-sepolicy"]
+	ref = sdk-release
+	path = device/google/zumapro-sepolicy
+	url = ../../device/google/zumapro-sepolicy
 [submodule "device/google_car"]
 	ref = sdk-release
 	path = device/google_car
@@ -4090,6 +4122,10 @@
 	ref = sdk-release
 	path = hardware/google/graphics/zuma
 	url = ../hardware/google/graphics/zuma
+[submodule "platform/hardware/google/graphics/zumapro"]
+	ref = sdk-release
+	path = hardware/google/graphics/zumapro
+	url = ../hardware/google/graphics/zumapro
 [submodule "platform/hardware/google/interfaces"]
 	ref = sdk-release
 	path = hardware/google/interfaces
