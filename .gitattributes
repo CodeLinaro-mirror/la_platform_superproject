@@ -70,5 +70,6 @@
 /prebuilts/studio/jdk
 /tools/buildSrc
 /tools/netsim
+/tools/repohooks developers tools
 /external/m4 platform-linux notdefault platform-darwin
 /external/libslirp

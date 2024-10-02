@@ -298,6 +298,10 @@
 	branch = main
 	path = tools/netsim
 	url = ../tools/netsim
+[submodule "platform/tools/repohooks"]
+	branch = main
+	path = tools/repohooks
+	url = ../tools/repohooks
 [submodule "toolchain/m4"]
 	branch = main
 	path = external/m4
