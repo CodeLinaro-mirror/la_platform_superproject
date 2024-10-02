@@ -1150,6 +1150,10 @@
 	ref = build-tools-release
 	path = external/rust/crates/rusticata-macros
 	url = ../external/rust/crates/rusticata-macros
+[submodule "platform/external/rust/crates/rustix"]
+	ref = build-tools-release
+	path = external/rust/crates/rustix
+	url = ../external/rust/crates/rustix
 [submodule "platform/external/rust/crates/rustversion"]
 	ref = build-tools-release
 	path = external/rust/crates/rustversion
