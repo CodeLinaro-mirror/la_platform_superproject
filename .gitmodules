@@ -365,7 +365,7 @@
 	path = bionic
 	url = ../bionic
 [submodule "platform/bootable/libbootloader"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = bootable/libbootloader
 	url = ../bootable/libbootloader
 [submodule "platform/bootable/recovery"]
