@@ -6,14 +6,6 @@
 	ref = androidx-work-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/dokka"]
-	ref = androidx-work-release
-	path = external/dokka
-	url = ../external/dokka
-[submodule "platform/external/google-benchmark"]
-	ref = androidx-work-release
-	path = external/google-benchmark
-	url = ../external/google-benchmark
 [submodule "platform/external/icing"]
 	ref = androidx-work-release
 	path = external/icing
@@ -62,6 +54,10 @@
 	ref = androidx-work-release
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
+[submodule "platform/prebuilts/androidx/ink"]
+	ref = androidx-work-release
+	path = prebuilts/androidx/ink
+	url = ../prebuilts/androidx/ink
 [submodule "platform/prebuilts/androidx/internal"]
 	ref = androidx-work-release
 	path = prebuilts/androidx/internal
@@ -94,6 +90,10 @@
 	ref = androidx-work-release
 	path = prebuilts/fullsdk-darwin/build-tools
 	url = ../prebuilts/fullsdk-darwin/build-tools
+[submodule "platform/prebuilts/fullsdk-darwin/cmdline-tools"]
+	ref = androidx-work-release
+	path = prebuilts/fullsdk-darwin/cmdline-tools
+	url = ../prebuilts/fullsdk-darwin/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
 	ref = androidx-work-release
 	path = prebuilts/fullsdk-darwin/platform-tools
@@ -106,6 +106,10 @@
 	ref = androidx-work-release
 	path = prebuilts/fullsdk-linux/build-tools
 	url = ../prebuilts/fullsdk-linux/build-tools
+[submodule "platform/prebuilts/fullsdk-linux/cmdline-tools"]
+	ref = androidx-work-release
+	path = prebuilts/fullsdk-linux/cmdline-tools
+	url = ../prebuilts/fullsdk-linux/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
 	ref = androidx-work-release
 	path = prebuilts/fullsdk-linux/platform-tools
@@ -126,10 +130,10 @@
 	ref = androidx-work-release
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
-[submodule "platform/prebuilts/jdk/jdk8"]
+[submodule "platform/prebuilts/jdk/jdk21"]
 	ref = androidx-work-release
-	path = prebuilts/jdk/jdk8
-	url = ../prebuilts/jdk/jdk8
+	path = prebuilts/jdk/jdk21
+	url = ../prebuilts/jdk/jdk21
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	ref = androidx-work-release
 	path = prebuilts/fullsdk-darwin/ninja
@@ -158,14 +162,14 @@
 	ref = androidx-work-release
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r23"]
+[submodule "toolchain/prebuilts/ndk-darwin/r27"]
 	ref = androidx-work-release
 	path = prebuilts/fullsdk-darwin/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk-darwin/r23
-[submodule "toolchain/prebuilts/ndk/r23"]
+	url = ../../toolchain/prebuilts/ndk-darwin/r27
+[submodule "toolchain/prebuilts/ndk/r27"]
 	ref = androidx-work-release
 	path = prebuilts/fullsdk-linux/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk/r23
+	url = ../../toolchain/prebuilts/ndk/r27
 [submodule "tools/fetch_artifact"]
 	ref = androidx-work-release
 	path = tools/fetch_artifact
