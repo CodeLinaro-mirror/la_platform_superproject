@@ -102,6 +102,30 @@
 	ref = busytown-mac-infra-release
 	path = device/google/bluejay-sepolicy
 	url = ../../device/google/bluejay-sepolicy
+[submodule "device/google/caimito"]
+	ref = busytown-mac-infra-release
+	path = device/google/caimito
+	url = ../../device/google/caimito
+[submodule "device/google/caimito-kernels/6.1"]
+	ref = busytown-mac-infra-release
+	path = device/google/caimito-kernels/6.1
+	url = ../../device/google/caimito-kernels/6.1
+[submodule "device/google/caimito-sepolicy"]
+	ref = busytown-mac-infra-release
+	path = device/google/caimito-sepolicy
+	url = ../../device/google/caimito-sepolicy
+[submodule "device/google/comet"]
+	ref = busytown-mac-infra-release
+	path = device/google/comet
+	url = ../../device/google/comet
+[submodule "device/google/comet-kernels/6.1"]
+	ref = busytown-mac-infra-release
+	path = device/google/comet-kernels/6.1
+	url = ../../device/google/comet-kernels/6.1
+[submodule "device/google/comet-sepolicy"]
+	ref = busytown-mac-infra-release
+	path = device/google/comet-sepolicy
+	url = ../../device/google/comet-sepolicy
 [submodule "device/google/contexthub"]
 	ref = busytown-mac-infra-release
 	path = device/google/contexthub
@@ -262,6 +286,14 @@
 	ref = busytown-mac-infra-release
 	path = device/google/zuma-sepolicy
 	url = ../../device/google/zuma-sepolicy
+[submodule "device/google/zumapro"]
+	ref = busytown-mac-infra-release
+	path = device/google/zumapro
+	url = ../../device/google/zumapro
+[submodule "device/google/zumapro-sepolicy"]
+	ref = busytown-mac-infra-release
+	path = device/google/zumapro-sepolicy
+	url = ../../device/google/zumapro-sepolicy
 [submodule "device/google_car"]
 	ref = busytown-mac-infra-release
 	path = device/google_car
@@ -2058,34 +2090,6 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/acpi
 	url = ../external/rust/crates/acpi
-[submodule "platform/external/rust/crates/ahash"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/ahash
-	url = ../external/rust/crates/ahash
-[submodule "platform/external/rust/crates/aho-corasick"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/aho-corasick
-	url = ../external/rust/crates/aho-corasick
-[submodule "platform/external/rust/crates/android_log-sys"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/android_log-sys
-	url = ../external/rust/crates/android_log-sys
-[submodule "platform/external/rust/crates/android_logger"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/android_logger
-	url = ../external/rust/crates/android_logger
-[submodule "platform/external/rust/crates/anes"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/anes
-	url = ../external/rust/crates/anes
-[submodule "platform/external/rust/crates/annotate-snippets"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/annotate-snippets
-	url = ../external/rust/crates/annotate-snippets
-[submodule "platform/external/rust/crates/anyhow"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/anyhow
-	url = ../external/rust/crates/anyhow
 [submodule "platform/external/rust/crates/arbitrary"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/arbitrary
@@ -2094,66 +2098,14 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/arc-swap
 	url = ../external/rust/crates/arc-swap
-[submodule "platform/external/rust/crates/argh"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/argh
-	url = ../external/rust/crates/argh
-[submodule "platform/external/rust/crates/argh_derive"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/argh_derive
-	url = ../external/rust/crates/argh_derive
-[submodule "platform/external/rust/crates/argh_shared"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/argh_shared
-	url = ../external/rust/crates/argh_shared
 [submodule "platform/external/rust/crates/arrayvec"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/arrayvec
 	url = ../external/rust/crates/arrayvec
-[submodule "platform/external/rust/crates/ash"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/ash
-	url = ../external/rust/crates/ash
-[submodule "platform/external/rust/crates/async-stream"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/async-stream
-	url = ../external/rust/crates/async-stream
-[submodule "platform/external/rust/crates/async-stream-impl"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/async-stream-impl
-	url = ../external/rust/crates/async-stream-impl
-[submodule "platform/external/rust/crates/async-task"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/async-task
-	url = ../external/rust/crates/async-task
-[submodule "platform/external/rust/crates/async-trait"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/async-trait
-	url = ../external/rust/crates/async-trait
-[submodule "platform/external/rust/crates/atomic"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/atomic
-	url = ../external/rust/crates/atomic
-[submodule "platform/external/rust/crates/atty"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/atty
-	url = ../external/rust/crates/atty
-[submodule "platform/external/rust/crates/axum"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/axum
-	url = ../external/rust/crates/axum
 [submodule "platform/external/rust/crates/axum-core"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/axum-core
 	url = ../external/rust/crates/axum-core
-[submodule "platform/external/rust/crates/base64"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/base64
-	url = ../external/rust/crates/base64
-[submodule "platform/external/rust/crates/bencher"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/bencher
-	url = ../external/rust/crates/bencher
 [submodule "platform/external/rust/crates/bincode"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/bincode
@@ -4090,6 +4042,10 @@
 	ref = busytown-mac-infra-release
 	path = hardware/google/graphics/zuma
 	url = ../hardware/google/graphics/zuma
+[submodule "platform/hardware/google/graphics/zumapro"]
+	ref = busytown-mac-infra-release
+	path = hardware/google/graphics/zumapro
+	url = ../hardware/google/graphics/zumapro
 [submodule "platform/hardware/google/interfaces"]
 	ref = busytown-mac-infra-release
 	path = hardware/google/interfaces

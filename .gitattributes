@@ -24,6 +24,12 @@
 /device/google/bluejay bluejay device
 /device/google/bluejay-kernels/5.10 bluejay device
 /device/google/bluejay-sepolicy bluejay device
+/device/google/caimito caimito device
+/device/google/caimito-kernels/6.1 caimito device
+/device/google/caimito-sepolicy caimito device
+/device/google/comet comet device
+/device/google/comet-kernels/6.1 comet device
+/device/google/comet-sepolicy comet device
 /device/google/contexthub pdk device
 /device/google/coral generic_fs coral device
 /device/google/coral-kernel generic_fs coral device
@@ -64,6 +70,8 @@
 /device/google/trout pdk trout device gull
 /device/google/zuma pdk-gs-arm ripcurrent device
 /device/google/zuma-sepolicy pdk-gs-arm ripcurrent device
+/device/google/zumapro ripcurrentpro device
+/device/google/zumapro-sepolicy ripcurrentpro device
 /device/google_car pdk
 /device/linaro/dragonboard dragonboard pdk device
 /device/linaro/dragonboard-kernel dragonboard pdk device
@@ -513,30 +521,10 @@
 /external/rust/crabbyavif pdk
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/acpi pdk
-/external/rust/crates/ahash pdk
-/external/rust/crates/aho-corasick pdk
-/external/rust/crates/android_log-sys pdk
-/external/rust/crates/android_logger pdk
-/external/rust/crates/anes pdk
-/external/rust/crates/annotate-snippets pdk
-/external/rust/crates/anyhow pdk
 /external/rust/crates/arbitrary pdk
 /external/rust/crates/arc-swap pdk
-/external/rust/crates/argh pdk
-/external/rust/crates/argh_derive pdk
-/external/rust/crates/argh_shared pdk
 /external/rust/crates/arrayvec trusty
-/external/rust/crates/ash pdk
-/external/rust/crates/async-stream pdk
-/external/rust/crates/async-stream-impl pdk
-/external/rust/crates/async-task pdk
-/external/rust/crates/async-trait pdk
-/external/rust/crates/atomic pdk
-/external/rust/crates/atty pdk
-/external/rust/crates/axum pdk
 /external/rust/crates/axum-core pdk
-/external/rust/crates/base64 pdk
-/external/rust/crates/bencher pdk
 /external/rust/crates/bincode pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bindgen-cli pdk
@@ -1021,6 +1009,7 @@
 /hardware/google/graphics/gs101 pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs201 pdk-gs-arm cloudripper
 /hardware/google/graphics/zuma pdk-gs-arm ripcurrent
+/hardware/google/graphics/zumapro ripcurrentpro
 /hardware/google/interfaces pdk sysui-studio
 /hardware/google/pixel pdk-gs-arm generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
@@ -1383,7 +1372,7 @@
 /external/trusty/musl trusty
 /external/trusty/arm-trusted-firmware trusty
 /external/trusty/bootloader trusty
-/trusty/host/common trusty
+/trusty/host/common pdk trusty
 /trusty/user/base trusty
 /external/trusty/lk trusty
 /trusty/hardware/nxp trusty
