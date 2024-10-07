@@ -286,6 +286,10 @@
 	ref = emu-35-3-release
 	path = tools/netsim
 	url = ../tools/netsim
+[submodule "platform/tools/repohooks"]
+	ref = emu-35-3-release
+	path = tools/repohooks
+	url = ../tools/repohooks
 [submodule "toolchain/m4"]
 	ref = emu-35-3-release
 	path = external/m4
