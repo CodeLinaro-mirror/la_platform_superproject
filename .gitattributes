@@ -521,10 +521,30 @@
 /external/rust/crabbyavif pdk
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/acpi pdk
+/external/rust/crates/ahash pdk
+/external/rust/crates/aho-corasick pdk
+/external/rust/crates/android_log-sys pdk
+/external/rust/crates/android_logger pdk
+/external/rust/crates/anes pdk
+/external/rust/crates/annotate-snippets pdk
+/external/rust/crates/anyhow pdk
 /external/rust/crates/arbitrary pdk
 /external/rust/crates/arc-swap pdk
-/external/rust/crates/arrayvec trusty
+/external/rust/crates/argh pdk
+/external/rust/crates/argh_derive pdk
+/external/rust/crates/argh_shared pdk
+/external/rust/crates/arrayvec pdk trusty
+/external/rust/crates/ash pdk
+/external/rust/crates/async-stream pdk
+/external/rust/crates/async-stream-impl pdk
+/external/rust/crates/async-task pdk
+/external/rust/crates/async-trait pdk
+/external/rust/crates/atomic pdk
+/external/rust/crates/atty pdk
+/external/rust/crates/axum pdk
 /external/rust/crates/axum-core pdk
+/external/rust/crates/base64 pdk
+/external/rust/crates/bencher pdk
 /external/rust/crates/bincode pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bindgen-cli pdk
@@ -591,6 +611,7 @@
 /external/rust/crates/epoll pdk
 /external/rust/crates/equivalent pdk
 /external/rust/crates/errno pdk
+/external/rust/crates/etherparse pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk
 /external/rust/crates/fastrand pdk
@@ -670,7 +691,7 @@
 /external/rust/crates/lz4_flex pdk
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
-/external/rust/crates/matches trusty
+/external/rust/crates/matches pdk trusty
 /external/rust/crates/matchit pdk
 /external/rust/crates/maybe-async pdk
 /external/rust/crates/memchr pdk
@@ -1304,6 +1325,7 @@
 /system/tools/xsdc pdk
 /system/unwinding pdk
 /system/update_engine pdk
+/system/usb_info_tools pdk
 /system/vold pdk
 /test/app_compat/csuite pdk
 /test/catbox
@@ -1365,7 +1387,7 @@
 /trusty/user/app/storage trusty
 /trusty/device/arm/generic-arm64 trusty
 /trusty/device/arm/vexpress-a15 trusty
-/trusty/device/desktop android-desktop trusty
+/trusty/device/desktop pdk-desktop android-desktop trusty
 /trusty/device/nxp/imx7d trusty
 /trusty/device/x86/generic-x86_64 trusty
 /external/trusty/headers trusty
@@ -1377,5 +1399,5 @@
 /external/trusty/lk trusty
 /trusty/hardware/nxp trusty
 /trusty/kernel trusty
-/trusty/user/desktop android-desktop trusty
+/trusty/user/desktop pdk-desktop android-desktop trusty
 /trusty/vendor/google/aosp trusty
