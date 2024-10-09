@@ -16,12 +16,14 @@
 /external/qemu
 /external/regex-re2
 /external/rust/android-crates-io
+/external/rust/crates/arrayvec
 /external/rust/crates/bindgen
 /external/rust/crates/bitflags
 /external/rust/crates/chrono
 /external/rust/crates/clang-sys
 /external/rust/crates/clap
 /external/rust/crates/codespan-reporting
+/external/rust/crates/etherparse
 /external/rust/crates/fnv
 /external/rust/crates/futures-channel
 /external/rust/crates/glam
@@ -75,6 +77,8 @@
 /external/rust/crates/utf-8
 /external/rust/crates/walkdir
 /external/rust/crates/which
+/external/rust/crates/zerocopy
+/external/rust/crates/zerocopy-derive
 /external/rust/crates/zip
 /external/rust/crates/cxx
 /external/rust/crates/pica
