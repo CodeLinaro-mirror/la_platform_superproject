@@ -3498,6 +3498,10 @@
 	ref = sdk-release
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
+[submodule "platform/external/rust/crates/v4l2r"]
+	ref = sdk-release
+	path = external/rust/crates/v4l2r
+	url = ../external/rust/crates/v4l2r
 [submodule "platform/external/rust/crates/vhost"]
 	ref = sdk-release
 	path = external/rust/crates/vhost
@@ -4390,6 +4394,10 @@
 	ref = sdk-release
 	path = packages/apps/DevCamera
 	url = ../packages/apps/DevCamera
+[submodule "platform/packages/apps/DeviceDiagnostics"]
+	ref = sdk-release
+	path = packages/apps/DeviceDiagnostics
+	url = ../packages/apps/DeviceDiagnostics
 [submodule "platform/packages/apps/Dialer"]
 	ref = sdk-release
 	path = packages/apps/Dialer
