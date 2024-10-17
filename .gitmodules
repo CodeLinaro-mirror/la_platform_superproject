@@ -2026,6 +2026,10 @@
 	ref = sdk-release
 	path = external/python/uritemplates
 	url = ../external/python/uritemplates
+[submodule "platform/external/python/watchdog"]
+	ref = sdk-release
+	path = external/python/watchdog
+	url = ../external/python/watchdog
 [submodule "platform/external/rappor"]
 	ref = sdk-release
 	path = external/rappor
