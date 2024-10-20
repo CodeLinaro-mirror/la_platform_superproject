@@ -2026,6 +2026,10 @@
 	ref = busytown-mac-infra-release
 	path = external/python/uritemplates
 	url = ../external/python/uritemplates
+[submodule "platform/external/python/watchdog"]
+	ref = busytown-mac-infra-release
+	path = external/python/watchdog
+	url = ../external/python/watchdog
 [submodule "platform/external/rappor"]
 	ref = busytown-mac-infra-release
 	path = external/rappor
@@ -3498,6 +3502,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
+[submodule "platform/external/rust/crates/v4l2r"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/v4l2r
+	url = ../external/rust/crates/v4l2r
 [submodule "platform/external/rust/crates/vhost"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/vhost
@@ -4390,6 +4398,10 @@
 	ref = busytown-mac-infra-release
 	path = packages/apps/DevCamera
 	url = ../packages/apps/DevCamera
+[submodule "platform/packages/apps/DeviceDiagnostics"]
+	ref = busytown-mac-infra-release
+	path = packages/apps/DeviceDiagnostics
+	url = ../packages/apps/DeviceDiagnostics
 [submodule "platform/packages/apps/Dialer"]
 	ref = busytown-mac-infra-release
 	path = packages/apps/Dialer

@@ -505,6 +505,7 @@
 /external/python/typing pdk
 /external/python/typing_extensions pdk
 /external/python/uritemplates vts pdk
+/external/python/watchdog pdk
 /external/rappor pdk
 /external/regex-re2 pdk
 /external/renderscript-intrinsics-replacement-toolkit pdk sysui-studio
@@ -873,6 +874,7 @@
 /external/rust/crates/userfaultfd-sys pdk
 /external/rust/crates/utf-8 pdk
 /external/rust/crates/uuid pdk
+/external/rust/crates/v4l2r pdk
 /external/rust/crates/vhost pdk
 /external/rust/crates/vhost-device-vsock pdk
 /external/rust/crates/vhost-user-backend pdk
@@ -1096,6 +1098,7 @@
 /packages/apps/Contacts pdk-fs
 /packages/apps/DeskClock pdk-fs
 /packages/apps/DevCamera pdk
+/packages/apps/DeviceDiagnostics pdk
 /packages/apps/Dialer pdk-fs
 /packages/apps/DocumentsUI pdk-fs pdk-cw-fs
 /packages/apps/EmergencyInfo pdk-fs
