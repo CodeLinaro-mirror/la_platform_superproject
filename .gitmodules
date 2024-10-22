@@ -1490,6 +1490,10 @@
 	ref = sdk-release
 	path = external/libogg
 	url = ../external/libogg
+[submodule "platform/external/libopenapv"]
+	ref = sdk-release
+	path = external/libopenapv
+	url = ../external/libopenapv
 [submodule "platform/external/libopus"]
 	ref = sdk-release
 	path = external/libopus
@@ -3358,6 +3362,10 @@
 	ref = sdk-release
 	path = external/rust/crates/tokio-macros
 	url = ../external/rust/crates/tokio-macros
+[submodule "platform/external/rust/crates/tokio-openssl"]
+	ref = sdk-release
+	path = external/rust/crates/tokio-openssl
+	url = ../external/rust/crates/tokio-openssl
 [submodule "platform/external/rust/crates/tokio-stream"]
 	ref = sdk-release
 	path = external/rust/crates/tokio-stream
@@ -3850,6 +3858,10 @@
 	ref = sdk-release
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/virtio-media"]
+	ref = sdk-release
+	path = external/virtio-media
+	url = ../external/virtio-media
 [submodule "platform/external/vixl"]
 	ref = sdk-release
 	path = external/vixl
@@ -5522,6 +5534,10 @@
 	ref = sdk-release
 	path = tools/platform-compat
 	url = ../../tools/platform-compat
+[submodule "trusty/app/authmgr"]
+	ref = sdk-release
+	path = trusty/user/app/authmgr
+	url = ../../trusty/app/authmgr
 [submodule "trusty/app/avb"]
 	ref = sdk-release
 	path = trusty/user/app/avb

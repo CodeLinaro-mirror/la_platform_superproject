@@ -371,6 +371,7 @@
 /external/libnfnetlink pdk
 /external/libnl pdk
 /external/libogg pdk
+/external/libopenapv pdk
 /external/libopus pdk
 /external/libpalmrejection pdk
 /external/libpcap pdk
@@ -838,6 +839,7 @@
 /external/rust/crates/tokio pdk
 /external/rust/crates/tokio-io-timeout pdk
 /external/rust/crates/tokio-macros pdk
+/external/rust/crates/tokio-openssl pdk
 /external/rust/crates/tokio-stream pdk
 /external/rust/crates/tokio-test pdk
 /external/rust/crates/tokio-util pdk
@@ -961,6 +963,7 @@
 /external/v4l2_codec2 pdk
 /external/vboot_reference pdk
 /external/virglrenderer pdk
+/external/virtio-media pdk
 /external/vixl pdk
 /external/vogar pdk
 /external/volley pdk
@@ -1379,6 +1382,7 @@
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/pgo-profiles pdk
 /tools/platform-compat pdk-fs pdk-cw-fs pdk sysui-studio
+/trusty/user/app/authmgr trusty
 /trusty/user/app/avb trusty
 /trusty/user/app/cast-auth trusty
 /trusty/user/app/confirmationui trusty
