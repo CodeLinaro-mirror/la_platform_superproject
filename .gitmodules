@@ -282,10 +282,6 @@
 	branch = main
 	path = external/libffi
 	url = ../external/libffi
-[submodule "platform/external/libunwind_llvm"]
-	branch = main
-	path = external/libunwind_llvm
-	url = ../external/libunwind_llvm
 [submodule "platform/external/libxml2"]
 	branch = main
 	path = external/libxml2
@@ -739,26 +735,11 @@
 	shallow = true
 	path = prebuilts/cmdline-tools
 	url = ../prebuilts/cmdline-tools
-[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = main
-	shallow = true
-	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
-	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
-[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
-	branch = main
-	shallow = true
-	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
-	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
 	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
-[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
-	branch = main
-	shallow = true
-	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/go/linux-x86"]
 	branch = main
 	shallow = true

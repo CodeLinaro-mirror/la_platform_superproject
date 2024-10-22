@@ -69,7 +69,6 @@
 /external/libcxx pdk
 /external/libcxxabi pdk
 /external/libffi pdk
-/external/libunwind_llvm pdk
 /external/libxml2 pdk libxml2
 /external/licenseclassifier pdk
 /external/lz4 pdk
@@ -181,10 +180,7 @@
 /prebuilts/clang-tools pdk
 /prebuilts/clang/host/linux-x86 pdk
 /prebuilts/cmdline-tools pdk-fs
-/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 pdk linux arm
-/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 pdk linux arm
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 pdk linux
-/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 pdk linux x86
 /prebuilts/go/linux-x86 tradefed linux
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs
 /prebuilts/jdk/jdk21 pdk
