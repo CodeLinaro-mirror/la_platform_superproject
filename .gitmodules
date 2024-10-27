@@ -1490,6 +1490,10 @@
 	ref = busytown-mac-infra-release
 	path = external/libogg
 	url = ../external/libogg
+[submodule "platform/external/libopenapv"]
+	ref = busytown-mac-infra-release
+	path = external/libopenapv
+	url = ../external/libopenapv
 [submodule "platform/external/libopus"]
 	ref = busytown-mac-infra-release
 	path = external/libopus
@@ -3358,6 +3362,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/tokio-macros
 	url = ../external/rust/crates/tokio-macros
+[submodule "platform/external/rust/crates/tokio-openssl"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/tokio-openssl
+	url = ../external/rust/crates/tokio-openssl
 [submodule "platform/external/rust/crates/tokio-stream"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/tokio-stream
@@ -3850,6 +3858,10 @@
 	ref = busytown-mac-infra-release
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/virtio-media"]
+	ref = busytown-mac-infra-release
+	path = external/virtio-media
+	url = ../external/virtio-media
 [submodule "platform/external/vixl"]
 	ref = busytown-mac-infra-release
 	path = external/vixl
@@ -5522,6 +5534,10 @@
 	ref = busytown-mac-infra-release
 	path = tools/platform-compat
 	url = ../../tools/platform-compat
+[submodule "trusty/app/authmgr"]
+	ref = busytown-mac-infra-release
+	path = trusty/user/app/authmgr
+	url = ../../trusty/app/authmgr
 [submodule "trusty/app/avb"]
 	ref = busytown-mac-infra-release
 	path = trusty/user/app/avb
