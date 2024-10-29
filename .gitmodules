@@ -1278,10 +1278,10 @@
 	ref = sdk-release
 	path = external/jsoup
 	url = ../external/jsoup
-[submodule "platform/external/jsoup-1p-stubs"]
+[submodule "platform/external/jspecify"]
 	ref = sdk-release
-	path = external/jsoup-1p-stubs
-	url = ../external/jsoup-1p-stubs
+	path = external/jspecify
+	url = ../external/jspecify
 [submodule "platform/external/jsr305"]
 	ref = sdk-release
 	path = external/jsr305
@@ -1586,6 +1586,10 @@
 	ref = sdk-release
 	path = external/licenseclassifier
 	url = ../external/licenseclassifier
+[submodule "platform/external/linux-firmware"]
+	ref = sdk-release
+	path = external/linux-firmware
+	url = ../external/linux-firmware
 [submodule "platform/external/linux-kselftest"]
 	ref = sdk-release
 	path = external/linux-kselftest
@@ -2034,6 +2038,10 @@
 	ref = sdk-release
 	path = external/python/watchdog
 	url = ../external/python/watchdog
+[submodule "platform/external/pytorch"]
+	ref = sdk-release
+	path = external/pytorch
+	url = ../external/pytorch
 [submodule "platform/external/rappor"]
 	ref = sdk-release
 	path = external/rappor
@@ -5258,6 +5266,10 @@
 	ref = sdk-release
 	path = system/memory/lmkd
 	url = ../system/memory/lmkd
+[submodule "platform/system/memory/mmd"]
+	ref = sdk-release
+	path = system/memory/mmd
+	url = ../system/memory/mmd
 [submodule "platform/system/netd"]
 	ref = sdk-release
 	path = system/netd
