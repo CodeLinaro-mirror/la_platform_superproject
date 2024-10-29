@@ -298,6 +298,10 @@
 	ref = build-tools-release
 	path = external/python/six
 	url = ../external/python/six
+[submodule "platform/external/python/watchdog"]
+	ref = build-tools-release
+	path = external/python/watchdog
+	url = ../external/python/watchdog
 [submodule "platform/external/rust/android-crates-io"]
 	ref = build-tools-release
 	path = external/rust/android-crates-io
