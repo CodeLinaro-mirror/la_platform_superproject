@@ -167,7 +167,6 @@
 	path = external/rust/crates/minimal-lexical
 	url = ../external/rust/crates/minimal-lexical
 [submodule "platform/external/rust/crates/num-bigint"]
-	branch = main
 	path = external/rust/crates/num-bigint
 	url = ../external/rust/crates/num-bigint
 [submodule "platform/external/rust/crates/num-derive"]
