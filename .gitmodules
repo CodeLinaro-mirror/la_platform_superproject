@@ -1278,10 +1278,10 @@
 	ref = busytown-mac-infra-release
 	path = external/jsoup
 	url = ../external/jsoup
-[submodule "platform/external/jsoup-1p-stubs"]
+[submodule "platform/external/jspecify"]
 	ref = busytown-mac-infra-release
-	path = external/jsoup-1p-stubs
-	url = ../external/jsoup-1p-stubs
+	path = external/jspecify
+	url = ../external/jspecify
 [submodule "platform/external/jsr305"]
 	ref = busytown-mac-infra-release
 	path = external/jsr305
@@ -1586,6 +1586,10 @@
 	ref = busytown-mac-infra-release
 	path = external/licenseclassifier
 	url = ../external/licenseclassifier
+[submodule "platform/external/linux-firmware"]
+	ref = busytown-mac-infra-release
+	path = external/linux-firmware
+	url = ../external/linux-firmware
 [submodule "platform/external/linux-kselftest"]
 	ref = busytown-mac-infra-release
 	path = external/linux-kselftest
@@ -2034,6 +2038,10 @@
 	ref = busytown-mac-infra-release
 	path = external/python/watchdog
 	url = ../external/python/watchdog
+[submodule "platform/external/pytorch"]
+	ref = busytown-mac-infra-release
+	path = external/pytorch
+	url = ../external/pytorch
 [submodule "platform/external/rappor"]
 	ref = busytown-mac-infra-release
 	path = external/rappor
@@ -3038,6 +3046,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/plotters-svg
 	url = ../external/rust/crates/plotters-svg
+[submodule "platform/external/rust/crates/poll_token_derive"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/poll_token_derive
+	url = ../external/rust/crates/poll_token_derive
 [submodule "platform/external/rust/crates/ppv-lite86"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/ppv-lite86
@@ -5258,6 +5270,10 @@
 	ref = busytown-mac-infra-release
 	path = system/memory/lmkd
 	url = ../system/memory/lmkd
+[submodule "platform/system/memory/mmd"]
+	ref = busytown-mac-infra-release
+	path = system/memory/mmd
+	url = ../system/memory/mmd
 [submodule "platform/system/netd"]
 	ref = busytown-mac-infra-release
 	path = system/netd

@@ -318,7 +318,7 @@
 /external/jsmn pdk
 /external/jsoncpp pdk
 /external/jsoup pdk
-/external/jsoup-1p-stubs pdk
+/external/jspecify pdk
 /external/jsr305 pdk
 /external/jsr330 pdk
 /external/junit pdk
@@ -395,6 +395,7 @@
 /external/libxml2 pdk libxml2
 /external/libyuv libyuv pdk
 /external/licenseclassifier pdk
+/external/linux-firmware pdk
 /external/linux-kselftest vts pdk
 /external/llvm pdk
 /external/llvm-libc pdk
@@ -507,6 +508,7 @@
 /external/python/typing_extensions pdk
 /external/python/uritemplates vts pdk
 /external/python/watchdog pdk
+/external/pytorch pdk
 /external/rappor pdk
 /external/regex-re2 pdk
 /external/renderscript-intrinsics-replacement-toolkit pdk sysui-studio
@@ -758,6 +760,7 @@
 /external/rust/crates/plotters pdk
 /external/rust/crates/plotters-backend pdk
 /external/rust/crates/plotters-svg pdk
+/external/rust/crates/poll_token_derive pdk
 /external/rust/crates/ppv-lite86 pdk
 /external/rust/crates/predicates pdk
 /external/rust/crates/predicates-core pdk
@@ -1313,6 +1316,7 @@
 /system/memory/libmemtrack pdk
 /system/memory/libmemunreachable pdk
 /system/memory/lmkd pdk
+/system/memory/mmd pdk
 /system/netd pdk
 /system/nfc pdk
 /system/nvram pdk
