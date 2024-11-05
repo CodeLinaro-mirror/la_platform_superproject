@@ -61,11 +61,9 @@
 /external/rust/crates/sharded-slab
 /external/rust/crates/shlex
 /external/rust/crates/syn
-/external/rust/crates/tempfile
 /external/rust/crates/termcolor
 /external/rust/crates/thiserror-impl
 /external/rust/crates/tokio
-/external/rust/crates/tokio-stream
 /external/rust/crates/tokio-util
 /external/rust/crates/tracing
 /external/rust/crates/tracing-attributes
@@ -80,7 +78,6 @@
 /external/rust/crates/which
 /external/rust/crates/zerocopy
 /external/rust/crates/zerocopy-derive
-/external/rust/crates/zip
 /external/rust/crates/cxx
 /external/rust/crates/pica
 /external/webrtc
