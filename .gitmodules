@@ -890,6 +890,10 @@
 	ref = sdk-release
 	path = external/ethtool
 	url = ../external/ethtool
+[submodule "platform/external/executorch"]
+	ref = sdk-release
+	path = external/executorch
+	url = ../external/executorch
 [submodule "platform/external/exfatprogs"]
 	ref = sdk-release
 	path = external/exfatprogs
@@ -1306,6 +1310,10 @@
 	ref = sdk-release
 	path = external/kmod
 	url = ../external/kmod
+[submodule "platform/external/kotlin-compose-compiler"]
+	ref = sdk-release
+	path = external/kotlin-compose-compiler
+	url = ../external/kotlin-compose-compiler
 [submodule "platform/external/kotlinc"]
 	ref = sdk-release
 	path = external/kotlinc
@@ -2098,90 +2106,10 @@
 	ref = sdk-release
 	path = external/rust/crabbyavif
 	url = ../external/rust/crabbyavif
-[submodule "platform/external/rust/crates/aarch64-paging"]
-	ref = sdk-release
-	path = external/rust/crates/aarch64-paging
-	url = ../external/rust/crates/aarch64-paging
 [submodule "platform/external/rust/crates/acpi"]
 	ref = sdk-release
 	path = external/rust/crates/acpi
 	url = ../external/rust/crates/acpi
-[submodule "platform/external/rust/crates/ahash"]
-	ref = sdk-release
-	path = external/rust/crates/ahash
-	url = ../external/rust/crates/ahash
-[submodule "platform/external/rust/crates/aho-corasick"]
-	ref = sdk-release
-	path = external/rust/crates/aho-corasick
-	url = ../external/rust/crates/aho-corasick
-[submodule "platform/external/rust/crates/android_log-sys"]
-	ref = sdk-release
-	path = external/rust/crates/android_log-sys
-	url = ../external/rust/crates/android_log-sys
-[submodule "platform/external/rust/crates/android_logger"]
-	ref = sdk-release
-	path = external/rust/crates/android_logger
-	url = ../external/rust/crates/android_logger
-[submodule "platform/external/rust/crates/anes"]
-	ref = sdk-release
-	path = external/rust/crates/anes
-	url = ../external/rust/crates/anes
-[submodule "platform/external/rust/crates/annotate-snippets"]
-	ref = sdk-release
-	path = external/rust/crates/annotate-snippets
-	url = ../external/rust/crates/annotate-snippets
-[submodule "platform/external/rust/crates/anyhow"]
-	ref = sdk-release
-	path = external/rust/crates/anyhow
-	url = ../external/rust/crates/anyhow
-[submodule "platform/external/rust/crates/arbitrary"]
-	ref = sdk-release
-	path = external/rust/crates/arbitrary
-	url = ../external/rust/crates/arbitrary
-[submodule "platform/external/rust/crates/arc-swap"]
-	ref = sdk-release
-	path = external/rust/crates/arc-swap
-	url = ../external/rust/crates/arc-swap
-[submodule "platform/external/rust/crates/argh"]
-	ref = sdk-release
-	path = external/rust/crates/argh
-	url = ../external/rust/crates/argh
-[submodule "platform/external/rust/crates/argh_derive"]
-	ref = sdk-release
-	path = external/rust/crates/argh_derive
-	url = ../external/rust/crates/argh_derive
-[submodule "platform/external/rust/crates/argh_shared"]
-	ref = sdk-release
-	path = external/rust/crates/argh_shared
-	url = ../external/rust/crates/argh_shared
-[submodule "platform/external/rust/crates/arrayvec"]
-	ref = sdk-release
-	path = external/rust/crates/arrayvec
-	url = ../external/rust/crates/arrayvec
-[submodule "platform/external/rust/crates/ash"]
-	ref = sdk-release
-	path = external/rust/crates/ash
-	url = ../external/rust/crates/ash
-[submodule "platform/external/rust/crates/async-stream"]
-	ref = sdk-release
-	path = external/rust/crates/async-stream
-	url = ../external/rust/crates/async-stream
-[submodule "platform/external/rust/crates/async-stream-impl"]
-	ref = sdk-release
-	path = external/rust/crates/async-stream-impl
-	url = ../external/rust/crates/async-stream-impl
-[submodule "platform/external/rust/crates/async-task"]
-	ref = sdk-release
-	path = external/rust/crates/async-task
-	url = ../external/rust/crates/async-task
-[submodule "platform/external/rust/crates/async-trait"]
-	ref = sdk-release
-	path = external/rust/crates/async-trait
-	url = ../external/rust/crates/async-trait
-[submodule "platform/external/rust/crates/atomic"]
-	ref = sdk-release
-	path = external/rust/crates/atomic
-	url = ../external/rust/crates/atomic
 [submodule "platform/external/rust/crates/atty"]
 	ref = sdk-release
 	path = external/rust/crates/atty
