@@ -82,6 +82,10 @@
 	ref = androidx-main-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/xr"]
+	ref = androidx-main-release
+	path = prebuilts/androidx/xr
+	url = ../prebuilts/androidx/xr
 [submodule "platform/prebuilts/build-tools"]
 	ref = androidx-main-release
 	path = prebuilts/build-tools
