@@ -4220,6 +4220,10 @@
 	branch = android15-tests-dev
 	path = packages/apps/Car/RotaryController
 	url = ../packages/apps/Car/RotaryController
+[submodule "platform/packages/apps/Car/RotaryImePrebuilt"]
+	branch = android15-tests-dev
+	path = packages/apps/Car/RotaryImePrebuilt
+	url = ../packages/apps/Car/RotaryImePrebuilt
 [submodule "platform/packages/apps/Car/Settings"]
 	branch = android15-tests-dev
 	path = packages/apps/Car/Settings

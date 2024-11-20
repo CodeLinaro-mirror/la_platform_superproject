@@ -1048,6 +1048,7 @@
 /packages/apps/Car/Provision pdk-fs
 /packages/apps/Car/RadioPrebuilt pdk-fs
 /packages/apps/Car/RotaryController pdk-fs
+/packages/apps/Car/RotaryImePrebuilt pdk-fs
 /packages/apps/Car/Settings pdk-fs
 /packages/apps/Car/SettingsIntelligence pdk-fs
 /packages/apps/Car/SystemUI pdk-fs
