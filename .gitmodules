@@ -2106,22 +2106,10 @@
 	ref = sdk-release
 	path = external/rust/crabbyavif
 	url = ../external/rust/crabbyavif
-[submodule "platform/external/rust/crates/clap"]
-	ref = sdk-release
-	path = external/rust/crates/clap
-	url = ../external/rust/crates/clap
-[submodule "platform/external/rust/crates/libbpf-sys"]
-	ref = sdk-release
-	path = external/rust/crates/libbpf-sys
-	url = ../external/rust/crates/libbpf-sys
 [submodule "platform/external/rust/crates/libsqlite3-sys"]
 	ref = sdk-release
 	path = external/rust/crates/libsqlite3-sys
 	url = ../external/rust/crates/libsqlite3-sys
-[submodule "platform/external/rust/crates/mls-rs-uniffi"]
-	ref = sdk-release
-	path = external/rust/crates/mls-rs-uniffi
-	url = ../external/rust/crates/mls-rs-uniffi
 [submodule "platform/external/rust/crates/openssl"]
 	ref = sdk-release
 	path = external/rust/crates/openssl
@@ -2138,10 +2126,6 @@
 	ref = sdk-release
 	path = external/rust/crates/quiche
 	url = ../external/rust/crates/quiche
-[submodule "platform/external/rust/crates/ring"]
-	ref = sdk-release
-	path = external/rust/crates/ring
-	url = ../external/rust/crates/ring
 [submodule "platform/external/rust/crates/ucs2"]
 	ref = sdk-release
 	path = external/rust/crates/ucs2
@@ -2386,6 +2370,10 @@
 	ref = sdk-release
 	path = external/turbine
 	url = ../external/turbine
+[submodule "platform/external/ublksrv"]
+	ref = sdk-release
+	path = external/ublksrv
+	url = ../external/ublksrv
 [submodule "platform/external/unicode"]
 	ref = sdk-release
 	path = external/unicode
