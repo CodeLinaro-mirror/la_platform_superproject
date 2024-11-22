@@ -7,7 +7,7 @@
 /external/toolchain-utils
 /external/zstd
 /prebuilts/build-tools
-/prebuilts/clang/host/darwin-x86
+/prebuilts/clang/host/darwin-x86 pdk darwin
 /prebuilts/clang/host/linux-x86
 /prebuilts/clang/host/windows-x86
 /prebuilts/cmake/darwin-x86
