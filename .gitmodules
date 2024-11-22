@@ -4198,6 +4198,10 @@
 	ref = android15-tests-release
 	path = packages/apps/Car/RotaryController
 	url = ../packages/apps/Car/RotaryController
+[submodule "platform/packages/apps/Car/RotaryImePrebuilt"]
+	ref = android15-tests-release
+	path = packages/apps/Car/RotaryImePrebuilt
+	url = ../packages/apps/Car/RotaryImePrebuilt
 [submodule "platform/packages/apps/Car/Settings"]
 	ref = android15-tests-release
 	path = packages/apps/Car/Settings
