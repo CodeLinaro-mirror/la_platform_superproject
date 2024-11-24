@@ -2106,38 +2106,46 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crabbyavif
 	url = ../external/rust/crabbyavif
-[submodule "platform/external/rust/crates/clap"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/clap
-	url = ../external/rust/crates/clap
-[submodule "platform/external/rust/crates/libbpf-sys"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/libbpf-sys
-	url = ../external/rust/crates/libbpf-sys
 [submodule "platform/external/rust/crates/libsqlite3-sys"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/libsqlite3-sys
 	url = ../external/rust/crates/libsqlite3-sys
-[submodule "platform/external/rust/crates/mls-rs-uniffi"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/mls-rs-uniffi
-	url = ../external/rust/crates/mls-rs-uniffi
 [submodule "platform/external/rust/crates/openssl"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
+[submodule "platform/external/rust/crates/ptr_meta"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/ptr_meta
+	url = ../external/rust/crates/ptr_meta
+[submodule "platform/external/rust/crates/ptr_meta_derive"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/ptr_meta_derive
+	url = ../external/rust/crates/ptr_meta_derive
 [submodule "platform/external/rust/crates/quiche"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/quiche
 	url = ../external/rust/crates/quiche
-[submodule "platform/external/rust/crates/ring"]
+[submodule "platform/external/rust/crates/ucs2"]
 	ref = busytown-mac-infra-release
-	path = external/rust/crates/ring
-	url = ../external/rust/crates/ring
-[submodule "platform/external/rust/crates/tinyjson"]
+	path = external/rust/crates/ucs2
+	url = ../external/rust/crates/ucs2
+[submodule "platform/external/rust/crates/uefi"]
 	ref = busytown-mac-infra-release
-	path = external/rust/crates/tinyjson
-	url = ../external/rust/crates/tinyjson
+	path = external/rust/crates/uefi
+	url = ../external/rust/crates/uefi
+[submodule "platform/external/rust/crates/uefi-macros"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/uefi-macros
+	url = ../external/rust/crates/uefi-macros
+[submodule "platform/external/rust/crates/uefi-raw"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/uefi-raw
+	url = ../external/rust/crates/uefi-raw
+[submodule "platform/external/rust/crates/uguid"]
+	ref = busytown-mac-infra-release
+	path = external/rust/crates/uguid
+	url = ../external/rust/crates/uguid
 [submodule "platform/external/rust/crates/v4l2r"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/v4l2r
@@ -2362,6 +2370,10 @@
 	ref = busytown-mac-infra-release
 	path = external/turbine
 	url = ../external/turbine
+[submodule "platform/external/ublksrv"]
+	ref = busytown-mac-infra-release
+	path = external/ublksrv
+	url = ../external/ublksrv
 [submodule "platform/external/unicode"]
 	ref = busytown-mac-infra-release
 	path = external/unicode
