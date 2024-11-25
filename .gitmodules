@@ -67,9 +67,8 @@
 	branch = main
 	path = external/regex-re2
 	url = ../external/regex-re2
-[submodule "platform/external/rust/android-crates-io/external/rust/android-crates-io-main"]
-	branch = main
-	path = external/rust/android-crates-io-main
+[submodule "platform/external/rust/android-crates-io/external/rust/android-crates-io-clap"]
+	path = external/rust/android-crates-io-clap
 	url = ../external/rust/android-crates-io
 [submodule "platform/external/rust/android-crates-io/external/rust/android-crates-io"]
 	path = external/rust/android-crates-io
