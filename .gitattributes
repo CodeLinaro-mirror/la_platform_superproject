@@ -296,7 +296,6 @@
 /external/intel-media-driver pdk
 /external/iperf3 pdk
 /external/iproute2 pdk
-/external/ipsec-tools pdk
 /external/iptables pdk
 /external/iputils pdk
 /external/iw pdk
@@ -526,10 +525,12 @@
 /external/rust/beto-rust pdk
 /external/rust/crabbyavif pdk
 /external/rust/crates/libsqlite3-sys pdk
+/external/rust/crates/libusb1-sys pdk
 /external/rust/crates/openssl pdk
 /external/rust/crates/ptr_meta pdk
 /external/rust/crates/ptr_meta_derive pdk
 /external/rust/crates/quiche pdk
+/external/rust/crates/rusb pdk
 /external/rust/crates/ucs2 pdk
 /external/rust/crates/uefi pdk
 /external/rust/crates/uefi-macros pdk
