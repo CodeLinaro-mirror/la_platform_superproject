@@ -27,7 +27,6 @@
 /external/compiler-rt pdk
 /external/cpu_features pdk
 /external/dagger2 pdk
-/external/desugar pdk
 /external/dexmaker pdk
 /external/dlmalloc pdk
 /external/e2fsprogs pdk
