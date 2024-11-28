@@ -3626,10 +3626,6 @@
 	ref = sdk-release
 	path = prebuilts/tools
 	url = ../prebuilts/tools
-[submodule "platform/prebuilts/vndk/v29"]
-	ref = sdk-release
-	path = prebuilts/vndk/v29
-	url = ../prebuilts/vndk/v29
 [submodule "platform/prebuilts/vndk/v30"]
 	ref = sdk-release
 	path = prebuilts/vndk/v30
