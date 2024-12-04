@@ -2102,6 +2102,14 @@
 	ref = sdk-release
 	path = external/rust/crabbyavif
 	url = ../external/rust/crabbyavif
+[submodule "platform/external/rust/crates/inotify"]
+	ref = sdk-release
+	path = external/rust/crates/inotify
+	url = ../external/rust/crates/inotify
+[submodule "platform/external/rust/crates/inotify-sys"]
+	ref = sdk-release
+	path = external/rust/crates/inotify-sys
+	url = ../external/rust/crates/inotify-sys
 [submodule "platform/external/rust/crates/libsqlite3-sys"]
 	ref = sdk-release
 	path = external/rust/crates/libsqlite3-sys
@@ -2110,6 +2118,10 @@
 	ref = sdk-release
 	path = external/rust/crates/libusb1-sys
 	url = ../external/rust/crates/libusb1-sys
+[submodule "platform/external/rust/crates/maplit"]
+	ref = sdk-release
+	path = external/rust/crates/maplit
+	url = ../external/rust/crates/maplit
 [submodule "platform/external/rust/crates/openssl"]
 	ref = sdk-release
 	path = external/rust/crates/openssl
