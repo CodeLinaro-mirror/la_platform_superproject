@@ -914,6 +914,10 @@
 	ref = sdk-release
 	path = external/fastrpc
 	url = ../external/fastrpc
+[submodule "platform/external/fbjni"]
+	ref = sdk-release
+	path = external/fbjni
+	url = ../external/fbjni
 [submodule "platform/external/fdlibm"]
 	ref = sdk-release
 	path = external/fdlibm
