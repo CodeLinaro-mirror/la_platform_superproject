@@ -84,6 +84,7 @@
 /external/okio pdk
 /external/ow2-asm pdk
 /external/pcre pdk
+/external/perfetto pdk sysui-studio
 /external/protobuf pdk
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk
