@@ -1414,6 +1414,10 @@
 	ref = sdk-release
 	path = external/libdav1d
 	url = ../external/libdav1d
+[submodule "platform/external/libdisplay-info"]
+	ref = sdk-release
+	path = external/libdisplay-info
+	url = ../external/libdisplay-info
 [submodule "platform/external/libdivsufsort"]
 	ref = sdk-release
 	path = external/libdivsufsort
@@ -2174,6 +2178,10 @@
 	ref = sdk-release
 	path = external/rust/crates/vhost-device-vsock
 	url = ../external/rust/crates/vhost-device-vsock
+[submodule "platform/external/rust/cros-libva"]
+	ref = sdk-release
+	path = external/rust/cros-libva
+	url = ../external/rust/cros-libva
 [submodule "platform/external/rust/cxx"]
 	ref = sdk-release
 	path = external/rust/cxx
