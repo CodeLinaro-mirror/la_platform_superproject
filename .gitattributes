@@ -9,6 +9,7 @@
 /external/dtc
 /external/flatbuffers
 /external/google-benchmark
+/external/google-breakpad
 /external/googletest
 /external/grpc
 /external/jsoncpp

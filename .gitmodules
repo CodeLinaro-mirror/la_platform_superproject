@@ -52,6 +52,11 @@
 	shallow = true
 	path = external/google-benchmark
 	url = ../external/google-benchmark
+[submodule "platform/external/google-breakpad"]
+	branch = emu-master-dev
+	shallow = true
+	path = external/google-breakpad
+	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
 	branch = main
 	shallow = true
