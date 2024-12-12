@@ -1566,6 +1566,10 @@
 	ref = sdk-release
 	path = external/libva
 	url = ../external/libva
+[submodule "platform/external/libva-utils"]
+	ref = sdk-release
+	path = external/libva-utils
+	url = ../external/libva-utils
 [submodule "platform/external/libvpx"]
 	ref = sdk-release
 	path = external/libvpx
@@ -2122,10 +2126,6 @@
 	ref = sdk-release
 	path = external/rust/crates/libsqlite3-sys
 	url = ../external/rust/crates/libsqlite3-sys
-[submodule "platform/external/rust/crates/libusb1-sys"]
-	ref = sdk-release
-	path = external/rust/crates/libusb1-sys
-	url = ../external/rust/crates/libusb1-sys
 [submodule "platform/external/rust/crates/maplit"]
 	ref = sdk-release
 	path = external/rust/crates/maplit
@@ -2134,42 +2134,10 @@
 	ref = sdk-release
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
-[submodule "platform/external/rust/crates/ptr_meta"]
-	ref = sdk-release
-	path = external/rust/crates/ptr_meta
-	url = ../external/rust/crates/ptr_meta
-[submodule "platform/external/rust/crates/ptr_meta_derive"]
-	ref = sdk-release
-	path = external/rust/crates/ptr_meta_derive
-	url = ../external/rust/crates/ptr_meta_derive
 [submodule "platform/external/rust/crates/quiche"]
 	ref = sdk-release
 	path = external/rust/crates/quiche
 	url = ../external/rust/crates/quiche
-[submodule "platform/external/rust/crates/rusb"]
-	ref = sdk-release
-	path = external/rust/crates/rusb
-	url = ../external/rust/crates/rusb
-[submodule "platform/external/rust/crates/ucs2"]
-	ref = sdk-release
-	path = external/rust/crates/ucs2
-	url = ../external/rust/crates/ucs2
-[submodule "platform/external/rust/crates/uefi"]
-	ref = sdk-release
-	path = external/rust/crates/uefi
-	url = ../external/rust/crates/uefi
-[submodule "platform/external/rust/crates/uefi-macros"]
-	ref = sdk-release
-	path = external/rust/crates/uefi-macros
-	url = ../external/rust/crates/uefi-macros
-[submodule "platform/external/rust/crates/uefi-raw"]
-	ref = sdk-release
-	path = external/rust/crates/uefi-raw
-	url = ../external/rust/crates/uefi-raw
-[submodule "platform/external/rust/crates/uguid"]
-	ref = sdk-release
-	path = external/rust/crates/uguid
-	url = ../external/rust/crates/uguid
 [submodule "platform/external/rust/crates/v4l2r"]
 	ref = sdk-release
 	path = external/rust/crates/v4l2r
