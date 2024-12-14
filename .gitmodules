@@ -191,6 +191,10 @@
 	branch = main
 	path = external/jsoncpp
 	url = ../external/jsoncpp
+[submodule "platform/external/jspecify"]
+	branch = main
+	path = external/jspecify
+	url = ../external/jspecify
 [submodule "platform/external/jsr305"]
 	branch = main
 	path = external/jsr305
