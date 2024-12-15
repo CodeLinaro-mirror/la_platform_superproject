@@ -1414,6 +1414,10 @@
 	ref = busytown-mac-infra-release
 	path = external/libdav1d
 	url = ../external/libdav1d
+[submodule "platform/external/libdisplay-info"]
+	ref = busytown-mac-infra-release
+	path = external/libdisplay-info
+	url = ../external/libdisplay-info
 [submodule "platform/external/libdivsufsort"]
 	ref = busytown-mac-infra-release
 	path = external/libdivsufsort
@@ -1562,6 +1566,10 @@
 	ref = busytown-mac-infra-release
 	path = external/libva
 	url = ../external/libva
+[submodule "platform/external/libva-utils"]
+	ref = busytown-mac-infra-release
+	path = external/libva-utils
+	url = ../external/libva-utils
 [submodule "platform/external/libvpx"]
 	ref = busytown-mac-infra-release
 	path = external/libvpx
@@ -2118,10 +2126,6 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/libsqlite3-sys
 	url = ../external/rust/crates/libsqlite3-sys
-[submodule "platform/external/rust/crates/libusb1-sys"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/libusb1-sys
-	url = ../external/rust/crates/libusb1-sys
 [submodule "platform/external/rust/crates/maplit"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/maplit
@@ -2130,42 +2134,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
-[submodule "platform/external/rust/crates/ptr_meta"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/ptr_meta
-	url = ../external/rust/crates/ptr_meta
-[submodule "platform/external/rust/crates/ptr_meta_derive"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/ptr_meta_derive
-	url = ../external/rust/crates/ptr_meta_derive
 [submodule "platform/external/rust/crates/quiche"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/quiche
 	url = ../external/rust/crates/quiche
-[submodule "platform/external/rust/crates/rusb"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/rusb
-	url = ../external/rust/crates/rusb
-[submodule "platform/external/rust/crates/ucs2"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/ucs2
-	url = ../external/rust/crates/ucs2
-[submodule "platform/external/rust/crates/uefi"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/uefi
-	url = ../external/rust/crates/uefi
-[submodule "platform/external/rust/crates/uefi-macros"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/uefi-macros
-	url = ../external/rust/crates/uefi-macros
-[submodule "platform/external/rust/crates/uefi-raw"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/uefi-raw
-	url = ../external/rust/crates/uefi-raw
-[submodule "platform/external/rust/crates/uguid"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/uguid
-	url = ../external/rust/crates/uguid
 [submodule "platform/external/rust/crates/v4l2r"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/v4l2r
@@ -2174,6 +2146,10 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/vhost-device-vsock
 	url = ../external/rust/crates/vhost-device-vsock
+[submodule "platform/external/rust/cros-libva"]
+	ref = busytown-mac-infra-release
+	path = external/rust/cros-libva
+	url = ../external/rust/cros-libva
 [submodule "platform/external/rust/cxx"]
 	ref = busytown-mac-infra-release
 	path = external/rust/cxx
