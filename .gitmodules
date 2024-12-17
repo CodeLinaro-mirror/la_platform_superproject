@@ -1,0 +1,312 @@
+[submodule "device/generic/goldfish-opengl"]
+	branch = main
+	path = device/generic/goldfish-opengl
+	url = ../../device/generic/goldfish-opengl
+[submodule "device/generic/vulkan-cereal"]
+	branch = main
+	path = device/generic/vulkan-cereal
+	url = ../../device/generic/vulkan-cereal
+[submodule "device/google/cuttlefish"]
+	branch = main
+	path = device/google/cuttlefish
+	url = ../../device/google/cuttlefish
+[submodule "platform/build"]
+	branch = emu-master-dev
+	path = build/make
+	url = ../build
+[submodule "platform/build/bazel"]
+	branch = emu-master-dev
+	path = build/bazel
+	url = ../build/bazel
+[submodule "platform/external/abseil-cpp"]
+	branch = emu-master-dev
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
+[submodule "platform/external/adt-infra"]
+	branch = emu-master-dev
+	path = external/adt-infra
+	url = ../external/adt-infra
+[submodule "platform/external/angle"]
+	branch = emu-master-dev
+	path = external/angle
+	url = ../external/angle
+[submodule "platform/external/astc-codec"]
+	branch = main
+	path = external/astc-codec
+	url = ../external/astc-codec
+[submodule "platform/external/bison"]
+	branch = main
+	path = external/bison
+	url = ../external/bison
+[submodule "platform/external/bluetooth/glib"]
+	branch = emu-master-dev
+	path = external/glib
+	url = ../external/bluetooth/glib
+[submodule "platform/external/boringssl"]
+	branch = main
+	shallow = true
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "platform/external/c-ares"]
+	branch = emu-master-dev
+	path = external/cares
+	url = ../external/c-ares
+[submodule "platform/external/curl"]
+	branch = emu-master-dev
+	path = external/curl
+	url = ../external/curl
+[submodule "platform/external/deqp"]
+	branch = main
+	path = external/deqp
+	url = ../external/deqp
+[submodule "platform/external/dtc"]
+	branch = main
+	path = external/dtc
+	url = ../external/dtc
+[submodule "platform/external/flatbuffers"]
+	branch = main
+	path = external/flatbuffers
+	url = ../external/flatbuffers
+[submodule "platform/external/flex"]
+	branch = main
+	path = external/flex
+	url = ../external/flex
+[submodule "platform/external/fmtlib"]
+	branch = main
+	path = external/fmtlib
+	url = ../external/fmtlib
+[submodule "platform/external/gfxstream-protocols"]
+	branch = main
+	path = external/gfxstream-protocols
+	url = ../external/gfxstream-protocols
+[submodule "platform/external/google-benchmark"]
+	branch = main
+	path = external/google-benchmark
+	url = ../external/google-benchmark
+[submodule "platform/external/google-breakpad"]
+	branch = emu-master-dev
+	path = external/google-breakpad
+	url = ../external/google-breakpad
+[submodule "platform/external/googletest"]
+	branch = main
+	path = external/googletest
+	url = ../external/googletest
+[submodule "platform/external/grpc-grpc"]
+	branch = emu-master-dev
+	path = external/grpc
+	url = ../external/grpc-grpc
+[submodule "platform/external/libpng"]
+	branch = main
+	path = external/libpng
+	url = ../external/libpng
+[submodule "platform/external/libusb"]
+	branch = emu-master-dev
+	path = external/libusb
+	url = ../external/libusb
+[submodule "platform/external/libxml2"]
+	branch = emu-master-dev
+	path = external/libxml2
+	url = ../external/libxml2
+[submodule "platform/external/lz4"]
+	branch = main
+	path = external/lz4
+	url = ../external/lz4
+[submodule "platform/external/mesa3d"]
+	branch = main
+	path = external/mesa3d
+	url = ../external/mesa3d
+[submodule "platform/external/mobly-bundled-snippets"]
+	branch = main
+	path = external/mobly-bundled-snippets
+	url = ../external/mobly-bundled-snippets
+[submodule "platform/external/nasm"]
+	branch = emu-master-dev
+	path = external/nasm
+	url = ../external/nasm
+[submodule "platform/external/perfetto"]
+	path = external/perfetto
+	url = ../external/perfetto
+[submodule "platform/external/protobuf"]
+	branch = emu-master-dev
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/external/qemu"]
+	branch = emu-master-dev
+	path = external/qemu
+	url = ../external/qemu
+[submodule "platform/external/rapidjson"]
+	branch = main
+	path = external/rapidjson
+	url = ../external/rapidjson
+[submodule "platform/external/regex-re2"]
+	branch = main
+	path = external/regex-re2
+	url = ../external/regex-re2
+[submodule "platform/external/tink"]
+	branch = emu-master-dev
+	path = external/tink
+	url = ../external/tink
+[submodule "platform/external/tinyobjloader"]
+	branch = main
+	path = external/tinyobjloader
+	url = ../external/tinyobjloader
+[submodule "platform/external/virglrenderer"]
+	branch = crosvm-master
+	path = external/virglrenderer
+	url = ../external/virglrenderer
+[submodule "platform/external/webrtc"]
+	branch = emu-master-dev
+	path = external/webrtc
+	url = ../external/webrtc
+[submodule "platform/external/wpa_supplicant_8"]
+	branch = emu-master-dev
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
+[submodule "platform/external/zlib"]
+	branch = emu-master-dev
+	path = external/zlib
+	url = ../external/zlib
+[submodule "platform/frameworks/native"]
+	branch = lollipop-release
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "platform/hardware/google/aemu"]
+	branch = main
+	path = hardware/google/aemu
+	url = ../hardware/google/aemu
+[submodule "platform/hardware/google/gfxstream"]
+	branch = main
+	path = hardware/google/gfxstream
+	url = ../hardware/google/gfxstream
+[submodule "platform/packages/modules/Bluetooth"]
+	branch = main
+	path = packages/modules/Bluetooth
+	url = ../packages/modules/Bluetooth
+[submodule "platform/prebuilts/android-emulator"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/android-emulator-build/archive"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/archive
+	url = ../prebuilts/android-emulator-build/archive
+[submodule "platform/prebuilts/android-emulator-build/common"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/common
+	url = ../prebuilts/android-emulator-build/common
+[submodule "platform/prebuilts/android-emulator-build/mesa"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/mesa
+	url = ../prebuilts/android-emulator-build/mesa
+[submodule "platform/prebuilts/android-emulator-build/mesa-deps"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/mesa-deps
+	url = ../prebuilts/android-emulator-build/mesa-deps
+[submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/qemu-android-deps
+	url = ../prebuilts/android-emulator-build/qemu-android-deps
+[submodule "platform/prebuilts/android-emulator-build/qt"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/qt
+	url = ../prebuilts/android-emulator-build/qt
+[submodule "platform/prebuilts/android-emulator-build/system-images"]
+	branch = main
+	shallow = true
+	path = prebuilts/android-emulator-build/system-images
+	url = ../prebuilts/android-emulator-build/system-images
+[submodule "platform/prebuilts/bazel/darwin-x86_64"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/bazel/darwin-x86_64
+	url = ../prebuilts/bazel/darwin-x86_64
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/bazel/linux-x86_64
+	url = ../prebuilts/bazel/linux-x86_64
+[submodule "platform/prebuilts/bazel/windows-x86_64"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/bazel/windows-x86_64
+	url = ../prebuilts/bazel/windows-x86_64
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/clang/host/windows-x86"]
+	path = prebuilts/clang/host/windows-x86
+	url = ../prebuilts/clang/host/windows-x86
+[submodule "platform/prebuilts/cmake/darwin-x86"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/cmake/darwin-x86
+	url = ../prebuilts/cmake/darwin-x86
+[submodule "platform/prebuilts/cmake/linux-x86"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/cmake/linux-x86
+	url = ../prebuilts/cmake/linux-x86
+[submodule "platform/prebuilts/cmake/windows-x86"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/cmake/windows-x86
+	url = ../prebuilts/cmake/windows-x86
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = main
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/ninja/darwin-x86"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/ninja/darwin-x86
+	url = ../prebuilts/ninja/darwin-x86
+[submodule "platform/prebuilts/ninja/linux-x86"]
+	branch = emu-master-dev
+	shallow = true
+	path = prebuilts/ninja/linux-x86
+	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/python/darwin-x86"]
+	path = prebuilts/python/darwin-x86
+	url = ../prebuilts/python/darwin-x86
+[submodule "platform/prebuilts/python/linux-x86"]
+	path = prebuilts/python/linux-x86
+	url = ../prebuilts/python/linux-x86
+[submodule "platform/prebuilts/python/windows-x86"]
+	path = prebuilts/python/windows-x86
+	url = ../prebuilts/python/windows-x86
+[submodule "platform/prebuilts/studio/jdk"]
+	branch = studio-main
+	shallow = true
+	path = prebuilts/studio/jdk
+	url = ../prebuilts/studio/jdk
+[submodule "platform/tools/buildSrc"]
+	branch = emu-master-dev
+	path = tools/buildSrc
+	url = ../tools/buildSrc
+[submodule "platform/tools/netsim"]
+	branch = main
+	path = tools/netsim
+	url = ../tools/netsim
+[submodule "platform/tools/repohooks"]
+	branch = main
+	path = tools/repohooks
+	url = ../tools/repohooks
+[submodule "toolchain/m4"]
+	branch = main
+	path = external/m4
+	url = ../../toolchain/m4
+[submodule "trusty/external/qemu-libslirp"]
+	branch = emu-master-dev
+	path = external/libslirp
+	url = ../../trusty/external/qemu-libslirp
