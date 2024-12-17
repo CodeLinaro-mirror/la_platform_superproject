@@ -2411,7 +2411,7 @@
 	path = external/shflags
 	url = ../external/shflags
 [submodule "platform/external/skia"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = external/skia
 	url = ../external/skia
 [submodule "platform/external/skqp"]
