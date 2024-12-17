@@ -122,6 +122,10 @@
 	branch = main
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/icu"]
+	branch = main
+	path = external/icu
+	url = ../external/icu
 [submodule "platform/external/jsoncpp"]
 	branch = main
 	path = external/jsoncpp
@@ -370,6 +374,10 @@
 	branch = main
 	path = external/spdx-tools
 	url = ../external/spdx-tools
+[submodule "platform/external/sqlite"]
+	branch = main
+	path = external/sqlite
+	url = ../external/sqlite
 [submodule "platform/external/starlark-go"]
 	branch = main
 	path = external/starlark-go
