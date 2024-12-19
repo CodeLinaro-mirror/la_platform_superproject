@@ -78,11 +78,15 @@
 /kernel/configs vts pdk
 /kernel/prebuilts/6.1/arm64 pdk
 /kernel/prebuilts/6.1/x86_64 pdk
+/kernel/prebuilts/6.12/arm64 pdk
+/kernel/prebuilts/6.12/x86_64 pdk
 /kernel/prebuilts/6.6/arm64 pdk
 /kernel/prebuilts/6.6/x86_64 pdk
 /kernel/prebuilts/common-modules/trusty/6.6/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.1/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.1/x86-64 pdk
+/kernel/prebuilts/common-modules/virtual-device/6.12/arm64 pdk
+/kernel/prebuilts/common-modules/virtual-device/6.12/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.6/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.6/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/mainline/arm64 pdk
@@ -527,7 +531,6 @@
 /external/rust/crabbyavif pdk
 /external/rust/crates/libsqlite3-sys pdk
 /external/rust/crates/openssl pdk
-/external/rust/crates/quiche pdk
 /external/rust/crates/v4l2r pdk
 /external/rust/crates/vhost-device-vsock pdk
 /external/rust/cros-libva pdk
@@ -903,6 +906,7 @@
 /system/chre pdk
 /system/connectivity/wificond pdk
 /system/core pdk
+/system/cros-codecs pdk
 /system/dmesgd pdk
 /system/extras pdk
 /system/gatekeeper pdk

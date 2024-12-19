@@ -318,6 +318,14 @@
 	ref = sdk-release
 	path = kernel/prebuilts/6.1/x86_64
 	url = ../../kernel/prebuilts/6.1/x86-64
+[submodule "kernel/prebuilts/6.12/arm64"]
+	ref = sdk-release
+	path = kernel/prebuilts/6.12/arm64
+	url = ../../kernel/prebuilts/6.12/arm64
+[submodule "kernel/prebuilts/6.12/x86-64"]
+	ref = sdk-release
+	path = kernel/prebuilts/6.12/x86_64
+	url = ../../kernel/prebuilts/6.12/x86-64
 [submodule "kernel/prebuilts/6.6/arm64"]
 	ref = sdk-release
 	path = kernel/prebuilts/6.6/arm64
@@ -338,6 +346,14 @@
 	ref = sdk-release
 	path = kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
+[submodule "kernel/prebuilts/common-modules/virtual-device/6.12/arm64"]
+	ref = sdk-release
+	path = kernel/prebuilts/common-modules/virtual-device/6.12/arm64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/6.12/arm64
+[submodule "kernel/prebuilts/common-modules/virtual-device/6.12/x86-64"]
+	ref = sdk-release
+	path = kernel/prebuilts/common-modules/virtual-device/6.12/x86-64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/6.12/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/6.6/arm64"]
 	ref = sdk-release
 	path = kernel/prebuilts/common-modules/virtual-device/6.6/arm64
@@ -2114,10 +2130,6 @@
 	ref = sdk-release
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
-[submodule "platform/external/rust/crates/quiche"]
-	ref = sdk-release
-	path = external/rust/crates/quiche
-	url = ../external/rust/crates/quiche
 [submodule "platform/external/rust/crates/v4l2r"]
 	ref = sdk-release
 	path = external/rust/crates/v4l2r
@@ -3618,6 +3630,10 @@
 	ref = sdk-release
 	path = system/core
 	url = ../system/core
+[submodule "platform/system/cros-codecs"]
+	ref = sdk-release
+	path = system/cros-codecs
+	url = ../system/cros-codecs
 [submodule "platform/system/dmesgd"]
 	ref = sdk-release
 	path = system/dmesgd
