@@ -4030,7 +4030,7 @@
 	path = packages/modules/ArtPrebuilt
 	url = ../packages/modules/ArtPrebuilt
 [submodule "platform/packages/modules/Bluetooth"]
-	branch = android14-release
+	branch = android14-tests-dev
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
 [submodule "platform/packages/modules/CaptivePortalLogin"]
