@@ -6,6 +6,10 @@
 	ref = androidx-credential-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
+[submodule "platform/external/compose-hero-benchmarks/poxedex-compose"]
+	ref = androidx-credential-release
+	path = external/compose-hero-benchmarks/poxedex-compose
+	url = ../external/compose-hero-benchmarks/poxedex-compose
 [submodule "platform/external/icing"]
 	ref = androidx-credential-release
 	path = external/icing
@@ -46,6 +50,10 @@
 	ref = androidx-credential-release
 	path = golden
 	url = ../frameworks/support-golden
+[submodule "platform/prebuilts/androidx/chrome-for-testing"]
+	ref = androidx-credential-release
+	path = prebuilts/androidx/chrome-for-testing
+	url = ../prebuilts/androidx/chrome-for-testing
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	ref = androidx-credential-release
 	path = prebuilts/androidx/exoplayer
@@ -54,10 +62,18 @@
 	ref = androidx-credential-release
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
+[submodule "platform/prebuilts/androidx/ink"]
+	ref = androidx-credential-release
+	path = prebuilts/androidx/ink
+	url = ../prebuilts/androidx/ink
 [submodule "platform/prebuilts/androidx/internal"]
 	ref = androidx-credential-release
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
+[submodule "platform/prebuilts/androidx/javascript-for-kotlin"]
+	ref = androidx-credential-release
+	path = prebuilts/androidx/javascript-for-kotlin
+	url = ../prebuilts/androidx/javascript-for-kotlin
 [submodule "platform/prebuilts/androidx/konan"]
 	ref = androidx-credential-release
 	path = prebuilts/androidx/konan
@@ -66,6 +82,10 @@
 	ref = androidx-credential-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/xr"]
+	ref = androidx-credential-release
+	path = prebuilts/androidx/xr
+	url = ../prebuilts/androidx/xr
 [submodule "platform/prebuilts/build-tools"]
 	ref = androidx-credential-release
 	path = prebuilts/build-tools
@@ -158,14 +178,14 @@
 	ref = androidx-credential-release
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r25"]
+[submodule "toolchain/prebuilts/ndk-darwin/r27"]
 	ref = androidx-credential-release
 	path = prebuilts/fullsdk-darwin/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk-darwin/r25
-[submodule "toolchain/prebuilts/ndk/r25"]
+	url = ../../toolchain/prebuilts/ndk-darwin/r27
+[submodule "toolchain/prebuilts/ndk/r27"]
 	ref = androidx-credential-release
 	path = prebuilts/fullsdk-linux/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk/r25
+	url = ../../toolchain/prebuilts/ndk/r27
 [submodule "tools/fetch_artifact"]
 	ref = androidx-credential-release
 	path = tools/fetch_artifact
