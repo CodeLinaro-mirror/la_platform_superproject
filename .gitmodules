@@ -2254,10 +2254,6 @@
 	ref = sdk-release
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
-[submodule "platform/external/stardoc"]
-	ref = sdk-release
-	path = external/stardoc
-	url = ../external/stardoc
 [submodule "platform/external/starlark-go"]
 	ref = sdk-release
 	path = external/starlark-go
