@@ -4302,7 +4302,7 @@
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/asuite"]
-	branch = android14-release
+	branch = android14-tests-dev
 	shallow = true
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
@@ -4909,7 +4909,7 @@
 	path = tools/apkzlib
 	url = ../tools/apkzlib
 [submodule "platform/tools/asuite"]
-	branch = android14-release
+	branch = android14-tests-dev
 	path = tools/asuite
 	url = ../tools/asuite
 [submodule "platform/tools/carrier_settings"]
