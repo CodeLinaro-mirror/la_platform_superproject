@@ -32,6 +32,11 @@
 	shallow = true
 	path = external/cares
 	url = ../external/c-ares
+[submodule "platform/external/crashpad"]
+	branch = emu-dev
+	shallow = true
+	path = external/crashpad
+	url = ../external/crashpad
 [submodule "platform/external/crosvm"]
 	branch = emu-dev
 	shallow = true

@@ -5,6 +5,7 @@
 /external/glib
 /external/boringssl
 /external/cares
+/external/crashpad
 /external/crosvm
 /external/dtc
 /external/flatbuffers
