@@ -2254,10 +2254,6 @@
 	ref = busytown-mac-infra-release
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
-[submodule "platform/external/stardoc"]
-	ref = busytown-mac-infra-release
-	path = external/stardoc
-	url = ../external/stardoc
 [submodule "platform/external/starlark-go"]
 	ref = busytown-mac-infra-release
 	path = external/starlark-go
