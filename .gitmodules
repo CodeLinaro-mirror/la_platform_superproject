@@ -51,6 +51,11 @@
 	branch = emu-master-dev
 	path = external/cares
 	url = ../external/c-ares
+[submodule "platform/external/crashpad"]
+	branch = emu-dev
+	shallow = true
+	path = external/crashpad
+	url = ../external/crashpad
 [submodule "platform/external/curl"]
 	branch = emu-master-dev
 	path = external/curl
@@ -85,6 +90,7 @@
 	url = ../external/google-benchmark
 [submodule "platform/external/google-breakpad"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/google-breakpad
 	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
