@@ -6,14 +6,10 @@
 	ref = androidx-car-app-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/dokka"]
+[submodule "platform/external/compose-hero-benchmarks/poxedex-compose"]
 	ref = androidx-car-app-release
-	path = external/dokka
-	url = ../external/dokka
-[submodule "platform/external/google-benchmark"]
-	ref = androidx-car-app-release
-	path = external/google-benchmark
-	url = ../external/google-benchmark
+	path = external/compose-hero-benchmarks/poxedex-compose
+	url = ../external/compose-hero-benchmarks/poxedex-compose
 [submodule "platform/external/icing"]
 	ref = androidx-car-app-release
 	path = external/icing
@@ -54,6 +50,10 @@
 	ref = androidx-car-app-release
 	path = golden
 	url = ../frameworks/support-golden
+[submodule "platform/prebuilts/androidx/chrome-for-testing"]
+	ref = androidx-car-app-release
+	path = prebuilts/androidx/chrome-for-testing
+	url = ../prebuilts/androidx/chrome-for-testing
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	ref = androidx-car-app-release
 	path = prebuilts/androidx/exoplayer
@@ -62,10 +62,18 @@
 	ref = androidx-car-app-release
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
+[submodule "platform/prebuilts/androidx/ink"]
+	ref = androidx-car-app-release
+	path = prebuilts/androidx/ink
+	url = ../prebuilts/androidx/ink
 [submodule "platform/prebuilts/androidx/internal"]
 	ref = androidx-car-app-release
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
+[submodule "platform/prebuilts/androidx/javascript-for-kotlin"]
+	ref = androidx-car-app-release
+	path = prebuilts/androidx/javascript-for-kotlin
+	url = ../prebuilts/androidx/javascript-for-kotlin
 [submodule "platform/prebuilts/androidx/konan"]
 	ref = androidx-car-app-release
 	path = prebuilts/androidx/konan
@@ -74,6 +82,10 @@
 	ref = androidx-car-app-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/xr"]
+	ref = androidx-car-app-release
+	path = prebuilts/androidx/xr
+	url = ../prebuilts/androidx/xr
 [submodule "platform/prebuilts/build-tools"]
 	ref = androidx-car-app-release
 	path = prebuilts/build-tools
@@ -94,6 +106,10 @@
 	ref = androidx-car-app-release
 	path = prebuilts/fullsdk-darwin/build-tools
 	url = ../prebuilts/fullsdk-darwin/build-tools
+[submodule "platform/prebuilts/fullsdk-darwin/cmdline-tools"]
+	ref = androidx-car-app-release
+	path = prebuilts/fullsdk-darwin/cmdline-tools
+	url = ../prebuilts/fullsdk-darwin/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
 	ref = androidx-car-app-release
 	path = prebuilts/fullsdk-darwin/platform-tools
@@ -106,6 +122,10 @@
 	ref = androidx-car-app-release
 	path = prebuilts/fullsdk-linux/build-tools
 	url = ../prebuilts/fullsdk-linux/build-tools
+[submodule "platform/prebuilts/fullsdk-linux/cmdline-tools"]
+	ref = androidx-car-app-release
+	path = prebuilts/fullsdk-linux/cmdline-tools
+	url = ../prebuilts/fullsdk-linux/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
 	ref = androidx-car-app-release
 	path = prebuilts/fullsdk-linux/platform-tools
@@ -126,6 +146,10 @@
 	ref = androidx-car-app-release
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
+[submodule "platform/prebuilts/jdk/jdk21"]
+	ref = androidx-car-app-release
+	path = prebuilts/jdk/jdk21
+	url = ../prebuilts/jdk/jdk21
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	ref = androidx-car-app-release
 	path = prebuilts/fullsdk-darwin/ninja
@@ -154,14 +178,14 @@
 	ref = androidx-car-app-release
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r23"]
+[submodule "toolchain/prebuilts/ndk-darwin/r27"]
 	ref = androidx-car-app-release
 	path = prebuilts/fullsdk-darwin/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk-darwin/r23
-[submodule "toolchain/prebuilts/ndk/r23"]
+	url = ../../toolchain/prebuilts/ndk-darwin/r27
+[submodule "toolchain/prebuilts/ndk/r27"]
 	ref = androidx-car-app-release
 	path = prebuilts/fullsdk-linux/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk/r23
+	url = ../../toolchain/prebuilts/ndk/r27
 [submodule "tools/fetch_artifact"]
 	ref = androidx-car-app-release
 	path = tools/fetch_artifact
