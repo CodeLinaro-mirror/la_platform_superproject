@@ -133,7 +133,6 @@
 /external/androidplot pdk
 /external/angle pdk
 /external/anonymous-counting-tokens pdk
-/external/ant-glob pdk
 /external/antlr pdk
 /external/apache-commons-bcel pdk
 /external/apache-commons-compress pdk
@@ -405,7 +404,6 @@
 /external/linux-kselftest vts pdk
 /external/llvm pdk
 /external/llvm-libc pdk
-/external/lmfit pdk
 /external/lottie pdk
 /external/ltp vts pdk
 /external/lua pdk
@@ -589,7 +587,6 @@
 /external/turbine pdk
 /external/ublksrv pdk
 /external/unicode pdk
-/external/universal-tween-engine
 /external/uwb pdk
 /external/v4l2_codec2 pdk
 /external/vboot_reference pdk

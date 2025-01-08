@@ -538,10 +538,6 @@
 	ref = sdk-release
 	path = external/anonymous-counting-tokens
 	url = ../external/anonymous-counting-tokens
-[submodule "platform/external/ant-glob"]
-	ref = sdk-release
-	path = external/ant-glob
-	url = ../external/ant-glob
 [submodule "platform/external/antlr"]
 	ref = sdk-release
 	path = external/antlr
@@ -1626,10 +1622,6 @@
 	ref = sdk-release
 	path = external/llvm-libc
 	url = ../external/llvm-libc
-[submodule "platform/external/lmfit"]
-	ref = sdk-release
-	path = external/lmfit
-	url = ../external/lmfit
 [submodule "platform/external/lottie"]
 	ref = sdk-release
 	path = external/lottie
@@ -2362,10 +2354,6 @@
 	ref = sdk-release
 	path = external/unicode
 	url = ../external/unicode
-[submodule "platform/external/universal-tween-engine"]
-	ref = sdk-release
-	path = external/universal-tween-engine
-	url = ../external/universal-tween-engine
 [submodule "platform/external/uwb"]
 	ref = sdk-release
 	path = external/uwb
