@@ -190,6 +190,10 @@
 	ref = build-tools-release
 	path = external/jsoncpp
 	url = ../external/jsoncpp
+[submodule "platform/external/jspecify"]
+	ref = build-tools-release
+	path = external/jspecify
+	url = ../external/jspecify
 [submodule "platform/external/jsr305"]
 	ref = build-tools-release
 	path = external/jsr305

@@ -46,6 +46,7 @@
 /external/javapoet
 /external/jemalloc_new
 /external/jsoncpp
+/external/jspecify
 /external/jsr305
 /external/kotlinc
 /external/kotlinx.metadata
