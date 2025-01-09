@@ -50,6 +50,10 @@
 	ref = emu-35-4-release
 	path = external/cares
 	url = ../external/c-ares
+[submodule "platform/external/crashpad"]
+	ref = emu-35-4-release
+	path = external/crashpad
+	url = ../external/crashpad
 [submodule "platform/external/curl"]
 	ref = emu-35-4-release
 	path = external/curl
