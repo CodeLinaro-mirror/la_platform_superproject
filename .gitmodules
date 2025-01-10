@@ -538,10 +538,6 @@
 	ref = simpleperf-release
 	path = external/anonymous-counting-tokens
 	url = ../external/anonymous-counting-tokens
-[submodule "platform/external/ant-glob"]
-	ref = simpleperf-release
-	path = external/ant-glob
-	url = ../external/ant-glob
 [submodule "platform/external/antlr"]
 	ref = simpleperf-release
 	path = external/antlr
@@ -1230,6 +1226,10 @@
 	ref = simpleperf-release
 	path = external/jacoco
 	url = ../external/jacoco
+[submodule "platform/external/jakarta.inject"]
+	ref = simpleperf-release
+	path = external/jakarta.inject
+	url = ../external/jakarta.inject
 [submodule "platform/external/jarjar"]
 	ref = simpleperf-release
 	path = external/jarjar
@@ -1322,6 +1322,10 @@
 	ref = simpleperf-release
 	path = external/kotlin-compose-compiler
 	url = ../external/kotlin-compose-compiler
+[submodule "platform/external/kotlin.metadata"]
+	ref = simpleperf-release
+	path = external/kotlin.metadata
+	url = ../external/kotlin.metadata
 [submodule "platform/external/kotlinc"]
 	ref = simpleperf-release
 	path = external/kotlinc
@@ -1626,10 +1630,6 @@
 	ref = simpleperf-release
 	path = external/llvm-libc
 	url = ../external/llvm-libc
-[submodule "platform/external/lmfit"]
-	ref = simpleperf-release
-	path = external/lmfit
-	url = ../external/lmfit
 [submodule "platform/external/lottie"]
 	ref = simpleperf-release
 	path = external/lottie
@@ -2254,10 +2254,6 @@
 	ref = simpleperf-release
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
-[submodule "platform/external/stardoc"]
-	ref = simpleperf-release
-	path = external/stardoc
-	url = ../external/stardoc
 [submodule "platform/external/starlark-go"]
 	ref = simpleperf-release
 	path = external/starlark-go
@@ -2366,10 +2362,6 @@
 	ref = simpleperf-release
 	path = external/unicode
 	url = ../external/unicode
-[submodule "platform/external/universal-tween-engine"]
-	ref = simpleperf-release
-	path = external/universal-tween-engine
-	url = ../external/universal-tween-engine
 [submodule "platform/external/uwb"]
 	ref = simpleperf-release
 	path = external/uwb
