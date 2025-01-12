@@ -538,10 +538,6 @@
 	ref = busytown-mac-infra-release
 	path = external/anonymous-counting-tokens
 	url = ../external/anonymous-counting-tokens
-[submodule "platform/external/ant-glob"]
-	ref = busytown-mac-infra-release
-	path = external/ant-glob
-	url = ../external/ant-glob
 [submodule "platform/external/antlr"]
 	ref = busytown-mac-infra-release
 	path = external/antlr
@@ -1626,10 +1622,6 @@
 	ref = busytown-mac-infra-release
 	path = external/llvm-libc
 	url = ../external/llvm-libc
-[submodule "platform/external/lmfit"]
-	ref = busytown-mac-infra-release
-	path = external/lmfit
-	url = ../external/lmfit
 [submodule "platform/external/lottie"]
 	ref = busytown-mac-infra-release
 	path = external/lottie
@@ -2362,10 +2354,6 @@
 	ref = busytown-mac-infra-release
 	path = external/unicode
 	url = ../external/unicode
-[submodule "platform/external/universal-tween-engine"]
-	ref = busytown-mac-infra-release
-	path = external/universal-tween-engine
-	url = ../external/universal-tween-engine
 [submodule "platform/external/uwb"]
 	ref = busytown-mac-infra-release
 	path = external/uwb
