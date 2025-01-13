@@ -51,12 +51,14 @@
 /external/guice pdk
 /external/hamcrest pdk
 /external/jacoco pdk
+/external/jakarta.inject pdk
 /external/jarjar pdk
 /external/javapoet pdk
 /external/javasqlite pdk
 /external/jcommander pdk
 /external/jline pdk-fs tradefed pdk
 /external/jsoncpp pdk
+/external/jspecify pdk
 /external/jsr305 pdk
 /external/jsr330 pdk
 /external/junit pdk
