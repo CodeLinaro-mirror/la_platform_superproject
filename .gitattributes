@@ -63,6 +63,7 @@
 /external/jsr330 pdk
 /external/junit pdk
 /external/junit-params pdk
+/external/kotlin.metadata pdk
 /external/kotlinc pdk
 /external/kotlinx.metadata pdk
 /external/ksp pdk
