@@ -11,6 +11,7 @@
 /external/glib
 /external/boringssl
 /external/cares
+/external/crashpad
 /external/curl
 /external/deqp
 /external/dtc
