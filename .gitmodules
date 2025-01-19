@@ -1226,6 +1226,10 @@
 	ref = busytown-mac-infra-release
 	path = external/jacoco
 	url = ../external/jacoco
+[submodule "platform/external/jakarta.inject"]
+	ref = busytown-mac-infra-release
+	path = external/jakarta.inject
+	url = ../external/jakarta.inject
 [submodule "platform/external/jarjar"]
 	ref = busytown-mac-infra-release
 	path = external/jarjar
@@ -1318,6 +1322,10 @@
 	ref = busytown-mac-infra-release
 	path = external/kotlin-compose-compiler
 	url = ../external/kotlin-compose-compiler
+[submodule "platform/external/kotlin.metadata"]
+	ref = busytown-mac-infra-release
+	path = external/kotlin.metadata
+	url = ../external/kotlin.metadata
 [submodule "platform/external/kotlinc"]
 	ref = busytown-mac-infra-release
 	path = external/kotlinc
