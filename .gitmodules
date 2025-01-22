@@ -2034,10 +2034,6 @@
 	ref = sdk-release
 	path = external/python/rsa
 	url = ../external/python/rsa
-[submodule "platform/external/python/setuptools"]
-	ref = sdk-release
-	path = external/python/setuptools
-	url = ../external/python/setuptools
 [submodule "platform/external/python/six"]
 	ref = sdk-release
 	path = external/python/six
@@ -3702,6 +3698,10 @@
 	ref = sdk-release
 	path = system/libufdt
 	url = ../system/libufdt
+[submodule "platform/system/liburingutils"]
+	ref = sdk-release
+	path = system/liburingutils
+	url = ../system/liburingutils
 [submodule "platform/system/libvintf"]
 	ref = sdk-release
 	path = system/libvintf
