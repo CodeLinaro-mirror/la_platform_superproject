@@ -20,6 +20,7 @@
 	url = ../build/bazel
 [submodule "platform/external/abseil-cpp"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
 [submodule "platform/external/adt-infra"]
@@ -28,18 +29,22 @@
 	url = ../external/adt-infra
 [submodule "platform/external/angle"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/angle
 	url = ../external/angle
 [submodule "platform/external/astc-codec"]
 	branch = main
+	shallow = true
 	path = external/astc-codec
 	url = ../external/astc-codec
 [submodule "platform/external/bison"]
 	branch = main
+	shallow = true
 	path = external/bison
 	url = ../external/bison
 [submodule "platform/external/bluetooth/glib"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/glib
 	url = ../external/bluetooth/glib
 [submodule "platform/external/boringssl"]
@@ -49,6 +54,7 @@
 	url = ../external/boringssl
 [submodule "platform/external/c-ares"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/cares
 	url = ../external/c-ares
 [submodule "platform/external/crashpad"]
@@ -58,14 +64,17 @@
 	url = ../external/crashpad
 [submodule "platform/external/curl"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/curl
 	url = ../external/curl
 [submodule "platform/external/deqp"]
 	branch = main
+	shallow = true
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/dtc"]
 	branch = main
+	shallow = true
 	path = external/dtc
 	url = ../external/dtc
 [submodule "platform/external/flatbuffers"]
@@ -74,10 +83,12 @@
 	url = ../external/flatbuffers
 [submodule "platform/external/flex"]
 	branch = main
+	shallow = true
 	path = external/flex
 	url = ../external/flex
 [submodule "platform/external/fmtlib"]
 	branch = main
+	shallow = true
 	path = external/fmtlib
 	url = ../external/fmtlib
 [submodule "platform/external/gfxstream-protocols"]
@@ -86,6 +97,7 @@
 	url = ../external/gfxstream-protocols
 [submodule "platform/external/google-benchmark"]
 	branch = main
+	shallow = true
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "platform/external/google-breakpad"]
@@ -95,26 +107,32 @@
 	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
 	branch = main
+	shallow = true
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/grpc-grpc"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/grpc
 	url = ../external/grpc-grpc
 [submodule "platform/external/libpng"]
 	branch = main
+	shallow = true
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/libusb"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/libusb
 	url = ../external/libusb
 [submodule "platform/external/libxml2"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/libxml2
 	url = ../external/libxml2
 [submodule "platform/external/lz4"]
 	branch = main
+	shallow = true
 	path = external/lz4
 	url = ../external/lz4
 [submodule "platform/external/mesa3d"]
@@ -123,10 +141,12 @@
 	url = ../external/mesa3d
 [submodule "platform/external/mobly-bundled-snippets"]
 	branch = main
+	shallow = true
 	path = external/mobly-bundled-snippets
 	url = ../external/mobly-bundled-snippets
 [submodule "platform/external/nasm"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/nasm
 	url = ../external/nasm
 [submodule "platform/external/perfetto"]
@@ -134,6 +154,7 @@
 	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/qemu"]
@@ -142,38 +163,47 @@
 	url = ../external/qemu
 [submodule "platform/external/rapidjson"]
 	branch = main
+	shallow = true
 	path = external/rapidjson
 	url = ../external/rapidjson
 [submodule "platform/external/regex-re2"]
 	branch = main
+	shallow = true
 	path = external/regex-re2
 	url = ../external/regex-re2
 [submodule "platform/external/tink"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/tink
 	url = ../external/tink
 [submodule "platform/external/tinyobjloader"]
 	branch = main
+	shallow = true
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/external/virglrenderer"]
 	branch = crosvm-master
+	shallow = true
 	path = external/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/external/webrtc"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/webrtc
 	url = ../external/webrtc
 [submodule "platform/external/wpa_supplicant_8"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
 [submodule "platform/external/zlib"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/frameworks/native"]
 	branch = lollipop-release
+	shallow = true
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/hardware/google/aemu"]
@@ -186,6 +216,7 @@
 	url = ../hardware/google/gfxstream
 [submodule "platform/packages/modules/Bluetooth"]
 	branch = main
+	shallow = true
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
 [submodule "platform/prebuilts/android-emulator"]
@@ -316,9 +347,11 @@
 	url = ../tools/repohooks
 [submodule "toolchain/m4"]
 	branch = main
+	shallow = true
 	path = external/m4
 	url = ../../toolchain/m4
 [submodule "trusty/external/qemu-libslirp"]
 	branch = emu-master-dev
+	shallow = true
 	path = external/libslirp
 	url = ../../trusty/external/qemu-libslirp
