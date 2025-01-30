@@ -255,6 +255,10 @@
 	branch = main
 	path = external/lzma
 	url = ../external/lzma
+[submodule "platform/external/mpdecimal"]
+	branch = main
+	path = external/mpdecimal
+	url = ../external/mpdecimal
 [submodule "platform/external/musl"]
 	branch = main
 	path = external/musl
