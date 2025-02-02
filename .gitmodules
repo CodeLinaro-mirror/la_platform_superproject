@@ -334,6 +334,10 @@
 	ref = busytown-mac-infra-release
 	path = kernel/prebuilts/6.6/x86_64
 	url = ../../kernel/prebuilts/6.6/x86-64
+[submodule "kernel/prebuilts/common-modules/trusty/6.12/arm64"]
+	ref = busytown-mac-infra-release
+	path = kernel/prebuilts/common-modules/trusty/6.12/arm64
+	url = ../../kernel/prebuilts/common-modules/trusty/6.12/arm64
 [submodule "kernel/prebuilts/common-modules/trusty/6.6/arm64"]
 	ref = busytown-mac-infra-release
 	path = kernel/prebuilts/common-modules/trusty/6.6/arm64
@@ -2118,10 +2122,6 @@
 	ref = busytown-mac-infra-release
 	path = external/rust/crabbyavif
 	url = ../external/rust/crabbyavif
-[submodule "platform/external/rust/crates/libsqlite3-sys"]
-	ref = busytown-mac-infra-release
-	path = external/rust/crates/libsqlite3-sys
-	url = ../external/rust/crates/libsqlite3-sys
 [submodule "platform/external/rust/crates/openssl"]
 	ref = busytown-mac-infra-release
 	path = external/rust/crates/openssl
