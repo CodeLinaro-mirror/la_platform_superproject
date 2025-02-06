@@ -14,6 +14,10 @@
 	branch = emu-master-dev
 	path = external/angle
 	url = ../external/angle
+[submodule "platform/external/mesa3d"]
+	branch = main
+	path = external/mesa3d
+	url = ../external/mesa3d
 [submodule "platform/external/moltenvk"]
 	branch = emu-prebuilts
 	path = external/moltenvk
@@ -133,3 +137,6 @@
 	branch = emu-master-dev
 	path = tools/buildSrc
 	url = ../tools/buildSrc
+[submodule "trusty/external/qemu-meson"]
+	path = prebuilts/meson
+	url = ../../trusty/external/qemu-meson
