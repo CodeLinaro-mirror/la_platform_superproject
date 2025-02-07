@@ -166,10 +166,6 @@
 	branch = main
 	path = external/protobuf
 	url = ../external/protobuf
-[submodule "platform/external/python/cpython2"]
-	branch = main
-	path = external/python/cpython2
-	url = ../external/python/cpython2
 [submodule "platform/external/python/cpython3"]
 	branch = main
 	path = external/python/cpython3
