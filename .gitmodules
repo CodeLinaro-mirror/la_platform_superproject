@@ -1170,6 +1170,10 @@
 	ref = busytown-mac-infra-release
 	path = external/hyphenation-patterns
 	url = ../external/hyphenation-patterns
+[submodule "platform/external/iamf_tools"]
+	ref = busytown-mac-infra-release
+	path = external/iamf_tools
+	url = ../external/iamf_tools
 [submodule "platform/external/icing"]
 	ref = busytown-mac-infra-release
 	path = external/icing
@@ -1726,6 +1730,10 @@
 	ref = busytown-mac-infra-release
 	path = external/mp4parser
 	url = ../external/mp4parser
+[submodule "platform/external/mpdecimal"]
+	ref = busytown-mac-infra-release
+	path = external/mpdecimal
+	url = ../external/mpdecimal
 [submodule "platform/external/ms-tpm-20-ref"]
 	ref = busytown-mac-infra-release
 	path = external/ms-tpm-20-ref
@@ -1942,10 +1950,6 @@
 	ref = busytown-mac-infra-release
 	path = external/python/cachetools
 	url = ../external/python/cachetools
-[submodule "platform/external/python/cpython2"]
-	ref = busytown-mac-infra-release
-	path = external/python/cpython2
-	url = ../external/python/cpython2
 [submodule "platform/external/python/cpython3"]
 	ref = busytown-mac-infra-release
 	path = external/python/cpython3
@@ -4078,6 +4082,10 @@
 	ref = busytown-mac-infra-release
 	path = trusty/device/arm/vexpress-a15
 	url = ../../trusty/device/arm/vexpress-a15
+[submodule "trusty/device/common"]
+	ref = busytown-mac-infra-release
+	path = trusty/device/common
+	url = ../../trusty/device/common
 [submodule "trusty/device/desktop"]
 	ref = busytown-mac-infra-release
 	path = trusty/device/desktop

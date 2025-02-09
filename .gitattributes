@@ -291,6 +291,7 @@
 /external/hamcrest pdk
 /external/harfbuzz_ng pdk qcom_msm8x26
 /external/hyphenation-patterns pdk
+/external/iamf_tools pdk
 /external/icing pdk
 /external/icu pdk
 /external/igt-gpu-tools pdk
@@ -430,6 +431,7 @@
 /external/modp_b64 pdk
 /external/moshi pdk
 /external/mp4parser pdk
+/external/mpdecimal pdk
 /external/ms-tpm-20-ref pdk
 /external/mtools pdk
 /external/musl pdk
@@ -484,7 +486,6 @@
 /external/python/asn1crypto pdk
 /external/python/bumble pdk
 /external/python/cachetools pdk
-/external/python/cpython2 pdk
 /external/python/cpython3 pdk
 /external/python/dateutil pdk
 /external/python/enum34 vts pdk
@@ -1018,6 +1019,7 @@
 /trusty/user/app/storage pdk trusty
 /trusty/device/arm/generic-arm64 pdk trusty
 /trusty/device/arm/vexpress-a15 pdk trusty
+/trusty/device/common pdk trusty
 /trusty/device/desktop pdk-desktop android-desktop trusty
 /trusty/device/nxp/imx7d pdk trusty
 /trusty/device/x86/generic-x86_64 pdk trusty
