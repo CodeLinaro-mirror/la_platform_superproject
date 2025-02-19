@@ -8,11 +8,11 @@
 	shallow = true
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
-[submodule "platform/prebuilts/jdk/jdk11"]
+[submodule "platform/prebuilts/jdk/jdk21"]
 	branch = main
 	shallow = true
-	path = prebuilts/jdk/jdk11
-	url = ../prebuilts/jdk/jdk11
+	path = prebuilts/jdk/jdk21
+	url = ../prebuilts/jdk/jdk21
 [submodule "platform/tools/dokka-devsite-plugin"]
 	branch = main
 	path = tools/dokka-devsite-plugin
