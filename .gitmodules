@@ -451,6 +451,11 @@
 	shallow = true
 	path = prebuilts/rust
 	url = ../prebuilts/rust
+[submodule "platform/prebuilts/sdk"]
+	branch = main
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
 [submodule "platform/prebuilts/tools"]
 	branch = main
 	shallow = true

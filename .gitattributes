@@ -107,6 +107,7 @@
 /prebuilts/misc
 /prebuilts/remoteexecution-client pdk
 /prebuilts/rust pdk
+/prebuilts/sdk
 /prebuilts/tools pdk tools
 /system/apex pdk
 /system/core
