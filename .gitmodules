@@ -734,6 +734,10 @@
 	ref = sdk-release
 	path = external/chromium-webview
 	url = ../external/chromium-webview
+[submodule "platform/external/chromiumos-config"]
+	ref = sdk-release
+	path = external/chromiumos-config
+	url = ../external/chromiumos-config
 [submodule "platform/external/clang"]
 	ref = sdk-release
 	path = external/clang
@@ -3770,6 +3774,10 @@
 	ref = sdk-release
 	path = system/secretkeeper
 	url = ../system/secretkeeper
+[submodule "platform/system/secure_element"]
+	ref = sdk-release
+	path = system/secure_element
+	url = ../system/secure_element
 [submodule "platform/system/security"]
 	ref = sdk-release
 	path = system/security
