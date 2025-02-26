@@ -176,101 +176,11 @@
 	shallow = true
 	path = external/rnnoise
 	url = ../external/rnnoise
-[submodule "platform/external/rust/crates/anyhow"]
+[submodule "platform/external/rust/android-crates-io"]
 	branch = main
 	shallow = true
-	path = external/rust/crates/anyhow
-	url = ../external/rust/crates/anyhow
-[submodule "platform/external/rust/crates/bitflags"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/bitflags
-	url = ../external/rust/crates/bitflags
-[submodule "platform/external/rust/crates/byteorder"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/byteorder
-	url = ../external/rust/crates/byteorder
-[submodule "platform/external/rust/crates/cfg-if"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/cfg-if
-	url = ../external/rust/crates/cfg-if
-[submodule "platform/external/rust/crates/libc"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/libc
-	url = ../external/rust/crates/libc
-[submodule "platform/external/rust/crates/log"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/log
-	url = ../external/rust/crates/log
-[submodule "platform/external/rust/crates/memoffset"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/memoffset
-	url = ../external/rust/crates/memoffset
-[submodule "platform/external/rust/crates/nix"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/nix
-	url = ../external/rust/crates/nix
-[submodule "platform/external/rust/crates/once_cell"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/once_cell
-	url = ../external/rust/crates/once_cell
-[submodule "platform/external/rust/crates/pkg-config"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/pkg-config
-	url = ../external/rust/crates/pkg-config
-[submodule "platform/external/rust/crates/proc-macro2"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/proc-macro2
-	url = ../external/rust/crates/proc-macro2
-[submodule "platform/external/rust/crates/quote"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/quote
-	url = ../external/rust/crates/quote
-[submodule "platform/external/rust/crates/remain"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/remain
-	url = ../external/rust/crates/remain
-[submodule "platform/external/rust/crates/syn"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/syn
-	url = ../external/rust/crates/syn
-[submodule "platform/external/rust/crates/thiserror"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/thiserror
-	url = ../external/rust/crates/thiserror
-[submodule "platform/external/rust/crates/thiserror-impl"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/thiserror-impl
-	url = ../external/rust/crates/thiserror-impl
-[submodule "platform/external/rust/crates/unicode-ident"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/unicode-ident
-	url = ../external/rust/crates/unicode-ident
-[submodule "platform/external/rust/crates/zerocopy"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/zerocopy
-	url = ../external/rust/crates/zerocopy
-[submodule "platform/external/rust/crates/zerocopy-derive"]
-	branch = main
-	shallow = true
-	path = external/rust/crates/zerocopy-derive
-	url = ../external/rust/crates/zerocopy-derive
+	path = external/rust/android-crates-io
+	url = ../external/rust/android-crates-io
 [submodule "platform/external/tink"]
 	branch = emu-dev
 	shallow = true
