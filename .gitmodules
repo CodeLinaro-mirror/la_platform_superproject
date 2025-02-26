@@ -388,7 +388,7 @@
 	path = external/compiler-rt
 	url = ../external/compiler-rt
 [submodule "platform/external/conscrypt"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-cts-dev
 	path = external/conscrypt
 	url = ../external/conscrypt
 [submodule "platform/external/crcalc"]
