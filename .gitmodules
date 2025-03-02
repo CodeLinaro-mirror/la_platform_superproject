@@ -734,6 +734,10 @@
 	ref = busytown-mac-infra-release
 	path = external/chromium-webview
 	url = ../external/chromium-webview
+[submodule "platform/external/chromiumos-config"]
+	ref = busytown-mac-infra-release
+	path = external/chromiumos-config
+	url = ../external/chromiumos-config
 [submodule "platform/external/clang"]
 	ref = busytown-mac-infra-release
 	path = external/clang
@@ -3770,6 +3774,10 @@
 	ref = busytown-mac-infra-release
 	path = system/secretkeeper
 	url = ../system/secretkeeper
+[submodule "platform/system/secure_element"]
+	ref = busytown-mac-infra-release
+	path = system/secure_element
+	url = ../system/secure_element
 [submodule "platform/system/security"]
 	ref = busytown-mac-infra-release
 	path = system/security
