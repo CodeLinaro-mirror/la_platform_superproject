@@ -1022,7 +1022,6 @@
 /toolchain/llvm_android
 /toolchain/pgo-profiles pdk
 /toolchain/prebuilts/ndk/releases
-/toolchain/prebuilts/sysroot/platform/riscv64-linux-android
 /toolchain/xz
 /tools/platform-compat pdk-fs pdk-cw-fs pdk sysui-studio
 /trusty/user/app/authmgr pdk trusty
