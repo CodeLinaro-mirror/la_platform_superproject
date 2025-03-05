@@ -121,10 +121,6 @@
 	shallow = true
 	path = toolchain/prebuilts/ndk/releases
 	url = ../../toolchain/prebuilts/ndk/releases
-[submodule "toolchain/prebuilts/sysroot/platform/riscv64-linux-android"]
-	branch = main
-	path = toolchain/prebuilts/sysroot/platform/riscv64-linux-android
-	url = ../../toolchain/prebuilts/sysroot/platform/riscv64-linux-android
 [submodule "toolchain/xz"]
 	branch = main
 	path = toolchain/xz
