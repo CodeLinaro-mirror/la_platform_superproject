@@ -2314,6 +2314,10 @@
 	ref = sdk-release
 	path = external/tink
 	url = ../external/tink
+[submodule "platform/external/tink-java"]
+	ref = sdk-release
+	path = external/tink-java
+	url = ../external/tink-java
 [submodule "platform/external/tinyalsa"]
 	ref = sdk-release
 	path = external/tinyalsa
