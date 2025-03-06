@@ -42,10 +42,6 @@
 	branch = main
 	path = ndk
 	url = ../ndk
-[submodule "platform/prebuilts/build-tools"]
-	branch = main
-	path = prebuilts/build-tools
-	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
 	branch = main
 	path = prebuilts/clang/host/darwin-x86

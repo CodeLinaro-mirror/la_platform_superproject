@@ -9,7 +9,6 @@
 /external/shaderc/spirv-tools presubmit
 /external/vulkan-headers presubmit
 /ndk presubmit
-/prebuilts/build-tools
 /prebuilts/clang/host/darwin-x86
 /prebuilts/clang/host/linux-x86 presubmit
 /prebuilts/clang/host/windows-x86
