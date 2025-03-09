@@ -2314,6 +2314,10 @@
 	ref = busytown-mac-infra-release
 	path = external/tink
 	url = ../external/tink
+[submodule "platform/external/tink-java"]
+	ref = busytown-mac-infra-release
+	path = external/tink-java
+	url = ../external/tink-java
 [submodule "platform/external/tinyalsa"]
 	ref = busytown-mac-infra-release
 	path = external/tinyalsa
