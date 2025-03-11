@@ -49,6 +49,8 @@
 /external/jspecify
 /external/jsr305
 /external/kotlinc
+/external/kotlinx.atomicfu
+/external/kotlinx.coroutines
 /external/kotlinx.metadata
 /external/ktfmt
 /external/kythe
@@ -109,6 +111,7 @@
 /prebuilts/rust pdk
 /prebuilts/sdk
 /prebuilts/tools pdk tools
+/sdk
 /system/apex pdk
 /system/core
 /system/libbase

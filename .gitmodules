@@ -203,6 +203,14 @@
 	branch = main
 	path = external/kotlinc
 	url = ../external/kotlinc
+[submodule "platform/external/kotlinx.atomicfu"]
+	branch = main
+	path = external/kotlinx.atomicfu
+	url = ../external/kotlinx.atomicfu
+[submodule "platform/external/kotlinx.coroutines"]
+	branch = main
+	path = external/kotlinx.coroutines
+	url = ../external/kotlinx.coroutines
 [submodule "platform/external/kotlinx.metadata"]
 	branch = main
 	path = external/kotlinx.metadata
@@ -461,6 +469,10 @@
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
+[submodule "platform/sdk"]
+	branch = main
+	path = sdk
+	url = ../sdk
 [submodule "platform/system/apex"]
 	branch = main
 	path = system/apex
