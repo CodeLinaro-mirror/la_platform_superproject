@@ -1021,7 +1021,6 @@
 /tools/tradefederation/prebuilts tradefed pdk
 /tools/treble pdk tools
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
-/toolchain/binutils
 /toolchain/common
 /toolchain/llvm-project
 /toolchain/llvm_android

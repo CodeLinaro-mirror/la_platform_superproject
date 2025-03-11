@@ -4211,10 +4211,6 @@
 	branch = main
 	path = tools/trebuchet
 	url = ../tools/trebuchet
-[submodule "toolchain/binutils"]
-	branch = main
-	path = toolchain/binutils
-	url = ../../toolchain/binutils
 [submodule "toolchain/common"]
 	branch = main
 	path = toolchain/common
