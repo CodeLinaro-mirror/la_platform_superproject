@@ -202,6 +202,14 @@
 	ref = build-tools-release
 	path = external/kotlinc
 	url = ../external/kotlinc
+[submodule "platform/external/kotlinx.atomicfu"]
+	ref = build-tools-release
+	path = external/kotlinx.atomicfu
+	url = ../external/kotlinx.atomicfu
+[submodule "platform/external/kotlinx.coroutines"]
+	ref = build-tools-release
+	path = external/kotlinx.coroutines
+	url = ../external/kotlinx.coroutines
 [submodule "platform/external/kotlinx.metadata"]
 	ref = build-tools-release
 	path = external/kotlinx.metadata
@@ -434,10 +442,18 @@
 	ref = build-tools-release
 	path = prebuilts/rust
 	url = ../prebuilts/rust
+[submodule "platform/prebuilts/sdk"]
+	ref = build-tools-release
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
 [submodule "platform/prebuilts/tools"]
 	ref = build-tools-release
 	path = prebuilts/tools
 	url = ../prebuilts/tools
+[submodule "platform/sdk"]
+	ref = build-tools-release
+	path = sdk
+	url = ../sdk
 [submodule "platform/system/apex"]
 	ref = build-tools-release
 	path = system/apex
