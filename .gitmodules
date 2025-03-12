@@ -950,6 +950,10 @@
 	ref = sdk-release
 	path = external/fft2d
 	url = ../external/fft2d
+[submodule "platform/external/fhir/spec/r4"]
+	ref = sdk-release
+	path = external/fhir/spec/r4
+	url = ../external/fhir/spec/r4
 [submodule "platform/external/firebase-messaging"]
 	ref = sdk-release
 	path = external/firebase-messaging
@@ -1294,6 +1298,10 @@
 	ref = sdk-release
 	path = external/jsmn
 	url = ../external/jsmn
+[submodule "platform/external/json-schema-validator"]
+	ref = sdk-release
+	path = external/json-schema-validator
+	url = ../external/json-schema-validator
 [submodule "platform/external/jsoncpp"]
 	ref = sdk-release
 	path = external/jsoncpp
@@ -2374,6 +2382,10 @@
 	ref = sdk-release
 	path = external/uwb
 	url = ../external/uwb
+[submodule "platform/external/v4l-utils"]
+	ref = sdk-release
+	path = external/v4l-utils
+	url = ../external/v4l-utils
 [submodule "platform/external/v4l2_codec2"]
 	ref = sdk-release
 	path = external/v4l2_codec2
@@ -2650,6 +2662,10 @@
 	ref = sdk-release
 	path = hardware/google/camera
 	url = ../hardware/google/camera
+[submodule "platform/hardware/google/display/common"]
+	ref = sdk-release
+	path = hardware/google/display/common
+	url = ../hardware/google/display/common
 [submodule "platform/hardware/google/gchips"]
 	ref = sdk-release
 	path = hardware/google/gchips
@@ -2942,6 +2958,10 @@
 	ref = sdk-release
 	path = packages/apps/Messaging
 	url = ../packages/apps/Messaging
+[submodule "platform/packages/apps/Multiuser"]
+	ref = sdk-release
+	path = packages/apps/Multiuser
+	url = ../packages/apps/Multiuser
 [submodule "platform/packages/apps/Music"]
 	ref = sdk-release
 	path = packages/apps/Music
