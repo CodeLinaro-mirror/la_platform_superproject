@@ -42,6 +42,7 @@
 /hardware/generic/goldfish
 /hardware/google/aemu
 /hardware/google/gfxstream
+/prebuilts/android-emulator-build/common
 /prebuilts/android-emulator-build/qemu-android-deps
 /prebuilts/bazel/darwin-x86_64 notdefault platform-darwin
 /prebuilts/bazel/linux-x86_64 platform-linux notdefault
