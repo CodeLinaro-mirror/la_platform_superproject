@@ -2948,6 +2948,10 @@
 	ref = refs/tags/android-15.0.0_r21
 	path = packages/apps/DevCamera
 	url = ../packages/apps/DevCamera
+[submodule "platform/packages/apps/DeviceDiagnostics"]
+	ref = refs/tags/android-15.0.0_r21
+	path = packages/apps/DeviceDiagnostics
+	url = ../packages/apps/DeviceDiagnostics
 [submodule "platform/packages/apps/Dialer"]
 	ref = refs/tags/android-15.0.0_r21
 	path = packages/apps/Dialer
