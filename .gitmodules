@@ -2948,6 +2948,10 @@
 	branch = android15-qpr2-release
 	path = packages/apps/DevCamera
 	url = ../packages/apps/DevCamera
+[submodule "platform/packages/apps/DeviceDiagnostics"]
+	branch = android15-qpr2-release
+	path = packages/apps/DeviceDiagnostics
+	url = ../packages/apps/DeviceDiagnostics
 [submodule "platform/packages/apps/Dialer"]
 	branch = android15-qpr2-release
 	path = packages/apps/Dialer
