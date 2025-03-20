@@ -3866,6 +3866,10 @@
 	ref = sdk-release
 	path = system/vold
 	url = ../system/vold
+[submodule "platform/system/zygote"]
+	ref = sdk-release
+	path = system/zygote
+	url = ../system/zygote
 [submodule "platform/test/app_compat/csuite"]
 	ref = sdk-release
 	path = test/app_compat/csuite
