@@ -4562,7 +4562,7 @@
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/prebuilts/sdk"]
-	branch = android14-release
+	branch = android14-tests-dev
 	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
