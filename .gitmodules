@@ -9,12 +9,12 @@
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
 [submodule "platform/prebuilts/jdk/jdk21"]
-	branch = main
+	branch = androidx-main
 	shallow = true
 	path = prebuilts/jdk/jdk21
 	url = ../prebuilts/jdk/jdk21
 [submodule "platform/tools/dokka-devsite-plugin"]
-	branch = main
+	branch = androidx-main
 	path = tools/dokka-devsite-plugin
 	url = ../tools/dokka-devsite-plugin
 [submodule "platform/tools/external/gradle"]
@@ -23,6 +23,6 @@
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/repohooks"]
-	branch = main
+	branch = androidx-main
 	path = tools/repohooks
 	url = ../tools/repohooks
