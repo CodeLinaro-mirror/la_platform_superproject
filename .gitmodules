@@ -6,6 +6,10 @@
 	ref = androidx-navigation-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
+[submodule "platform/external/compose-hero-benchmarks/poxedex-compose"]
+	ref = androidx-navigation-release
+	path = external/compose-hero-benchmarks/poxedex-compose
+	url = ../external/compose-hero-benchmarks/poxedex-compose
 [submodule "platform/external/icing"]
 	ref = androidx-navigation-release
 	path = external/icing
@@ -46,6 +50,10 @@
 	ref = androidx-navigation-release
 	path = golden
 	url = ../frameworks/support-golden
+[submodule "platform/prebuilts/androidx/chrome-for-testing"]
+	ref = androidx-navigation-release
+	path = prebuilts/androidx/chrome-for-testing
+	url = ../prebuilts/androidx/chrome-for-testing
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	ref = androidx-navigation-release
 	path = prebuilts/androidx/exoplayer
@@ -62,6 +70,10 @@
 	ref = androidx-navigation-release
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
+[submodule "platform/prebuilts/androidx/javascript-for-kotlin"]
+	ref = androidx-navigation-release
+	path = prebuilts/androidx/javascript-for-kotlin
+	url = ../prebuilts/androidx/javascript-for-kotlin
 [submodule "platform/prebuilts/androidx/konan"]
 	ref = androidx-navigation-release
 	path = prebuilts/androidx/konan
@@ -70,6 +82,10 @@
 	ref = androidx-navigation-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/xr"]
+	ref = androidx-navigation-release
+	path = prebuilts/androidx/xr
+	url = ../prebuilts/androidx/xr
 [submodule "platform/prebuilts/build-tools"]
 	ref = androidx-navigation-release
 	path = prebuilts/build-tools
