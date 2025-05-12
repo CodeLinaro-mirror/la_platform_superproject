@@ -6,6 +6,10 @@
 	ref = androidx-webkit-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
+[submodule "platform/external/compose-hero-benchmarks/pokedex-views"]
+	ref = androidx-webkit-release
+	path = external/compose-hero-benchmarks/pokedex-views
+	url = ../external/compose-hero-benchmarks/pokedex-views
 [submodule "platform/external/compose-hero-benchmarks/poxedex-compose"]
 	ref = androidx-webkit-release
 	path = external/compose-hero-benchmarks/poxedex-compose
