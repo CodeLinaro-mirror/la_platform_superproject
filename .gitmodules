@@ -1,0 +1,88 @@
+[submodule "platform/build"]
+	branch = android-support-test
+	path = build
+	url = ../build
+[submodule "platform/external/antlr"]
+	branch = android-support-test
+	path = external/antlr
+	url = ../external/antlr
+[submodule "platform/external/dexmaker"]
+	branch = android-support-test
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "platform/external/doclava"]
+	branch = android-support-test
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/external/emma"]
+	branch = android-support-test
+	path = external/emma
+	url = ../external/emma
+[submodule "platform/external/guava"]
+	branch = android-support-test
+	path = external/guava
+	url = ../external/guava
+[submodule "platform/external/hamcrest"]
+	branch = android-support-test
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "platform/external/jarjar"]
+	branch = android-support-test
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "platform/external/jsilver"]
+	branch = android-support-test
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "platform/external/jsr305"]
+	branch = android-support-test
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "platform/external/junit"]
+	branch = android-support-test
+	path = external/junit
+	url = ../external/junit
+[submodule "platform/external/mockito"]
+	branch = android-support-test
+	path = external/mockito
+	url = ../external/mockito
+[submodule "platform/external/objenesis"]
+	branch = android-support-test
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "platform/external/proguard"]
+	branch = android-support-test
+	path = external/proguard
+	url = ../external/proguard
+[submodule "platform/external/tagsoup"]
+	branch = android-support-test
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "platform/frameworks/testing"]
+	branch = android-support-test
+	path = frameworks/testing
+	url = ../frameworks/testing
+[submodule "platform/frameworks/uiautomator"]
+	branch = android-support-test
+	path = frameworks/uiautomator
+	url = ../frameworks/uiautomator
+[submodule "platform/prebuilts/gradle-plugin"]
+	branch = android-support-test
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "platform/prebuilts/maven_repo/android"]
+	branch = android-support-test
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "platform/prebuilts/misc"]
+	branch = android-support-test
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "platform/prebuilts/sdk"]
+	branch = android-support-test
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/prebuilts/tools"]
+	branch = android-support-test
+	path = prebuilts/tools
+	url = ../prebuilts/tools
