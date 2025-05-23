@@ -1,0 +1,88 @@
+[submodule "platform/build"]
+	branch = android-live-tv-l-mr1
+	path = build
+	url = ../build
+[submodule "platform/external/apache-http"]
+	branch = android-live-tv-l-mr1
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "platform/external/dexmaker"]
+	branch = android-live-tv-l-mr1
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "platform/external/guava"]
+	branch = android-live-tv-l-mr1
+	path = external/guava
+	url = ../external/guava
+[submodule "platform/external/hamcrest"]
+	branch = android-live-tv-l-mr1
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "platform/external/jsr305"]
+	branch = android-live-tv-l-mr1
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "platform/external/junit"]
+	branch = android-live-tv-l-mr1
+	path = external/junit
+	url = ../external/junit
+[submodule "platform/external/mockito"]
+	branch = android-live-tv-l-mr1
+	path = external/mockito
+	url = ../external/mockito
+[submodule "platform/external/objenesis"]
+	branch = android-live-tv-l-mr1
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "platform/external/proguard"]
+	branch = android-live-tv-l-mr1
+	path = external/proguard
+	url = ../external/proguard
+[submodule "platform/packages/apps/TV"]
+	branch = android-live-tv-l-mr1
+	path = packages/apps/TV
+	url = ../packages/apps/TV
+[submodule "platform/prebuilts/clang/darwin-x86/host/3.5"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/clang/darwin-x86/host/3.5
+	url = ../prebuilts/clang/darwin-x86/host/3.5
+[submodule "platform/prebuilts/clang/linux-x86/host/3.5"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/clang/linux-x86/host/3.5
+	url = ../prebuilts/clang/linux-x86/host/3.5
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8
+[submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/gcc/darwin-x86/host/headers
+	url = ../prebuilts/gcc/darwin-x86/host/headers
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8
+[submodule "platform/prebuilts/misc"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "platform/prebuilts/sdk"]
+	branch = android-live-tv-l-mr1
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
