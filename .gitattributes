@@ -1,0 +1,33 @@
+/external/libyuv
+/external/ukey2 pdk
+/frameworks/opt/car/setupwizard pdk
+/packages/apps/Car/BugReport pdk-fs
+/packages/apps/Car/Calendar pdk-fs
+/packages/apps/Car/CompanionDeviceSupport pdk-fs
+/packages/apps/Car/Dashcam pdk-fs
+/packages/apps/Car/Dialer pdk-fs
+/packages/apps/Car/DriverUI pdk-fs
+/packages/apps/Car/Media pdk-fs
+/packages/apps/Car/Messenger pdk-fs
+/packages/apps/Car/Radio pdk-fs
+/packages/apps/Car/Templates pdk-fs
+/packages/apps/Car/libs pdk-fs
+/packages/apps/Car/tests pdk-fs
+/prebuilts/checkstyle pdk
+/prebuilts/cmake/darwin-x86
+/prebuilts/cmake/linux-x86
+/prebuilts/fullsdk-darwin/build-tools notdefault platform-darwin
+/prebuilts/fullsdk-darwin/platform-tools notdefault platform-darwin
+/prebuilts/fullsdk-linux/build-tools platform-linux notdefault
+/prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
+/prebuilts/fullsdk-darwin/platforms
+/prebuilts/fullsdk-darwin/sources
+/prebuilts/jdk/jdk11 pdk
+/prebuilts/jdk/jdk17 pdk
+/prebuilts/jdk/jdk21 pdk
+/prebuilts/fullsdk-darwin/ninja
+/prebuilts/fullsdk-linux/ninja
+/prebuilts/sdk pdk
+/tools/repohooks cts tradefed developers pdk tools adt-infra motodev
+/prebuilts/fullsdk-darwin/ndk-bundle
+/prebuilts/fullsdk-linux/ndk-bundle
