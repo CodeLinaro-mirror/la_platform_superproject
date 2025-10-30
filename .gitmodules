@@ -6,6 +6,10 @@
 	ref = androidx-activity-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
+[submodule "platform/external/compose-hero-benchmarks/pokedex-views"]
+	ref = androidx-activity-release
+	path = external/compose-hero-benchmarks/pokedex-views
+	url = ../external/compose-hero-benchmarks/pokedex-views
 [submodule "platform/external/compose-hero-benchmarks/poxedex-compose"]
 	ref = androidx-activity-release
 	path = external/compose-hero-benchmarks/poxedex-compose
@@ -82,6 +86,10 @@
 	ref = androidx-activity-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/webgpu"]
+	ref = androidx-activity-release
+	path = prebuilts/androidx/webgpu
+	url = ../prebuilts/androidx/webgpu
 [submodule "platform/prebuilts/androidx/xr"]
 	ref = androidx-activity-release
 	path = prebuilts/androidx/xr
