@@ -86,6 +86,10 @@
 	ref = androidx-main-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/webgpu"]
+	ref = androidx-main-release
+	path = prebuilts/androidx/webgpu
+	url = ../prebuilts/androidx/webgpu
 [submodule "platform/prebuilts/androidx/xr"]
 	ref = androidx-main-release
 	path = prebuilts/androidx/xr
