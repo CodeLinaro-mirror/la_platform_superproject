@@ -7,7 +7,6 @@
 /device/generic/car pdk
 /device/generic/common pdk
 /device/generic/goldfish pdk
-/device/generic/goldfish-opengl pdk
 /device/generic/trusty pdk
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
@@ -50,8 +49,6 @@
 /bootable/libbootloader vts pdk
 /bootable/recovery pdk
 /build/make pdk sysui-studio
-/build/bazel pdk
-/build/bazel_common_rules pdk
 /build/blueprint tradefed pdk
 /build/pesto pdk
 /build/release tradefed pdk sysui-studio
@@ -65,12 +62,15 @@
 /external/ComputeLibrary pdk-gs-arm pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
+/external/Little-CMS pdk
 /external/MPAndroidChart pdk
-/external/OpenCL-CLHPP
-/external/OpenCL-CTS
-/external/OpenCL-Headers
-/external/OpenCL-ICD-Loader
+/external/OpenCL-CLHPP pdk
+/external/OpenCL-CTS pdk
+/external/OpenCL-Headers pdk
+/external/OpenCL-ICD-Loader pdk
 /external/OpenCSD pdk
+/external/SPIRV-Headers pdk
+/external/SPIRV-Tools pdk
 /external/TestParameterInjector pdk
 /external/XNNPACK pdk
 /external/aac pdk
@@ -98,23 +98,13 @@
 /external/arm-trusted-firmware pdk
 /external/armnn pdk-gs-arm pdk-lassen
 /external/auto pdk
+/external/automotive-design-compose-protos pdk
 /external/autotest pdk-fs
 /external/avb pdk
 /external/aws-crt-java tradefed pdk
 /external/aws-eventstream-java tradefed pdk
 /external/aws-sdk-java-v2 tradefed pdk
-/external/bazel-skylib pdk
-/external/bazelbuild-kotlin-rules pdk
-/external/bazelbuild-platforms pdk
 /external/bazelbuild-remote-apis tradefed pdk
-/external/bazelbuild-rules_android pdk
-/external/bazelbuild-rules_cc pdk
-/external/bazelbuild-rules_go pdk
-/external/bazelbuild-rules_java pdk
-/external/bazelbuild-rules_license pdk
-/external/bazelbuild-rules_python pdk
-/external/bazelbuild-rules_rust pdk
-/external/bazelbuild-rules_testing pdk
 /external/bc pdk
 /external/bcc pdk
 /external/blktrace pdk
@@ -124,17 +114,21 @@
 /external/brotli pdk
 /external/bsdiff pdk
 /external/bzip2 pdk
+/external/cairo pdk
 /external/caliper pdk
 /external/capstone pdk
 /external/cblas pdk
 /external/cbor-java pdk
 /external/chromium-crossbench pdk
 /external/chromium-trace pdk
+/external/chromium-web-tests pdk
 /external/chromium-webview pdk
 /external/chromiumos-config pdk
 /external/clang pdk
 /external/cldr pdk
-/external/clpeak
+/external/clpeak pdk
+/external/clspv pdk
+/external/clvk pdk
 /external/cn-cbor pdk
 /external/compiler-rt pdk
 /external/connectedappssdk pdk
@@ -142,7 +136,6 @@
 /external/coreboot pdk
 /external/cpu_features pdk
 /external/cpuinfo pdk
-/external/crcalc pdk
 /external/cronet pdk
 /external/crosvm pdk
 /external/curl pdk
@@ -170,6 +163,7 @@
 /external/elfutils pdk
 /external/emboss pdk
 /external/emma pdk
+/external/epson-inkjet-printer-escpr pdk
 /external/erofs-utils pdk
 /external/error_prone pdk
 /external/escapevelocity pdk
@@ -226,7 +220,6 @@
 /external/google-fruit pdk
 /external/google-java-format pdk
 /external/google-smali pdk
-/external/google-styleguide pdk
 /external/googleapis tradefed pdk
 /external/googletest pdk
 /external/gptfdisk pdk
@@ -241,6 +234,7 @@
 /external/gwp_asan pdk
 /external/hamcrest pdk
 /external/harfbuzz_ng pdk qcom_msm8x26
+/external/hplip pdk
 /external/hyphenation-patterns pdk
 /external/iamf_tools pdk
 /external/icing pdk
@@ -249,6 +243,7 @@
 /external/image_io pdk
 /external/ims pdk
 /external/intel-media-driver pdk
+/external/intel-pmt-metadata pdk
 /external/iperf3 pdk
 /external/iproute2 pdk
 /external/iptables pdk
@@ -280,6 +275,7 @@
 /external/jsr330 pdk
 /external/junit pdk
 /external/junit-params pdk
+/external/jxmpp pdk
 /external/kernel-headers pdk
 /external/kmod pdk
 /external/kotlin-compose-compiler pdk
@@ -300,12 +296,14 @@
 /external/libbackup pdk
 /external/libbpf pdk
 /external/libbrillo pdk
+/external/libcamera pdk
 /external/libcap pdk
 /external/libcap-ng pdk
 /external/libchrome pdk
 /external/libchrome-gestures pdk
 /external/libconfig pdk
 /external/libcups pdk-fs pdk-cw-fs
+/external/libcupsfilters pdk
 /external/libcxx pdk
 /external/libcxxabi pdk
 /external/libdav1d pdk
@@ -338,11 +336,13 @@
 /external/libpciaccess pdk
 /external/libphonenumber pdk
 /external/libpng pdk
+/external/libppd pdk
 /external/libprotobuf-mutator pdk
 /external/libsrtp2 pdk
 /external/libtextclassifier pdk
 /external/libtraceevent pdk
 /external/libtracefs pdk
+/external/libudev-zero pdk
 /external/libultrahdr pdk
 /external/liburing pdk
 /external/libusb pdk
@@ -355,6 +355,7 @@
 /external/libxaac pdk
 /external/libxkbcommon pdk
 /external/libxml2 pdk libxml2
+/external/libyaml pdk
 /external/libyuv libyuv pdk
 /external/licenseclassifier pdk
 /external/linux-firmware pdk
@@ -371,6 +372,7 @@
 /external/mdnsresponder pdk
 /external/mesa3d pdk-fs pdk-cw-fs
 /external/mime-support pdk
+/external/minidns pdk
 /external/minigbm pdk
 /external/minijail pdk
 /external/mksh pdk
@@ -411,9 +413,11 @@
 /external/one-true-awk pdk
 /external/open-dice pdk
 /external/opencensus-java tradefed pdk
+/external/opencl/llvm-project pdk
 /external/openscreen pdk
 /external/openthread pdk
 /external/openwrt-prebuilts pdk
+/external/opus-experimental pdk
 /external/ot-br-posix pdk
 /external/ow2-asm pdk
 /external/owasp/java-encoder pdk
@@ -430,6 +434,7 @@
 /external/pffft pdk
 /external/piex pdk
 /external/pigweed pdk
+/external/pixman pdk
 /external/ply pdk
 /external/private-join-and-compute pdk
 /external/protobuf pdk sysui-studio
@@ -440,6 +445,7 @@
 /external/python/asn1crypto pdk
 /external/python/bumble pdk
 /external/python/cachetools pdk
+/external/python/cpplint pdk
 /external/python/cpython3 pdk
 /external/python/dateutil pdk
 /external/python/enum34 vts pdk
@@ -454,6 +460,7 @@
 /external/python/oauth2client vts pdk
 /external/python/parse_type vts pdk
 /external/python/portpicker pdk
+/external/python/ptyprocess pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
 /external/python/pycparser pdk
@@ -464,12 +471,15 @@
 /external/python/pyyaml pdk
 /external/python/rsa vts pdk
 /external/python/six vts pdk
+/external/python/snippet-uiautomator pdk
 /external/python/timeout-decorator pdk
 /external/python/typing pdk
 /external/python/typing_extensions pdk
 /external/python/uritemplates vts pdk
 /external/python/watchdog pdk
 /external/pytorch pdk
+/external/qdl pdk
+/external/qpdf pdk
 /external/rappor pdk
 /external/regex-re2 pdk
 /external/renderscript-intrinsics-replacement-toolkit pdk sysui-studio
@@ -679,6 +689,7 @@
 /packages/apps/Dialer pdk-fs
 /packages/apps/DocumentsUI pdk-fs pdk-cw-fs
 /packages/apps/EmergencyInfo pdk-fs
+/packages/apps/EyeDropper pdk-fs
 /packages/apps/Gallery pdk-fs
 /packages/apps/Gallery2 pdk-fs
 /packages/apps/HTMLViewer pdk-fs
@@ -750,6 +761,7 @@
 /packages/modules/Scheduling pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
+/packages/modules/Telecom pdk-fs pdk-cw-fs
 /packages/modules/Telephony pdk-fs pdk-cw-fs
 /packages/modules/ThreadNetwork pdk-fs pdk-cw-fs
 /packages/modules/UprobeStats pdk-fs pdk-cw-fs
@@ -781,6 +793,7 @@
 /packages/services/Iwlan pdk-fs pdk-cw-fs
 /packages/services/Mms pdk-fs pdk-cw-fs
 /packages/services/Mtp pdk-fs pdk-cw-fs
+/packages/services/QualifiedNetworksService pdk-fs pdk-cw-fs
 /packages/services/Telecomm pdk-fs pdk-cw-fs
 /packages/services/Telephony pdk-fs pdk-cw-fs
 /packages/wallpapers/LivePicker pdk-fs
@@ -792,8 +805,6 @@
 /prebuilts/android-emulator pdk-fs
 /prebuilts/asuite pdk
 /prebuilts/bazel/common pdk
-/prebuilts/bazel/darwin-x86_64 darwin pdk notdefault platform-darwin
-/prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools pdk sysui-studio
 /prebuilts/bundletool pdk
 /prebuilts/checkcolor pdk sysui-studio
@@ -834,6 +845,7 @@
 /prebuilts/module_sdk/Scheduling pdk
 /prebuilts/module_sdk/SdkExtensions pdk
 /prebuilts/module_sdk/StatsD pdk
+/prebuilts/module_sdk/Telephony pdk
 /prebuilts/module_sdk/Uwb pdk
 /prebuilts/module_sdk/Wifi pdk
 /prebuilts/module_sdk/art pdk
