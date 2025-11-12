@@ -150,10 +150,6 @@
 	ref = androidx-xr-runtime-pre-release
 	path = prebuilts/fullsdk-darwin/sources
 	url = ../prebuilts/fullsdk/sources
-[submodule "platform/prebuilts/jdk/jdk17"]
-	ref = androidx-xr-runtime-pre-release
-	path = prebuilts/jdk/jdk17
-	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	ref = androidx-xr-runtime-pre-release
 	path = prebuilts/jdk/jdk21
