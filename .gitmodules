@@ -86,6 +86,10 @@
 	ref = androidx-webkit-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/webgpu"]
+	ref = androidx-webkit-release
+	path = prebuilts/androidx/webgpu
+	url = ../prebuilts/androidx/webgpu
 [submodule "platform/prebuilts/androidx/xr"]
 	ref = androidx-webkit-release
 	path = prebuilts/androidx/xr
@@ -146,10 +150,6 @@
 	ref = androidx-webkit-release
 	path = prebuilts/fullsdk-darwin/sources
 	url = ../prebuilts/fullsdk/sources
-[submodule "platform/prebuilts/jdk/jdk17"]
-	ref = androidx-webkit-release
-	path = prebuilts/jdk/jdk17
-	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	ref = androidx-webkit-release
 	path = prebuilts/jdk/jdk21
