@@ -72,6 +72,7 @@
 /external/SPIRV-Headers pdk
 /external/SPIRV-Tools pdk
 /external/TestParameterInjector pdk
+/external/XMP-Toolkit-SDK pdk
 /external/XNNPACK pdk
 /external/aac pdk
 /external/abseil-cpp pdk
@@ -99,7 +100,6 @@
 /external/armnn pdk-gs-arm pdk-lassen
 /external/auto pdk
 /external/automotive-design-compose-protos pdk
-/external/autotest pdk-fs
 /external/avb pdk
 /external/aws-crt-java tradefed pdk
 /external/aws-eventstream-java tradefed pdk
@@ -158,7 +158,6 @@
 /external/dynamic_depth pdk
 /external/e2fsprogs pdk
 /external/easymock pdk
-/external/edid-decode pdk
 /external/eigen pdk
 /external/elfutils pdk
 /external/emboss pdk
@@ -180,6 +179,7 @@
 /external/federated-compute pdk
 /external/fft2d pdk
 /external/fhir/spec/r4 pdk
+/external/fio pdk
 /external/firebase-messaging pdk
 /external/flac pdk
 /external/flashrom pdk
@@ -218,6 +218,7 @@
 /external/google-fonts/source-sans-pro pdk
 /external/google-fonts/zilla-slab pdk
 /external/google-fruit pdk
+/external/google-highway pdk
 /external/google-java-format pdk
 /external/google-smali pdk
 /external/googleapis tradefed pdk
@@ -232,6 +233,7 @@
 /external/guava pdk
 /external/guice pdk
 /external/gwp_asan pdk
+/external/hafnium pdk
 /external/hamcrest pdk
 /external/harfbuzz_ng pdk qcom_msm8x26
 /external/hplip pdk
@@ -242,7 +244,6 @@
 /external/igt-gpu-tools pdk
 /external/image_io pdk
 /external/ims pdk
-/external/intel-media-driver pdk
 /external/intel-pmt-metadata pdk
 /external/iperf3 pdk
 /external/iproute2 pdk
@@ -320,6 +321,7 @@
 /external/libgsm pdk
 /external/libhevc pdk
 /external/libjpeg-turbo pdk
+/external/libjxl pdk
 /external/libkmsxx pdk
 /external/liblc3 pdk
 /external/libldac pdk
@@ -422,8 +424,6 @@
 /external/ow2-asm pdk
 /external/owasp/java-encoder pdk
 /external/owasp/sanitizer pdk
-/external/pandora/avatar pdk
-/external/pandora/bt-test-interfaces pdk
 /external/pandora/mmi2grpc pdk
 /external/parameter-framework pdk
 /external/pciutils pdk
@@ -436,6 +436,7 @@
 /external/pigweed pdk
 /external/pixman pdk
 /external/ply pdk
+/external/pogreb pdk
 /external/private-join-and-compute pdk
 /external/protobuf pdk sysui-studio
 /external/pthreadpool pdk
@@ -459,6 +460,7 @@
 /external/python/mobly pdk
 /external/python/oauth2client vts pdk
 /external/python/parse_type vts pdk
+/external/python/pexpect pdk
 /external/python/portpicker pdk
 /external/python/ptyprocess pdk
 /external/python/pyasn1 vts pdk
@@ -489,6 +491,7 @@
 /external/robolectric pdk-fs pdk-cw-fs sysui-studio
 /external/roboto-flex-fonts pdk
 /external/roboto-fonts pdk
+/external/roboto-mono pdk
 /external/rootdev pdk
 /external/rust/android-crates-io pdk
 /external/rust/autocxx pdk
@@ -499,7 +502,9 @@
 /external/rust/crates/vhost-device-vsock pdk
 /external/rust/cros-libva pdk
 /external/rust/cxx pdk
+/external/rust/ninja-to-soong pdk
 /external/rust/pica pdk
+/external/rust/rutabaga_gfx pdk
 /external/ruy pdk
 /external/s2-geometry-library-java pdk
 /external/sandboxed-api pdk
@@ -519,6 +524,7 @@
 /external/skia pdk qcom_msm8x26
 /external/sl4a pdk
 /external/slf4j pdk
+/external/smack pdk
 /external/snakeyaml pdk
 /external/sonic pdk
 /external/sonivox pdk
@@ -637,7 +643,6 @@
 /hardware/nxp/keymint pdk
 /hardware/nxp/nfc pdk
 /hardware/nxp/secure_element pdk
-/hardware/nxp/uwb
 /hardware/nxp/weaver pdk
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
@@ -683,6 +688,7 @@
 /packages/apps/CellBroadcastReceiver pdk-fs pdk-cw-fs
 /packages/apps/CertInstaller pdk-fs pdk-cw-fs
 /packages/apps/Contacts pdk-fs
+/packages/apps/ContactsPicker pdk-fs
 /packages/apps/DeskClock pdk-fs
 /packages/apps/DevCamera pdk
 /packages/apps/DeviceDiagnostics pdk
@@ -789,6 +795,7 @@
 /packages/services/AlternativeNetworkAccess pdk-fs pdk-cw-fs
 /packages/services/BuiltInPrintService pdk-fs pdk-cw-fs
 /packages/services/Car pdk-fs pdk-cw-fs
+/packages/services/CrossDeviceSync pdk-fs pdk-cw-fs
 /packages/services/DeviceAsWebcam pdk-fs pdk-cw-fs
 /packages/services/Iwlan pdk-fs pdk-cw-fs
 /packages/services/Mms pdk-fs pdk-cw-fs
@@ -821,6 +828,7 @@
 /prebuilts/go/linux-x86 tradefed pdk linux
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs pdk
 /prebuilts/jdk/jdk21 pdk sysui-studio
+/prebuilts/jdk/jdk25 pdk sysui-studio
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/ktlint pdk sysui-studio
 /prebuilts/manifest-merger pdk
@@ -858,7 +866,6 @@
 /prebuilts/rust pdk
 /prebuilts/sdk pdk sysui-studio
 /prebuilts/tools pdk sysui-studio tools
-/prebuilts/vndk/v30 pdk
 /prebuilts/vndk/v31 pdk
 /prebuilts/vndk/v32 pdk
 /prebuilts/vndk/v33 pdk
@@ -891,6 +898,7 @@
 /system/libprocinfo pdk
 /system/librustutils pdk
 /system/libsysprop pdk
+/system/libueventd-rs pdk
 /system/libufdt pdk
 /system/liburingutils pdk
 /system/libvintf pdk
@@ -930,6 +938,7 @@
 /test/catbox pdk
 /test/cts-root
 /test/dittosuite pdk
+/test/graphics vendor pdk-desktop
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
 /test/mts
@@ -956,11 +965,13 @@
 /tools/doc_generation pdk tools
 /tools/external/fat32lib tools
 /tools/external_updater tools
+/tools/lint_checks pdk
 /tools/loganalysis tradefed pdk nopresubmit
 /tools/metalava pdk tools
 /tools/ndkports pdk
 /tools/netsim pdk
 /tools/repohooks cts tradefed developers pdk sysui-studio tools adt-infra motodev
+/tools/rootcanal pdk
 /tools/security pdk tools
 /tools/test/connectivity pdk
 /tools/test/mobly_extensions pdk
