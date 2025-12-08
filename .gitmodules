@@ -806,7 +806,7 @@
 	path = external/dlmalloc
 	url = ../external/dlmalloc
 [submodule "platform/external/dng_sdk"]
-	branch = android14-release
+	branch = android14-tests-dev
 	path = external/dng_sdk
 	url = ../external/dng_sdk
 [submodule "platform/external/dnsmasq"]
