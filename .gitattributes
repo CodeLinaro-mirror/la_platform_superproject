@@ -2,5 +2,6 @@
 /prebuilts/jdk/jdk21
 /prebuilts/sdk
 /prebuilts/tools
+/tools/external/gradle
 /tools/metalava
 /tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
