@@ -19,7 +19,7 @@
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/tools/external/gradle"]
-	branch = androidx-main
+	branch = metalava-main
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
