@@ -146,6 +146,14 @@
 	ref = android-games-sdk-game-activity-release
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/jdk/jdk17"]
+	ref = android-games-sdk-game-activity-release
+	path = prebuilts/jdk/jdk17
+	url = ../prebuilts/jdk/jdk17
+[submodule "platform/prebuilts/jdk/jdk21"]
+	ref = android-games-sdk-game-activity-release
+	path = prebuilts/jdk/jdk21
+	url = ../prebuilts/jdk/jdk21
 [submodule "platform/prebuilts/libprotobuf/darwin"]
 	ref = android-games-sdk-game-activity-release
 	path = prebuilts/libprotobuf/darwin
@@ -186,14 +194,6 @@
 	ref = android-games-sdk-game-activity-release
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk/r17"]
-	ref = android-games-sdk-game-activity-release
-	path = prebuilts/ndk/r17
-	url = ../../toolchain/prebuilts/ndk/r17
-[submodule "toolchain/prebuilts/ndk/r19"]
-	ref = android-games-sdk-game-activity-release
-	path = prebuilts/ndk/r19
-	url = ../../toolchain/prebuilts/ndk/r19
 [submodule "toolchain/prebuilts/ndk/r20"]
 	ref = android-games-sdk-game-activity-release
 	path = prebuilts/ndk/r20
@@ -206,3 +206,7 @@
 	ref = android-games-sdk-game-activity-release
 	path = prebuilts/ndk/r23
 	url = ../../toolchain/prebuilts/ndk/r23
+[submodule "toolchain/prebuilts/ndk/r27"]
+	ref = android-games-sdk-game-activity-release
+	path = prebuilts/ndk/r27
+	url = ../../toolchain/prebuilts/ndk/r27

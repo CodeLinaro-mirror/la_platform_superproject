@@ -35,6 +35,8 @@
 /prebuilts/sdk/platforms/android-29
 /prebuilts/sdk/platforms/android-31
 /prebuilts/jdk/jdk11
+/prebuilts/jdk/jdk17
+/prebuilts/jdk/jdk21
 /prebuilts/libprotobuf/darwin
 /prebuilts/libprotobuf/linux
 /prebuilts/libprotobuf/windows
@@ -45,8 +47,7 @@
 /prebuilts/python/linux-x86
 /prebuilts/python/windows-x86
 /tools/repohooks
-/prebuilts/ndk/r17
-/prebuilts/ndk/r19
 /prebuilts/ndk/r20
 /prebuilts/ndk/r21
 /prebuilts/ndk/r23
+/prebuilts/ndk/r27
