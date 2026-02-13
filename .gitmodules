@@ -86,6 +86,10 @@
 	ref = androidx-wear-tiles-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/webgpu"]
+	ref = androidx-wear-tiles-release
+	path = prebuilts/androidx/webgpu
+	url = ../prebuilts/androidx/webgpu
 [submodule "platform/prebuilts/androidx/xr"]
 	ref = androidx-wear-tiles-release
 	path = prebuilts/androidx/xr
@@ -146,14 +150,14 @@
 	ref = androidx-wear-tiles-release
 	path = prebuilts/fullsdk-darwin/sources
 	url = ../prebuilts/fullsdk/sources
-[submodule "platform/prebuilts/jdk/jdk17"]
-	ref = androidx-wear-tiles-release
-	path = prebuilts/jdk/jdk17
-	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	ref = androidx-wear-tiles-release
 	path = prebuilts/jdk/jdk21
 	url = ../prebuilts/jdk/jdk21
+[submodule "platform/prebuilts/jdk/jdk25"]
+	ref = androidx-wear-tiles-release
+	path = prebuilts/jdk/jdk25
+	url = ../prebuilts/jdk/jdk25
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	ref = androidx-wear-tiles-release
 	path = prebuilts/fullsdk-darwin/ninja
