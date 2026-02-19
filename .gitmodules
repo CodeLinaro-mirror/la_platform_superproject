@@ -58,6 +58,10 @@
 	ref = androidx-activity-release
 	path = prebuilts/androidx/chrome-for-testing
 	url = ../prebuilts/androidx/chrome-for-testing
+[submodule "platform/prebuilts/androidx/credentials"]
+	ref = androidx-activity-release
+	path = prebuilts/androidx/credentials
+	url = ../prebuilts/androidx/credentials
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	ref = androidx-activity-release
 	path = prebuilts/androidx/exoplayer
@@ -150,14 +154,14 @@
 	ref = androidx-activity-release
 	path = prebuilts/fullsdk-darwin/sources
 	url = ../prebuilts/fullsdk/sources
-[submodule "platform/prebuilts/jdk/jdk17"]
-	ref = androidx-activity-release
-	path = prebuilts/jdk/jdk17
-	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	ref = androidx-activity-release
 	path = prebuilts/jdk/jdk21
 	url = ../prebuilts/jdk/jdk21
+[submodule "platform/prebuilts/jdk/jdk25"]
+	ref = androidx-activity-release
+	path = prebuilts/jdk/jdk25
+	url = ../prebuilts/jdk/jdk25
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	ref = androidx-activity-release
 	path = prebuilts/fullsdk-darwin/ninja
