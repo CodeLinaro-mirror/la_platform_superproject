@@ -58,6 +58,10 @@
 	ref = androidx-wear-tiles-release
 	path = prebuilts/androidx/chrome-for-testing
 	url = ../prebuilts/androidx/chrome-for-testing
+[submodule "platform/prebuilts/androidx/credentials"]
+	ref = androidx-wear-tiles-release
+	path = prebuilts/androidx/credentials
+	url = ../prebuilts/androidx/credentials
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	ref = androidx-wear-tiles-release
 	path = prebuilts/androidx/exoplayer
