@@ -8,6 +8,11 @@
 	shallow = true
 	path = prebuilts/jdk/jdk21
 	url = ../prebuilts/jdk/jdk21
+[submodule "platform/prebuilts/metalava"]
+	branch = metalava-main
+	shallow = true
+	path = prebuilts/metalava
+	url = ../prebuilts/metalava
 [submodule "platform/prebuilts/sdk"]
 	branch = main
 	shallow = true
