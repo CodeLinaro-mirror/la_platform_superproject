@@ -1,5 +1,6 @@
 /prebuilts/androidx/external
 /prebuilts/androidx/internal
+/prebuilts/dokka-devsite-plugin
 /prebuilts/jdk/jdk21 pdk
 /tools/dokka-devsite-plugin
 /tools/external/gradle tools
