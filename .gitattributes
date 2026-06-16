@@ -16,6 +16,8 @@
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
 /device/google/cuttlefish_vmm pdk device
+/device/google/sdv pdk swcar
+/device/google/sdv_display_safety pdk swcar
 /device/google/trout pdk device
 /device/google_car pdk
 /device/linaro/dragonboard dragonboard pdk device
@@ -28,6 +30,8 @@
 /kernel/prebuilts/6.1/x86_64 pdk
 /kernel/prebuilts/6.12/arm64 pdk
 /kernel/prebuilts/6.12/x86_64 pdk
+/kernel/prebuilts/6.18/arm64 pdk
+/kernel/prebuilts/6.18/x86_64 pdk
 /kernel/prebuilts/6.6/arm64 pdk
 /kernel/prebuilts/6.6/x86_64 pdk
 /kernel/prebuilts/common-modules/trusty/6.12/arm64 pdk
@@ -36,6 +40,8 @@
 /kernel/prebuilts/common-modules/virtual-device/6.1/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.12/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.12/x86-64 pdk
+/kernel/prebuilts/common-modules/virtual-device/6.18/arm64 pdk
+/kernel/prebuilts/common-modules/virtual-device/6.18/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.6/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.6/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/mainline/arm64 pdk
@@ -45,7 +51,7 @@
 /kernel/tests vts pdk
 /art pdk
 /bionic pdk
-/bootable/deprecated-ota pdk-cw
+/bootable/deprecated-ota pdk-arsp-common pdk-arsp-ag-sot pdk-cw
 /bootable/libbootloader vts pdk
 /bootable/recovery pdk
 /build/make pdk sysui-studio
@@ -59,7 +65,7 @@
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers sysui-studio
 /external/AFLplusplus pdk
-/external/ComputeLibrary pdk-gs-arm pdk-lassen
+/external/ComputeLibrary pdk-arsp-common pdk-arsp-ag-sot pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
 /external/Little-CMS pdk
@@ -78,11 +84,14 @@
 /external/abseil-cpp pdk
 /external/accessibility-test-framework pdk
 /external/accompanist pdk
+/external/acpica pdk
+/external/android-browser-helper pdk
 /external/android-key-attestation pdk
-/external/android-nn-driver pdk-gs-arm pdk-lassen
+/external/android-nn-driver pdk-arsp-common pdk-arsp-ag-sot pdk-lassen
 /external/android_onboarding pdk-fs
 /external/androidplot pdk
 /external/angle pdk
+/external/animal-sniffer pdk
 /external/anonymous-counting-tokens pdk
 /external/antlr pdk
 /external/apache-commons-bcel pdk
@@ -94,10 +103,10 @@
 /external/apache-http pdk
 /external/apache-velocity-engine pdk
 /external/apache-xml pdk
-/external/arm-neon-tests vendor
+/external/arm-neon-tests pdk-arsp-common vendor pdk-arsp-ag-sot
 /external/arm-optimized-routines pdk
 /external/arm-trusted-firmware pdk
-/external/armnn pdk-gs-arm pdk-lassen
+/external/armnn pdk-arsp-common pdk-arsp-ag-sot pdk-lassen
 /external/auto pdk
 /external/automotive-design-compose-protos pdk
 /external/avb pdk
@@ -167,13 +176,12 @@
 /external/error_prone pdk
 /external/escapevelocity pdk
 /external/ethtool pdk
-/external/executorch pdk
 /external/exfatprogs pdk
 /external/exoplayer pdk
 /external/expat pdk
 /external/f2fs-tools pdk
+/external/failsafe pdk
 /external/fastrpc pdk
-/external/fbjni pdk
 /external/fdlibm pdk
 /external/fec pdk
 /external/federated-compute pdk
@@ -256,16 +264,20 @@
 /external/jacoco pdk
 /external/jakarta.inject pdk
 /external/jarjar pdk
+/external/java-diff-utils pdk
 /external/javaparser pdk
 /external/javapoet pdk
 /external/javasqlite pdk
 /external/javassist pdk
 /external/jazzer-api pdk
 /external/jcommander pdk
+/external/jctools pdk
 /external/jemalloc_new pdk
 /external/jetpack-camera-app pdk
 /external/jimfs pdk
+/external/jipp pdk
 /external/jline pdk-fs tradefed pdk
+/external/jmustache pdk
 /external/jsilver pdk
 /external/jsmn pdk
 /external/json-schema-validator pdk
@@ -278,6 +290,7 @@
 /external/junit-params pdk
 /external/jxmpp pdk
 /external/kernel-headers pdk
+/external/keyattestation pdk
 /external/kmod pdk
 /external/kotlin-compose-compiler pdk
 /external/kotlin.metadata pdk
@@ -292,11 +305,21 @@
 /external/ktfmt pdk sysui-studio
 /external/leakcanary2 pdk
 /external/leveldb pdk
+/external/lfi/disarm pdk
+/external/lfi/fadec pdk
+/external/lfi/lfi-bind pdk
+/external/lfi/lfi-runtime pdk
+/external/lfi/lfi-verifier pdk
+/external/lfi/rlbox pdk
+/external/lfi/rlbox-lfi pdk
 /external/libaom pdk
 /external/libavc pdk
 /external/libbackup pdk
 /external/libbpf pdk
 /external/libbrillo pdk
+/external/libburnia/libburn pdk
+/external/libburnia/libisoburn pdk
+/external/libburnia/libisofs pdk
 /external/libcamera pdk
 /external/libcap pdk
 /external/libcap-ng pdk
@@ -311,7 +334,6 @@
 /external/libdisplay-info pdk
 /external/libdivsufsort pdk
 /external/libdrm pdk
-/external/libepoxy pdk
 /external/libese pdk
 /external/libevent pdk
 /external/libexif pdk
@@ -325,6 +347,7 @@
 /external/libkmsxx pdk
 /external/liblc3 pdk
 /external/libldac pdk
+/external/libmnl pdk
 /external/libmonet pdk sysui-studio
 /external/libmpeg2 pdk
 /external/libnetfilter_conntrack pdk
@@ -419,6 +442,7 @@
 /external/openscreen pdk
 /external/openthread pdk
 /external/openwrt-prebuilts pdk
+/external/openxr-sdk pdk
 /external/opus-experimental pdk
 /external/ot-br-posix pdk
 /external/ow2-asm pdk
@@ -427,6 +451,7 @@
 /external/pandora/mmi2grpc pdk
 /external/parameter-framework pdk
 /external/pciutils pdk
+/external/pcollections pdk
 /external/pcre pdk
 /external/pdfium pdk
 /external/perfetto pdk sysui-studio
@@ -450,6 +475,7 @@
 /external/python/cpython3 pdk
 /external/python/dateutil pdk
 /external/python/enum34 vts pdk
+/external/python/fdt vts pdk
 /external/python/google-api-python-client vts pdk
 /external/python/google-auth-library-python pdk
 /external/python/httplib2 vts pdk
@@ -479,7 +505,6 @@
 /external/python/typing_extensions pdk
 /external/python/uritemplates vts pdk
 /external/python/watchdog pdk
-/external/pytorch pdk
 /external/qdl pdk
 /external/qpdf pdk
 /external/rappor pdk
@@ -551,7 +576,7 @@
 /external/tinyalsa_new pdk
 /external/tinycompress pdk
 /external/tinyxml2 pdk
-/external/toolchain-utils
+/external/toolchain-utils pdk-arsp-common pdk-arsp-ag-sot
 /external/toybox pdk
 /external/tpm2-tss pdk
 /external/trace-cmd pdk
@@ -565,9 +590,9 @@
 /external/v4l-utils pdk
 /external/v4l2_codec2 pdk
 /external/vboot_reference pdk
-/external/virglrenderer pdk
 /external/virtio-media pdk
 /external/vixl pdk
+/external/vkoverhead pdk
 /external/vogar pdk
 /external/volley pdk
 /external/vulkan-headers pdk
@@ -577,6 +602,7 @@
 /external/wayland-protocols pdk
 /external/webp pdk qcom_msm8x26
 /external/webrtc pdk
+/external/wireless-regdb pdk
 /external/wmediumd pdk
 /external/wpa_supplicant_8 pdk
 /external/wuffs-mirror-release-c pdk qcom_msm8x26
@@ -606,14 +632,14 @@
 /frameworks/libs/systemui pdk-fs pdk-cw-fs sysui-studio
 /frameworks/minikin pdk-fs pdk-cw-fs
 /frameworks/multidex pdk-fs pdk-cw-fs
-/frameworks/native pdk
+/frameworks/native pdk sysui-studio
 /frameworks/opt/bitmap pdk-fs
 /frameworks/opt/calendar pdk-fs pdk-cw-fs
 /frameworks/opt/car/services pdk-fs pdk-cw-fs
 /frameworks/opt/car/setupwizard pdk
 /frameworks/opt/chips pdk-fs pdk-cw-fs
 /frameworks/opt/colorpicker pdk-fs pdk-cw-fs
-/frameworks/opt/localepicker
+/frameworks/opt/localepicker pdk-arsp-common pdk-arsp-ag-sot
 /frameworks/opt/net/ims pdk-fs pdk-cw-fs frameworks_ims
 /frameworks/opt/net/voip pdk-fs pdk-cw-fs
 /frameworks/opt/net/wifi pdk sysui-studio
@@ -628,31 +654,32 @@
 /frameworks/wilhelm pdk-fs pdk-cw-fs
 /hardware/broadcom/libbt pdk
 /hardware/broadcom/wlan broadcom_wlan pdk
-/hardware/google/aemu pdk
 /hardware/google/apf pdk
 /hardware/google/av pdk
 /hardware/google/camera pdk
 /hardware/google/gfxstream pdk
 /hardware/google/interfaces pdk sysui-studio
-/hardware/google/pixel pdk-gs-arm generic_fs pdk-gs-imgtec pdk-desktop pixel
-/hardware/google/pixel-sepolicy generic_fs pdk-desktop pixel
 /hardware/interfaces pdk sysui-studio
 /hardware/invensense invensense pdk
 /hardware/libhardware pdk
 /hardware/libhardware_legacy pdk
 /hardware/nxp/keymint pdk
 /hardware/nxp/nfc pdk
+/hardware/nxp/nxp_mcu_loader pdk
 /hardware/nxp/secure_element pdk
+/hardware/nxp/uwb pdk-arsp-common pdk-arsp-ag-sot
 /hardware/nxp/weaver pdk
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
 /hardware/samsung/nfc pdk
+/hardware/sdv/interfaces pdk swcar
 /hardware/st/nfc pdk
 /hardware/st/secure_element pdk
 /hardware/st/secure_element2 pdk
 /hardware/synaptics/wlan pdk
+/hardware/telink/atv/refDesignRcu pdk
 /hardware/ti/am57x pdk
-/libcore pdk
+/libcore pdk sysui-studio
 /libnativehelper pdk
 /packages/apps/AvatarPicker pdk-fs
 /packages/apps/BasicSmsReceiver pdk-fs pdk-cw-fs
@@ -682,6 +709,7 @@
 /packages/apps/Car/SystemUI pdk-fs pdk-cw-tvc
 /packages/apps/Car/SystemUpdater pdk-fs
 /packages/apps/Car/Templates pdk-fs
+/packages/apps/Car/TemplatesPrebuilt pdk-fs
 /packages/apps/Car/VoiceControl pdk-fs
 /packages/apps/Car/systemlibs pdk-fs pdk-cw-tvc
 /packages/apps/CarrierConfig pdk-fs pdk-cw-fs
@@ -703,12 +731,14 @@
 /packages/apps/KeyChain pdk-fs
 /packages/apps/Launcher3 pdk-fs sysui-studio pdk-cw-tvc
 /packages/apps/LegacyCamera pdk-fs
+/packages/apps/Login pdk-fs
 /packages/apps/ManagedProvisioning pdk-fs
 /packages/apps/Messaging pdk-fs
 /packages/apps/Multiuser pdk-fs
 /packages/apps/Music pdk-fs
 /packages/apps/MusicFX pdk-fs
 /packages/apps/OnDeviceAppPrediction pdk-fs
+/packages/apps/PersonalContext pdk-fs sysui-studio
 /packages/apps/PhoneCommon pdk-fs pdk-cw-fs
 /packages/apps/PrivateSpace pdk-fs
 /packages/apps/Protips pdk-fs
@@ -733,6 +763,7 @@
 /packages/apps/TvSettings pdk-fs pdk-cw-tvc
 /packages/apps/TvSystemUI pdk-fs
 /packages/apps/UniversalMediaPlayer
+/packages/apps/VirtualGamepad pdk-fs
 /packages/apps/WallpaperPicker2 pdk-fs sysui-studio
 /packages/inputmethods/LatinIME pdk-fs
 /packages/inputmethods/LeanbackIME pdk-fs
@@ -748,17 +779,20 @@
 /packages/modules/DeviceLock pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
+/packages/modules/GenericBootstrappingArchitecture pdk
 /packages/modules/GeoTZ pdk-fs pdk-cw-fs
 /packages/modules/Gki pdk-fs pdk-cw-fs
 /packages/modules/HealthFitness pdk-fs pdk-cw-fs
 /packages/modules/IPsec pdk
 /packages/modules/ImsMedia pdk
+/packages/modules/ImsStack pdk
 /packages/modules/IntentResolver pdk sysui-studio
 /packages/modules/Media pdk
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/Nfc pdk-fs pdk-cw-fs
+/packages/modules/NpuManager pdk-fs pdk-cw-fs
 /packages/modules/OnDevicePersonalization pdk-fs pdk-cw-fs
 /packages/modules/Permission pdk-fs pdk-cw-fs
 /packages/modules/Profiling pdk
@@ -773,6 +807,8 @@
 /packages/modules/UprobeStats pdk-fs pdk-cw-fs
 /packages/modules/Uwb pdk-fs pdk-cw-fs
 /packages/modules/Virtualization pdk
+/packages/modules/WebApp pdk-fs pdk-cw-tvc
+/packages/modules/WebViewBootstrap pdk
 /packages/modules/Wifi pdk-fs pdk-cw-fs sysui-studio
 /packages/modules/adb pdk
 /packages/modules/common pdk-fs pdk-cw-fs
@@ -785,7 +821,7 @@
 /packages/providers/ContactsKeysProvider pdk-fs pdk-cw-fs
 /packages/providers/ContactsProvider pdk-fs pdk-cw-fs
 /packages/providers/DownloadProvider pdk-fs pdk-cw-fs
-/packages/providers/MediaProvider pdk-fs pdk-cw-fs
+/packages/providers/MediaProvider pdk-fs pdk-cw-fs sysui-studio
 /packages/providers/PartnerBookmarksProvider pdk-fs
 /packages/providers/TelephonyProvider pdk-fs pdk-cw-fs
 /packages/providers/TvProvider pdk-fs
@@ -797,12 +833,14 @@
 /packages/services/Car pdk-fs pdk-cw-fs
 /packages/services/CrossDeviceSync pdk-fs pdk-cw-fs
 /packages/services/DeviceAsWebcam pdk-fs pdk-cw-fs
+/packages/services/DroidfoodAttestationFixer pdk-fs pdk-cw-fs
 /packages/services/Iwlan pdk-fs pdk-cw-fs
 /packages/services/Mms pdk-fs pdk-cw-fs
 /packages/services/Mtp pdk-fs pdk-cw-fs
 /packages/services/QualifiedNetworksService pdk-fs pdk-cw-fs
 /packages/services/Telecomm pdk-fs pdk-cw-fs
 /packages/services/Telephony pdk-fs pdk-cw-fs
+/packages/services/display_safety pdk swcar
 /packages/wallpapers/LivePicker pdk-fs
 /pdk pdk
 /platform_testing pdk-fs cts pdk-cw-fs sysui-studio
@@ -816,6 +854,7 @@
 /prebuilts/bundletool pdk
 /prebuilts/checkcolor pdk sysui-studio
 /prebuilts/checkstyle pdk sysui-studio
+/prebuilts/cipd pdk sysui-studio
 /prebuilts/clang-tools pdk
 /prebuilts/clang/host/darwin-x86 pdk darwin sysui-studio notdefault platform-darwin
 /prebuilts/clang/host/linux-x86 pdk sysui-studio
@@ -834,43 +873,52 @@
 /prebuilts/manifest-merger pdk
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
 /prebuilts/misc pdk sysui-studio
-/prebuilts/module_sdk/AdServices pdk
-/prebuilts/module_sdk/AppSearch pdk
-/prebuilts/module_sdk/Bluetooth pdk
-/prebuilts/module_sdk/ConfigInfrastructure pdk
-/prebuilts/module_sdk/Connectivity pdk
-/prebuilts/module_sdk/CrashRecovery pdk
-/prebuilts/module_sdk/DeviceLock pdk
-/prebuilts/module_sdk/HealthFitness pdk
-/prebuilts/module_sdk/IPsec pdk
-/prebuilts/module_sdk/Media pdk
-/prebuilts/module_sdk/MediaProvider pdk
-/prebuilts/module_sdk/Nfc pdk
-/prebuilts/module_sdk/OnDevicePersonalization pdk
-/prebuilts/module_sdk/Permission pdk
-/prebuilts/module_sdk/Profiling pdk
-/prebuilts/module_sdk/RemoteKeyProvisioning pdk
-/prebuilts/module_sdk/Scheduling pdk
-/prebuilts/module_sdk/SdkExtensions pdk
-/prebuilts/module_sdk/StatsD pdk
-/prebuilts/module_sdk/Telephony pdk
-/prebuilts/module_sdk/Uwb pdk
-/prebuilts/module_sdk/Wifi pdk
-/prebuilts/module_sdk/art pdk
-/prebuilts/module_sdk/conscrypt pdk
+/prebuilts/module_sdk/AdServices pdk-arsp-common pdk-arsp-ag-sot
+/prebuilts/module_sdk/AppSearch pdk-arsp-common pdk-arsp-ag-sot
+/prebuilts/module_sdk/Bluetooth
+/prebuilts/module_sdk/ConfigInfrastructure
+/prebuilts/module_sdk/Connectivity
+/prebuilts/module_sdk/CrashRecovery
+/prebuilts/module_sdk/DeviceLock pdk-arsp-common pdk-arsp-ag-sot
+/prebuilts/module_sdk/HealthFitness
+/prebuilts/module_sdk/IPsec
+/prebuilts/module_sdk/Media
+/prebuilts/module_sdk/MediaProvider
+/prebuilts/module_sdk/Nfc
+/prebuilts/module_sdk/NpuManager
+/prebuilts/module_sdk/OnDevicePersonalization
+/prebuilts/module_sdk/Permission pdk-arsp-common pdk-arsp-ag-sot
+/prebuilts/module_sdk/Profiling
+/prebuilts/module_sdk/RemoteKeyProvisioning
+/prebuilts/module_sdk/Scheduling
+/prebuilts/module_sdk/SdkExtensions
+/prebuilts/module_sdk/StatsD
+/prebuilts/module_sdk/Telephony
+/prebuilts/module_sdk/UprobeStats
+/prebuilts/module_sdk/Uwb
+/prebuilts/module_sdk/WebApp
+/prebuilts/module_sdk/WebViewBootstrap
+/prebuilts/module_sdk/Wifi
+/prebuilts/module_sdk/art pdk-arsp-common pdk-arsp-ag-sot
+/prebuilts/module_sdk/conscrypt pdk-arsp-common pdk-arsp-ag-sot
 /prebuilts/ndk pdk
 /prebuilts/qemu-kernel pdk
 /prebuilts/r8 pdk sysui-studio
 /prebuilts/remoteexecution-client pdk
 /prebuilts/runtime pdk
 /prebuilts/rust pdk
+/prebuilts/rust-toolchain/darwin darwin pdk notdefault platform-darwin
+/prebuilts/rust-toolchain/linux-musl-x86 pdk
+/prebuilts/rust-toolchain/linux-x86 pdk
 /prebuilts/sdk pdk sysui-studio
+/prebuilts/siso pdk
 /prebuilts/tools pdk sysui-studio tools
 /prebuilts/vndk/v31 pdk
 /prebuilts/vndk/v32 pdk
 /prebuilts/vndk/v33 pdk
 /prebuilts/vndk/v34 pdk
 /sdk pdk-fs pdk-cw-fs
+/system/acpi/bert_collector pdk
 /system/apex pdk
 /system/authgraph pdk
 /system/bpf pdk
@@ -879,9 +927,10 @@
 /system/chre pdk
 /system/connectivity/wificond pdk
 /system/core pdk
-/system/cros-codecs pdk
 /system/dmesgd pdk
 /system/extras pdk
+/system/fs/casefolding_remover pdk
+/system/fs/fs_mgr pdk
 /system/gatekeeper pdk
 /system/gsid pdk
 /system/hardware/interfaces pdk sysui-studio
@@ -889,6 +938,7 @@
 /system/incremental_delivery pdk
 /system/keymaster pdk
 /system/keymint pdk
+/system/lfi pdk
 /system/libartpalette pdk
 /system/libbase pdk
 /system/libcppbor pdk
@@ -897,6 +947,7 @@
 /system/libhwbinder pdk
 /system/libprocinfo pdk
 /system/librustutils pdk
+/system/libskuconfig pdk
 /system/libsysprop pdk
 /system/libueventd-rs pdk
 /system/libufdt pdk
@@ -906,11 +957,14 @@
 /system/linkerconfig pdk
 /system/logging pdk
 /system/media pdk
+/system/memory/amemdiff pdk
+/system/memory/guardian pdk
 /system/memory/libdmabufheap pdk
 /system/memory/libion pdk
 /system/memory/libmeminfo pdk
 /system/memory/libmemtrack pdk
 /system/memory/libmemunreachable pdk
+/system/memory/libwrapfd pdk
 /system/memory/lmkd pdk
 /system/memory/mmd pdk
 /system/netd pdk
@@ -921,6 +975,22 @@
 /system/see/authmgr pdk
 /system/sepolicy pdk
 /system/server_configurable_flags pdk
+/system/software_defined_vehicle/automotive_services pdk swcar
+/system/software_defined_vehicle/common pdk swcar
+/system/software_defined_vehicle/health_monitor pdk swcar
+/system/software_defined_vehicle/lifecycle_management pdk swcar
+/system/software_defined_vehicle/middleware pdk swcar
+/system/software_defined_vehicle/orchestration pdk swcar
+/system/software_defined_vehicle/platform pdk swcar
+/system/software_defined_vehicle/samples pdk swcar
+/system/software_defined_vehicle/sdv_gateway pdk swcar
+/system/software_defined_vehicle/service_bundles_registry pdk swcar
+/system/software_defined_vehicle/some_ip pdk swcar
+/system/software_defined_vehicle/telemetry pdk swcar
+/system/software_defined_vehicle/tools pdk swcar
+/system/software_defined_vehicle/update_manager pdk swcar
+/system/software_defined_vehicle/vpm pdk swcar
+/system/software_defined_vehicle/vsidl pdk swcar
 /system/teeui pdk
 /system/testing/gtest_extras pdk
 /system/timezone pdk
@@ -931,17 +1001,17 @@
 /system/tools/xsdc pdk
 /system/unwinding pdk
 /system/update_engine pdk
+/system/usb pdk
 /system/usb_info_tools pdk
 /system/vold pdk
+/system/weaver pdk
 /system/zygote pdk
 /test/app_compat/csuite pdk
 /test/catbox pdk
-/test/cts-root
+/test/cts-root pdk-arsp-common pdk-arsp-ag-sot
 /test/dittosuite pdk
-/test/graphics vendor pdk-desktop
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
-/test/mts
 /test/robolectric-extensions pdk-fs pdk-cw-fs sysui-studio
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /test/vts vts pdk
@@ -967,13 +1037,17 @@
 /tools/external_updater tools
 /tools/lint_checks pdk
 /tools/loganalysis tradefed pdk nopresubmit
+/tools/mainline tools
 /tools/metalava pdk tools
 /tools/ndkports pdk
 /tools/netsim pdk
 /tools/repohooks cts tradefed developers pdk sysui-studio tools adt-infra motodev
 /tools/rootcanal pdk
+/tools/rr_prebuilt pdk
 /tools/security pdk tools
+/tools/strictdeps pdk
 /tools/test/connectivity pdk
+/tools/test/desktop/mobly pdk
 /tools/test/mobly_extensions pdk
 /tools/test/mobly_snippets pdk
 /tools/test/openhst tools
