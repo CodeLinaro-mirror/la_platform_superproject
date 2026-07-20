@@ -1,0 +1,51 @@
+/tools/assets
+/build/bazel
+/external/doclava
+/external/dokka pdk
+/external/freetype
+/external/gflags
+/tools/vendor/ggml-org/llama.cpp
+/external/googletest
+/external/gradle-profiler
+/external/intellij-plugins
+/external/jarjar
+/external/jetbrains/kotlin
+/external/libpng
+/tools/vendor/modelcontextprotocol/kotlin-sdk
+/external/nanopb-c
+/external/python/absl-py
+/tools/vendor/redhat-developer/lsp4ij
+/external/skia
+/tools/data-binding
+/frameworks/layoutlib notdefault layoutlib
+/prebuilts/android-emulator
+/prebuilts/clang/host/darwin-x86 notdefault platform-darwin
+/prebuilts/clang/host/linux-x86 platform-linux notdefault
+/prebuilts/clang/host/windows-x86 notdefault platform-windows
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 platform-linux notdefault
+/prebuilts/python/darwin-x86
+/prebuilts/python/linux-x86
+/prebuilts/python/windows-x86
+/prebuilts/r8
+/prebuilts/studio/jdk
+/prebuilts/studio/layoutlib
+/prebuilts/studio/skiaparser
+/prebuilts/tools
+/external/android/system/logging
+/tools/adt/idea
+/tools/analytics-library
+/tools/apksig
+/tools/apkzlib
+/tools/base
+/tools/buildSrc
+/external/dexter
+/tools/emulator
+/tools/external/bazelbuild-rules-kotlin
+/tools/external/fat32lib
+/tools/external/gradle
+/tools/gpu-profiler/idea
+/tools/gradle
+/tools/gradle-recipes
+/tools/idea
+/tools/repohooks
+/tools/studio/google/cloud/testing
