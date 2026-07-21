@@ -1,0 +1,35 @@
+/external/libyuv
+/external/ukey2 pdk
+/frameworks/opt/car/setupwizard pdk
+/packages/apps/Car/BugReport pdk-fs
+/packages/apps/Car/Calendar pdk-fs
+/packages/apps/Car/CompanionDeviceSupport pdk-fs
+/packages/apps/Car/Dashcam pdk-fs
+/packages/apps/Car/Dialer pdk-fs
+/packages/apps/Car/DriverUI pdk-fs
+/packages/apps/Car/Media pdk-fs
+/packages/apps/Car/Messenger pdk-fs
+/packages/apps/Car/MultiDisplay pdk-fs
+/packages/apps/Car/Radio pdk-fs
+/packages/apps/Car/SensitiveAppLock pdk-fs
+/packages/apps/Car/Templates pdk-fs
+/packages/apps/Car/libs pdk-fs
+/packages/apps/Car/tests pdk-fs
+/prebuilts/checkstyle pdk
+/prebuilts/cmake/darwin-x86 pdk car-apps-gradle
+/prebuilts/cmake/linux-x86 pdk car-apps-gradle
+/prebuilts/fullsdk-darwin/build-tools notdefault car-apps-gradle platform-darwin
+/prebuilts/fullsdk-darwin/platform-tools notdefault car-apps-gradle platform-darwin
+/prebuilts/fullsdk-linux/build-tools platform-linux notdefault car-apps-gradle
+/prebuilts/fullsdk-linux/platform-tools platform-linux notdefault car-apps-gradle
+/prebuilts/fullsdk-darwin/platforms car-apps-gradle
+/prebuilts/fullsdk-darwin/sources car-apps-gradle
+/prebuilts/jdk/jdk11 pdk
+/prebuilts/jdk/jdk17 pdk
+/prebuilts/jdk/jdk21 pdk car-apps-gradle
+/prebuilts/fullsdk-darwin/ninja car-apps-gradle
+/prebuilts/fullsdk-linux/ninja platform-linux notdefault car-apps-gradle
+/prebuilts/sdk pdk
+/tools/repohooks cts tradefed developers pdk tools adt-infra motodev
+/prebuilts/fullsdk-darwin/ndk-bundle car-apps-gradle
+/prebuilts/fullsdk-linux/ndk-bundle car-apps-gradle
