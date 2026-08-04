@@ -6,10 +6,14 @@
 	ref = androidx-navigation-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/compose-hero-benchmarks/poxedex-compose"]
+[submodule "platform/external/compose-hero-benchmarks/pokedex-compose"]
 	ref = androidx-navigation-release
-	path = external/compose-hero-benchmarks/poxedex-compose
-	url = ../external/compose-hero-benchmarks/poxedex-compose
+	path = external/compose-hero-benchmarks/pokedex-compose
+	url = ../external/compose-hero-benchmarks/pokedex-compose
+[submodule "platform/external/compose-hero-benchmarks/pokedex-views"]
+	ref = androidx-navigation-release
+	path = external/compose-hero-benchmarks/pokedex-views
+	url = ../external/compose-hero-benchmarks/pokedex-views
 [submodule "platform/external/icing"]
 	ref = androidx-navigation-release
 	path = external/icing
@@ -54,6 +58,10 @@
 	ref = androidx-navigation-release
 	path = prebuilts/androidx/chrome-for-testing
 	url = ../prebuilts/androidx/chrome-for-testing
+[submodule "platform/prebuilts/androidx/credentials"]
+	ref = androidx-navigation-release
+	path = prebuilts/androidx/credentials
+	url = ../prebuilts/androidx/credentials
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	ref = androidx-navigation-release
 	path = prebuilts/androidx/exoplayer
@@ -82,6 +90,10 @@
 	ref = androidx-navigation-release
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/webgpu"]
+	ref = androidx-navigation-release
+	path = prebuilts/androidx/webgpu
+	url = ../prebuilts/androidx/webgpu
 [submodule "platform/prebuilts/androidx/xr"]
 	ref = androidx-navigation-release
 	path = prebuilts/androidx/xr
@@ -142,14 +154,14 @@
 	ref = androidx-navigation-release
 	path = prebuilts/fullsdk-darwin/sources
 	url = ../prebuilts/fullsdk/sources
-[submodule "platform/prebuilts/jdk/jdk17"]
-	ref = androidx-navigation-release
-	path = prebuilts/jdk/jdk17
-	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	ref = androidx-navigation-release
 	path = prebuilts/jdk/jdk21
 	url = ../prebuilts/jdk/jdk21
+[submodule "platform/prebuilts/jdk/jdk25"]
+	ref = androidx-navigation-release
+	path = prebuilts/jdk/jdk25
+	url = ../prebuilts/jdk/jdk25
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	ref = androidx-navigation-release
 	path = prebuilts/fullsdk-darwin/ninja
