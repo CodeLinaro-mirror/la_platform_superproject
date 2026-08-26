@@ -6,14 +6,14 @@
 	ref = androidx-collection-release
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
+[submodule "platform/external/compose-hero-benchmarks/pokedex-compose"]
+	ref = androidx-collection-release
+	path = external/compose-hero-benchmarks/pokedex-compose
+	url = ../external/compose-hero-benchmarks/pokedex-compose
 [submodule "platform/external/compose-hero-benchmarks/pokedex-views"]
 	ref = androidx-collection-release
 	path = external/compose-hero-benchmarks/pokedex-views
 	url = ../external/compose-hero-benchmarks/pokedex-views
-[submodule "platform/external/compose-hero-benchmarks/poxedex-compose"]
-	ref = androidx-collection-release
-	path = external/compose-hero-benchmarks/poxedex-compose
-	url = ../external/compose-hero-benchmarks/poxedex-compose
 [submodule "platform/external/icing"]
 	ref = androidx-collection-release
 	path = external/icing
@@ -58,6 +58,10 @@
 	ref = androidx-collection-release
 	path = prebuilts/androidx/chrome-for-testing
 	url = ../prebuilts/androidx/chrome-for-testing
+[submodule "platform/prebuilts/androidx/credentials"]
+	ref = androidx-collection-release
+	path = prebuilts/androidx/credentials
+	url = ../prebuilts/androidx/credentials
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	ref = androidx-collection-release
 	path = prebuilts/androidx/exoplayer
