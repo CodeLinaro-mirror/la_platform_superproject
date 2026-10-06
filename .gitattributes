@@ -1,5 +1,5 @@
-/prebuilts/dokka-devsite-plugin
-/prebuilts/jdk/jdk21 pdk
-/tools/dokka-devsite-plugin
-/tools/external/gradle tools
-/tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
+/prebuilts/dokka-devsite-plugin remote-review=android
+/prebuilts/jdk/jdk21 pdk remote-review=android
+/tools/dokka-devsite-plugin remote-review=android
+/tools/external/gradle tools remote-review=android
+/tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev remote-review=android
