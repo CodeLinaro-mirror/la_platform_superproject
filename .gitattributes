@@ -1,7 +1,7 @@
-/prebuilts/jdk/jdk21
-/prebuilts/metalava
-/prebuilts/sdk
-/prebuilts/tools
-/tools/external/gradle
-/tools/metalava
-/tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
+/prebuilts/jdk/jdk21 remote-review=android
+/prebuilts/metalava remote-review=android
+/prebuilts/sdk remote-review=android
+/prebuilts/tools remote-review=android
+/tools/external/gradle remote-review=android
+/tools/metalava remote-review=android
+/tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev remote-review=android
