@@ -1,102 +1,136 @@
 [submodule "platform/build"]
+	ref = androidx-enterprise-release
 	path = build/make
 	url = ../build
 [submodule "platform/external/doclava"]
+	ref = androidx-enterprise-release
 	path = external/doclava
 	url = ../external/doclava
 [submodule "platform/external/dokka"]
+	ref = androidx-enterprise-release
 	path = external/dokka
 	url = ../external/dokka
 [submodule "platform/external/icing"]
+	ref = androidx-enterprise-release
 	path = external/icing
 	url = ../external/icing
 [submodule "platform/external/icu"]
+	ref = androidx-enterprise-release
 	path = external/icu
 	url = ../external/icu
 [submodule "platform/external/noto-fonts"]
+	ref = androidx-enterprise-release
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "platform/external/protobuf"]
+	ref = androidx-enterprise-release
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/webview_support_interfaces"]
+	ref = androidx-enterprise-release
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
 [submodule "platform/frameworks/support"]
+	ref = androidx-enterprise-release
 	path = frameworks/support
 	url = ../frameworks/support
 [submodule "platform/frameworks/support-golden"]
+	ref = androidx-enterprise-release
 	path = golden
 	url = ../frameworks/support-golden
 [submodule "platform/manifest"]
+	ref = androidx-enterprise-release
 	path = manifest
 	url = ../manifest
 [submodule "platform/prebuilts/androidx/exoplayer"]
+	ref = androidx-enterprise-release
 	path = prebuilts/androidx/exoplayer
 	url = ../prebuilts/androidx/exoplayer
 [submodule "platform/prebuilts/androidx/external"]
+	ref = androidx-enterprise-release
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
 [submodule "platform/prebuilts/androidx/internal"]
+	ref = androidx-enterprise-release
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
 [submodule "platform/prebuilts/checkstyle"]
+	ref = androidx-enterprise-release
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/cmake/darwin-x86"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-darwin/cmake
 	url = ../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-linux/cmake
 	url = ../prebuilts/cmake/linux-x86
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools/29.0.3"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-darwin/build-tools/29.0.3
 	url = ../prebuilts/fullsdk-darwin/build-tools/29.0.3
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools/30.0.2"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-darwin/build-tools/30.0.2
 	url = ../prebuilts/fullsdk-darwin/build-tools/30.0.2
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = ../prebuilts/fullsdk-darwin/platform-tools
 [submodule "platform/prebuilts/fullsdk-darwin/tools"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-darwin/tools
 	url = ../prebuilts/fullsdk-darwin/tools
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/29.0.3"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-linux/build-tools/29.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/29.0.3
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/30.0.2"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-linux/build-tools/30.0.2
 	url = ../prebuilts/fullsdk-linux/build-tools/30.0.2
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = ../prebuilts/fullsdk-linux/platform-tools
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
 [submodule "platform/prebuilts/fullsdk/platforms/android-30"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-darwin/platforms/android-30
 	url = ../prebuilts/fullsdk/platforms/android-30
 [submodule "platform/prebuilts/fullsdk/sources/android-30"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-darwin/sources/android-30
 	url = ../prebuilts/fullsdk/sources/android-30
 [submodule "platform/prebuilts/jdk/jdk11"]
+	ref = androidx-enterprise-release
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk8"]
+	ref = androidx-enterprise-release
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/protobuf"]
+	ref = androidx-enterprise-release
 	path = prebuilts/protobuf
 	url = ../prebuilts/protobuf
 [submodule "platform/tools/external/gradle"]
+	ref = androidx-enterprise-release
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/repohooks"]
+	ref = androidx-enterprise-release
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk-darwin/r21"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-darwin/ndk
 	url = ../../toolchain/prebuilts/ndk-darwin/r21
 [submodule "toolchain/prebuilts/ndk/r21"]
+	ref = androidx-enterprise-release
 	path = prebuilts/fullsdk-linux/ndk
 	url = ../../toolchain/prebuilts/ndk/r21
