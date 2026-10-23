@@ -8,11 +8,6 @@
 	shallow = true
 	path = prebuilts/metalava
 	url = ../prebuilts/metalava
-[submodule "platform/prebuilts/sdk"]
-	branch = main
-	shallow = true
-	path = prebuilts/sdk
-	url = ../prebuilts/sdk
 [submodule "platform/prebuilts/tools"]
 	branch = main
 	shallow = true

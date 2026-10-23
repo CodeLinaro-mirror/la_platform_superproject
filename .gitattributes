@@ -1,6 +1,5 @@
 /prebuilts/jdk/jdk21 remote-review=android
 /prebuilts/metalava remote-review=android
-/prebuilts/sdk remote-review=android
 /prebuilts/tools remote-review=android
 /tools/external/gradle remote-review=android
 /tools/metalava remote-review=android
