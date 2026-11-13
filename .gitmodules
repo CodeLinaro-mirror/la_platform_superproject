@@ -54,6 +54,10 @@
 	ref = androidx-xr-compose-pre-release
 	path = golden
 	url = ../frameworks/support-golden
+[submodule "platform/prebuilts/androidx/android-cli"]
+	ref = androidx-xr-compose-pre-release
+	path = prebuilts/androidx/android-cli
+	url = ../prebuilts/androidx/android-cli
 [submodule "platform/prebuilts/androidx/chrome-for-testing"]
 	ref = androidx-xr-compose-pre-release
 	path = prebuilts/androidx/chrome-for-testing
