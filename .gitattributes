@@ -1,5 +1,6 @@
 /external/turbine remote-review=android
 /prebuilts/jdk/jdk21 remote-review=android
+/prebuilts/jdk/jdk25 remote-review=android
 /prebuilts/metalava remote-review=android
 /prebuilts/tools remote-review=android
 /tools/external/gradle remote-review=android
