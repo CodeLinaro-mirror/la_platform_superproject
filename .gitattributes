@@ -1,7 +1,7 @@
 /build/make remote-review=android
 /external/abseil-cpp remote-review=android
+/external/compose-hero-benchmarks/pokedex-compose remote-review=android
 /external/compose-hero-benchmarks/pokedex-views remote-review=android
-/external/compose-hero-benchmarks/poxedex-compose remote-review=android
 /external/icing remote-review=android
 /external/icu remote-review=android
 /external/ink-stroke-modeler remote-review=android
@@ -12,7 +12,9 @@
 /external/webview_support_interfaces remote-review=android
 /frameworks/support remote-review=android
 /golden remote-review=android
+/prebuilts/androidx/android-cli remote-review=android
 /prebuilts/androidx/chrome-for-testing remote-review=android
+/prebuilts/androidx/credentials remote-review=android
 /prebuilts/androidx/exoplayer remote-review=android
 /prebuilts/androidx/external remote-review=android
 /prebuilts/androidx/ink remote-review=android
@@ -37,6 +39,7 @@
 /prebuilts/fullsdk-darwin/platforms remote-review=android
 /prebuilts/fullsdk-darwin/sources remote-review=android
 /prebuilts/jdk/jdk21 remote-review=android
+/prebuilts/jdk/jdk25 remote-review=android
 /prebuilts/fullsdk-darwin/ninja notdefault platform-darwin remote-review=android
 /prebuilts/fullsdk-linux/ninja platform-linux notdefault remote-review=android
 /prebuilts/protobuf remote-review=android
