@@ -54,10 +54,6 @@
 	ref = androidx-text-release
 	path = golden
 	url = ../frameworks/support-golden
-[submodule "platform/prebuilts/androidx/android-cli"]
-	ref = androidx-text-release
-	path = prebuilts/androidx/android-cli
-	url = ../prebuilts/androidx/android-cli
 [submodule "platform/prebuilts/androidx/chrome-for-testing"]
 	ref = androidx-text-release
 	path = prebuilts/androidx/chrome-for-testing
