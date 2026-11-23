@@ -12,6 +12,7 @@
 /external/webview_support_interfaces remote-review=android
 /frameworks/support remote-review=android
 /golden remote-review=android
+/prebuilts/androidx/android-cli remote-review=android
 /prebuilts/androidx/chrome-for-testing remote-review=android
 /prebuilts/androidx/credentials remote-review=android
 /prebuilts/androidx/exoplayer remote-review=android
@@ -46,6 +47,6 @@
 /tools/external/gradle remote-review=android
 /tools/metalava remote-review=android
 /tools/repohooks remote-review=android
-/prebuilts/fullsdk-darwin/ndk-bundle notdefault platform-darwin remote-review=android
-/prebuilts/fullsdk-linux/ndk-bundle platform-linux notdefault remote-review=android
+/prebuilts/fullsdk-darwin/ndk/30.0.16248370 notdefault platform-darwin remote-review=android
+/prebuilts/fullsdk-linux/ndk/30.0.16248370 platform-linux notdefault remote-review=android
 /tools/fetch_artifact remote-review=android

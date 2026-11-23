@@ -54,6 +54,10 @@
 	ref = androidx-core-release
 	path = golden
 	url = ../frameworks/support-golden
+[submodule "platform/prebuilts/androidx/android-cli"]
+	ref = androidx-core-release
+	path = prebuilts/androidx/android-cli
+	url = ../prebuilts/androidx/android-cli
 [submodule "platform/prebuilts/androidx/chrome-for-testing"]
 	ref = androidx-core-release
 	path = prebuilts/androidx/chrome-for-testing
@@ -190,14 +194,14 @@
 	ref = androidx-core-release
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r27"]
+[submodule "toolchain/prebuilts/ndk-darwin/r30"]
 	ref = androidx-core-release
-	path = prebuilts/fullsdk-darwin/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk-darwin/r27
-[submodule "toolchain/prebuilts/ndk/r27"]
+	path = prebuilts/fullsdk-darwin/ndk/30.0.16248370
+	url = ../../toolchain/prebuilts/ndk-darwin/r30
+[submodule "toolchain/prebuilts/ndk/r30"]
 	ref = androidx-core-release
-	path = prebuilts/fullsdk-linux/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk/r27
+	path = prebuilts/fullsdk-linux/ndk/30.0.16248370
+	url = ../../toolchain/prebuilts/ndk/r30
 [submodule "tools/fetch_artifact"]
 	ref = androidx-core-release
 	path = tools/fetch_artifact
